@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- ORCS DUROTAR | GARROSH -->
+		<Row Tag="LOC_CIVILIZATION_ORCS_DUROTAR_NAME" Language="en_US">
+			<Text>Orcs of Durotar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ORCS_DUROTAR_DESCRIPTION" Language="en_US">
+			<Text>Orcs of Durotar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ORCS_DUROTAR_ADJECTIVE" Language="en_US">
+			<Text>Orc</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GARROSH_HELLSCREAM_NAME" Language="en_US">
+			<Text>Garrosh Hellscream</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_BLOODY_FURY_NAME" Language="en_US">
+			<Text>Bloody Fury</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_BLOODY_FURY_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength for all melee units. Accumulate 25% less war weariness than usual.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_SON_OF_HELLSCREAM_NAME" Language="en_US">
+			<Text>Son of Hellscream</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SON_OF_HELLSCREAM_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting on a continent other that your [ICON_Capital] Capital's.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KOR_KRON_NAME" Language="en_US">
+			<Text>Kor'Kron</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_KOR_KRON_DESCRIPTION" Language="en_US">
+			<Text>Orc unique Medieval era melee unit, replace swordman. Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Culture] Culture on combat victory</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WOLF_RIDER_LIGHT_NAME" Language="en_US">
+			<Text>Light Wolf Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_WOLF_RIDER_LIGHT_DESCRIPTION" Language="en_US">
+			<Text>Orc unique Medieval era light cavalry unit, replace Horseman. Faster in the Woods and Jungles and this features doesn't block sight for them.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WOLF_RIDER_HEAVY_NAME" Language="en_US">
+			<Text>Heavy Wolf Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_WOLF_RIDER_HEAVY_DESCRIPTION" Language="en_US">
+			<Text>Orc unique Medieval era heavy cavalry unit, replace Knight. Faster in the Woods and Jungles and this features doesn't block sight for them.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HORDE_GUNSHIP_NAME" Language="en_US">
+			<Text>Horde Gunship</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_HORDE_GUNSHIP_DESCRIPTION" Language="en_US">
+			<Text>Unique strong unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WYVERN_RIDER_NAME" Language="en_US">
+			<Text>Wyvern Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_WYVERN_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Orc and Tauren unique air unit, its available earlier in the game.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_WATCH_TOWER_NAME" Language="en_US">
+			<Text>Watch Tower</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_WATCH_TOWER_DESCRIPTION" Language="en_US">
+			<Text>A Orc unique improvement that can be build anywhere in his territory. Occupying unit receives +6[ICON_Strength] Defense Strength and automatically gains 2 turns of fortification. Gives 1 Housing and +1[ICON_Production] an another +1 [ICON_Production] if its next to a Encampment.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_WYVERNS_NEST_NAME" Language="en_US">
+			<Text>Wyverns Nest</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_WYVERNS_NEST_DESCRIPTION" Language="en_US">
+			<Text>A unique building that adds 2 air slots in the city center.</Text>
+		</Row>
+		<!-- END OF ORCS DUROTAR | GARROSH -->
+		<!-- TROLLS | VOL'JIN -->
+		<Row Tag="LOC_CIVILIZATION_DARKSPEAR_TROLLS_NAME" Language="en_US">
+			<Text>Darkspear Trolls</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_DARKSPEAR_TROLLS_DESCRIPTION" Language="en_US">
+			<Text>Darkspear Trolls</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_DARKSPEAR_TROLLS_ADJECTIVE" Language="en_US">
+			<Text>Troll</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_VOL_JIN_NAME" Language="en_US">
+			<Text>Vol'Jin</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_JUNGLE_TROLLS_NAME" Language="en_US">
+			<Text>Jungle Trolls</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_JUNGLE_TROLLS_DESCRIPTION" Language="en_US">
+			<Text>Rainforest tiles provide +1 adjacency bonus for Campus, Commercial Hub, Holy Site, and Theater Square districts. Rainforest tiles provide +1 [ICON_Housing] Housing for Neighborhoods built adjacent to them. +100% Harbor district adjacency bonuses. All units heal every turn, even after moving or combat.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MASTER_OF_THE_SHADOWS_NAME" Language="en_US">
+			<Text>Master of The Shadows</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MASTER_OF_THE_SHADOWS_DESCRIPTION" Language="en_US">
+			<Text>All units gains additional +5 [ICON_Strength] when fighting in Forest or Jungle. Additional Wildcard policy slot.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHADOW_HUNTER_NAME" Language="en_US">
+			<Text>Shadow Hunter</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_SHADOW_HUNTER_DESCRIPTION" Language="en_US">
+			<Text>Troll unique Medieval era melee unit, replace swordman. Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith on combat victory. Can move and see through Woods and Rainforest.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AXETHROWER_NAME" Language="en_US">
+			<Text>Axethrower</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_AXETHROWER_DESCRIPTION" Language="en_US">
+			<Text>Troll unique Medieval era range unit, replace Archer. Less attack than the Archer, but can attack twice per turn. Can move and see through Woods and Rainforest.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HEADHUNTER_NAME" Language="en_US">
+			<Text>Headhunter</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_HEADHUNTER_DESCRIPTION" Language="en_US">
+			<Text>Troll unique Medieval era ranged unit, replace crossbowman. +5 [ICON_Strength] Combat Strength vs. cavalry units and more Combat defense. Can move and see through Woods and Rainforest.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAPTOR_RIDER_LIGHT_NAME" Language="en_US">
+			<Text>Light Raptor Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_RAPTOR_RIDER_LIGHT_DESCRIPTION" Language="en_US">
+			<Text>Troll unique Medieval era light cavalry unit, replace Horseman. Faster in the Woods and Jungles and this features and -3 [ICON_Strength] to enemies next to him.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAPTOR_RIDER_HEAVY_NAME" Language="en_US">
+			<Text>Heavy Raptor Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_RAPTOR_RIDER_HEAVY_DESCRIPTION" Language="en_US">
+			<Text>Troll unique Medieval era heavy cavalry unit, replace Knight. Faster in the Woods and Jungles and this features and -3 [ICON_Strength] to enemies next to him.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BAT_RIDER_NAME" Language="en_US">
+			<Text>Bat Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_BAT_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Troll and Undead unique air unit, its available earlier in the game.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_VOODOO_HUT_NAME" Language="en_US">
+			<Text>Voodoo Hut</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_VOODOO_HUT_DESCRIPTION" Language="en_US">
+			<Text>Unique Troll building that replace the temple. Gives 1 Housing , 4 [ICON_Faith] Faith, 2 [ICON_Culture] and +1 Points for Great Prophets and Generals.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BATS_NEST_NAME" Language="en_US">
+			<Text>Bats Nest</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BATS_NEST_DESCRIPTION" Language="en_US">
+			<Text>A unique building that adds 2 air slots in the city center.</Text>
+		</Row>
+		<!-- END OF TROLLS | VOL'JIN -->
+		<!-- TAUREN | BAINE_BLOODHOOF -->
+		<Row Tag="LOC_CIVILIZATION_TAUREN_NAME" Language="en_US">
+			<Text>Tauren</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TAUREN_DESCRIPTION" Language="en_US">
+			<Text>Confederated Tribes of the Tauren</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TAUREN_ADJECTIVE" Language="en_US">
+			<Text>Tauren</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_BAINE_BLOODHOOF_NAME" Language="en_US">
+			<Text>Baine Bloodhoof</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CHILDS_OF_THE_EARTHMOTHER_NAME" Language="en_US">
+			<Text>Childs of the Earthmother</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CHILDS_OF_THE_EARTHMOTHER_DESCRIPTION" Language="en_US">
+			<Text>All farms gain +1 extra [ICON_Food] Food, [ICON_Culture] Culture and [ICON_Faith] Faith. +1 Appeal to all tiles in a city with a National Park.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_PLAINS_OF_MULGORE_NAME" Language="en_US">
+			<Text>Plains of Mulgore</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_PLAINS_OF_MULGORE_DESCRIPTION" Language="en_US">
+			<Text>All units gains additional +5 [ICON_Strength] Combat Strength in Plains and +1 MP when start in open terrain. Other civilizations' [ICON_TradeRoute] Trade Routes to the Tauren provide +2 [ICON_Food] Food for them and +2 [ICON_Gold] Gold for the Tauren.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TAUREN_BRAVE_NAME" Language="en_US">
+			<Text>Brave</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_TAUREN_BRAVE_DESCRIPTION" Language="en_US">
+			<Text>Tauren unique Medieval era anti-cavalry unit, replace pikeman. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KODO_RIDER_NAME" Language="en_US">
+			<Text>Heavy Kodo Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_KODO_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Tauren unique Medieval cavalry unit, replace Knight and doesn't require Iron. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KODO_RIDER_LIGHT_NAME" Language="en_US">
+			<Text>Light Kodo Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_KODO_RIDER_LIGHT_DESCRIPTION" Language="en_US">
+			<Text>Tauren unique Medieval era light cavalry unit, replace Horseman. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TAUREN_LONGHOUSE_NAME" Language="en_US">
+			<Text>Tauren Longhouse</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TAUREN_LONGHOUSE_DESCRIPTION" Language="en_US">
+			<Text>Unique Tauren building that replace the temple. Gives 1 Housing , 4 [ICON_Faith] Faith and +1 Points for Great Prophets and Generals. If there is Deers or Furs in that city, gives +1 extra [ICON_Food] Food and [ICON_Culture] Culture.</Text>
+		</Row>
+		<!-- END OF TAUREN | BAINE_BLOODHOOF -->
+		<!-- FORSAKEN | SYLVANAS -->
+		<Row Tag="LOC_CIVILIZATION_FORSAKEN_NAME" Language="en_US">
+			<Text>Forsaken</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FORSAKEN_DESCRIPTION" Language="en_US">
+			<Text>Forsaken undead, free from the Lich King</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FORSAKEN_ADJECTIVE" Language="en_US">
+			<Text>Forsaken</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SYLVANAS_WINDRUNNER_NAME" Language="en_US">
+			<Text>Sylvanas Windrunner</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_UNDEAD_CANNIBALISM_NAME" Language="en_US">
+			<Text>Undead Cannibalism</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_UNDEAD_CANNIBALISM_DESCRIPTION" Language="en_US">
+			<Text>All units when they eliminate a unit, they heal up to 50 hit points and do not suffer combat penalties when damaged.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_BANSHEE_QUEEN_NAME" Language="en_US">
+			<Text>Banshee Queen</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_BANSHEE_QUEEN_DESCRIPTION" Language="en_US">
+			<Text>Additional Military policy slot. Capture defeated enemy units as Builders.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ABOMINATION_NAME" Language="en_US">
+			<Text>Abomination</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ABOMINATION_DESCRIPTION" Language="en_US">
+			<Text>Undead unique Medieval era melee unit. -5 [ICON_Strength] Combat Strength to adjacent enemy units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FORSAKEN_CATAPULT_NAME" Language="en_US">
+			<Text>Forsaken Catapult</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_FORSAKEN_CATAPULT_DESCRIPTION" Language="en_US">
+			<Text>Forsaken unique siege unit, replace the Catapult. It has less attack than the normal catapult but its much faster.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DARK_RANGER_NAME" Language="en_US">
+			<Text>Dark Ranger</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DARK_RANGER_DESCRIPTION" Language="en_US">
+			<Text>Forsaken unique recon unit, replace the Scout. Its a ranged unit and stronger than the scout and the archer but it requires the tech Archery.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_APOTHECARIUM_NAME" Language="en_US">
+			<Text>Apothecarium</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_APOTHECARIUM_DESCRIPTION" Language="en_US">
+			<Text>Unique Forsaken building that replace the University. Gives 1 Housing , 4 [ICON_Science] Science and +2 Points for Great Scientists. If there is Incense, Mercury or Spices in that city, gives +1 extra [ICON_Gold] Gold and [ICON_Culture] Culture each.</Text>
+		</Row>
+		<!-- END OF FORSAKEN | SYLVANAS -->
+		<!-- BLOOD ELVES | LOR_THEMAR_THERON -->
+		<Row Tag="LOC_CIVILIZATION_BLOOD_ELVES_NAME" Language="en_US">
+			<Text>Blood Elves</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLOOD_ELVES_DESCRIPTION" Language="en_US">
+			<Text>Blood Elves</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLOOD_ELVES_ADJECTIVE" Language="en_US">
+			<Text>Blood Elven</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_LOR_THEMAR_THERON_NAME" Language="en_US">
+			<Text>Lor'Themar Theron</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CHILDREN_OF_THE_BLOOD_NAME" Language="en_US">
+			<Text>Children of the Blood</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CHILDREN_OF_THE_BLOOD_DESCRIPTION" Language="en_US">
+			<Text>Combat victories provide [ICON_Culture] Culture equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit. Luxury resources in his territory provide an [ICON_Amenities] Amenity to 2 extra cities.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_DEFENSOR_OF_QUEL_THALAS_NAME" Language="en_US">
+			<Text>Defensor of Quel'Thalas</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DEFENSOR_OF_QUEL_THALAS_DESCRIPTION" Language="en_US">
+			<Text>All units receive a +5 [ICON_Strength] Combat Strength when in your territory or adjacent to your territory.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPELL_BREAKER_NAME" Language="en_US">
+			<Text>Spell Breaker</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_SPELL_BREAKER_DESCRIPTION" Language="en_US">
+			<Text>Elven unique Medieval era melee unit, replace the Swordsman. +5 [ICON_Strength] Combat Strength vs Ranged Units and +7 [ICON_Strength] Combat Strength when defending vs. ranged attacks.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ELF_MAGE_NAME" Language="en_US">
+			<Text>Elf Mage</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ELF_MAGE_DESCRIPTION" Language="en_US">
+			<Text>Elven unique ranged unit, replace the Crossbowman. It has more attack than the Crossbowman and heals every turn, even after moving or combat.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ELVEN_RANGER_NAME" Language="en_US">
+			<Text>Elven Ranger</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ELVEN_RANGER_DESCRIPTION" Language="en_US">
+			<Text>Elven unique recon unit, replace the Scout. Its a ranged unit and stronger than the scout and the archer but it requires the tech Archery.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DRAGONHAWK_RIDER_NAME" Language="en_US">
+			<Text>Dragonhawk Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_DRAGONHAWK_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Elven unique air unit, its available earlier in the game.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ARCANE_SANCTUM_NAME" Language="en_US">
+			<Text>Arcane Sanctum</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ARCANE_SANCTUM_DESCRIPTION" Language="en_US">
+			<Text>Unique Blood Elf improvement. +1 [ICON_Faith] Faith and +1 [ICON_Culture] Culture. +1 [ICON_Faith] Faith if next to a wonder. Cannot be built next to another Arcane Sanctum and only in Plains or Grasslands.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DRAGONHAWK_NEST_NAME" Language="en_US">
+			<Text>Dragonhawk Nest</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DRAGONHAWK_NEST_DESCRIPTION" Language="en_US">
+			<Text>A unique building that adds 2 air slots in the city center.</Text>
+		</Row>
+		<!-- END OF BLOOD ELVES | LOR_THEMAR_THERON -->
+		<!-- GOBLINS | GALLYWIX -->
+		<Row Tag="LOC_CIVILIZATION_GOBLINS_BILGEWATER_NAME" Language="en_US">
+			<Text>Goblins Bilgewater</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GOBLINS_BILGEWATER_DESCRIPTION" Language="en_US">
+			<Text>Goblins Bilgewater Cartel</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GOBLINS_BILGEWATER_ADJECTIVE" Language="en_US">
+			<Text>Goblin</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_JASTOR_GALLYWIX_NAME" Language="en_US">
+			<Text>Jastor Gallywix</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_BEST_DEALS_ANYWHERE_NAME" Language="en_US">
+			<Text>Best Deals Anywhere</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_BEST_DEALS_ANYWHERE_DESCRIPTION" Language="en_US">
+			<Text>+4 Influence points per turn toward earning city-state [ICON_Envoy] Envoys. +4 [ICON_Gold] Gold from each city-state you are Suzerain of. +1 [ICON_Production] in all Mines and Lumber Mills</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_TRADE_PRINCE_NAME" Language="en_US">
+			<Text>Trade Prince</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_TRADE_PRINCE_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to other civilizations provide +4 [ICON_Gold] Gold for the Goblins. Other civilizations' [ICON_TradeRoute] Trade Routes to the Goblins provide +2 [ICON_Gold] Gold for the Goblins. Your [ICON_TradeRoute] Trade Routes earn +1 [ICON_Gold] Gold for passing through Trading Posts in your own cities. Additional Economic policy slot.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GOBLIN_FLYING_MACHINE_NAME" Language="en_US">
+			<Text>Goblin Flying Machine</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_GOBLIN_FLYING_MACHINE_DESCRIPTION" Language="en_US">
+			<Text>Goblin unique air unit, its available earlier in the game. Requires Iron.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHREDDER_NAME" Language="en_US">
+			<Text>Shredder</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_SHREDDER_DESCRIPTION" Language="en_US">
+			<Text>Goblin unique unit, replace the Knight. Its stronger than the Knight but slower and expensive.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TURTLE_RIDER_NAME" Language="en_US">
+			<Text>Turtle Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_TURTLE_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Goblin unique Medieval era light cavalry unit, replace Horseman. Slower but no Combat Strength and Movement penalty when attacking from sea or river.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOBLIN_BANK_NAME" Language="en_US">
+			<Text>Goblin Bank</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOBLIN_BANK_DESCRIPTION" Language="en_US">
+			<Text>Unique Goblin Building that replace the Bank and can be build earlier in the game. Gives +6 [ICON_Gold] Gold, +1 [ICON_Production] and +2 Points for Great Merchants.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOBLIN_WORKSHOP_NAME" Language="en_US">
+			<Text>Goblin Workshop</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOBLIN_WORKSHOP_DESCRIPTION" Language="en_US">
+			<Text>Unique Goblin Building that replace the Workshop. Gives +3 [ICON_Production] Production, +1 [ICON_Science] Science and +2 Points for Great Engineer and +1 Points for Great Scientist. Provides two slots for Air Units.</Text>
+		</Row>
+		<!-- END OFGOBLINS | GALLYWIX -->
+		<!-- STORMWIND | VARIAN -->
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_STORMWIND_NAME" Language="en_US">
+			<Text>Kingdom of Stormwind</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_STORMWIND_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Storwind</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_STORMWIND_ADJECTIVE" Language="en_US">
+			<Text>Human</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_VARIAN_WRYNN_NAME" Language="en_US">
+			<Text>Varian Wrynn</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GRAND_ALLIANCE_NAME" Language="en_US">
+			<Text>Grand Alliance</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GRAND_ALLIANCE_DESCRIPTION" Language="en_US">
+			<Text>All cities start with an additional City Center building. (Starts with a Monument building in the Ancient era).[ICON_TradeRoute] Trade Routes between multiple continents receive bonus [ICON_Gold] Gold for routes to other civilizations, and bonus [ICON_Food] Food and [ICON_Production] Production for routes between your own cities. All found or conquered cities on a continent other than your home continent receive a free melee unit. Your [ICON_TradeRoute] Trade Routes to an Ally's city provide +2 [ICON_Food] Food and +2 [ICON_Production] Production for both cities.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_GHOST_WOLF_NAME" Language="en_US">
+			<Text>The Ghost Wolf</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GHOST_WOLF_DESCRIPTION" Language="en_US">
+			<Text>Units receive a +5 [ICON_Strength] Combat Strength on their home continent. One extra Wildcard policy slot in any government.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_7HLEGION_NAME" Language="en_US">
+			<Text>7th Legion</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_7HLEGION_DESCRIPTION" Language="en_US">
+			<Text>Stormwind unique Medieval era melee unit, replace swordman. +5 [ICON_Strength] Combat Strength when fighting on a continent other that your [ICON_Capital] Capital's.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ALIANCE_GUNSHIP_NAME" Language="en_US">
+			<Text>Aliance Gunship</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ALIANCE_GUNSHIP_DESCRIPTION" Language="en_US">
+			<Text>Unique strong unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GRYPHON_RIDER_NAME" Language="en_US">
+			<Text>Gryphon Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_GRYPHON_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Human and Dwarf unique air unit, its available earlier in the game.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ALTAR_OF_KINGS_NAME" Language="en_US">
+			<Text>Altar of Kings</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ALTAR_OF_KINGS_DESCRIPTION" Language="en_US">
+			<Text>Stormwind unique building that replace the Monument. Gives 3 [ICON_Culture] Culture, 1 [ICON_Faith] Faith and 1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GRYPHON_NEST_NAME" Language="en_US">
+			<Text>Gryphon Nest</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GRYPHON_NEST_DESCRIPTION" Language="en_US">
+			<Text>A unique building that adds 2 air slots in the city center.</Text>
+		</Row>
+		<!-- END OF STORMWIND | VARIAN -->
+		<!-- IRONFORGE | MURADIN_BRONZEBEARD -->
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_IRONFORGE_NAME" Language="en_US">
+			<Text>Kingdom Ironforge</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_IRONFORGE_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Ironforge</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_IRONFORGE_ADJECTIVE" Language="en_US">
+			<Text>Dwarf</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_MURADIN_BRONZEBEARD_NAME" Language="en_US">
+			<Text>Muradin Bronzebeard</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MASTERS_OF_BLACKSMITHING_NAME" Language="en_US">
+			<Text>Masters of Blacksmithing</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MASTERS_OF_BLACKSMITHING_DESCRIPTION" Language="en_US">
+			<Text>Industrials Zones gains 1 [ICON_Production] Production if they are next to a Mountain. All mines gives 1 [ICON_Gold] Gold, 1 [ICON_Production] Production.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CLAN_BRONZEBEARD_NAME" Language="en_US">
+			<Text>Clan Bronzebeard</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CLAN_BRONZEBEARD_DESCRIPTION" Language="en_US">
+			<Text>Snow terrain gives food as Grasslands to other Civilizations. Each Archaeological Museum holds 6 [ICON_GreatWork_Artifact] Artifacts instead of 3 and can support 2 Archaeologists at once. Archaeological Museums are automatically themed when they have 6 [ICON_GreatWork_Artifact] Artifacts.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DWARF_RIFLEMAN_NAME" Language="en_US">
+			<Text>Dwarf Rifleman</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_DWARF_RIFLEMAN_DESCRIPTION" Language="en_US">
+			<Text>Dwarf unique Medieval era ranged unit, replace Crossbowman. Stronger than the normal Crossbowman.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEAM_TANK_NAME" Language="en_US">
+			<Text>Steam Tank</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_STEAM_TANK_DESCRIPTION" Language="en_US">
+			<Text>Dwarf unique Medieval era siege unit, replace Catapult. +7 [ICON_Ranged] Ranged Strength vs. district defenses.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GYROCOPTER_NAME" Language="en_US">
+			<Text>Gyrocopter</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_GYROCOPTER_DESCRIPTION" Language="en_US">
+			<Text>Dwarf and Gnome unique air unit, its available earlier in the game. Requires Iron.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAM_RIDER_LIGHT_NAME" Language="en_US">
+			<Text>Light Ram Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_RAM_RIDER_LIGHT_DESCRIPTION" Language="en_US">
+			<Text>Dwarf unique Medieval era light cavalry unit, replace Horseman. +4[ICON_Strength] Combat Strength in hills and faster on hills.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAM_RIDER_HEAVY_NAME" Language="en_US">
+			<Text>Heavy Ram Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_RAM_RIDER_HEAVY_DESCRIPTION" Language="en_US">
+			<Text>Dwarf unique Medieval era heavy cavalry unit, replace Knight. +4[ICON_Strength] Combat Strength in hills and faster on hills.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DWARF_BUNKER_NAME" Language="en_US">
+			<Text>Dwarf Bunker</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DWARF_BUNKER_DESCRIPTION" Language="en_US">
+			<Text>Dwarf unique building that replace the Barracks. +40% combat experience for all melee and ranged land units trained in this city. Gives 2 [ICON_Production] Production, 2 Points for Great Generals and 1 Housing. Occupying unit receives +2 [ICON_Strength] Defense Strength, and automatically gains 2 turns of fortification. Adds to air slots.</Text>
+		</Row>
+		<!-- END OF IRONFORGE | MURADIN_BRONZEBEARD -->
+		<!-- NIGHT ELVES | TYRANDE_WHISPERWIND -->
+		<Row Tag="LOC_CIVILIZATION_NIGHT_ELVES_NAME" Language="en_US">
+			<Text>Night Elves</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NIGHT_ELVES_DESCRIPTION" Language="en_US">
+			<Text>Night Elves</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NIGHT_ELVES_ADJECTIVE" Language="en_US">
+			<Text>Night Elf</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TYRANDE_WHISPERWIND_NAME" Language="en_US">
+			<Text>Tyrande Whisperwind</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CHILDREN_OF_STARS_NAME" Language="en_US">
+			<Text>Children of Stars</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CHILDREN_OF_STARS_DESCRIPTION" Language="en_US">
+			<Text>All units gains additional +5 [ICON_Strength] when fighting in Forest and cannot be seen in the woods. Woods and Rainforest without [ICON_Movement] Movement penalty.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_SISTER_HOOD_ELUNE_NAME" Language="en_US">
+			<Text>Sisterhood of Elune</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SISTER_HOOD_ELUNE_DESCRIPTION" Language="en_US">
+			<Text>Forest tiles provide +1 adjacency bonus for Holy Site, and Theater Square districts. When building Ancient and Classical wonders you may spend Builder charges to complete 15% of the original wonder cost. +1 Appeal to all tiles in a city with a National Park.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SENTINEL_NAME" Language="en_US">
+			<Text>Sentinel</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_SENTINEL_DESCRIPTION" Language="en_US">
+			<Text>Night Elf unique Medieval era ranged unit, replace Crossbowman. More visibilaty range and ranged combat that normal Crossbowman and 150% of Flanking Bonus.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NELF_WARDEN_NAME" Language="en_US">
+			<Text>Warden</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_NELF_WARDEN_DESCRIPTION" Language="en_US">
+			<Text>Night Elf unique Medieval melee unit, replace Swordsman. +5 [ICON_Strength] Combat Strength when in your territory or adjacent to your territory.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SABER_RIDER_LIGHT_NAME" Language="en_US">
+			<Text>Light Saber Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_SABER_RIDER_LIGHT_DESCRIPTION" Language="en_US">
+			<Text>Night Elf unique Medieval era light cavalry unit, replace Horseman. Can move after attacking. </Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SABER_RIDER_HEAVY_NAME" Language="en_US">
+			<Text>Heavy Saber Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_SABER_RIDER_HEAVY_DESCRIPTION" Language="en_US">
+			<Text>Night Elf unique Medieval era heavy cavalry unit, replace Knight. Can move after attacking. </Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HIPPOGRYPH_RIDER_NAME" Language="en_US">
+			<Text>Hippogryph Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_HIPPOGRYPH_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Night Elf unique air unit, its available earlier in the game.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TEMPLE_OF_MOON_NAME" Language="en_US">
+			<Text>Temple of the Moon</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TEMPLE_OF_MOON_DESCRIPTION" Language="en_US">
+			<Text>Unique Night Elf building that replace the temple. Gives 1 Housing , 4 [ICON_Faith] Faith, 2 [ICON_Culture] and +2 Points for Great Prophets. A unique building that adds 2 air slots in the holy district.</Text>
+		</Row>
+		<!-- NIGHT ELVES | TYRANDE_WHISPERWIND -->
+		<!-- DRAENEI | VELEN -->
+		<Row Tag="LOC_CIVILIZATION_DRAENEI_NAME" Language="en_US">
+			<Text>Draenei</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_DRAENEI_DESCRIPTION" Language="en_US">
+			<Text>Draenei</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_DRAENEI_ADJECTIVE" Language="en_US">
+			<Text>Draenei</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_PROPHET_VELEN_NAME" Language="en_US">
+			<Text>Prophet Velen</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GIFT_OFTHE_NAARU_NAME" Language="en_US">
+			<Text>Gift of the Naaru</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GIFT_OFTHE_NAARU_DESCRIPTION" Language="en_US">
+			<Text>Combat units have a bonus of +4 [ICON_Strength] Combat Strength against players following other Religions. Doubles [ICON_Faith] Faith yield from the Shrine</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_PROPHET_OFTHE_NAARU_NAME" Language="en_US">
+			<Text>Prophet of the Naaru</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_PROPHET_OFTHE_NAARU_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Faith] Faith for each civilization (including Draenei) they have met that has founded a Religion and is not currently at war. Automatically receive the final Great Prophet when the next-to-last one is claimed (if you have not earned a Great Prophet already).</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_VINDICATOR_NAME" Language="en_US">
+			<Text>Vindicator</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_VINDICATOR_DESCRIPTION" Language="en_US">
+			<Text>Draenei unique Medieval era melee unit, replace Swordsman. Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith on combat victory and heals every turn, even after moving or combat.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ELEKK_RIDER_NAME" Language="en_US">
+			<Text>Heavy Elekk Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ELEKK_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Dranei unique Medieval cavalry unit, replace Knight. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ELEKK_RIDER_LIGHT_NAME" Language="en_US">
+			<Text>Light Elekk Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ELEKK_RIDER_LIGHT_DESCRIPTION" Language="en_US">
+			<Text>Draenei unique Medieval era light cavalry unit, replace Horseman. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DRAENEI_PRIEST_NAME" Language="en_US">
+			<Text>Draenei Priest</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_NETHER_RAY_RIDER_NAME" Language="en_US">
+			<Text>Nether Ray Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_NETHER_RAY_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Draenei unique air unit, its available earlier in the game.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DRAENEI_PRIEST_DESCRIPTION" Language="en_US">
+			<Text>Draenei unique Medieval support unit, replace Medic and can its available earlier in the game. Can heal adjacent units.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CRYSTAL_MINE_NAME" Language="en_US">
+			<Text>Crystal Mine</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CRYSTAL_MINE_DESCRIPTION" Language="en_US">
+			<Text>Draenei unique improvement that only can be place if there is Diamonds or Gypsum. Gives +2 [ICON_Gold] Gold , +2 [ICON_Production] Production and +1 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NETHER_RAY_NEST_NAME" Language="en_US">
+			<Text>Nether Ray Nest</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NETHER_RAY_DESCRIPTION" Language="en_US">
+			<Text>A unique building that adds 2 air slots in the city center.</Text>
+		</Row>
+		<!-- DRAENEI | VELEN -->
+		<!-- KINGDOM_GILNEAS | GENN_GREYMANE -->
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_GILNEAS_NAME" Language="en_US">
+			<Text>Kingdom Gilneas</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_GILNEAS_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Gilneas</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_GILNEAS_ADJECTIVE" Language="en_US">
+			<Text>Gilnean</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GENN_GREYMANE_NAME" Language="en_US">
+			<Text>Genn Greymane</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CURSE_OFTHE_WORGEN_NAME" Language="en_US">
+			<Text>Curse of the Worgen</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CURSE_OFTHE_WORGEN_DESCRIPTION" Language="en_US">
+			<Text>All units have 1 additional Movement and the melee units can move after attacking.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_GILNEAS_ISOLATION_NAME" Language="en_US">
+			<Text>Gilneas Isolation</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GILNEAS_ISOLATION_DESCRIPTION" Language="en_US">
+			<Text>All units receive a +5 [ICON_Strength] Combat Strength when in your territory or adjacent to your territory. All your Routes between your cities give 2 [ICON_Food] Food and 2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GLF_INFANTRY_NAME" Language="en_US">
+			<Text>G.L.F Infantry</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_GLF_INFANTRY_DESCRIPTION" Language="en_US">
+			<Text>Gilnean unique Medieval era melee unit, replace swordman. +5 [ICON_Strength] Combat Strength when attacking.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GREYMANE_WALL_NAME" Language="en_US">
+			<Text>Greymane Wall</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GREYMANE_WALL_DESCRIPTION" Language="en_US">
+			<Text>A Greymane Wall unique improvement. Provides an increase to [ICON_Strength] Defense and 1 [ICON_Culture]. Bonus to [ICON_Culture] Culture if adjacent to other segments after reaching Technology of Castles. Must be built in a line along the borders of your empire.</Text>
+		</Row>
+		<!-- END OF KINGDOM_GILNEAS | GENN_GREYMANE -->
+		<!-- GNOMES | GELBIN_MEKKATORQUE -->
+		<Row Tag="LOC_CIVILIZATION_GNOMES_NAME" Language="en_US">
+			<Text>Gnomes</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GNOMES_DESCRIPTION" Language="en_US">
+			<Text>Gnomes</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GNOMES_ADJECTIVE" Language="en_US">
+			<Text>Gnome</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GELBIN_MEKKATORQUE_NAME" Language="en_US">
+			<Text>Gelbin Mekkatorque</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_UNDERGROUND_TINKERS_NAME" Language="en_US">
+			<Text>Underground Tinkers</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_UNDERGROUND_TINKERS_DESCRIPTION" Language="en_US">
+			<Text>Industrials Zones gains 1 [ICON_Production] Production if they are next to a Mountain. All mines gives 1 [ICON_Food] Food. Builders receive an additional charge.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_HIGH_TINKER_NAME" Language="en_US">
+			<Text>High Tinker</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_HIGH_TINKER_DESCRIPTION" Language="en_US">
+			<Text>+100% Campus and Industrial Zone district adjacency bonuses.  Other civilizations' [ICON_TradeRoute] Trade Routes to the Gnomes provide +2 [ICON_Production] Production for them and +2 [ICON_Gold] Gold for the Gnomes.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GNOMISH_MECH_NAME" Language="en_US">
+			<Text>Gnomish Mech</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_GNOMISH_MECH_DESCRIPTION" Language="en_US">
+			<Text>Gnome unique unit, replace the Knight. Its stronger than the Knight but slower and expensive.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MECHANOSTRIDER_RIDER_NAME" Language="en_US">
+			<Text>Mechanostrider Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_MECHANOSTRIDER_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Gnome unique Medieval era light cavalry unit, replace Horseman. Faster than the Horseman and even faster if it starts in open terrain.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GNOME_WORKSHOP_NAME" Language="en_US">
+			<Text>Gnome Workshop</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GNOME_WORKSHOP_DESCRIPTION" Language="en_US">
+			<Text>Unique Gnome Building that replace the Workshop. Gives +3 [ICON_Production] Production, +1 [ICON_Science] Science, +1 [ICON_Culture] Culture and +3 Points for Great Engineer and +1 Points for Great Scientist. Provides two slots for Air Units.</Text>
+		</Row>
+		<!-- END OF GNOMES | GELBIN_MEKKATORQUE -->
+		<!-- ARGENT CRUSADE | TIRION -->
+		<Row Tag="LOC_CIVILIZATION_ARGENT_CRUSADE_NAME" Language="en_US">
+			<Text>Argent Crusade</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARGENT_CRUSADE_DESCRIPTION" Language="en_US">
+			<Text>Argent Crusade</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARGENT_CRUSADE_ADJECTIVE" Language="en_US">
+			<Text>Argent Crusader</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TIRION_FORDRING_NAME" Language="en_US">
+			<Text>Tirion Fordring</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DEFENDERS_OF_THE_LIGHT_NAME" Language="en_US">
+			<Text>Defenders of the Light</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DEFENDERS_OF_THE_LIGHT_DESCRIPTION" Language="en_US">
+			<Text>Builds Holy Sites districts in half the time. All found or conquered cities on a continent other than your home continent receive a free melee unit. Opposing civilizations receive double the war weariness for fighting against the Argent Crusade.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_THE_ASHBRINGER_NAME" Language="en_US">
+			<Text>The Ashbringer</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_ASHBRINGER_DESCRIPTION" Language="en_US">
+			<Text>+4 [ICON_Strength] Combat Strength against players following other Religions. Combat victories provide [ICON_Faith] Faith equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PALADIN_NAME" Language="en_US">
+			<Text>Paladin</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_PALADIN_DESCRIPTION" Language="en_US">
+			<Text>Argent Crusade unique unit, replace the Swordsman. This unit does not suffer combat penalties when damaged and heals after defeating an enemy unit.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TOURNAMENT_GROUND_NAME" Language="en_US">
+			<Text>Tournament Ground</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TOURNAMENT_GROUND_DESCRIPTION" Language="en_US">
+			<Text>Unique Argent Crusade building that replace the Arena. Gives 3 Entretainment , 1 [ICON_Culture] Culture, 1 [ICON_Faith] Faith and 2 Points for a Great General.</Text>
+		</Row>
+		<!-- END OF ARGENT CRUSADE | TIRION -->
+		<!-- THE_SCOURGE| lich king -->
+		<Row Tag="LOC_CIVILIZATION_THE_SCOURGE_NAME" Language="en_US">
+			<Text>The Scourge</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_THE_SCOURGE_DESCRIPTION" Language="en_US">
+			<Text>The Scourge</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_THE_SCOURGE_ADJECTIVE" Language="en_US">
+			<Text>Undead</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_LICH_KING_NAME" Language="en_US">
+			<Text>Lich King</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_UNDEAD_EMPIRE_NAME" Language="en_US">
+			<Text>Undead Empire</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_UNDEAD_EMPIRE_DESCRIPTION" Language="en_US">
+			<Text>Tundra and Snow terrain gives food as Grasslands to other Civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DEATH_GOD_NAME" Language="en_US">
+			<Text>Death God</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DEATH_GOD_DESCRIPTION" Language="en_US">
+			<Text>Can capture defetead units as Ghouls. All units have no combat penalties when injured. Accumulate 60% less war weariness than usual.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GHOUL_NAME" Language="en_US">
+			<Text>Ghoul</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_GHOUL_DESCRIPTION" Language="en_US">
+			<Text>Scourge unique unit, replace the Warrior. Heals after defeating an enemy unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_YMIRJAR_NAME" Language="en_US">
+			<Text>Ymirjar</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_YMIRJAR_DESCRIPTION" Language="en_US">
+			<Text>Scourge unique unit, replace the Swordsman. Stronger than the Swordsman.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LICH_NAME" Language="en_US">
+			<Text>Lich</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_LICH_DESCRIPTION" Language="en_US">
+			<Text>Scourge unique ranged unit, replace the Crossbowman.+5 [ICON_Strength] Combat Strength when fighting in Tundra or Snow.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PLAGUE_DOG_NAME" Language="en_US">
+			<Text>Plague Dog</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_PLAGUE_DOG_DESCRIPTION" Language="en_US">
+			<Text>Scourge unique Medieval era light cavalry unit, replace Horseman. Can move after attacking. </Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CRYPT_LORD_NAME" Language="en_US">
+			<Text>Crypt Lord</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_CRYPT_LORD_DESCRIPTION" Language="en_US">
+			<Text>Scourge unique Medieval era heavy cavalry unit, replace Knight. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage. </Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GARGOYLE_NAME" Language="en_US">
+			<Text>Gargoyle</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_GARGOYLE_DESCRIPTION" Language="en_US">
+			<Text>Scourge unique air unit, its available earlier in the game.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FROST_WYRM_NAME" Language="en_US">
+			<Text>Frost Wyrn</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_FROST_WYRM_DESCRIPTION" Language="en_US">
+			<Text>Scourge unique unit that replace the Cavalry. Can be obtain earlier in the game but is more expensive.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_NECROPOLIS_NAME" Language="en_US">
+			<Text>Necropolis</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_NECROPOLIS_DESCRIPTION" Language="en_US">
+			<Text>A Scourge unique improvement that can be build anywhere in his territory. Occupying unit receives +6[ICON_Strength] Defense Strength and automatically gains 2 turns of fortification. Gives 1 Housing and +1[ICON_Production] an another +2 [ICON_Production] if its next to a Lumber Mill.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GARGOYLE_NEST_NAME" Language="en_US">
+			<Text>Gargoyle Nest</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GARGOYLE_NEST_DESCRIPTION" Language="en_US">
+			<Text>A unique building that adds 2 air slots in the city center.</Text>
+		</Row>
+		<!-- END OF THE_SCOURGE| lich king -->
+		<!-- AMANI | ZUL'JIN -->
+		<Row Tag="LOC_CIVILIZATION_AMANI_EMPIRE_NAME" Language="en_US">
+			<Text>Amani Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AMANI_EMPIRE_DESCRIPTION" Language="en_US">
+			<Text>Amani Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AMANI_EMPIRE_ADJECTIVE" Language="en_US">
+			<Text>Amani</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_ZULJIN_NAME" Language="en_US">
+			<Text>Zul'Jin</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FOREST_TROLLS_NAME" Language="en_US">
+			<Text>Forest Trolls</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FOREST_TROLLS_DESCRIPTION" Language="en_US">
+			<Text>All units heal every turn, even after moving or combat. Forest tiles provide +1 adjacency bonus for Holy Site, and Theater Square districts.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_WARLORD_OF_ZULAMAN_NAME" Language="en_US">
+			<Text>Warlord of Zulaman</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_WARLORD_OF_ZULAMAN_DESCRIPTION" Language="en_US">
+			<Text>All units gains additional +5 [ICON_Strength] when fighting in Forest and cannot be seen in the woods. Woods and Rainforest without [ICON_Movement] Movement penalty. Accumulate 60% less war weariness than usual.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TROLL_BERSERKER_NAME" Language="en_US">
+			<Text>Troll Berserker</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_TROLL_BERSERKER_DESCRIPTION" Language="en_US">
+			<Text>Troll unique Medieval era melee unit, replace swordman. +7 [ICON_Strength] Combat Strength when attacking. </Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BEAR_RIDER_LIGHT_NAME" Language="en_US">
+			<Text>Bear Rider Light</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_BEAR_RIDER_LIGHT_DESCRIPTION" Language="en_US">
+			<Text>Amani Troll unique Medieval era light cavalry unit, replace Horseman. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BEAR_RIDER_HEAVY_NAME" Language="en_US">
+			<Text>Heavy Bear Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_BEAR_RIDER_HEAVY_DESCRIPTION" Language="en_US">
+			<Text>Amani Troll unique Medieval era heavy cavalry unit, replace Knight. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_TROLL_ZIGGURAT_NAME" Language="en_US">
+			<Text>Troll Ziggurat</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_TROLL_ZIGGURAT_DESCRIPTION" Language="en_US">
+			<Text>A Troll unique improvement that can be build anywhere in his territory. Occupying unit receives +4[ICON_Strength] Defense Strength and automatically gains 2 turns of fortification. Gives 1 Housing and +1[ICON_Culture] an another +1 [ICON_Culture] if its next to a Lake. +1[ICON_Faith] Faith for being next to a Forest or Jungle.</Text>
+		</Row>
+		<!-- END OF AMANI | ZUL'JIN -->
+		<!-- GURUBASHI | JIN'DO -->
+		<Row Tag="LOC_CIVILIZATION_GURUBASHI_EMPIRE_NAME" Language="en_US">
+			<Text>Gurubashi Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GURUBASHI_EMPIRE_DESCRIPTION" Language="en_US">
+			<Text>Gurubashi Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GURUBASHI_EMPIRE_ADJECTIVE" Language="en_US">
+			<Text>Gurubashi</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_JINDO_NAME" Language="en_US">
+			<Text>Jin'Do</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_JUNGLE_TROLLS_EMPIRE_NAME" Language="en_US">
+			<Text>Jungle Trolls Empire</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_JUNGLE_TROLLS_EMPIRE_DESCRIPTION" Language="en_US">
+			<Text>Rainforest tiles provide +1 adjacency bonus for Campus, Commercial Hub, Holy Site, and Theater Square districts. Rainforest tiles provide +1 [ICON_Housing] Housing for Neighborhoods built adjacent to them. +100% Harbor district adjacency bonuses. All units heal every turn, even after moving or combat.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_HEXXER_NAME" Language="en_US">
+			<Text>The Hexxer</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_HEXXER_DESCRIPTION" Language="en_US">
+			<Text>All units gains additional +5 [ICON_Strength] when fighting in Forest or Jungle. The worship building for their Religion can be purchased by any player for just one-tenth of the usual  [ICON_Faith] Faith cost. All Relics provide bonus Faith (+1).</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GURUBASHI_ARENA_NAME" Language="en_US">
+			<Text>Gurubashi Arena</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GURUBASHI_ARENA_DESCRIPTION" Language="en_US">
+			<Text>Unique Gurubashi Troll building that replace the Arena. Gives 3 Entretainment ,2 [ICON_Gold] Gold, 1 [ICON_Production] Production.</Text>
+		</Row>
+		<!-- END OF GURUBASHI | JIN'DO -->
+		<!-- DRAKKARI | MALAKK -->
+		<Row Tag="LOC_CIVILIZATION_DRAKKARI_EMPIRE_NAME" Language="en_US">
+			<Text>Drakkari Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_DRAKKARI_EMPIRE_DESCRIPTION" Language="en_US">
+			<Text>Drakkari Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_DRAKKARI_EMPIRE_ADJECTIVE" Language="en_US">
+			<Text>Drakkari</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_MALAKK_NAME" Language="en_US">
+			<Text>Malakk</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ICE_TROLLS_NAME" Language="en_US">
+			<Text>Ice Trolls</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ICE_TROLLS_DESCRIPTION" Language="en_US">
+			<Text>All units heal every turn, even after moving or combat. +1 [ICON_FAITH] Faith and +1 [ICON_PRODUCTION] Production in Tundra tiles.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FROST_KING_NAME" Language="en_US">
+			<Text>Frost King</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FROST_KING_DESCRIPTION" Language="en_US">
+			<Text>All unit gain +5 [ICON_Strength] Combat Strength when fighting in Tundra or Snow. Camps give 1+ [ICON_FOOD] Food and +1 [ICON_FAITH] Faith. </Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RHINO_RIDER_NAME" Language="en_US">
+			<Text>Rhino Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_RHINO_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Drakkari Troll unique Medieval era heavy cavalry unit, replace Knight. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_DRAKKARI_FARM_NAME" Language="en_US">
+			<Text>Drakkari Farm</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_DRAKKARI_FARM_DESCRIPTION" Language="en_US">
+			<Text>Unique Drakkari Troll improvement. +1 [ICON_FOOD] Food +1 [ICON_PRODUCTION] Production and +2 [ICON_FOOD] if next to a Lake.</Text>
+		</Row>
+		<!-- END OF DRAKKARI | MALAKK-->
+		<!-- RASTAKHAN | ZANDALARI -->
+		<Row Tag="LOC_CIVILIZATION_ZANDALARI_EMPIRE_NAME" Language="en_US">
+			<Text>Zandalari Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ZANDALARI_EMPIRE_DESCRIPTION" Language="en_US">
+			<Text>Zandalari Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ZANDALARI_EMPIRE_ADJECTIVE" Language="en_US">
+			<Text>Zandalari</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_RASTAKHAN_NAME" Language="en_US">
+			<Text>Rastakhan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ANCIENT_TROLLS_NAME" Language="en_US">
+			<Text>Ancient Trolls</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ANCIENT_TROLLS_DESCRIPTION" Language="en_US">
+			<Text>All units heal every turn, even after moving or combat. Rainforest tiles provide +1 adjacency bonus for Campus, Holy Site, and Theater Square districts. +100% Harbor district adjacency bonuses. Grass and Plain Mountains provide +1 adjacency bonus for Theater and Holy Site.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GOD_KING_OF_TROLLS_NAME" Language="en_US">
+			<Text>God King of Trolls</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GOD_KING_OF_TROLLS_DESCRIPTION" Language="en_US">
+			<Text>All melee units gains additional +10 [ICON_Strength] Combat Strength. +1 [ICON_Food] Food for all fisher boats.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DIREHORN_RIDER_NAME" Language="en_US">
+			<Text>Direhorn Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_DIREHORN_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Zandalari Troll unique Medieval era heavy cavalry unit, replace Knight. Stronger but slower than the Knight. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TROLL_PRELATE_NAME" Language="en_US">
+			<Text>Troll Prelate</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_TROLL_PRELATE_DESCRIPTION" Language="en_US">
+			<Text>Troll unique Medieval era melee unit, replace swordman. Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PTERRORWING_RIDER_NAME" Language="en_US">
+			<Text>Pterrorwing</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_PTERRORWING_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Zandalari unique air unit, its available earlier in the game.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ZANDALARI_WARSHIP_NAME" Language="en_US">
+			<Text>Zandalari Warship</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ZANDALARI_WARSHIP_DESCRIPTION" Language="en_US">
+			<Text>Zandalari unique Ancient era naval unit that replaces the Galley. Can pillage enemy coastal lands and capture civilians if adjacent using its coastal raiding ability.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PTERRORWING_NEST_NAME" Language="en_US">
+			<Text>Pterrorwing Nest</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PTERRORWING_NEST_DESCRIPTION" Language="en_US">
+			<Text>A unique building that adds 2 air slots in the city center.</Text>
+		</Row>
+		<!-- END OF RASTAKHAN | ZANDALARI-->
+		<!-- MORE UNITS-->
+		<Row Tag="LOC_UNIT_GRUNT_NAME" Language="en_US">
+			<Text>Grunt</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_GRUNT_DESCRIPTION" Language="en_US">
+			<Text>Orc unique melee unit, replace Warrior but stronger. Can build Watch Towers.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_OGRE_NAME" Language="en_US">
+			<Text>Ogre</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_OGRE_DESCRIPTION" Language="en_US">
+			<Text>Orc unique Medieval era anti-cavalry unit, replace pikeman. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ORC_DESTROYER_NAME" Language="en_US">
+			<Text>Orc Destroyer</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ORC_DESTROYER_DESCRIPTION" Language="en_US">
+			<Text>Orc unique ranged naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DEMOLISHER_NAME" Language="en_US">
+			<Text>Demolisher</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_DEMOLISHER_DESCRIPTION" Language="en_US">
+			<Text>Orc unique sieged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHAMAN_NAME" Language="en_US">
+			<Text>Shaman</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_SHAMAN_DESCRIPTION" Language="en_US">
+			<Text>Orc unique medic suport unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TROLL_CANOE_NAME" Language="en_US">
+			<Text>Troll Canoe</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_TROLL_CANOE_DESCRIPTION" Language="en_US">
+			<Text>Troll unique Ancient era naval unit that replaces the Galley. Can pillage enemy coastal lands and capture civilians if adjacent using its coastal raiding ability. 4 [ICON_Movement] Movement while in coastal waters.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WITCH_DOCTOR_NAME" Language="en_US">
+			<Text>Witch Doctor</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_WITCH_DOCTOR_DESCRIPTION" Language="en_US">
+			<Text>Troll unique medic suport unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUNWALKER_NAME" Language="en_US">
+			<Text>Sunwalker</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_SUNWALKER_DESCRIPTION" Language="en_US">
+			<Text>Tauren unique Medieval era melee unit, replace swordman. Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPIRIT_WALKER_NAME" Language="en_US">
+			<Text>Spirit Walker</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_SPIRIT_WALKER_DESCRIPTION" Language="en_US">
+			<Text>Tauren unique medic suport unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DEATH_GUARD_NAME" Language="en_US">
+			<Text>Death Guard</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_DEATH_GUARD_DESCRIPTION" Language="en_US">
+			<Text>Forsaken unique melee unit. -3 [ICON_Strength] to enemies next to him.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FORSAKEN_BATTLESHIP_NAME" Language="en_US">
+			<Text>Forsaken Battleship</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_FORSAKEN_BATTLESHIP_DESCRIPTION" Language="en_US">
+			<Text>Forsaken unique ranged naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_APOTHECARY_NAME" Language="en_US">
+			<Text>Apothecary</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_APOTHECARY_DESCRIPTION" Language="en_US">
+			<Text>Forsaken unique medic suport unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BLOOD_KNIGHT_NAME" Language="en_US">
+			<Text>Blood Knight</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_BLOOD_KNIGHT_DESCRIPTION" Language="en_US">
+			<Text>Blood Elf unique Medieval era heavy cavalry unit, replace Knight. Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ELVEN_DESTROYER_NAME" Language="en_US">
+			<Text>Elven Destroyer</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ELVEN_DESTROYER_DESCRIPTION" Language="en_US">
+			<Text>Elven unique ranged naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GLAIVE_THROWER_NAME" Language="en_US">
+			<Text>Glaive Thrower</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_GLAIVE_THROWER_DESCRIPTION" Language="en_US">
+			<Text>Elven unique ranged siege unit. +5 [ICON_Ranged] Ranged Strength vs. land units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARCANE_GOLEM_NAME" Language="en_US">
+			<Text>Arcane Golem</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ARCANE_GOLEM_DESCRIPTION" Language="en_US">
+			<Text>High Elf unique unit. Yields 15% of defeated units' [ICON_Strength] Combat Strength as [ICON_Science] Science on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BRUISER_NAME" Language="en_US">
+			<Text>Bruiser</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_BRUISER_DESCRIPTION" Language="en_US">
+			<Text>Goblin unique Medieval era melee unit, replace Swordsman. Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Gold] Gold on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GOBLIN_SNIPER_NAME" Language="en_US">
+			<Text>Goblin Sniper</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_GOBLIN_SNIPER_DESCRIPTION" Language="en_US">
+			<Text>Goblin unique Medieval era ranged unit, replace Crossbowman. Stronger and with more ranged than normal</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MINI_SUBMARINE_NAME" Language="en_US">
+			<Text>Mini Submarine</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_MINI_SUBMARINE_DESCRIPTION" Language="en_US">
+			<Text>Goblin unique naval unit, replace Quadrirreme. Invisible unless next to it.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBILE_CANNON_NAME" Language="en_US">
+			<Text>Mobile Cannon</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBILE_CANNON_DESCRIPTION" Language="en_US">
+			<Text>Goblin unique siege unit, replace the Catapult. It has less attack than the normal catapult but its much faster.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HUMAN_GUNMAN_NAME" Language="en_US">
+			<Text>Human Gunman</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_HUMAN_GUNMAN_DESCRIPTION" Language="en_US">
+			<Text>Human unique ranged unit, replace the Crossbowman. Has more ranged attack than normal Crossbowman.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BROTHERHOOD_HORSE_NAME" Language="en_US">
+			<Text>Brotherhood of the Horse</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_BROTHERHOOD_HORSE_DESCRIPTION" Language="en_US">
+			<Text>Stormwind unique heavy cavalry unit, replace the Knigth. +5 Combat Strength vs. anti-cavalry.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ALLIANCE_ICEBREAKER_NAME" Language="en_US">
+			<Text>Alliance Icebreaker</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ALLIANCE_ICEBREAKER_DESCRIPTION" Language="en_US">
+			<Text>Alliance unique ranged naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HUMAN_MAGE_NAME" Language="en_US">
+			<Text>Human Mage</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_HUMAN_MAGE_DESCRIPTION" Language="en_US">
+			<Text>Human unique ranged unit. Heals every turn, even after moving or combat.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SENTINEL_WARRIOR_NAME" Language="en_US">
+			<Text>Sentinel Warrior</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_SENTINEL_WARRIOR_DESCRIPTION" Language="en_US">
+			<Text>Night Elf unique melee unit. When defeating an enemy unit, spread their religion to nearby cities.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRIESTESS_MOON_NAME" Language="en_US">
+			<Text>Priestess of the Moon</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_PRIESTESS_MOON_DESCRIPTION" Language="en_US">
+			<Text>Night Elf unique medic suport unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ANCIENT_PROTECTOR_NAME" Language="en_US">
+			<Text>Ancient Protector</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ANCIENT_PROTECTOR_DESCRIPTION" Language="en_US">
+			<Text>Night Elf unique unit. +10 [ICON_Strength] Combat Strength when there is an Apostle, Inquisitor, or Missionary in the same hex.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LIGHTS_CHOSEN_NAME" Language="en_US">
+			<Text>Light's Chosen</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_LIGHTS_CHOSEN_DESCRIPTION" Language="en_US">
+			<Text>Draenei unique anti-cavalry unit. This unit heals every turn, even after moving or combat.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WORGEN_STALKER_NAME" Language="en_US">
+			<Text>Worgen Stalker</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WORGEN_STALKER_DESCRIPTION" Language="en_US">
+			<Text>Worgen unique recon unit, replace the Scout. Invisible unless next to it.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GNOME_SNIPER_NAME" Language="en_US">
+			<Text>Gnome Sniper</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_GNOME_SNIPER_DESCRIPTION" Language="en_US">
+			<Text>Gnome unique Medieval era ranged unit, replace Crossbowman. Stronger and with more ranged than normal.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GNOME_MAGE_NAME" Language="en_US">
+			<Text>Gnome Mage</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_GNOME_MAGE_DESCRIPTION" Language="en_US">
+			<Text>Gnome unique ranged unit. Heals every turn, even after moving or combat.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARGENT_PRIEST_NAME" Language="en_US">
+			<Text>Argent Priest</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ARGENT_PRIEST_DESCRIPTION" Language="en_US">
+			<Text>Argent Crusade unique medic suport unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FELGUARD_NAME" Language="en_US">
+			<Text>Felguard</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_FELGUARD_DESCRIPTION" Language="en_US">
+			<Text>Burning Legion unique melee unit. +5 ranged attack vs. land units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INFERNAL_NAME" Language="en_US">
+			<Text>Infernal</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_INFERNAL_DESCRIPTION" Language="en_US">
+			<Text>Burning Legion unique anti-cavalry unit. -5 [ICON_Strength] to enemies next to him.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DOOMGUARD_NAME" Language="en_US">
+			<Text>Doomguard</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_DOOMGUARD_DESCRIPTION" Language="en_US">
+			<Text>Burning Legion unique ranged unit. Less ranged attack but with more movement and can move after attacking.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DEMONIC_HOUND_NAME" Language="en_US">
+			<Text>Demonic Hound</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_DEMONIC_HOUND_DESCRIPTION" Language="en_US">
+			<Text>Burning Legion unique heavy cavalry unit. -5 [ICON_Strength] to enemies next to him.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DARK_HOUND_NAME" Language="en_US">
+			<Text>Felhound</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_DARK_HOUND_DESCRIPTION" Language="en_US">
+			<Text>Burning Legion unique light cavalry unit. Heals after defeating an enemy unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COMMAND_SHIP_NAME" Language="en_US">
+			<Text>Command Ship</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_COMMAND_SHIP_DESCRIPTION" Language="en_US">
+			<Text>Burning Legion unique unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FELBAT_NAME" Language="en_US">
+			<Text>Felbat</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_FELBAT_DESCRIPTION" Language="en_US">
+			<Text>Burning Legion unique air unit, its available earlier in the game.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FEL_CANNON_NAME" Language="en_US">
+			<Text>Fel Cannon</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_FEL_CANNON_DESCRIPTION" Language="en_US">
+			<Text>Burning Legion unique ranged siege unit. +5 [ICON_Ranged] Ranged Strength vs. land units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DREADLORD_NAME" Language="en_US">
+			<Text>Dreadlord</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_DREADLORDT_DESCRIPTION" Language="en_US">
+			<Text>Burning Legion unique suport unit with ranged attack.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_OGRE_MAGE_NAME" Language="en_US">
+			<Text>Ogre Mage</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_OGRE_MAGE_DESCRIPTION" Language="en_US">
+			<Text>Twilight Hammer unique ranged unit. Heals every turn, even after moving or combat.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TWILIGHT_DRAGONFLIGHT_NAME" Language="en_US">
+			<Text>Twilight Dragonflight</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_TWILIGHT_DRAGONFLIGHT_DESCRIPTION" Language="en_US">
+			<Text>Twilight Hammer unique air unit, its available earlier in the game.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HIGHBORNE_ARCANIST_NAME" Language="en_US">
+			<Text>Highborne Arcanist</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_HIGHBORNE_ARCANIST_DESCRIPTION" Language="en_US">
+			<Text>Kaldorei unique ranged unit. Heals every turn, even after moving or combat. Yields 15% of defeated units' [ICON_Strength] Combat Strength as [ICON_Science] Science on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HAMMER_KNIGHT_NAME" Language="en_US">
+			<Text>Hammer Knight</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_HAMMER_KNIGHT_DESCRIPTION" Language="en_US">
+			<Text>Lordaeron unique heavy cavalry unit. +10 [ICON_Strength] Combat Strength when fighting on your capital's continent. [ICON_GreatGeneral] Great General points for killing units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_IRON_GUARDIAN_NAME" Language="en_US">
+			<Text>Iron Guardian</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_IRON_GUARDIAN_DESCRIPTION" Language="en_US">
+			<Text>Dwarf unique Medieval era melee unit. Does not suffer combat penalties when damaged.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EMPEROR_SHIELD_NAME" Language="en_US">
+			<Text>Emperor's Shield</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_EMPEROR_SHIELD_DESCRIPTION" Language="en_US">
+			<Text>Mogu unique Medieval era melee unit, replace swordman. Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Culture] Culture on combat victory</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SAUROK_NAME" Language="en_US">
+			<Text>Saurok</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_SAUROK_DESCRIPTION" Language="en_US">
+			<Text>Mogu unique melee unit. Reduced pillage cost.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STONEBORN_NAME" Language="en_US">
+			<Text>Stoneborn</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_STONEBORN_DESCRIPTION" Language="en_US">
+			<Text>Mogu unique Medieval era anticavalry unit. Does not suffer combat penalties when damaged.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPIRITBINDER_NAME" Language="en_US">
+			<Text>Spiritbinder</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_SPIRITBINDER_DESCRIPTION" Language="en_US">
+			<Text>Mogu unique Medieval era ranged unit, replace crossbowman. Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Culture] Culture on combat victory</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENORMOUS_QUILEN_NAME" Language="en_US">
+			<Text>Enormous Quilen</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ENORMOUS_QUILEN_DESCRIPTION" Language="en_US">
+			<Text>Mogu unique Medieval cavalry unit. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BRONZE_QUILEN_NAME" Language="en_US">
+			<Text>Bronze Quilen</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_BRONZE_QUILEN_DESCRIPTION" Language="en_US">
+			<Text>Mogu unique Medieval light cavalry unit. Cheaper and don't require Horses.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FLYING_QUILEN_NAME" Language="en_US">
+			<Text>Flying Quilen</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_FLYING_QUILEN_DESCRIPTION" Language="en_US">
+			<Text>Mogu unique air unit, its available earlier in the game.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WARDANCERS_NAME" Language="en_US">
+			<Text>Wardancers</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_WARDANCERS_DESCRIPTION" Language="en_US">
+			<Text>Pandaren unique melee unit. Can move after attacking.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BREWMASTER_NAME" Language="en_US">
+			<Text>Brewmaster</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_BREWMASTER_DESCRIPTION" Language="en_US">
+			<Text>Pandaren unique anticavalry unit. Heals every turn.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TIGER_RIDER_NAME" Language="en_US">
+			<Text>Tiger Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_TIGER_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Pandaren unique Medieval era heavy cavalry unit. Does not suffer combat penalties when damaged.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CRANE_RIDER_NAME" Language="en_US">
+			<Text>Crane Rider</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_CRANE_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Pandaren unique Medieval light cavalry unit. Faster and don't require Horses.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KITE_NAME" Language="en_US">
+			<Text>Kite</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_KITE_DESCRIPTION" Language="en_US">
+			<Text>Pandaren unique air unit, its available earlier in the game.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PANDAREN_MONK_NAME" Language="en_US">
+			<Text>Monk</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_PANDAREN_MONK_DESCRIPTION" Language="en_US">
+			<Text>Pandaren unique melee unit, replace Warrior. Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ORC_WARLOCK_NAME" Language="en_US">
+			<Text>Orc Warlock</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ORC_WARLOCK_DESCRIPTION" Language="en_US">
+			<Text>Orc unique ranged unit. Heals every turn, even after moving or combat.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DREADNAUGHT_NAME" Language="en_US">
+			<Text>Dreadnaught</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_DREADNAUGHT_DESCRIPTION" Language="en_US">
+			<Text>Orc unique ranged naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FEL_ORC_NAME" Language="en_US">
+			<Text>Fel Orc</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_FEL_ORC_DESCRIPTION" Language="en_US">
+			<Text>Orc unique Medieval era unit. 4 [ICON_Movement] Movement if this unit starts in enemy territory. +7 [ICON_Strength] Combat Strength when attacking and -7 [ICON_Strength] Combat Strength when defending.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NAGA_MYRMIDON_NAME" Language="en_US">
+			<Text>Naga Myrmidon</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_NAGA_MYRMIDON_DESCRIPTION" Language="en_US">
+			<Text>Unique anti-cavalry Medieval era unit. +7 [ICON_Strength] Combat Strength on coastal tiles. </Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NAGA_SIREN_NAME" Language="en_US">
+			<Text>Naga Siren</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_NAGA_SIREN_DESCRIPTION" Language="en_US">
+			<Text>Unique ranged unit that replace the Archer, but it's stronger and available later in the Classical Era. +7 [ICON_Strength] Combat Strength on coastal tiles. </Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DEMON_HUNTER_NAME" Language="en_US">
+			<Text>Demon Hunter</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_DEMON_HUNTER_DESCRIPTION" Language="en_US">
+			<Text>Unique melee unit. Can move after attacking.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NETHERWING_DRAGONFLIGHT_NAME" Language="en_US">
+			<Text>Netherwing Dragonflight</Text>
+			<Gender>Masculine:a</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_NETHERWING_DRAGONFLIGHT_DESCRIPTION" Language="en_US">
+			<Text>Illidari unique air unit, its available earlier in the game.</Text>
+		</Row>
+		<!-- END MORE UNITS-->
+		<Row Tag="LOC_IMPROVEMENT_GOBLIN_RESORT_NAME" Language="en_US">
+			<Text>Goblin Resort</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GOBLIN_RESORT_DESCRIPTION"  Language="en_US">
+			<Text>Provides double the tile's Appeal in [ICON_Tourism] Tourism. Can only be built on Coastal Desert, Coastal Plains, or Coastal Grassland tiles. Minimum Appeal of Breathtaking. Give +1 Gold and +1 Culture.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SERPENTS_SPINE_NAME" Language="en_US">
+			<Text>Serpent's Spine</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SERPENTS_SPINE_DESCRIPTION"  Language="en_US">
+			<Text>Provides an increase to [ICON_Strength] Defense. Bonus to [ICON_Gold] Gold if adjacent to other segments. Additional [ICON_Culture] Culture and [ICON_Tourism] Tourism as you advance through the Technology Tree for adjacent segments. Must be built in a line along the borders of your empire.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MOGU_STATUES_NAME" Language="en_US">
+			<Text>Mogu Statues</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MOGU_STATUES_DESCRIPTION"  Language="en_US">
+			<Text>+1 [ICON_Faith] Faith and +1 [ICON_Culture] Culture. Cannot be built on Snow or Snow Hills.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PANDAREN_BREWERY_NAME" Language="en_US">
+			<Text>Pandaren Brewery</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PANDAREN_BREWERY_DESCRIPTION"  Language="en_US">
+			<Text>+2 [ICON_Food] Food. +1 [ICON_Gold] Gold for every Farm next to it. Can only be built on Plains or Grasslands next to a River.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_STEAM_PUMP_NAME" Language="en_US">
+			<Text>Steam Pump</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_STEAM_PUMP_DESCRIPTION"  Language="en_US">
+			<Text>+2 [ICON_Production] Production. +1 [ICON_Gold] Gold for every fishing boats next to it. It can only be built on coast tiles and has to be more than 3 tiles distance from another Steam Pump.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MANAFORGE_NAME" Language="en_US">
+			<Text>Manaforge</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MANAFORGE_DESCRIPTION"  Language="en_US">
+			<Text>+2 [ICON_Production] Production. +1 [ICON_Science] Science for every mine next to it. It has to be more than 2 tiles distance from another Manaforge.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DRAGON_NEST_NAME" Language="en_US">
+			<Text>Dragon Nest</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DRAGON_NEST_DESCRIPTION" Language="en_US">
+			<Text>A unique building that adds 2 air slots in the city center. +1 [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DEMONIC_PORTAL_NAME" Language="en_US">
+			<Text>Demonic Portal</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DEMONIC_PORTAL_DESCRIPTION" Language="en_US">
+			<Text>Burning Legion unique building that replace the Barracks. +40% combat experience for all melee and ranged land units trained in this city. Gives 2 [ICON_Production] Production, 2 Points for Great Generals and 1 Housing. Adds to air slots.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_KITE_FACTORY_NAME" Language="en_US">
+			<Text>Kite Factory</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_KITE_FACTORY_DESCRIPTION" Language="en_US">
+			<Text>A unique building that adds 2 air slots in the city center. +1 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SLAVE_STONEWORK_NAME" Language="en_US">
+			<Text>Slave Stonework</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SLAVE_STONEWORK_DESCRIPTION" Language="en_US">
+			<Text>Unique Mogu Building that replace the Workshop. Gives +3 [ICON_Production] Production and +2 Points for Great Engineer. Provides two slots for Air Units.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

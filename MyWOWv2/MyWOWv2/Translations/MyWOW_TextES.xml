@@ -1,0 +1,1840 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_MYWOW_DISTRICT_MOUNTAIN_PRODUCTION" Language="es_ES">
+			<Text>+1 de Producción [ICON_Production] por Montañas.</Text>
+		</Replace>
+		<Replace Tag="LOC_MYWOW_DISTRICT_FOREST_CULTURE" Language="es_ES">
+			<Text>+1 [ICON_Culture] Culture for Forest</Text>
+		</Replace>
+		<Replace Tag="LOC_MYWOW_DISTRICT_FOREST_FAITH" Language="es_ES">
+			<Text>+1 [ICON_Faith] Faith for Forest</Text>
+		</Replace>
+		<Replace Tag="LOC_MYWOW_DISTRICT_MOUNTAIN_FAITH" Language="es_ES">
+			<Text>+1 de Fe [ICON_Faith] por Montañas.</Text>
+		</Replace>
+		<Replace Tag="LOC_MYWOW_DISTRICT_MOUNTAIN_CULTURE" Language="es_ES">
+			<Text>+1 de Cultura [ICON_Culture] por Montañas.</Text>
+		</Replace>
+		<!-- ORCS | GARROSH -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_GARROSH_HELLSCREAM" Language="es_ES">
+			<Text>Garrosh Grito Infernal fue el Jefe de Guerra de la Horda, sucesor de Thrall. Garrosh creció en Draenor a la sombra de su padre, el gran guerrero Grommash Grito Infernal. Como Jefe de Guerra del clan Grito de Guerra, Grom fue el primer líder orco que bebió la sangre de Mannoroth, subyugando a los orcos a la voluntad de la Legión. Antes de esto, Garrosh se encontraba entre el grupo de orcos que habían contraído la viruela roja. Habían estado en cuarentena en la lejana Nagrand, lo que les permitió escapar de la corrupción demoníaca. El joven Grito Infernal pasó años avergonzándose de su padre hasta que conoció a Thrall y se enteró de la heroica redención de Grom. Desde entonces Garrosh ha abrazado su potencial como líder fuerte, de forma más notable en Rasganorte, donde dirigió el avance de la Horda a través de la Tundra Boreal y se ganó los corazones de su gente. Inflexible y ferozmente orgulloso, Grito Infernal pretende restaurar la gloria de los orcos por cualquier medio.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MYWOW_MELEE_UNITS_BONUS_DESCRIPTION" Language="es_ES">
+			<Text>+10 a la Fuerza de combate [ICON_Strength] de las todas las unidades cuerpo a cuerpo.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MYWOW_BONUS_FOREING_CONTINENT_MODIFIER" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_Strength] al luchar en un continente diferente al de tu capital [ICON_Capital].</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_KOR_KRON_NAME" Language="es_ES">
+			<Text>Kor'Kron</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_KOR_KRON_DESCRIPTION" Language="es_ES">
+			<Text>Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como cultura [ICON_Culture].</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_WOLF_RIDER_NAME" Language="es_ES">
+			<Text>Jinetes Lobo</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_WOLF_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Más rapidos en los Bosques y Junglas. Puede ver atraves de Bosques y Junglas. </Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RAZORHILL" Language="es_ES">
+			<Text>Cerrotajo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CROSSROADS" Language="es_ES">
+			<Text>El Cruce</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KROM_GAR_FORTRESS" Language="es_ES">
+			<Text>Fortaleza Krom'Gar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VALLEY_OF_TRIALS" Language="es_ES">
+			<Text>Valle de las Pruebas</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SPLINTERTREE_POST" Language="es_ES">
+			<Text>Puesto del Hachazo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DESOLATION_HOLD" Language="es_ES">
+			<Text>Bastión de la Desolación</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRACKENWALL_VILLAGE" Language="es_ES">
+			<Text>Poblado Murohelecho</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DREADMAUL" Language="es_ES">
+			<Text>Bastión Machacamiedo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STONARD" Language="es_ES">
+			<Text>Rocal</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CRUSHBLOW" Language="es_ES">
+			<Text>Machacolpe</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HAMMERFALL" Language="es_ES">
+			<Text>Sentencia</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DRAGONMAW_PORT" Language="es_ES">
+			<Text>Puerto Faucedraco</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLOODGULCH" Language="es_ES">
+			<Text>Garganta de Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WARSONG_HOLD" Language="es_ES">
+			<Text>Bastión Grito de Guerra</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOR_GOROK_OUTPOST" Language="es_ES">
+			<Text>Avanzada Bor'gorok</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AGMAR_HAMMER" Language="es_ES">
+			<Text>Martillo de Agmar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CONQUEST_HOLD" Language="es_ES">
+			<Text>Bastión de la Conquista</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MOR_SHAN_RAMPART" Language="es_ES">
+			<Text>Empalizada Mor'shan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FAR_WATCH_POST" Language="es_ES">
+			<Text>Avanzada del Puente</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLOODVENOM_POST" Language="es_ES">
+			<Text>Puesto del Veneno</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HONEYDEW_VILLAGE" Language="es_ES">
+			<Text>Poblado Almibar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GROOKIN_HILL" Language="es_ES">
+			<Text>Cerro Makaku</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_EASTWIND_REST" Language="es_ES">
+			<Text>Reposo Viento del Este</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DOMINATION_POST" Language="es_ES">
+			<Text>Punto de Dominio</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THE_FOLD" Language="es_ES">
+			<Text>El Redil</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FROSTWOLF" Language="es_ES">
+			<Text>Frostwolf</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DARK_PORTAL" Language="es_ES">
+			<Text>Portal Oscuro</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLACK_MORASS" Language="es_ES">
+			<Text>Morass Negro</Text>
+		</Replace>
+		<!-- END OF ORCS | GARROSH -->
+		<!-- TROLLS | VOL'JIN -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_VOL_JIN" Language="es_ES">
+			<Text>Vol'jin, el cazador de sombras, hijo de Sen'jin, es el actual jefe de los trol de la Tribu Lanza Negra, a la que gobierna desde las Islas del Eco, tras jurar lealtad a Thrall y a la Horda. Vol’jin ha jurado hacer todo lo que esté a su alcance para gobernar a la tribu Lanza Negra tal y como lo habría hecho su difunto padre, Sen'jin. Durante años Vol'jin vivió en Orgrimmar, ofreciendo consejo estratégico a Thrall y ayudando en operaciones críticas como la recuperación de Entrañas después de que el bastión de los Renegados fuera usurpado por el Gran Boticario Putress y el Señor del Terror Varimathras. </Text>
+		</Replace>
+		<Replace Tag="LOC_FOREST_JUNGLE_COMBAT_BONUS_MODIFIER_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades obtienen +5 [ICON_Strength] cuando luchan en Bosques o Junglas.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_AXETHROWER_NAME" Language="es_ES">
+			<Text>Lanzadores de Hachas</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_AXETHROWER_DESCRIPTION" Language="es_ES">
+			<Text>Puede atacar dos veces por turno.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HEADHUNTER_NAME" Language="es_ES">
+			<Text>Arrancacabezas</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HEADHUNTER_DESCRIPTION" Language="es_ES">
+			<Text>+5 [ICON_Strength] Fuerza de combate contra las unidades de caballeria.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_RAPTOR_RIDER_NAME" Language="es_ES">
+			<Text>Jinetes Raptor</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_RAPTOR_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>-3 [ICON_Strength] Fuerza de Combate de los enemigos a su lado.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DARKSPEAR_ISLE" Language="es_ES">
+			<Text>Isla Lanza Negra</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ECHO_ISLES" Language="es_ES">
+			<Text>Islas del Eco</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SHADOWPREY" Language="es_ES">
+			<Text>Shadowprey</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ZORAM_GAR" Language="es_ES">
+			<Text>Zoram’gar Outpost</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SWAMPRAT" Language="es_ES">
+			<Text>Swamprat Post</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SHATTERSPEAR_VALE" Language="es_ES">
+			<Text>Shatterspear Vale</Text>
+		</Replace>
+		<!-- END OF TROLLS | VOL'JIN -->
+		<!-- TAUREN | BAINE_BLOODHOOF -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_BAINE_BLOODHOOF" Language="es_ES">
+			>
+			<Text>Baine Pezuña de Sangre es el Gran Jefe de los Tauren, hijo de Cairne Pezuña de Sangre y Tamaala, Baine lucho junto a su padre por el honor y el respeto y contribuyo en la defensa de su gente cuando se establieron en Mulgore como su hogar.</Text>
+		</Replace>
+		<Replace Tag="LOC_MYWOW_COMBAT_PLAINS_BONUS_MODIFIER_DESCRIPTION" Language="es_ES">
+			<Text>+5 Fuerza de Combate [ICON_Strength] en las Llanuras</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TAUREN_BRAVE_NAME" Language="es_ES">
+			<Text>Valiente Tauren</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TAUREN_BRAVE_DESCRIPTION" Language="es_ES">
+			<Text>Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_KODO_RIDER_NAME" Language="es_ES">
+			<Text>Bestia Kodo</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_KODO_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THUNDER_BLUFF" Language="es_ES">
+			<Text>Cima Trueno</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLOODHOOF" Language="es_ES">
+			<Text>Pezuña de Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CAMP_NARACHE" Language="es_ES">
+			<Text>Campamento Narache</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THE_BIG_DOOR" Language="es_ES">
+			<Text>La Gran Puerta</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VENDETTA_POINT" Language="es_ES">
+			<Text>Vendetta Point</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HUNTERS_HILL" Language="es_ES">
+			<Text>Colina de Cazadores</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SUNROCK_RETREATE" Language="es_ES">
+			<Text>Refugio Retiro del Sol</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CLIFFWALKER_POST" Language="es_ES">
+			<Text>Puesto Caminarrisco</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WESTREACH_SUMMIT" Language="es_ES">
+			<Text>Cima Tramo Oeste</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CAMP_MOJACHE" Language="es_ES">
+			<Text>Campamento Mojache</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FREEWIND_POST" Language="es_ES">
+			<Text>Poblado Viento Libre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CAMP_ATAYA" Language="es_ES">
+			<Text>Campamento Ataya</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TAUNKALE_VILLAGE" Language="es_ES">
+			<Text>Taunka'le Village</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WINTERHOOF" Language="es_ES">
+			<Text>Pezuña Invernal</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CAMP_ONEGWAH" Language="es_ES">
+			<Text>Campamento Onegwah</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CAMP_TUNKALO" Language="es_ES">
+			<Text>Campamento Tunka'lo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THUNDER_CLEFT" Language="es_ES">
+			<Text>Grieta del Trueno</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NEW_TAURAJO" Language="es_ES">
+			<Text>Nuevo Taurajo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ICEMIST" Language="es_ES">
+			<Text>Icemist</Text>
+		</Replace>
+		<!-- END OF TAUREN | BAINE_BLOODHOOF -->
+		<!-- FORSAKEN | SYLVANAS -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_SYLVANAS_WINDRUNNER" Language="es_ES">
+			<Text>Sylvanas Brisaveloz es una antigua General Forestal de Lunargenta. Actualmente es la líder de los Renegados. Sylvanas fue capaz de reclamar Lordaeron y hacerlo el hogar de los Renegados debajo la antigua Ciudad Capital, rellamandola Entrañas. </Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ABOMINATION_NAME" Language="es_ES">
+			<Text>Horrible Abominación</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ABOMINATION_DESCRIPTION" Language="es_ES">
+			<Text>-5 a la Fuerza de combate [ICON_Strength] a unidades enemigas adyacentes.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_UNDERCITY" Language="es_ES">
+			<Text>Entrañas</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DEATHKNELL" Language="es_ES">
+			<Text>Camposanto</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BULWARK" Language="es_ES">
+			<Text>El Baluarte</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRILL" Language="es_ES">
+			<Text>Rémol</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SEPULCHER" Language="es_ES">
+			<Text>El Sepulcro</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBER_MILL" Language="es_ES">
+			<Text>Molino Ambar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SLUDGE_FIELDS" Language="es_ES">
+			<Text>Campo de Trabalomas</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SOUTHSHORE" Language="es_ES">
+			<Text>Costasur</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TARREN_MILL" Language="es_ES">
+			<Text>Molino Tarren</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VENGEANCE_LANDING" Language="es_ES">
+			<Text>Campo Venganza</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NEW_AGAMAND" Language="es_ES">
+			<Text>Nuevo Agamand</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VENOMSPITE" Language="es_ES">
+			<Text>Rencor Venenoso</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SOUTHPOINT_GATE" Language="es_ES">
+			<Text>Puerta del Sud</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DREADKWAKES_LANDING" Language="es_ES">
+			<Text>Desembarco Rastro del Pavor</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AGAMAND_MILLS" Language="es_ES">
+			<Text>Molinos de Agamand</Text>
+		</Replace>
+		<!-- END OF FORSAKEN | SYLVANAS -->
+		<!-- BLOOD ELVES | LOR_THEMAR_THERON -->
+		<Replace Tag="LOC_CIVILIZATION_BLOOD_ELVES_NAME" Language="es_ES">
+			<Text>Elfos de Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLOOD_ELVES_DESCRIPTION" Language="es_ES">
+			<Text>Elfos de Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLOOD_ELVES_ADJECTIVE" Language="es_ES">
+			<Text>Elfo de Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_LOR_THEMAR_THERON_NAME" Language="es_ES">
+			<Text>Lor'Themar Theron</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_LOR_THEMAR_THERON" Language="es_ES">
+			<Text>Lor'themar Theron el Señor Regente de Quel'Thalas y lider de los elfos de sangre de Azeroth en abscencia de el Prince Kael'thas Sunstrider. Despues de la traición de Kael'thas y su muerte, Lor'themar se convirtio el el lider de su gente y busca liderarlos a un futuro brillante. </Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CHILDREN_OF_THE_BLOOD_NAME" Language="es_ES">
+			<Text>Hijos de la Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CHILDREN_OF_THE_BLOOD_DESCRIPTION" Language="es_ES">
+			<Text>Las victorias en combate proporcionan Cultura [ICON_Culture] equivalente al 50% de la Fuerza de combate [ICON_Strength] de la unidad derrotada. Los recursos de lujo de su territorio otorgan Servicios [ICON_Amenities] a 2 ciudades extra.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DEFENSOR_OF_QUEL_THALAS_NAME" Language="es_ES">
+			<Text>Defensor de Quel'Thalas</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DEFENSOR_OF_QUEL_THALAS_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades reciben +5 a la Fuerza de combate [ICON_Strength] en su territorio o adyacente.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SPELL_BREAKER_NAME" Language="es_ES">
+			<Text>Deshacedor de hechizos</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SPELL_BREAKER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo única de los Elfos, remplaza el Soldado con Espada. +5 de Fuerza de Combate [ICON_Strength] contra unidades a distancia y +7 Fuerza de Combate [ICON_Strength] defensandose de ataques a distancia.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SPELL_BREAKER_NAME" Language="es_ES">
+			<Text>Deshacedor de hechizos</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SPELL_BREAKER_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate [ICON_Strength] contra unidades a distancia y +7 Fuerza de Combate [ICON_Strength] defensandose de ataques a distancia.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELF_MAGE_NAME" Language="es_ES">
+			<Text>Elfo Mago</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELF_MAGE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia única de los Elfos, remplaza el Ballestero. Tiene más ataque que el Ballestero y se cura en cada turno, incluso despues de moverse o luchar.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ELF_MAGE_NAME" Language="es_ES">
+			<Text>Mago Elfo</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ELF_MAGE_DESCRIPTION" Language="es_ES">
+			<Text>Se cura en cada turno, incluso despues de moverse o luchar.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_ARCANE_SANCTUM_NAME" Language="es_ES">
+			<Text>Santuario Arcano</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_ARCANE_SANCTUM_DESCRIPTION" Language="es_ES">
+			<Text>Mejora única de los Elfos de Sangre. +1 de Fe [ICON_Faith] y +1 de Cultura [ICON_Culture]. +1 de Fe [ICON_Faith] si se encuentra al lado de una maravilla. No puede construirse al lado de otro Santuario Arcano y solo en Praderas o Llanuras.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SILVERMOON" Language="es_ES">
+			<Text>Lunargenta</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FAIRBREEZE" Language="es_ES">
+			<Text>Brisa Pura</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SUNSTRIDER" Language="es_ES">
+			<Text>Caminante del Sol</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DAWNSTAR" Language="es_ES">
+			<Text>Estrella del Alba</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SUNSAIL_ANCHORAGE" Language="es_ES">
+			<Text>Fondeadero Vela del Sol</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SUNCROWN_VILLAGE" Language="es_ES">
+			<Text>Corona del Sol</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GOLDENMIST_VILLAGE" Language="es_ES">
+			<Text>Bruma Dorada</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WINDRUNNER_VILLAGE" Language="es_ES">
+			<Text>Aldea Brisaveloz</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FARSTRIDER_ENCLAVE" Language="es_ES">
+			<Text>Enclave del Errante</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WINDRUNNER_SPIRE" Language="es_ES">
+			<Text>Aguja Brisaveloz</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SUNS_REACH" Language="es_ES">
+			<Text>Tramo del Sol</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SUNVELL_EXCURSION" Language="es_ES">
+			<Text>Excursión  Velosolar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SUNREAVER_COMMAND" Language="es_ES">
+			<Text>Dominio de los Atracasol</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TEMPEST_KEEP" Language="es_ES">
+			<Text>Tempest Keep</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FALCON_WATCH" Language="es_ES">
+			<Text>Falcon Watch</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FIREWING_POINT" Language="es_ES">
+			<Text>Firewing Point</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ECLIPSE_POINT" Language="es_ES">
+			<Text>Eclipse Point</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SUNFURY_HOLD" Language="es_ES">
+			<Text>Sunfury Hold</Text>
+		</Replace>
+		<!-- END OF BLOOD ELVES | LOR_THEMAR_THERON -->
+		<!-- GOBLINS | GALLYWIX -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JASTOR_GALLYWIX" Language="es_ES">
+			<Text>El príncipe mercante Jastor Gallywix es el malvado lider del Cártel Pantoque, uno de los mas poderosos gremios de comercio goblin en Kezan. A pesar de traicionar a su propia gente como acto de venganza, mantiene su posición como Príncipe Mercante del Cártel en su servicio a la Horda.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_UNDERMINE" Language="es_ES">
+			<Text>Minahonda</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BILGEWATER_PORT" Language="es_ES">
+			<Text>Puerto Pantoque</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GALLYWIX_DOCKS" Language="es_ES">
+			<Text>Muelles de Gallywix</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOWNINABOX" Language="es_ES">
+			<Text>Ciudad de Bolsillo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BILGEWATER_HARBOUR" Language="es_ES">
+			<Text>Muelle Pantoque</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GALLYWIX_PLEASURE_PALACE" Language="es_ES">
+			<Text>Palacete de Gallywix</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KRAZZWORKS" Language="es_ES">
+			<Text>La Krazzería</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NOZZLEPOTS_OUTPOST" Language="es_ES">
+			<Text>Avanzada Ollaboquilla</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HARDWRENCH_HIDEAWAY" Language="es_ES">
+			<Text>Escondrijo Malallave</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SLUDGEWERKS" Language="es_ES">
+			<Text>Los Fangados</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NORTHERN_ROCKETWAY" Language="es_ES">
+			<Text>Norte Rocketway</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SOUTHERN_ROCKETWAY" Language="es_ES">
+			<Text>Sud Rocketway</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GOBLIN_SLUMS" Language="es_ES">
+			<Text>Suburbios Goblin</Text>
+		</Replace>
+		<!-- END OFGOBLINS | GALLYWIX -->
+		<!-- STORMWIND | VARIAN -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_VARIAN_WRYNN" Language="es_ES">
+			<Text>Varian Wrynn, hijo de Rey Llane Wrynn, es el líder de la Alianza y Rey de Ventormenta. Bajo su liderato, los humanos de Ventormenta llevaron la victoria de la Alianza contra el Rey Exánime en Rasganorte. Ahora busca reforzar sus posesiones estratégicas contra su enemigo, La Horda.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_7HLEGION_NAME" Language="es_ES">
+			<Text>7a Legion</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_7HLEGION_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_Strength] en el mismo continente de su  Capital [ICON_Capital].</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STORMWIND" Language="es_ES">
+			<Text>Ventormenta</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WESTRIDGE" Language="es_ES">
+			<Text>Arroyoeste</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GOLDSHIRE" Language="es_ES">
+			<Text>Villadorada</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SENTINEL_HILL" Language="es_ES">
+			<Text>Colina del Centinela</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MOONBROOK" Language="es_ES">
+			<Text>Arroyo de la Luna</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NORTHSHIRE" Language="es_ES">
+			<Text>Villanorte</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_EASTVALE" Language="es_ES">
+			<Text>Vega del Este</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DARKSHIRE" Language="es_ES">
+			<Text>Villa Oscura</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LAKESHIRE" Language="es_ES">
+			<Text>Villa del Lago</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MARSHTIDE_WATCH" Language="es_ES">
+			<Text>Marea Pantanosa</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NETHERGARDE_KEEP" Language="es_ES">
+			<Text>Nethergarde</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VICTORS_POINT" Language="es_ES">
+			<Text>Paso del Invicto</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HIGHBANK" Language="es_ES">
+			<Text>Bancalto</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_REFUGE_POINT" Language="es_ES">
+			<Text>Refugio de la Saga</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NORTHWATCH_HOLD" Language="es_ES">
+			<Text>Fuerte del Norte</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FORT_TRIUMPH" Language="es_ES">
+			<Text>Fuerte Triunfo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HONORS_STAND" Language="es_ES">
+			<Text>Alto del Honor</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WESTGUARDE_KEEP" Language="es_ES">
+			<Text>Fortaleza Guardia Oeste</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FORT_WILDERVAR" Language="es_ES">
+			<Text>Fuerte Vildervar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBERPINE_LODGE" Language="es_ES">
+			<Text>Pino Ámbar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FORDRAGON_HOLD" Language="es_ES">
+			<Text>Bastión de Fordragón</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VALIANCE_KEEP" Language="es_ES">
+			<Text>Fortaleza Denuedo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WINTERGARDE_KEEP" Language="es_ES">
+			<Text>Hibergarde</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LIONS_LANDING" Language="es_ES">
+			<Text>Desembarco del León</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PAWDON_VILLAGE" Language="es_ES">
+			<Text>Aldea Zarpa'Don</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PEARLFIN_VILLAGE" Language="es_ES">
+			<Text>Aleta de Nacar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WESTWIND_REST" Language="es_ES">
+			<Text>Reposo Viento Oeste</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STONEWATCH" Language="es_ES">
+			<Text>Petravista</Text>
+		</Replace>
+		<!-- END OF STORMWIND | VARIAN -->
+		<!-- IRONFORGE | MURADIN_BRONZEBEARD -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_MURADIN_BRONZEBEARD" Language="es_ES">
+			<Text>Muradin Barbabronce es un heroe de la Alianza, el hermano mayor del Rey King Magni Barbabronce y el hermano mayor del renombrado Explorador Brann Barbabronce. Muradin se pensaba que habia fallecido en Rasganorte. Magni se convirtió en piedra despues de realizar el ritual Old Ironforge; Muradin, su hija de su hermano Moira y Thane Falstad Martillo Salvaje lo succedieron como lideres de los Enanos. </Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_STEAM_TANK_NAME" Language="es_ES">
+			<Text>Tanque de Vapor</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_STEAM_TANK_DESCRIPTION" Language="es_ES">
+			<Text>+7 a la Fuerza a distancia [ICON_Ranged] contra defensas del distrito.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_RAM_RIDER_NAME" Language="es_ES">
+			<Text>Jinetes Carnero</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_RAM_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>+4 [ICON_Strength] Fuerza de Combate en colinas. </Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_IRONFORGE" Language="es_ES">
+			<Text>Forjaz</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ANVILMAR" Language="es_ES">
+			<Text>Yunquemar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBERSTILL_RANCH" Language="es_ES">
+			<Text>Semperambar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AERIE_PEAK" Language="es_ES">
+			<Text>Pico Nidal</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALGAZ_STATION" Language="es_ES">
+			<Text>Estación Algaz</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THUNDERMAR" Language="es_ES">
+			<Text>Bramal</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FROSTHOLD" Language="es_ES">
+			<Text>Fuerte Escarcha</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FORT_LIVINGSTON" Language="es_ES">
+			<Text>Fuerte Livingston</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_COLDRIDGE" Language="es_ES">
+			<Text>Crestanevada</Text>
+		</Replace>
+		<!-- IRONFORGE | MURADIN_BRONZEBEARD -->
+		<!-- NIGHT ELVES | TYRANDE_WHISPERWIND -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_TYRANDE_WHISPERWIND" Language="es_ES">
+			<Text>Tyrande Susurravientos es la más promitente líder de los Elfos de la Noche, escogida Suma sacerdotisa de Elune, antigua general de los Centinelas y Lider de las Hermanas de Elune. Su corazón pertenece al archidruida Malfurion, con quien combatió en el pasado en muchas ocasiones contra los peligros que acecharon a su raza.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_MYWOW_FOREST_COMBAT_BONUS_ELVES_MODIFIER_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate [ICON_Strength] cuando luchan en los Bosques</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SENTINEL_NAME" Language="es_ES">
+			<Text>Centinelas</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SENTINEL_DESCRIPTION" Language="es_ES">
+			<Text>150% Bonus de Flanqueo.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NELF_WARDEN_NAME" Language="es_ES">
+			<Text>Wardens</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NELF_WARDEN_DESCRIPTION" Language="es_ES">
+			<Text>+5 [ICON_Strength] Combat Strength when in your territory or adjacent to your territory.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SABER_RIDER_NAME" Language="es_ES">
+			<Text>Jinetes Saber</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SABER_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Can move after attacking.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STARBREEZE" Language="es_ES">
+			<Text>Brisa Estelar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STARDUST" Language="es_ES">
+			<Text>Polvo Estalar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THALDARAH_GROVE" Language="es_ES">
+			<Text>Arboleda Thal'darah</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WINDSHEAR_HOLD" Language="es_ES">
+			<Text>Bastión Cortaviento</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FARWATCHER_GLEN" Language="es_ES">
+			<Text>Cañada del Vigiaconfines</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NEW_THALANAAR" Language="es_ES">
+			<Text>Nueva Thalanaar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FEATHERMOON_STRONGHOLD" Language="es_ES">
+			<Text>Bastión Plumaluna</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FOREST_SONG" Language="es_ES">
+			<Text>Canción del Bosque</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MAESTRAS_POST" Language="es_ES">
+			<Text>Atalaya de Maestra</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NIJELS_POINT" Language="es_ES">
+			<Text>Punta de Nijel</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TALONBRANCH_GLADE" Language="es_ES">
+			<Text>Claro Ramaespolón</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DREAMERS_REST" Language="es_ES">
+			<Text>Reposo de la Soñadora</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STARFALL_VILLAGE" Language="es_ES">
+			<Text>Estrella Fugaz</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GREENWARDENS_GROVE" Language="es_ES">
+			<Text>Arboleda del Guardaverde</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STARS_REST" Language="es_ES">
+			<Text>Reposo Lunar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THE_INCURSION" Language="es_ES">
+			<Text>La Incursión</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DIRE_MAUL" Language="es_ES">
+			<Text>La Masacre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RAVENWIND" Language="es_ES">
+			<Text>Ravenwind</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DARKMIST" Language="es_ES">
+			<Text>Darkmist</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SOUTHWIND_VILLAGE" Language="es_ES">
+			<Text>Viento del sud</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NIGHTHAVEN" Language="es_ES">
+			<!--Cenarion -->
+			<Text>Amparo de la Noche</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CENARION_HOLD" Language="es_ES">
+			<!--Cenarion -->
+			<Text>Fuerte Cenarion</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MOONSHRINE" Language="es_ES">
+			<Text>Moonshrine</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CONSTELLAS" Language="es_ES">
+			<Text>Constellas</Text>
+		</Replace>
+		<!-- NIGHT ELVES | TYRANDE_WHISPERWIND -->
+		<!-- DRAENEI | VELEN -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_PROPHET_VELEN" Language="es_ES">
+			<Text>Velen ha sido el líder de los Draenei desde el vuelo del Argus 25,000 años antes de la primera invasión de los orcos a Azeroth. Como su título indica, ha sido bendecido con el regalo de la profecía, y ayudado por la Luz a guiado a su gente a huir de la Legión Ardiente.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_VINDICATOR_NAME" Language="es_ES">
+			<Text>Vindicador</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_VINDICATOR_DESCRIPTION" Language="es_ES">
+			<Text>Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como Fe [ICON_Faith] y se cura en cada turno, incluso despues de moverse o luchar.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ELEKK_RIDER_NAME" Language="es_ES">
+			<Text>Jinetes Elekk</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ELEKK_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THE_EXODAR" Language="es_ES">
+			<Text>El Exodar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AZURE_WATCH" Language="es_ES">
+			<Text>Avanzada Azur</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ODESYUS_LANDING" Language="es_ES">
+			<Text>Desembarco de Odesyus</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SILVERMYST_ISLE" Language="es_ES">
+			<Text>Isla Bruma de Plata</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMMEN_VALE" Language="es_ES">
+			<Text>Valle Ammen</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLOOD_WATCH" Language="es_ES">
+			<Text>Avanzada de Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KESSELS_CROSSING" Language="es_ES">
+			<Text>Encrucijada de Kessel</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HARBORAGE" Language="es_ES">
+			<Text>El Puerto</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_EMBAARI_VILLAGE" Language="es_ES">
+			<Text>Aldea Embaari</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RANGARI_ENCLAVE" Language="es_ES">
+			<Text>Enclave Rangari</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STORMSPIRE" Language="es_ES">
+			<Text>Stormspire</Text>
+		</Replace>
+		<!-- DRAENEI | VELEN -->
+		<!-- KINGDOM_GILNEAS | GENN_GREYMANE -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_GENN_GREYMANE" Language="es_ES">
+			<Text>El Señor Genn Cringris es el Rey del Reino de Gilneas. Una vez y otra, el Rey Genn Cringris se ha visto forzado a tomar decisiones dificiles para el bien de Gilneas. Después de la Segunda Guerra, ordeno la construcción de la imprenetrable Muralla de Cringris para proteger Gilneas de amenazas exteriores, aislando la nación del resto del mundo y sus conflictos.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MYWOW_MELEE_UNITS_MOVE_AFTER_ATTACK_DESCRIPTION" Language="es_ES">
+			<Text>Las unidades cuerpo a cuerpo pueden moverse después de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GLF_INFANTRY_NAME" Language="es_ES">
+			<Text>Frente de Liberación Gilneniano</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GLF_INFANTRY_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate [ICON_Strength] cuando atacan.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GILNEAS" Language="es_ES">
+			<Text>Ciudad de Gilneas</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DUSKHAVEN" Language="es_ES">
+			<Text>Duskhaven</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GREYMANE_MANOR" Language="es_ES">
+			<Text>Mansión de Cringris</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KEEL_HARBOUR" Language="es_ES">
+			<Text>Puerto Quilla</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STROMGLEN" Language="es_ES">
+			<Text>Valletormenta</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TEMPESTS_REACH" Language="es_ES">
+			<Text>Tramo de la Tempestad</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_EMBERSTONE" Language="es_ES">
+			<Text>Piedra Ígnea</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PYREWOOD" Language="es_ES">
+			<Text>Pyrewood</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SURWICH" Language="es_ES">
+			<Text>Surwich</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RAVEN_HILL" Language="es_ES">
+			<Text>Colina Cuervo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GREYWATCH" Language="es_ES">
+			<Text>Greywatch</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PURGATION_ISLE" Language="es_ES">
+			<Text>Isla Purgatorio</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SHADOWFANG_KEEP" Language="es_ES">
+			<Text>Castillo Colmillo Oscuro</Text>
+		</Replace>
+		<!-- END OF KINGDOM_GILNEAS | GENN_GREYMANE -->
+		<!-- GNOMES | GELBIN_MEKKATORQUE -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_GELBIN_MEKKATORQUE" Language="es_ES">
+			<Text>Manitas Mayor Gelbin Mekkatorque. El mayor ofició en Gnomeregan, Manitas Mayor, ha sido ostentado por el dotado Gelbin Mekkatorque por los pasados nueve años. Gelbin es uno de los mas renombrados inventores de la historia.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MECHANOSTRIDER_RIDER_NAME" Language="es_ES">
+			<Text>Jinete Mecazancudo</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MECHANOSTRIDER_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Más rapido que los Jinetes e incluso más si empiezan el turno en campo abierto.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TINKERTOWN" Language="es_ES">
+			<Text>Ciudad Manitas</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TINKERS_COURT" Language="es_ES">
+			<Text>Cámara Manitas</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HALL_OF_GEARS" Language="es_ES">
+			<Text>Sala de Máquinas</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CLOCKWERK_RUN" Language="es_ES">
+			<Text>Zona de Carga</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TRAIN_DEPOT" Language="es_ES">
+			<Text>Depósito de Trenes</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOSHLEYS_STATION" Language="es_ES">
+			<Text>Estación de Toshley</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FIZZCRANK_AIRSTRIP" Language="es_ES">
+			<Text>Fizzcrank Airstrip</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NEW_TINKERTOWN" Language="es_ES">
+			<Text>Nueva Ciudad Manitas</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DEEPRUN_TRAM" Language="es_ES">
+			<Text>Tranvía Subterraneo</Text>
+		</Replace>
+		<!-- END OF GNOMES | GELBIN_MEKKATORQUE -->
+		<!-- ARGENT CRUSADE | TIRION -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_TIRION_FORDRING" Language="es_ES">
+			<Text>Tirion Vadín fue Supremo Comandante de la Cruzada Argenta y portador de la espada Crematoria. Uno de los primerps cinco Caballeros de la Mano de Plata escogido por el archibispo Alonsus Faol, Vadín fue un heroe de la Alianza en la Segunda Guerra. La Cruzada Argenta, una organización compuesta por viejos caballeros de la Mano de Plata y Alba Argenta. Tirion lidero la nueva cruzada contra la Plaga durante la invasión de Rasganorte. </Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_PALADIN_NAME" Language="es_ES">
+			<Text>Paladines de la Luz</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_PALADIN_DESCRIPTION" Language="es_ES">
+			<Text>Esta unidad no sufre penalizaciones al combate cuando recibe daños y se cura al derrotar enemigos.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HEARTHGLEN" Language="es_ES">
+			<Text>Hearthglen</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LIGHTS_HOPE" Language="es_ES">
+			<Text>Esperanza de la Luz</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LIGHTS_TRUST" Language="es_ES">
+			<Text>Confianza de la Luz</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LIGHTS_BREACH" Language="es_ES">
+			<Text>Brecha de la Luz</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ARGENT_VANGUARD" Language="es_ES">
+			<Text>Vanguarda Argenta</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ARGENT_STAND" Language="es_ES">
+			<Text>El Confín Argenta</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CRUSADERS_PINNACLE" Language="es_ES">
+			<Text>Pinaculo de los Cruzados</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CROWN_GUARD" Language="es_ES">
+			<Text>Torre de la Corona</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DAWNS_REACH" Language="es_ES">
+			<Text>Dawn's Reach</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TRYS_HAND" Language="es_ES">
+			<Text>Mano de Try</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MARDENHOLDE_KEEP" Language="es_ES">
+			<Text>Mardenholde Keep</Text>
+		</Replace>
+		<!-- END OF ARGENT CRUSADE | TIRION -->
+		<!-- THE_SCOURGE| lich king -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_LICH_KING" Language="es_ES">
+			<Text>El Rey Exánime es el Señor de la Plaga, la cual controla telepaticamente desde el Trono de Hielo en la Ciudadela Corona de Hielo. Kil'jaeden creo el Rey Exànime apartir del espiruto de Chamán Orco Ner'zhul para levantar un ejercito de no muerto que conquistaran Azeroth para la Legion Ardiente. Inicialmente atrapado en el Trono de Hielo, el Rey Exánime traiciono a Kil'jaeden y se fusiono con el Humano Arthas Menethil.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GHOUL_DESCRIPTION" Language="es_ES">
+			<Text>Se cura al derrotar enemigos.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LICH_NAME" Language="es_ES">
+			<Text>Lich</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LICH_DESCRIPTION" Language="es_ES">
+			<Text>+5 [ICON_Strength] Fuerza de Combate en Tundra y Nieve</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ICECROWN_CITADEL" Language="es_ES">
+			<Text>Ciudadela Corona de Hielo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THEFLESHWORKS" Language="es_ES">
+			<Text>The Fleshworks</Text>
+		</Replace>
+		<!-- END OF THE_SCOURGE| lich king -->
+		<!-- AMANI | ZUL'JIN -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ZULJIN" Language="es_ES">
+			<Text>Zul'jin fue el Señor de Guerra de los Trolls del Bosque Amani desde la Segunda Guerra. Zul'jin lucho en su conflicto con los Altos Elfos durante años. Zul'jin se alio con la Horda de los Orcos en la segunda Guerra, pero Zul'jin fue capturado. Cuando finalmente se libero, se huyo para reconstruir su ejercito y destruir los restos de los Altos Elfos, ahora conocidos como Elfos de Sangre y aliados con la nueva Horda.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TROLL_BERSERKER_NAME" Language="es_ES">
+			<Text>Troll Berserker</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TROLL_BERSERKER_DESCRIPTION" Language="es_ES">
+			<Text>+7 [ICON_Strength] Fuerza de Combate cuando ataca.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SHADOWPINE" Language="es_ES">
+			<Text>Shadowpine</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VILEBRANCH" Language="es_ES">
+			<Text>Vilebranch</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SHADOWGLEN" Language="es_ES">
+			<Text>Shadowglen</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WHITERBARK" Language="es_ES">
+			<Text>Whiterbark</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FIRETREE" Language="es_ES">
+			<Text>Firetree</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SMOLDERTHORN" Language="es_ES">
+			<Text>Smolderthorn</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHILLWIND" Language="es_ES">
+			<Text>Orvallo</Text>
+		</Replace>
+		<!-- END OF AMANI | ZUL'JIN  -->
+		<!-- GURUBASHI | JIN'DO -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JINDO" Language="es_ES">
+			<Text>Jin'do fue un poderoso Witch Doctor de la tribu Gurubashi. </Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SOUTHMOON" Language="es_ES">
+			<Text>Southmoon</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NOONSHADE" Language="es_ES">
+			<Text>Noonshade</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_EASTMOON" Language="es_ES">
+			<Text>Eastmoon</Text>
+		</Replace>
+		<!-- END OF GURUBASHI | JIN'DO -->
+		<!-- DRAKKARI | MALAKK -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_MALAKK" Language="es_ES">
+			<Text>El Rey Helado Malakk es el lider de los Trolls de Hielo de Gundrak.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FROSTMANE" Language="es_ES">
+			<Text>Frostmane</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WINTERAX" Language="es_ES">
+			<Text>Winterax</Text>
+		</Replace>
+		<!-- END OF DRAKKARI | MALAKK -->
+		<!-- ZANDALARI | ZANDALARI -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_RASTAKHAN" Language="es_ES">
+			<Text>El Rey Rastakhan gobierna a los Zandalari desde el Trono Dorado. Empoderado por los mismisimos diose de los Zandalari, actua como su voz y gobernando los Trolls des de mas de 200 años.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TROLL_PRELATE_NAME" Language="es_ES">
+			<Text>Troll Prelado</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TROLL_PRELATE_DESCRIPTION" Language="es_ES">
+			<Text>Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como Fe [ICON_Faith].</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HIJI_ISLAND" Language="es_ES">
+			<Text>Isla Hiji</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_YOJAMBA_ISLAND" Language="es_ES">
+			<Text>Isla Yojamba</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RECKONING_ISLAND" Language="es_ES">
+			<Text>Isla Reckoning</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THUNDER_ISLAND" Language="es_ES">
+			<Text>Isla del Trueno</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ISLE_GIANTS" Language="es_ES">
+			<Text>Isla de Gigantes</Text>
+		</Replace>
+		<!-- END OF ZANDALARI | ZANDALARI -->
+		<!-- Religions-->
+		<Replace Tag="LOC_RELIGION_HOLY_LIGHT" Language="es_ES">
+			<Text>Luz Sagrada</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_BLOOD_KNIGHTS" Language="es_ES">
+			<Text>Caballeros de Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_FORGOTEN_SHADOW" Language="es_ES">
+			<Text>Culto de la Sombra Olvidada</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_CULT_DAMMED" Language="es_ES">
+			<Text>Culto de los Malditos</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_ARCANE" Language="es_ES">
+			<Text>Arcano</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_SHAMANISM" Language="es_ES">
+			<Text>Chamanismo</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_DRUIDISM" Language="es_ES">
+			<Text>Druidismo</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_GEOMANCY" Language="es_ES">
+			<Text>Geomancy</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_EARTHMOTHER" Language="es_ES">
+			<Text>Madre Tierra</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_WOW_OLD_GODS" Language="es_ES">
+			<Text>Antiguos Dioses</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_VOODO" Language="es_ES">
+			<Text>Voodo</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_TITANS" Language="es_ES">
+			<Text>Titanes</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_MONEY" Language="es_ES">
+			<Text>Dinero</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_FOREST_LOA" Language="es_ES">
+			<Text>Loas del Bosque</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_TUNDRA_LOA" Language="es_ES">
+			<Text>Loas de la Tundra</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_ZANDALAR_LOA" Language="es_ES">
+			<Text>Loas de Zandalar</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_JUNGLE_LOA" Language="es_ES">
+			<Text>Loas de la Jungla</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_ISLAND_LOA" Language="es_ES">
+			<Text>Loas de la Isla</Text>
+		</Replace>
+		<!-- End of Religions-->
+		<Replace Tag="LOC_CONTINENT_NORTHERN_KALIMDOR_DESCRIPTION" Language="es_ES">
+			<Text>Kalimdor Norte</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_CENTRAL_KALIMDOR_DESCRIPTION" Language="es_ES">
+			<Text>Kalimdor Central</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_SOUTHERN_KALIMDOR_DESCRIPTION" Language="es_ES">
+			<Text>Kalimdor Sud</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_NORTHREND_DESCRIPTION" Language="es_ES">
+			<Text>Rasganorte</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_SOUTH_SEAS_DESCRIPTION" Language="es_ES">
+			<Text>Mares del Sud</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_BROKEN_ISLES_DESCRIPTION" Language="es_ES">
+			<Text>Islas Rotas</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_LORDAERON_DESCRIPTION" Language="es_ES">
+			<Text>Lordaeron</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_KHAZ_MODAN_DESCRIPTION" Language="es_ES">
+			<Text>Khaz Modan</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_AZEROTH_DESCRIPTION" Language="es_ES">
+			<Text>Azeroth</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_KUL_TIRAS_DESCRIPTION" Language="es_ES">
+			<Text>Kul Tiras</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_QUEL_THALAS_DESCRIPTION" Language="es_ES">
+			<Text>Qhel'Thalas</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_TELDRASSIL_DESCRIPTION" Language="es_ES">
+			<Text>Teldrassil</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_PANDARIA_DESCRIPTION" Language="es_ES">
+			<Text>Pandaria</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_KEZAN_DESCRIPTION" Language="es_ES">
+			<Text>Kezan</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_MAELSTROM_DESCRIPTION" Language="es_ES">
+			<Text>Maelstrom</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_ZANDALAR_DESCRIPTION" Language="es_ES">
+			<Text>Zandalar</Text>
+		</Replace>
+		<!-- MORE UNITS-->
+		<Replace Tag="LOC_ABILITY_SUNWALKER_NAME" Language="es_ES">
+			<Text>Caminasol</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SUNWALKER_DESCRIPTION" Language="es_ES">
+			<Text>Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como Fe [ICON_Faith].</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DEATH_GUARD_NAME" Language="es_ES">
+			<Text>Guardian de la Muerte</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DEATH_GUARD_DESCRIPTION" Language="es_ES">
+			<Text>-3 [ICON_Strength] Fuerza de Combate de los enemigos a su lado.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BLOOD_KNIGHT_NAME" Language="es_ES">
+			<Text>Caballeros de Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BLOOD_KNIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como Fe [ICON_Faith].</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GLAIVE_THROWER_NAME" Language="es_ES">
+			<Text>Lanza Agujas</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GLAIVE_THROWER_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza a distancia [ICON_Ranged] contra unidades terrestres.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ARCANE_GOLEM_NAME" Language="es_ES">
+			<Text>Golem Arcano</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ARCANE_GOLEM_DESCRIPTION" Language="es_ES">
+			<Text>Cuando derrota un enemigo da un 15% de la Fuerza de Combate [ICON_Strength] del enemigo como Ciencia [ICON_Science].</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BRUISER_NAME" Language="es_ES">
+			<Text>Matón</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BRUISER_DESCRIPTION" Language="es_ES">
+			<Text>Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como Oro [ICON_Gold].</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BROTHERHOOD_HORSE_NAME" Language="es_ES">
+			<Text>Hermandad del Caballo</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BROTHERHOOD_HORSE_DESCRIPTION" Language="es_ES">
+			<Text>+5 Fuerza de Combate contra unidad de anti-caballeria.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SENTINEL_WARRIOR_NAME" Language="es_ES">
+			<Text>Guerrera Centinela</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SENTINEL_WARRIOR_DESCRIPTION" Language="es_ES">
+			<Text>Cuando derrotan un enemigo, difunden su religion a las ciudades cercanas.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ANCIENT_PROTECTOR_NAME" Language="es_ES">
+			<Text>Anciano Protector</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ANCIENT_PROTECTOR_DESCRIPTION" Language="es_ES">
+			<Text>+10 a la Fuerza de combate [ICON_Strength] cuando hay un Apóstol, Inquisidor o Misionero en el mismo hexágono.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LIGHTS_CHOSEN_NAME" Language="es_ES">
+			<Text>Elegidos de la Luz</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LIGHTS_CHOSEN_DESCRIPTION" Language="es_ES">
+			<Text>Se cura al final de cada turno, incluso después de moverse o atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DOOMGUARD_NAME" Language="es_ES">
+			<Text>Guardia Apocalíptico</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DOOMGUARD_DESCRIPTION" Language="es_ES">
+			<Text>Con menos ataque pero con más movimiento y puede moverse despues de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_FELHOUND_NAME" Language="es_ES">
+			<Text>Felhound</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_FELHOUND_DESCRIPTION" Language="es_ES">
+			<Text>Esta unidad se cura al derrotar enemigos.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAGA_MYRMIDON_NAME" Language="es_ES">
+			<Text>Naga</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAGA_MYRMIDON_DESCRIPTION" Language="es_ES">
+			<Text>+7 [ICON_Strength] Fuerza de Combate en casillas costeras.</Text>
+		</Replace>
+		<!-- END MORE UNITS-->
+		<!-- City States-->
+		<!-- STORMGARDE-->
+		<Replace Tag="LOC_MINOR_CIV_STORMGARDE_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>-50% hastío bélico por combate en tu territorio.</Text>
+		</Replace>
+		<Replace Tag="LOC_STORMGARDE_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Stormgarde</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TROLLBANE_HALL" Language="es_ES">
+			<Text>Trollbane Hall</Text>
+		</Replace>
+		<!-- ALTERAC-->
+		<Replace Tag="LOC_MINOR_CIV_ALTERAC_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Minas ganan +1 [ICON_Culture] Cultura.</Text>
+		</Replace>
+		<Replace Tag="LOC_ALTERAC_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Alterac</Text>
+		</Replace>
+		<!-- KUL_TIRAS-->
+		<Replace Tag="LOC_MINOR_CIV_KUL_TIRAS_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los distritos ganan +1 [ICON_Gold] Oro por estar adyacentes a la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_KUL_TIRAS_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Kul Tiras</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WAYCREST_MANOR" Language="es_ES">
+			<Text>Waycrest Manor</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SHIRE_OF_THE_STORM" Language="es_ES">
+			<Text>Shrine of the Storm</Text>
+		</Replace>
+		<!-- THERAMORE-->
+		<Replace Tag="LOC_MINOR_CIV_THERAMORE_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los distritos ganan +1 [ICON_Science] Ciencia por estar adyacentes a la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_THERAMORE_DESCRIPTION" Language="es_ES">
+			<Text>City State of Theramore</Text>
+		</Replace>
+		<!-- DALARAN-->
+		<Replace Tag="LOC_MINOR_CIV_DALARAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus distritos proporcionan +1 punto de gran personaje [ICON_GreatPerson] de su tipo (Gran escritor [ICON_GreatWriter], Gran artista [ICON_GreatArtist] y, para los distritos de Teatros, Gran músico [ICON_GreatMusician]).</Text>
+		</Replace>
+		<Replace Tag="LOC_DALARAN_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Dalaran</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBER_LEDGE" Language="es_ES">
+			<Text>Amber Ledge</Text>
+		</Replace>
+		<!-- ACHERUS-->
+		<Replace Tag="LOC_MINOR_CIV_ACHERUS_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Los edificios de los distritos de Centro urbano y Campamento se pueden comprar con Fe [ICON_Faith]. El coste de compra de Murallas antiguas, de la Edad Media o del Renacimiento se reduce, pero solo pueden comprarse con Fe [ICON_Faith].</Text>
+		</Replace>
+		<Replace Tag="LOC_ACHERUS_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Acherus</Text>
+		</Replace>
+		<!-- GADGETZAN-->
+		<Replace Tag="LOC_MINOR_CIV_GADGETZAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Gold] Oro a todas las [ICON_TradeRoute] Rutas Comerciales.</Text>
+		</Replace>
+		<Replace Tag="LOC_GADGETZAN_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Gadgetzan</Text>
+		</Replace>
+		<!-- BOOTY_BAY-->
+		<Replace Tag="LOC_MINOR_CIV_BOOTY_BAY_TRAIT_NAME" Language="es_ES">
+			<Text>Booty Bay</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_BOOTY_BAY_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los distritos ganan +1 [ICON_Gold] Oro por estar adyacentes a la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOTY_BAY_NAME" Language="es_ES">
+			<Text>Booty Bay</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOTY_BAY_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Booty Bay</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOTY_BAY_ADJECTIVE" Language="es_ES">
+			<Text>Booty Bay</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOOTY_BAY" Language="es_ES">
+			<Text>Booty Bay</Text>
+		</Replace>
+		<!-- RATCHET-->
+		<Replace Tag="LOC_MINOR_CIV_RATCHET_TRAIT_NAME" Language="es_ES">
+			<Text>Ratchet</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_RATCHET_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los distritos ganan +1 [ICON_Gold] Oro por estar adyacentes a la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_RATCHET_NAME" Language="es_ES">
+			<Text>Ratchet</Text>
+		</Replace>
+		<Replace Tag="LOC_RATCHET_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Ratchet</Text>
+		</Replace>
+		<Replace Tag="LOC_RATCHET_ADJECTIVE" Language="es_ES">
+			<Text>Ratchet</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RATCHET" Language="es_ES">
+			<Text>Ratchet</Text>
+		</Replace>
+		<!-- EVERLOOK-->
+		<Replace Tag="LOC_MINOR_CIV_EVERLOOK_TRAIT_NAME" Language="es_ES">
+			<Text>Everlook</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_EVERLOOK_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Gold] Oro a todas las [ICON_TradeRoute] Rutas Comerciales.</Text>
+		</Replace>
+		<Replace Tag="LOC_EVERLOOK_NAME" Language="es_ES">
+			<Text>Everlook</Text>
+		</Replace>
+		<Replace Tag="LOC_EVERLOOK_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Everlook</Text>
+		</Replace>
+		<Replace Tag="LOC_EVERLOOK_ADJECTIVE" Language="es_ES">
+			<Text>Everlook</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_EVERLOOK" Language="es_ES">
+			<Text>Everlook</Text>
+		</Replace>
+		<!-- MUDSPROCKET-->
+		<Replace Tag="LOC_MINOR_CIV_MUDSPROCKET_TRAIT_NAME" Language="es_ES">
+			<Text>Mudsprocket</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_MUDSPROCKET_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+3 [ICON_Production] Producción en Zonas Industriales por adyacencia a Pantanos.</Text>
+		</Replace>
+		<Replace Tag="LOC_MUDSPROCKET_NAME" Language="es_ES">
+			<Text>Mudsprocket</Text>
+		</Replace>
+		<Replace Tag="LOC_MUDSPROCKET_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Mudsprocket</Text>
+		</Replace>
+		<Replace Tag="LOC_MUDSPROCKET_ADJECTIVE" Language="es_ES">
+			<Text>Mudsprocket</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MUDSPROCKET" Language="es_ES">
+			<Text>Mudsprocket</Text>
+		</Replace>
+		<!-- BOGPADDLE-->
+		<Replace Tag="LOC_MINOR_CIV_BOGPADDLE_TRAIT_NAME" Language="es_ES">
+			<Text>Bogpaddle</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_BOGPADDLE_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+3 [ICON_Production] Producción en Zonas Industriales por adyacencia a Pantanos.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOGPADDLE_NAME" Language="es_ES">
+			<Text>Bogpaddle</Text>
+		</Replace>
+		<Replace Tag="LOC_BOGPADDLE_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Bogpaddle</Text>
+		</Replace>
+		<Replace Tag="LOC_BOGPADDLE_ADJECTIVE" Language="es_ES">
+			<Text>Bogpaddle</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOGPADDLE" Language="es_ES">
+			<Text>Bogpaddle</Text>
+		</Replace>
+		<!-- FUSELIGHT-->
+		<Replace Tag="LOC_MINOR_CIV_FUSELIGHT_TRAIT_NAME" Language="es_ES">
+			<Text>Fuselight</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_FUSELIGHT_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Production] Producción en Zonas Industriales por adyacencia a Desiertos.</Text>
+		</Replace>
+		<Replace Tag="LOC_FUSELIGHT_NAME" Language="es_ES">
+			<Text>Fuselight</Text>
+		</Replace>
+		<Replace Tag="LOC_FUSELIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Fuselight</Text>
+		</Replace>
+		<Replace Tag="LOC_FUSELIGHT_ADJECTIVE" Language="es_ES">
+			<Text>Fuselight</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FUSELIGHT" Language="es_ES">
+			<Text>Fuselight</Text>
+		</Replace>
+		<!-- K3-->
+		<Replace Tag="LOC_MINOR_CIV_K3_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Production] Producción en Zonas Industriales por adyacencia a Tundra.</Text>
+		</Replace>
+		<Replace Tag="LOC_K3_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de K3</Text>
+		</Replace>
+		<!-- SCARLET_CRUSADE-->
+		<Replace Tag="LOC_MINOR_CIV_SCARLET_CRUSADE_TRAIT_NAME" Language="es_ES">
+			<Text>Cruzada Escarlata</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCARLET_CRUSADE_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+4 [ICON_Strength] Fuerza de Combate contra otras religiones.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCARLET_CRUSADE_NAME" Language="es_ES">
+			<Text>Cruzada Escarlata</Text>
+		</Replace>
+		<Replace Tag="LOC_SCARLET_CRUSADE_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Cruzada Escarlata</Text>
+		</Replace>
+		<Replace Tag="LOC_SCARLET_CRUSADE_ADJECTIVE" Language="es_ES">
+			<Text>Cruzada Escarlata</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NEW_HEARTHGLEN" Language="es_ES">
+			<Text>New Hearthglen</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ONSLAUGHT_HARBOUR" Language="es_ES">
+			<Text>Onslaught Harbour</Text>
+		</Replace>
+		<!-- CENARION_CIRCLE-->
+		<Replace Tag="LOC_MINOR_CIV_CENARION_CIRCLE_TRAIT_NAME" Language="es_ES">
+			<Text>Cenarion Circle</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_CENARION_CIRCLE_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Faith] Fe por rutas entre tus ciudades.</Text>
+		</Replace>
+		<Replace Tag="LOC_CENARION_CIRCLE_NAME" Language="es_ES">
+			<Text>Cenarion Circle</Text>
+		</Replace>
+		<Replace Tag="LOC_CENARION_CIRCLE_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Cenarion Circle</Text>
+		</Replace>
+		<Replace Tag="LOC_CENARION_CIRCLE_ADJECTIVE" Language="es_ES">
+			<Text>Cenarion Circle</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WHISPERWIND_GROVE" Language="es_ES">
+			<Text>Whisperwind Grove</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DREAMGROVE" Language="es_ES">
+			<Text>Dreamgrove</Text>
+		</Replace>
+		<!-- RAMKAHEN-->
+		<Replace Tag="LOC_MINOR_CIV_RAMKAHEN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Culture] Cultura por Desiertos en los Lugares Sagrados.</Text>
+		</Replace>
+		<Replace Tag="LOC_RAMKAHEN_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Ramkahen</Text>
+		</Replace>
+		<Replace Tag="MYWOW_DESERT_CULTURE" Language="es_ES">
+			<Text>+1 [ICON_Culture] Cultura por Desiertos</Text>
+		</Replace>
+		<!-- RAMKAHEN-->
+		<Replace Tag="LOC_MINOR_CIV_FIZZLE_POZZIK_TRAIT_NAME" Language="es_ES">
+			<Text>Fizzle y Pozzik’s Speedbarge</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_FIZZLE_POZZIK_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Science] Ciencia por casillas de Costa en los Puertos.</Text>
+		</Replace>
+		<Replace Tag="LOC_FIZZLE_POZZIK_NAME" Language="es_ES">
+			<Text>Fizzle y Pozzik’s Speedbarge</Text>
+		</Replace>
+		<Replace Tag="LOC_FIZZLE_POZZIK_DESCRIPTION" Language="es_ES">
+			<Text>Fizzle y Pozzik’s Speedbarge</Text>
+		</Replace>
+		<Replace Tag="LOC_FIZZLE_POZZIK_ADJECTIVE" Language="es_ES">
+			<Text>Pozzik’s</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FIZZLE_POZZIK" Language="es_ES">
+			<Text>Fizzle y Pozzik’s Speedbarge</Text>
+		</Replace>
+		<Replace Tag="MYWOW_COAST_SCIENCE" Language="es_ES">
+			<Text>+1 [ICON_Science] Ciencia por casillas de Costa.</Text>
+		</Replace>
+		<!-- TUSKARR-->
+		<Replace Tag="LOC_MINOR_CIV_TUSKARR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los distritos ganan +1 [ICON_Gold] Oro por estar adyacentes a la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_TUSKARR_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Tuskarr</Text>
+		</Replace>
+		<!-- IRON_DWARF-->
+		<Replace Tag="LOC_MINOR_CIV_IRON_DWARF_TRAIT_NAME" Language="es_ES">
+			<Text>Iron Dwarf</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_IRON_DWARF_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Minas dan +1 [ICON_Production] Producción.</Text>
+		</Replace>
+		<Replace Tag="LOC_IRON_DWARF_NAME" Language="es_ES">
+			<Text>Iron Dwarf</Text>
+		</Replace>
+		<Replace Tag="LOC_IRON_DWARF_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Iron Dwarf</Text>
+		</Replace>
+		<Replace Tag="LOC_IRON_DWARF_ADJECTIVE" Language="es_ES">
+			<Text>Iron Dwarf</Text>
+		</Replace>
+		<!-- FROSTBORN-->
+		<Replace Tag="LOC_MINOR_CIV_FROSTBORN_TRAIT_NAME" Language="es_ES">
+			<Text>Frostborn</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_FROSTBORN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Minas dan +1 [ICON_Faith] Fe.</Text>
+		</Replace>
+		<Replace Tag="LOC_FROSTBORN_NAME" Language="es_ES">
+			<Text>Frostborn</Text>
+		</Replace>
+		<Replace Tag="LOC_FROSTBORN_DESCRIPTION" Language="es_ES">
+			<Text>Frostborn</Text>
+		</Replace>
+		<Replace Tag="LOC_FROSTBORN_ADJECTIVE" Language="es_ES">
+			<Text>Frostborn</Text>
+		</Replace>
+		<!-- VRYKUL-->
+		<Replace Tag="LOC_MINOR_CIV_VRYKUL_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus distritos de Campamento proporcionan +1 a la capacidad de las Rutas comerciales [ICON_TradeRoute] cada uno.</Text>
+		</Replace>
+		<Replace Tag="LOC_VRYKUL_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Vrykul</Text>
+		</Replace>
+		<!-- SHADOPAN-->
+		<Replace Tag="LOC_MINOR_CIV_SHADOPAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Culture] Cultura en Campamentos por adjacencia a Montañas.</Text>
+		</Replace>
+		<Replace Tag="LOC_SHADOPAN_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Shado-Pan</Text>
+		</Replace>
+		<Replace Tag="WOW_LOC_DISTRICT_MOUNTAIN_CULTURE" Language="es_ES">
+			<Text>>+1 [ICON_Culture] Culture por Montañas</Text>
+		</Replace>
+		<!-- PEAK_SERENITY-->
+		<Replace Tag="LOC_MINOR_CIV_PEAK_SERENITY_TRAIT_NAME" Language="es_ES">
+			<Text>Pico de la Serenidad</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_PEAK_SERENITY_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Faith] Fe en Sitios Sagrados por adyacencia a Montañas.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEAK_SERENITY_NAME" Language="es_ES">
+			<Text>Pico de la Serenidad</Text>
+		</Replace>
+		<Replace Tag="LOC_PEAK_SERENITY_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado Pico de la Serenidad</Text>
+		</Replace>
+		<Replace Tag="LOC_PEAK_SERENITY_ADJECTIVE" Language="es_ES">
+			<Text>Peak of Serenity</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PEAK_SERENITY" Language="es_ES">
+			<Text>Peak of Serenity</Text>
+		</Replace>
+		<Replace Tag="WOW_LOC_DISTRICT_MOUNTAIN_FAITH" Language="es_ES">
+			<Text>>+1 [ICON_Faith] Fe por Montañas</Text>
+		</Replace>
+		<!-- JADE_SERPENT-->
+		<Replace Tag="LOC_MINOR_CIV_JADE_SERPENT_TRAIT_NAME" Language="es_ES">
+			<Text>Jade Serpent</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_JADE_SERPENT_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Faith] Fe en Sitios Sagrados por adycencia a Rios.</Text>
+		</Replace>
+		<Replace Tag="LOC_JADE_SERPENT_NAME" Language="es_ES">
+			<Text>Jade Serpent</Text>
+		</Replace>
+		<Replace Tag="LOC_JADE_SERPENT_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado Jade Serpent</Text>
+		</Replace>
+		<Replace Tag="LOC_JADE_SERPENT_ADJECTIVE" Language="es_ES">
+			<Text>Jade Serpent</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JADE_SERPENT" Language="es_ES">
+			<Text>Jade Serpent</Text>
+		</Replace>
+		<!-- WHITE_TIGER-->
+		<Replace Tag="LOC_MINOR_CIV_WHITE_TIGER_TRAIT_NAME" Language="es_ES">
+			<Text>White Tiger</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_WHITE_TIGER_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Faith] Fe en Sitios Sagrados por adyacencia a Colinas.</Text>
+		</Replace>
+		<Replace Tag="LOC_WHITE_TIGER_NAME" Language="es_ES">
+			<Text>White Tiger</Text>
+		</Replace>
+		<Replace Tag="LOC_WHITE_TIGER_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado White Tiger</Text>
+		</Replace>
+		<Replace Tag="LOC_WHITE_TIGER_ADJECTIVE" Language="es_ES">
+			<Text>White Tiger</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WHITE_TIGER" Language="es_ES">
+			<Text>White Tiger</Text>
+		</Replace>
+		<!-- JINYU-->
+		<Replace Tag="LOC_MINOR_CIV_JINYU_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Science] Ciencia en los Campos por adyacencia a Rios.</Text>
+		</Replace>
+		<Replace Tag="LOC_JINYU_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado Jinyu</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PEARLFIN" Language="es_ES">
+			<Text>Pearlfin</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MOONWATER_RETREAT" Language="es_ES">
+			<Text>Moonwater Retreat</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_INKGILL_MERE" Language="es_ES">
+			<Text>Inkgill Mere</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_POOLS_PURITY" Language="es_ES">
+			<Text>Pools of Purity</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FALLSONG" Language="es_ES">
+			<Text>Fallsong</Text>
+		</Replace>
+		<!-- ZULFARRAK-->
+		<Replace Tag="LOC_MINOR_CIV_ZULFARRAK_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+5 [ICON_Strength] Fuerza de Combate a las unidades cuerpo a cuerpo en Desiertos.</Text>
+		</Replace>
+		<Replace Tag="LOC_ZULFARRAK_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Zul'Farrak</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MYWOW_MELEE_DESERT_BONUS_DESCRIPTION" Language="es_ES">
+			<Text>>+5 [ICON_Strength] Fuerza de Combate en Desiertos</Text>
+		</Replace>
+		<!-- HIGHMOUNTAIN-->
+		<Replace Tag="LOC_MINOR_CIV_HIGHMOUNTAIN_TRAIT_NAME" Language="es_ES">
+			<Text>Montealto</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_HIGHMOUNTAIN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Culture] Cultura en Campos de Caza.</Text>
+		</Replace>
+		<Replace Tag="LOC_HIGHMOUNTAIN_NAME" Language="es_ES">
+			<Text>Montealto</Text>
+		</Replace>
+		<Replace Tag="LOC_HIGHMOUNTAIN_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Montealto</Text>
+		</Replace>
+		<Replace Tag="LOC_HIGHMOUNTAIN_ADJECTIVE" Language="es_ES">
+			<Text>Montealto</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THUNDER_TOTEM" Language="es_ES">
+			<Text>Thunder Totem</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SKYHORN" Language="es_ES">
+			<Text>Skyhorn</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RIVERBEND" Language="es_ES">
+			<Text>Riverbend</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FROSTHOOF_WATCH" Language="es_ES">
+			<Text>Frosthoof Watch</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_IRONHORN_ENCLAVE" Language="es_ES">
+			<Text>Ironhorn Enclave</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STONEHOOF_WATCH" Language="es_ES">
+			<Text>Stonehoof Watch</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PREPFOOT" Language="es_ES">
+			<Text>Prepfoot</Text>
+		</Replace>
+		<!-- BLOODTOTEM-->
+		<Replace Tag="LOC_MINOR_CIV_BLOODTOTEM_TRAIT_NAME" Language="es_ES">
+			<Text>Bloodtotem</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_BLOODTOTEM_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus unidades reciben el doble de experiencia por las batallas que inician.</Text>
+		</Replace>
+		<Replace Tag="LOC_BLOODTOTEM_NAME" Language="es_ES">
+			<Text>Bloodtotem</Text>
+		</Replace>
+		<Replace Tag="LOC_BLOODTOTEM_DESCRIPTION" Language="es_ES">
+			<Text>Bloodtotem Tribe</Text>
+		</Replace>
+		<Replace Tag="LOC_BLOODTOTEM_ADJECTIVE" Language="es_ES">
+			<Text>Bloodtotem</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOROKS_BLUFF" Language="es_ES">
+			<Text>Torok's Bluff</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FELTOTEM" Language="es_ES">
+			<Text>Feltotem</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CLIFFS_EDGE" Language="es_ES">
+			<Text>Cliff's Edge</Text>
+		</Replace>
+		<!-- TIDESKORN-->
+		<Replace Tag="LOC_MINOR_CIV_TIDESKORN_TRAIT_NAME" Language="es_ES">
+			<Text>Tideskorn</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_TIDESKORN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Las unidades cuerpo a cuerpo ganan 50% más experiencia de lo normal.</Text>
+		</Replace>
+		<Replace Tag="LOC_TIDESKORN_NAME" Language="es_ES">
+			<Text>Tideskorn</Text>
+		</Replace>
+		<Replace Tag="LOC_TIDESKORN_DESCRIPTION" Language="es_ES">
+			<Text>Tideskorn</Text>
+		</Replace>
+		<Replace Tag="LOC_TIDESKORN_ADJECTIVE" Language="es_ES">
+			<Text>Tideskorn</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HRYDSHAL" Language="es_ES">
+			<Text>Hrydshal</Text>
+		</Replace>
+		<!-- SURAMAR-->
+		<Replace Tag="LOC_MINOR_CIV_SURAMAR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los distritos ganan +1 [ICON_Science] Ciencia por adyacencia a Lagos.</Text>
+		</Replace>
+		<Replace Tag="LOC_SURAMAR_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Suramar</Text>
+		</Replace>
+		<!-- BLACK_ROOK_HOLD-->
+		<Replace Tag="LOC_MINOR_CIV_BLACK_ROOK_HOLD_TRAIT_NAME" Language="es_ES">
+			<Text>Black Rook Hold</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_BLACK_ROOK_HOLD_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+6 Defensas de la Ciudad, +5 Fuerza de Ataque a distancia de las Ciudades.</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACK_ROOK_HOLD_NAME" Language="es_ES">
+			<Text>Black Rook Hold</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACK_ROOK_HOLD_DESCRIPTION" Language="es_ES">
+			<Text>Black Rook Hold</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACK_ROOK_HOLD_ADJECTIVE" Language="es_ES">
+			<Text>Black Rook Hold</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLACK_ROOK_HOLD" Language="es_ES">
+			<Text>Black Rook Hold</Text>
+		</Replace>
+		<!-- AZJOL_NERUB-->
+		<Replace Tag="LOC_MINOR_CIV_AZJOL_NERUB_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Minas ganan +1 [ICON_Culture] Cultura.</Text>
+		</Replace>
+		<Replace Tag="LOC_AZJOL_NERUB_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Azjol-Nerub</Text>
+		</Replace>
+		<Replace Tag="LOC_AZJOL_NERUB_ADJECTIVE" Language="es_ES">
+			<Text>Nerubian</Text>
+		</Replace>
+		<!-- AHN_QIRAJ-->
+		<Replace Tag="LOC_MINOR_CIV_AHN_QIRAJ_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+20% Producción para crear unidades cuerpo a cuerpo de todas las eras, empezando desde la Era Classica.</Text>
+		</Replace>
+		<Replace Tag="LOC_AHN_QIRAJ_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Ahn'Qiraj</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SWARMING_PILLAR" Language="es_ES">
+			<Text>Swarming Pillar</Text>
+		</Replace>
+		<!-- MANTI_VESS-->
+		<Replace Tag="LOC_MINOR_CIV_MANTI_VESS_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Coste de mantenimiento de las unidades reducido 2 de Oro por turno y unidad.</Text>
+		</Replace>
+		<Replace Tag="LOC_MANTI_VESS_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Manti'vess</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HEART_OF_FEAR" Language="es_ES">
+			<Text>Heart of Fear</Text>
+		</Replace>
+		<!-- ULDUAR-->
+		<Replace Tag="LOC_MINOR_CIV_ULDUAR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Canteras dan +1 [ICON_Science] Ciencia.</Text>
+		</Replace>
+		<Replace Tag="LOC_ULDUAR_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Ulduar</Text>
+		</Replace>
+		<!-- ULDUMAN-->
+		<Replace Tag="LOC_MINOR_CIV_ULDUMAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Canteras dan +1 [ICON_Production] Producción.</Text>
+		</Replace>
+		<Replace Tag="LOC_ULDUMAN_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Ulduman</Text>
+		</Replace>
+		<!-- TAUNKA-->
+		<Replace Tag="LOC_MINOR_CIV_TAUNKA_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Culture] Cultura en Campos de Caza.</Text>
+		</Replace>
+		<Replace Tag="LOC_TAUNKA_DESCRIPTION" Language="es_ES">
+			<Text>Taunka Tribe</Text>
+		</Replace>
+		<!-- DRAGONMAW-->
+		<Replace Tag="LOC_MINOR_CIV_DRAGONMAW_TRAIT_NAME" Language="es_ES">
+			<Text>Faucedraco</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_DRAGONMAW_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+2 [ICON_Production] Producción en cada Campamento cuando esta produciendo unidades.</Text>
+		</Replace>
+		<Replace Tag="LOC_DRAGONMAW_NAME" Language="es_ES">
+			<Text>Faucedraco</Text>
+		</Replace>
+		<Replace Tag="LOC_DRAGONMAW_DESCRIPTION" Language="es_ES">
+			<Text>Faucedraco Clan</Text>
+		</Replace>
+		<Replace Tag="LOC_DRAGONMAW_ADJECTIVE" Language="es_ES">
+			<Text>Faucedraco</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GULLET" Language="es_ES">
+			<Text>Gullet</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ANGERFANG" Language="es_ES">
+			<Text>Angerfang</Text>
+		</Replace>
+		<!-- WILDHAMMER-->
+		<Replace Tag="LOC_MINOR_CIV_WILDHAMMER_TRAIT_NAME" Language="es_ES">
+			<Text>Martillo Salvaje</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_WILDHAMMER_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Minas dan +1 [ICON_Science] Ciencia.</Text>
+		</Replace>
+		<Replace Tag="LOC_WILDHAMMER_NAME" Language="es_ES">
+			<Text>Martillo Salvaje</Text>
+		</Replace>
+		<Replace Tag="LOC_WILDHAMMER_DESCRIPTION" Language="es_ES">
+			<Text>Clan Martillo Salvaje</Text>
+		</Replace>
+		<Replace Tag="LOC_WILDHAMMER_ADJECTIVE" Language="es_ES">
+			<Text>Martillo Salvaje</Text>
+		</Replace>
+		<!-- DARK_IRON-->
+		<Replace Tag="LOC_MINOR_CIV_DARK_IRON_TRAIT_NAME" Language="es_ES">
+			<Text>Hierro Negro</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_DARK_IRON_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+2 a Servicios [ICON_Amenities] para ciudades con una unidad de guarnición.</Text>
+		</Replace>
+		<Replace Tag="LOC_DARK_IRON_NAME" Language="es_ES">
+			<Text>Hierro Negro</Text>
+		</Replace>
+		<Replace Tag="LOC_DARK_IRON_DESCRIPTION" Language="es_ES">
+			<Text>Clan Hierro Negro</Text>
+		</Replace>
+		<Replace Tag="LOC_DARK_IRON_ADJECTIVE" Language="es_ES">
+			<Text>Hierro Negro</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SHADOWFORGE" Language="es_ES">
+			<Text>Forjatiniebla</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ANGOR_FORTRESS" Language="es_ES">
+			<Text>Fortaleza Angor</Text>
+		</Replace>
+		<!-- TIMBERMAW_HOLD-->
+		<Replace Tag="LOC_MINOR_CIV_TIMBERMAW_HOLD_TRAIT_NAME" Language="es_ES">
+			<Text>Timbermaw Hold</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_TIMBERMAW_HOLD_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus Rutas comerciales [ICON_TradeRoute] a cualquier ciudad-estado proporcionan +2 a Cultura [ICON_Culture] y +1 de Oro [ICON_Gold] por cada distrito de especialización en la ciudad de origen.</Text>
+		</Replace>
+		<Replace Tag="LOC_TIMBERMAW_HOLD_NAME" Language="es_ES">
+			<Text>Timbermaw Hold</Text>
+		</Replace>
+		<Replace Tag="LOC_TIMBERMAW_HOLD_DESCRIPTION" Language="es_ES">
+			<Text>Tribu Timbermaw</Text>
+		</Replace>
+		<Replace Tag="LOC_TIMBERMAW_HOLD_ADJECTIVE" Language="es_ES">
+			<Text>Timbermaw Hold</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TIMBERMAW_HOLD" Language="es_ES">
+			<Text>Timbermaw Hold</Text>
+		</Replace>
+		<!-- GRIZZLEMAW-->
+		<Replace Tag="LOC_MINOR_CIV_GRIZZLEMAW_TRAIT_NAME" Language="es_ES">
+			<Text>Grizzlemaw</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_GRIZZLEMAW_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Recibe una reliquia [ICON_GreatWork_Relic] cada vez que descubras una maravilla de la naturaleza, y gana un +50% de Fe [ICON_Faith] de todas las reliquias [ICON_GreatWork_Relic].</Text>
+		</Replace>
+		<Replace Tag="LOC_GRIZZLEMAW_NAME" Language="es_ES">
+			<Text>Grizzlemaw</Text>
+		</Replace>
+		<Replace Tag="LOC_GRIZZLEMAW_DESCRIPTION" Language="es_ES">
+			<Text>Tribu Grizzlemaw</Text>
+		</Replace>
+		<Replace Tag="LOC_GRIZZLEMAW_ADJECTIVE" Language="es_ES">
+			<Text>Grizzlemaw</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GRIZZLEMAW" Language="es_ES">
+			<Text>Grizzlemaw</Text>
+		</Replace>
+		<!-- End of City States-->
+	
+</LocalizedText>
+</GameData>

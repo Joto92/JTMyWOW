@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="ABILITY_KOR_KRON" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_WOLF_RIDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MYWOW_MELEE_UNITS_BONUS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SHADOW_HUNTER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_AXETHROWER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_HEADHUNTER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_RAPTOR_RIDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_TAUREN_BRAVE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_KODO_RIDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ABOMINATION" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SPELL_BREAKER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ELF_MAGE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_TURTLE_RIDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_7HLEGION" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_STEAM_TANK" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_RAM_RIDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SENTINEL" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_NELF_WARDEN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SABER_RIDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_VINDICATOR" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ELEKK_RIDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GLF_INFANTRY" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MYWOW_MELEE_UNITS_MOVE_AFTER_ATTACK" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MECHANOSTRIDER_RIDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_PALADIN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GHOUL" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_LICH" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_TROLL_BERSERKER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_TROLL_PRELATE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SUNWALKER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DEATH_GUARD" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GLAIVE_THROWER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ARCANE_GOLEM" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_BRUISER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_BROTHERHOOD_HORSE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SENTINEL_WARRIOR" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ANCIENT_PROTECTOR" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_LIGHTS_CHOSEN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DOOMGUARD" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SAUROK" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_WARDANCERS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DARK_HOUND" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_NAGA_MYRMIDON" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DEMON_HUNTER" Kind="KIND_ABILITY"/>
+		<!--City States -->
+		<Row Type="ABILITY_MYWOW_MELEE_DESERT_BONUS" Kind="KIND_ABILITY"/>
+		<!-- End City States-->
+	</Types>
+
+	<TypeTags>
+		<Row Type="ABILITY_KOR_KRON" Tag="CLASS_KOR_KRON"/>
+		<Row Type="ABILITY_WOLF_RIDER" Tag="CLASS_WOLF_RIDER"/>
+		<Row Type="ABILITY_MYWOW_MELEE_UNITS_BONUS" Tag="CLASS_MELEE"/>
+		<Row Type="ABILITY_SHADOW_HUNTER" Tag="CLASS_SHADOW_HUNTER"/>
+		<Row Type="ABILITY_AXETHROWER" Tag="CLASS_AXETHROWER"/>
+		<Row Type="ABILITY_HEADHUNTER" Tag="CLASS_HEADHUNTER"/>
+		<Row Type="ABILITY_RAPTOR_RIDER" Tag="CLASS_RAPTOR_RIDER"/>
+		<Row Type="ABILITY_TAUREN_BRAVE" Tag="CLASS_TAUREN_BRAVE"/>
+		<Row Type="ABILITY_KODO_RIDER" Tag="CLASS_KODO_RIDER"/>
+		<Row Type="ABILITY_ABOMINATION" Tag="CLASS_ABOMINATION"/>
+		<Row Type="ABILITY_SPELL_BREAKER" Tag="CLASS_SPELL_BREAKER"/>
+		<Row Type="ABILITY_ELF_MAGE" Tag="CLASS_ELF_MAGE"/>
+		<Row Type="ABILITY_TURTLE_RIDER" Tag="CLASS_TURTLE_RIDER"/>
+		<Row Type="ABILITY_7HLEGION" Tag="CLASS_7HLEGION"/>
+		<Row Type="ABILITY_STEAM_TANK" Tag="CLASS_STEAM_TANK"/>
+		<Row Type="ABILITY_RAM_RIDER" Tag="CLASS_RAM_RIDER"/>
+		<Row Type="ABILITY_SENTINEL" Tag="CLASS_SENTINEL"/>
+		<Row Type="ABILITY_NELF_WARDEN" Tag="CLASS_NELF_WARDEN"/>
+		<Row Type="ABILITY_SABER_RIDER" Tag="CLASS_SABER_RIDER"/>
+		<Row Type="ABILITY_VINDICATOR" Tag="CLASS_VINDICATOR"/>
+		<Row Type="ABILITY_ELEKK_RIDER" Tag="CLASS_ELEKK_RIDER"/>
+		<Row Type="ABILITY_GLF_INFANTRY" Tag="CLASS_GLF_INFANTRY"/>
+		<Row Type="ABILITY_MYWOW_MELEE_UNITS_MOVE_AFTER_ATTACK" Tag="CLASS_MELEE"/>
+		<Row Type="ABILITY_MECHANOSTRIDER_RIDER" Tag="CLASS_MECHANOSTRIDER_RIDER"/>
+		<Row Type="ABILITY_PALADIN" Tag="CLASS_PALADIN"/>
+		<Row Type="ABILITY_GHOUL" Tag="CLASS_GHOUL"/>
+		<Row Type="ABILITY_LICH" Tag="CLASS_LICH"/>
+		<Row Type="ABILITY_TROLL_BERSERKER" Tag="CLASS_TROLL_BERSERKER"/>
+		<Row Type="ABILITY_TROLL_PRELATE" Tag="CLASS_TROLL_PRELATE"/>
+		<Row Type="ABILITY_SUNWALKER" Tag="CLASS_SUNWALKER"/>
+		<Row Type="ABILITY_DEATH_GUARD" Tag="CLASS_DEATH_GUARD"/>
+		<Row Type="ABILITY_GLAIVE_THROWER" Tag="CLASS_GLAIVE_THROWER"/>
+		<Row Type="ABILITY_ARCANE_GOLEM" Tag="CLASS_ARCANE_GOLEM"/>
+		<Row Type="ABILITY_BRUISER" Tag="CLASS_BRUISER"/>
+		<Row Type="ABILITY_BROTHERHOOD_HORSE" Tag="CLASS_BROTHERHOOD_HORSE"/>
+		<Row Type="ABILITY_SENTINEL_WARRIOR" Tag="CLASS_SENTINEL_WARRIOR"/>
+		<Row Type="ABILITY_ANCIENT_PROTECTOR" Tag="CLASS_ANCIENT_PROTECTOR"/>
+		<Row Type="ABILITY_LIGHTS_CHOSEN" Tag="CLASS_LIGHTS_CHOSEN"/>
+		<Row Type="ABILITY_DOOMGUARD" Tag="CLASS_DOOMGUARD"/>
+		<Row Type="ABILITY_SAUROK" Tag="CLASS_SAUROK"/>
+		<Row Type="ABILITY_WARDANCERS" Tag="CLASS_WARDANCERS"/>
+		<Row Type="ABILITY_DARK_HOUND" Tag="CLASS_DARK_HOUND"/>
+		<Row Type="ABILITY_NAGA_MYRMIDON" Tag="CLASS_NAGA_MYRMIDON"/>
+		<Row Type="ABILITY_DEMON_HUNTER" Tag="CLASS_DEMON_HUNTER"/>
+		<!--City States -->
+		<Row Type="ABILITY_MYWOW_MELEE_DESERT_BONUS" Tag="CLASS_MELEE"/>
+		<!-- End City States-->
+	</TypeTags>
+
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_KOR_KRON" Name="LOC_ABILITY_KOR_KRON_NAME" Description="LOC_ABILITY_KOR_KRON_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_WOLF_RIDER" Name="LOC_ABILITY_WOLF_RIDER_NAME" Description="LOC_ABILITY_WOLF_RIDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_MYWOW_MELEE_UNITS_BONUS" Name="LOC_TRAIT_BLOODY_FURY_NAME" Description="LOC_ABILITY_MYWOW_MELEE_UNITS_BONUS_DESCRIPTION"  Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_SHADOW_HUNTER" Name="LOC_ABILITY_SHADOW_HUNTER_NAME" Description="LOC_ABILITY_SHADOW_HUNTER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_AXETHROWER" Name="LOC_ABILITY_AXETHROWER_NAME" Description="LOC_ABILITY_AXETHROWER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_HEADHUNTER" Name="LOC_ABILITY_HEADHUNTER_NAME" Description="LOC_ABILITY_HEADHUNTER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_RAPTOR_RIDER" Name="LOC_ABILITY_RAPTOR_RIDER_NAME" Description="LOC_ABILITY_RAPTOR_RIDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TAUREN_BRAVE" Name="LOC_ABILITY_TAUREN_BRAVE_NAME" Description="LOC_ABILITY_TAUREN_BRAVE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_KODO_RIDER" Name="LOC_ABILITY_KODO_RIDER_NAME" Description="LOC_ABILITY_KODO_RIDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ABOMINATION" Name="LOC_ABILITY_ABOMINATION_NAME" Description="LOC_ABILITY_ABOMINATION_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SPELL_BREAKER" Name="LOC_ABILITY_SPELL_BREAKER_NAME" Description="LOC_ABILITY_SPELL_BREAKER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ELF_MAGE" Name="LOC_ABILITY_ELF_MAGE_NAME" Description="LOC_ABILITY_ELF_MAGE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TURTLE_RIDER" Name="LOC_ABILITY_TURTLE_RIDER_NAME" Description="LOC_ABILITY_TURTLE_RIDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_7HLEGION" Name="LOC_ABILITY_7HLEGION_NAME" Description="LOC_ABILITY_7HLEGION_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_STEAM_TANK" Name="LOC_ABILITY_STEAM_TANK_NAME" Description="LOC_ABILITY_STEAM_TANK_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_RAM_RIDER" Name="LOC_ABILITY_RAM_RIDER_NAME" Description="LOC_ABILITY_RAM_RIDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SENTINEL" Name="LOC_ABILITY_SENTINEL_NAME" Description="LOC_ABILITY_SENTINEL_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_NELF_WARDEN" Name="LOC_ABILITY_NELF_WARDEN_NAME" Description="LOC_ABILITY_NELF_WARDEN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SABER_RIDER" Name="LOC_ABILITY_SABER_RIDER_NAME" Description="LOC_ABILITY_SABER_RIDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_VINDICATOR" Name="LOC_ABILITY_VINDICATOR_NAME" Description="LOC_ABILITY_VINDICATOR_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ELEKK_RIDER" Name="LOC_ABILITY_ELEKK_RIDER_NAME" Description="LOC_ABILITY_ELEKK_RIDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GLF_INFANTRY" Name="LOC_ABILITY_GLF_INFANTRY_NAME" Description="LOC_ABILITY_GLF_INFANTRY_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_MYWOW_MELEE_UNITS_MOVE_AFTER_ATTACK" Name="LOC_TRAIT_CURSE_OFTHE_WORGEN_NAME" Description="LOC_ABILITY_MYWOW_MELEE_UNITS_MOVE_AFTER_ATTACK_DESCRIPTION"  Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_MECHANOSTRIDER_RIDER" Name="LOC_ABILITY_MECHANOSTRIDER_RIDER_NAME" Description="LOC_ABILITY_MECHANOSTRIDER_RIDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_PALADIN" Name="LOC_ABILITY_PALADIN_NAME" Description="LOC_ABILITY_PALADIN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GHOUL" Name="LOC_ABILITY_GHOUL_NAME" Description="LOC_ABILITY_GHOUL_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_LICH" Name="LOC_ABILITY_LICH_NAME" Description="LOC_ABILITY_LICH_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TROLL_BERSERKER" Name="LOC_ABILITY_TROLL_BERSERKER_NAME" Description="LOC_ABILITY_TROLL_BERSERKER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TROLL_PRELATE" Name="LOC_ABILITY_TROLL_PRELATE_NAME" Description="LOC_ABILITY_TROLL_PRELATE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SUNWALKER" Name="LOC_ABILITY_SUNWALKER_NAME" Description="LOC_ABILITY_SUNWALKER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DEATH_GUARD" Name="LOC_ABILITY_DEATH_GUARD_NAME" Description="LOC_ABILITY_DEATH_GUARD_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GLAIVE_THROWER" Name="LOC_ABILITY_GLAIVE_THROWER_NAME" Description="LOC_ABILITY_GLAIVE_THROWER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ARCANE_GOLEM" Name="LOC_ABILITY_ARCANE_GOLEM_NAME" Description="LOC_ABILITY_ARCANE_GOLEM_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_BRUISER" Name="LOC_ABILITY_BRUISER_NAME" Description="LOC_ABILITY_BRUISER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_BROTHERHOOD_HORSE" Name="LOC_ABILITY_BROTHERHOOD_HORSE_NAME" Description="LOC_ABILITY_BROTHERHOOD_HORSE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SENTINEL_WARRIOR" Name="LOC_ABILITY_SENTINEL_WARRIOR_NAME" Description="LOC_ABILITY_SENTINEL_WARRIOR_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ANCIENT_PROTECTOR" Name="LOC_ABILITY_ANCIENT_PROTECTOR_NAME" Description="LOC_ABILITY_ANCIENT_PROTECTOR_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_LIGHTS_CHOSEN" Name="LOC_ABILITY_LIGHTS_CHOSEN_NAME" Description="LOC_ABILITY_LIGHTS_CHOSEN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DOOMGUARD" Name="LOC_ABILITY_DOOMGUARD_NAME" Description="LOC_ABILITY_DOOMGUARD_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SAUROK" Name="LOC_ABILITY_SAUROK_NAME" Description="LOC_ABILITY_SAUROK_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_WARDANCERS" Name="LOC_ABILITY_WARDANCERS_NAME" Description="LOC_ABILITY_WARDANCERS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DARK_HOUND" Name="LOC_ABILITY_DARK_HOUND_NAME" Description="LOC_ABILITY_DARK_HOUND_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_NAGA_MYRMIDON" Name="LOC_ABILITY_NAGA_MYRMIDON_NAME" Description="LOC_ABILITY_NAGA_MYRMIDON_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DEMON_HUNTER" Name="LOC_ABILITY_DEMON_HUNTER_NAME" Description="LOC_ABILITY_DEMON_HUNTER_DESCRIPTION"/>
+
+		<!--City States -->
+		<Row UnitAbilityType="ABILITY_MYWOW_MELEE_DESERT_BONUS" Name="LOC_MINOR_CIV_ZULFARRAK_TRAIT_NAME" Description="LOC_MINOR_CIV_ZULFARRAK_TRAIT_DESCRIPTION" Inactive="true"/>
+		<!-- End City States-->
+	</UnitAbilities>
+
+	<UnitAbilityModifiers>
+		<Row>
+			<UnitAbilityType>ABILITY_KOR_KRON</UnitAbilityType>
+			<ModifierId>MYWOW_KOR_KRON_POST_COMBAT_CULTURE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_WOLF_RIDER</UnitAbilityType>
+			<ModifierId>RANGER_IGNORE_FOREST_MOVEMENT_PENALTY</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_WOLF_RIDER</UnitAbilityType>
+			<ModifierId>SENTRY_SEE_THROUGH_FEATURES</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_MYWOW_MELEE_UNITS_BONUS</UnitAbilityType>
+			<ModifierId>MYWOW_MELEE_UNITS_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_AXETHROWER</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_SIGHT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_AXETHROWER</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_MOVEMENT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_AXETHROWER</UnitAbilityType>
+			<ModifierId>EXPERT_MARKSMAN_ADDITIONAL_ATTACK</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_HEADHUNTER</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_SIGHT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_HEADHUNTER</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_MOVEMENT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_HEADHUNTER</UnitAbilityType>
+			<ModifierId>ECHELON_ADDITIONAL_CAVALRY_BONUS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SHADOW_HUNTER</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_SIGHT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SHADOW_HUNTER</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_MOVEMENT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SHADOW_HUNTER</UnitAbilityType>
+			<ModifierId>MYWOW_POST_COMBAT_FAITH</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_RAPTOR_RIDER</UnitAbilityType>
+			<ModifierId>RANGER_IGNORE_FOREST_MOVEMENT_PENALTY</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_RAPTOR_RIDER</UnitAbilityType>
+			<ModifierId>MYWOW_NEGATIVE_COMBAT_SMALL</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_TAUREN_BRAVE</UnitAbilityType>
+			<ModifierId>HUSSAR_FORCE_RETREAT</ModifierId><!-- Implemented In WinterPatch-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_KODO_RIDER</UnitAbilityType>
+			<ModifierId>HUSSAR_FORCE_RETREAT</ModifierId><!-- Implemented In WinterPatch-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ABOMINATION</UnitAbilityType>
+			<ModifierId>VARU_NEGATIVE_COMBAT_MODIFIER</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SPELL_BREAKER</UnitAbilityType>
+			<ModifierId>TOP_COVER_DEFENSE_BONUS_VS_RANGED</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SPELL_BREAKER</UnitAbilityType>
+			<ModifierId>MYWOW_BONUS_VS_RANGED</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ELF_MAGE</UnitAbilityType>
+			<ModifierId>MAMLUK_HEAL_EVERY_MOVE</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_TURTLE_RIDER</UnitAbilityType>
+			<ModifierId>AMPHIBIOUS_BONUS_IGNORE_RIVERS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_TURTLE_RIDER</UnitAbilityType>
+			<ModifierId>AMPHIBIOUS_BONUS_IGNORE_SHORES</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_7HLEGION</UnitAbilityType>
+			<ModifierId>MYWOW_FOREIGN_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_STEAM_TANK</UnitAbilityType>
+			<ModifierId>INCENDIARIES_BONUS_VS_DISTRICT_DEFENSES</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_RAM_RIDER</UnitAbilityType>
+			<ModifierId>BALKAN_CAVALRY_COMBAT_HILLS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_RAM_RIDER</UnitAbilityType>
+			<ModifierId>ALTITUDE_TRAINING_IGNORE_HILLS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SENTINEL</UnitAbilityType>
+			<ModifierId>MYWOW_FLANKING_BONUS_MODIFIER</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_NELF_WARDEN</UnitAbilityType>
+			<ModifierId>COSSACK_LOCAL_COMBAT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SABER_RIDER</UnitAbilityType>
+			<ModifierId>FADE_BONUS_MOVE_AFTER_ATTACKING</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_VINDICATOR</UnitAbilityType>
+			<ModifierId>MYWOW_POST_COMBAT_FAITH</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_VINDICATOR</UnitAbilityType>
+			<ModifierId>MAMLUK_HEAL_EVERY_MOVE</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ELEKK_RIDER</UnitAbilityType>
+			<ModifierId>HUSSAR_FORCE_RETREAT</ModifierId><!-- Implemented In WinterPatch-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_GLF_INFANTRY</UnitAbilityType>
+			<ModifierId>MYWOW_BONUS_ATTACKING</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_MYWOW_MELEE_UNITS_MOVE_AFTER_ATTACK</UnitAbilityType>
+			<ModifierId>FADE_BONUS_MOVE_AFTER_ATTACKING</ModifierId><!-- Implemented In WinterPatch-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_MECHANOSTRIDER_RIDER</UnitAbilityType>
+			<ModifierId>LIGHTCHARIOT_FASTER_CLEAR_TERRAIN</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_PALADIN</UnitAbilityType>
+			<ModifierId>HEAL_AFTER_DEFEATING_UNIT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_GHOUL</UnitAbilityType>
+			<ModifierId>HEAL_AFTER_DEFEATING_UNIT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_LICH</UnitAbilityType>
+			<ModifierId>MYWOW_SNOW_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_TROLL_BERSERKER</UnitAbilityType>
+			<ModifierId>UNIT_STRONG_WHEN_ATTACKING</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_TROLL_PRELATE</UnitAbilityType>
+			<ModifierId>MYWOW_POST_COMBAT_FAITH</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SUNWALKER</UnitAbilityType>
+			<ModifierId>MYWOW_POST_COMBAT_FAITH</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DEATH_GUARD</UnitAbilityType>
+			<ModifierId>MYWOW_NEGATIVE_COMBAT_SMALL</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_GLAIVE_THROWER</UnitAbilityType>
+			<ModifierId>VOLLEY_BONUS_VS_LAND_UNITS</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ARCANE_GOLEM</UnitAbilityType>
+			<ModifierId>MYWOW_POST_COMBAT_SCIENCE_SMALL</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_BRUISER</UnitAbilityType>
+			<ModifierId>MYWOW_POST_COMBAT_GOLD</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_BROTHERHOOD_HORSE</UnitAbilityType>
+			<ModifierId>CAPARISON_BONUS_VS_ANTI_CAVALRY</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SENTINEL_WARRIOR</UnitAbilityType>
+			<ModifierId>DISCIPLES_LAND_VICTORY_SPREAD</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ANCIENT_PROTECTOR</UnitAbilityType>
+			<ModifierId>CONQUISTADOR_SPECIFIC_UNIT_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_LIGHTS_CHOSEN</UnitAbilityType>
+			<ModifierId>MAMLUK_HEAL_EVERY_MOVE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DOOMGUARD</UnitAbilityType>
+			<ModifierId>COSSACK_MOVE_AND_ATTACK</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SAUROK</UnitAbilityType>
+			<ModifierId>UNIT_REDUCED_PILLAGE_COST</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_WARDANCERS</UnitAbilityType>
+			<ModifierId>COSSACK_MOVE_AND_ATTACK</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DARK_HOUND</UnitAbilityType>
+			<ModifierId>HEAL_AFTER_DEFEATING_UNIT</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_NAGA_MYRMIDON</UnitAbilityType>
+			<ModifierId>MYWOW_NAGA_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DEMON_HUNTER</UnitAbilityType>
+			<ModifierId>FADE_BONUS_MOVE_AFTER_ATTACKING</ModifierId>
+			<!-- Implemented In WinterPatch-->
+		</Row>
+		<!--City States -->
+		<Row>
+			<UnitAbilityType>ABILITY_MYWOW_MELEE_DESERT_BONUS</UnitAbilityType>
+			<ModifierId>MYWOW_MELEE_DESERT_BONUS</ModifierId>
+		</Row>
+		<!-- End City States-->
+	</UnitAbilityModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>MYWOW_KOR_KRON_POST_COMBAT_CULTURE</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_POST_COMBAT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_MELEE_UNITS_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_POST_COMBAT_FAITH</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_POST_COMBAT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_NEGATIVE_COMBAT_SMALL</ModifierId>
+			<ModifierType>MODIFIER_ALL_UNITS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>VARU_ADJACENT_AT_WAR_REQUIREMENTS</SubjectRequirementSetId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_NEGATIVE_COMBAT_SMALL_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_BONUS_VS_RANGED</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYWOW_ATTACK_RANGED_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_FOREIGN_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>REDCOAT_PLOT_IS_FOREIGN_CONTINENT</SubjectRequirementSetId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_FLANKING_BONUS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_FLANKING_BONUS_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_BONUS_ATTACKING</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYWOW_PLAYER_IS_ATTACKER_REQUIREMENTS_SET</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_SNOW_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYWOW_SNOW_COMBAT_BONUS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_POST_COMBAT_SCIENCE_SMALL</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_POST_COMBAT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_POST_COMBAT_GOLD</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_POST_COMBAT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_NAGA_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>NAGA_ON_COAST_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<!--City States -->
+		<Row>
+			<ModifierId>MYWOW_MELEE_DESERT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYWOW_COMBAT_DESERT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<!-- End City States-->
+	</Modifiers>
+
+	<ModifierStrings>
+		<Row ModifierId="MYWOW_MELEE_UNITS_BONUS" Context="Preview" Text="LOC_ABILITY_MYWOW_MELEE_UNITS_BONUS_DESCRIPTION"/>
+		<Row ModifierId="MYWOW_BONUS_VS_RANGED" Context="Preview" Text="LOC__MYWOW_BONUS_VS_RANGED_DESCRIPTION"/>
+		<Row ModifierId="MYWOW_FOREIGN_COMBAT" Context="Preview" Text="LOC_ABILITY_7HLEGION_DESCRIPTION"/>
+		<Row ModifierId="MYWOW_FLANKING_BONUS_MODIFIER" Context="Preview" Text="LOC_ABILITY_SENTINEL_DESCRIPTION"/>
+		<Row ModifierId="MYWOW_BONUS_ATTACKING" Context="Preview" Text="LOC_ABILITY_GLF_INFANTRY_DESCRIPTION"/>
+		<Row ModifierId="MYWOW_NEGATIVE_COMBAT_SMALL_MODIFIER" Context="Preview" Text="LOC_ABILITY_RAPTOR_RIDER_DESCRIPTION"/>
+		<Row ModifierId="MYWOW_SNOW_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_LICH_DESCRIPTION"/>
+		<Row ModifierId="MYWOW_NAGA_BONUS" Context="Preview" Text="LOC_ABILITY_NAGA_MYRMIDON_DESCRIPTION"/>
+
+		<!--City States -->
+		<Row ModifierId="MYWOW_MELEE_DESERT_BONUS" Context="Preview" Text="LOC_ABILITY_MYWOW_MELEE_DESERT_BONUS_DESCRIPTION"/>
+		<!-- End City States-->
+	</ModifierStrings>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>MYWOW_KOR_KRON_POST_COMBAT_CULTURE</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_KOR_KRON_POST_COMBAT_CULTURE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_MELEE_UNITS_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_POST_COMBAT_FAITH</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_POST_COMBAT_FAITH</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_BONUS_VS_RANGED</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_FOREIGN_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_FLANKING_BONUS_MODIFIER</ModifierId>
+			<Name>Percent</Name>
+			<Value>150</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_BONUS_ATTACKING</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_NEGATIVE_COMBAT_SMALL</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYWOW_NEGATIVE_COMBAT_SMALL_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_NEGATIVE_COMBAT_SMALL_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>-3</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_SNOW_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_POST_COMBAT_SCIENCE_SMALL</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>25</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_POST_COMBAT_SCIENCE_SMALL</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_SCIENCE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_POST_COMBAT_GOLD</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_POST_COMBAT_GOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_NAGA_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<!--City States -->
+		<Row>
+			<ModifierId>MYWOW_MELEE_DESERT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<!-- End City States-->
+	</ModifierArguments>
+
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>MYWOW_ATTACK_RANGED_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_RANGED_OPPONENT_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_PLAYER_IS_ATTACKER_REQUIREMENTS_SET</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_SNOW_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>NAGA_ON_COAST_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<!--City States -->
+		<Row>
+			<RequirementSetId>MYWOW_COMBAT_DESERT_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<!-- End City States-->
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>MYWOW_ATTACK_RANGED_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLAYER_IS_ATTACKER_REQUIREMENTS</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_ATTACK_RANGED_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYWOW_OPPONENT_REQUIREMENTS_RANGED_MET_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_RANGED_OPPONENT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_RANGED_REQUIREMENT</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_PLAYER_IS_ATTACKER_REQUIREMENTS_SET</RequirementSetId>
+			<RequirementId>PLAYER_IS_ATTACKER_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_SNOW_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYWOW_REQUIRES_PLOT_HAS_SNOW</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_SNOW_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYWOW_REQUIRES_PLOT_HAS_SNOW_HILLS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_SNOW_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_TUNDRA</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_SNOW_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_TUNDRA_HILLS</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<!--City States -->
+		<Row>
+			<RequirementSetId>MYWOW_COMBAT_DESERT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_DESERT_HILLS_TERRAIN_REQUIREMENT</RequirementId>	<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_COMBAT_DESERT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYWOW_COMBAT_PLOT_IS_DESERT_REQUIREMENT</RequirementId>
+		</Row>
+		<!-- End City States-->
+		<Row>
+			<RequirementSetId>NAGA_ON_COAST_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_UNIT_ON_COASTAL_LAND</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>MYWOW_OPPONENT_REQUIREMENTS_RANGED_MET_REQUIREMENT</RequirementId>
+			<RequirementType>REQUIREMENT_REQUIREMENTSET_IS_MET</RequirementType>
+		</Row>
+		<!--City States -->
+		<Row>
+			<RequirementId>MYWOW_COMBAT_PLOT_IS_DESERT_REQUIREMENT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES</RequirementType>
+		</Row>
+		<!-- End City States-->
+	</Requirements>
+
+	<RequirementArguments>
+		<Row>
+			<RequirementId>MYWOW_OPPONENT_REQUIREMENTS_RANGED_MET_REQUIREMENT</RequirementId>
+			<Name>RequirementSetId</Name>
+			<Value>MYWOW_RANGED_OPPONENT_REQUIREMENTS</Value>
+		</Row>
+		<!--City States -->
+		<Row>
+			<RequirementId>MYWOW_COMBAT_PLOT_IS_DESERT_REQUIREMENT</RequirementId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_DESERT</Value>
+		</Row>
+		<!-- End City States-->
+	</RequirementArguments>
+
+</GameData>

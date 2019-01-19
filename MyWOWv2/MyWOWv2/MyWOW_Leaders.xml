@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="LEADER_GARROSH_HELLSCREAM" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_SON_OF_HELLSCREAM" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_VOL_JIN" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_MASTER_OF_THE_SHADOWS" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_BAINE_BLOODHOOF" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_PLAINS_OF_MULGORE" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_SYLVANAS_WINDRUNNER" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_BANSHEE_QUEEN" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_LOR_THEMAR_THERON" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_DEFENSOR_OF_QUEL_THALAS" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_JASTOR_GALLYWIX" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_TRADE_PRINCE" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_VARIAN_WRYNN" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_GHOST_WOLF" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_MURADIN_BRONZEBEARD" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_CLAN_BRONZEBEARD" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_TYRANDE_WHISPERWIND" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_SISTER_HOOD_ELUNE" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_PROPHET_VELEN" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_PROPHET_OFTHE_NAARU" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_GENN_GREYMANE" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_GILNEAS_ISOLATION" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_GELBIN_MEKKATORQUE" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_HIGH_TINKER" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_TIRION_FORDRING" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_THE_ASHBRINGER" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_LICH_KING" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_DEATH_GOD" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_ZULJIN" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_WARLORD_OF_ZULAMAN" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_JINDO" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_THE_HEXXER" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_MALAKK" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_FROST_KING" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_RASTAKHAN" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_GOD_KING_OF_TROLLS" Kind="KIND_TRAIT"/>
+	</Types>
+
+	<Leaders>
+		<Row LeaderType="LEADER_GARROSH_HELLSCREAM" Name="LOC_LEADER_GARROSH_HELLSCREAM_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_VOL_JIN" Name="LOC_LEADER_VOL_JIN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_BAINE_BLOODHOOF" Name="LOC_LEADER_BAINE_BLOODHOOF_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_SYLVANAS_WINDRUNNER" Name="LOC_LEADER_SYLVANAS_WINDRUNNER_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_LOR_THEMAR_THERON" Name="LOC_LEADER_LOR_THEMAR_THERON_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_JASTOR_GALLYWIX" Name="LOC_LEADER_JASTOR_GALLYWIX_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_VARIAN_WRYNN" Name="LOC_LEADER_VARIAN_WRYNN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_MURADIN_BRONZEBEARD" Name="LOC_LEADER_MURADIN_BRONZEBEARD_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_TYRANDE_WHISPERWIND" Name="LOC_LEADER_TYRANDE_WHISPERWIND_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_PROPHET_VELEN" Name="LOC_LEADER_PROPHET_VELEN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_GENN_GREYMANE" Name="LOC_LEADER_GENN_GREYMANE_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_GELBIN_MEKKATORQUE" Name="LOC_LEADER_GELBIN_MEKKATORQUE_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_TIRION_FORDRING" Name="LOC_LEADER_TIRION_FORDRING_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_LICH_KING" Name="LOC_LEADER_LICH_KING_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_ZULJIN" Name="LOC_LEADER_ZULJIN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_JINDO" Name="LOC_LEADER_JINDO_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_MALAKK" Name="LOC_LEADER_MALAKK_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_RASTAKHAN" Name="LOC_LEADER_RASTAKHAN_NAME" InheritFrom="LEADER_DEFAULT"/>
+
+	</Leaders>
+
+	<LoadingInfo>
+		<Row LeaderType="LEADER_GARROSH_HELLSCREAM" ForegroundImage="LEADER_GARROSH_HELLSCREAM_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_VOL_JIN" ForegroundImage="LEADER_VOL_JIN_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_BAINE_BLOODHOOF" ForegroundImage="LEADER_BAINE_BLOODHOOF_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_SYLVANAS_WINDRUNNER" ForegroundImage="LEADER_SYLVANAS_WINDRUNNER_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_LOR_THEMAR_THERON" ForegroundImage="LEADER_LOR_THEMAR_THERON_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_JASTOR_GALLYWIX" ForegroundImage="LEADER_JASTOR_GALLYWIX_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_VARIAN_WRYNN" ForegroundImage="LEADER_VARIAN_WRYNN_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_MURADIN_BRONZEBEARD" ForegroundImage="LEADER_MURADIN_BRONZEBEARD_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_TYRANDE_WHISPERWIND" ForegroundImage="LEADER_TYRANDE_WHISPERWIND_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_PROPHET_VELEN" ForegroundImage="LEADER_PROPHET_VELEN_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_GENN_GREYMANE" ForegroundImage="LEADER_GENN_GREYMANE_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_GELBIN_MEKKATORQUE" ForegroundImage="LEADER_GELBIN_MEKKATORQUE_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_TIRION_FORDRING" ForegroundImage="LEADER_TIRION_FORDRING_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_LICH_KING" ForegroundImage="LEADER_LICH_KING_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_ZULJIN" ForegroundImage="LEADER_ZULJIN_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_JINDO" ForegroundImage="LEADER_JINDO_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_MALAKK" ForegroundImage="LEADER_MALAKK_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_RASTAKHAN" ForegroundImage="LEADER_RASTAKHAN_NEUTRAL" BackgroundImage="WOW_LOADING_BACKGROUND"/>
+
+	</LoadingInfo>
+
+	<DiplomacyInfo>
+		<Row Type="LEADER_GARROSH_HELLSCREAM" BackgroundImage="LEADER_GARROSH_HELLSCREAM_BACKGROUND"/>
+		<Row Type="LEADER_VOL_JIN" BackgroundImage="LEADER_VOL_JIN_BACKGROUND"/>
+		<Row Type="LEADER_BAINE_BLOODHOOF" BackgroundImage="LEADER_BAINE_BLOODHOOF_BACKGROUND"/>
+		<Row Type="LEADER_SYLVANAS_WINDRUNNER" BackgroundImage="LEADER_SYLVANAS_WINDRUNNER_BACKGROUND"/>
+		<Row Type="LEADER_LOR_THEMAR_THERON" BackgroundImage="LEADER_LOR_THEMAR_THERON_BACKGROUND"/>
+		<Row Type="LEADER_JASTOR_GALLYWIX" BackgroundImage="LEADER_JASTOR_GALLYWIX_BACKGROUND"/>
+		<Row Type="LEADER_VARIAN_WRYNN" BackgroundImage="LEADER_VARIAN_WRYNN_BACKGROUND"/>
+		<Row Type="LEADER_MURADIN_BRONZEBEARD" BackgroundImage="LEADER_MURADIN_BRONZEBEARD_BACKGROUND"/>
+		<Row Type="LEADER_TYRANDE_WHISPERWIND" BackgroundImage="LEADER_TYRANDE_WHISPERWIND_BACKGROUND"/>
+		<Row Type="LEADER_PROPHET_VELEN" BackgroundImage="LEADER_PROPHET_VELEN_BACKGROUND"/>
+		<Row Type="LEADER_GENN_GREYMANE" BackgroundImage="LEADER_GENN_GREYMANE_BACKGROUND"/>
+		<Row Type="LEADER_GELBIN_MEKKATORQUE" BackgroundImage="LEADER_GELBIN_MEKKATORQUE_BACKGROUND"/>
+		<Row Type="LEADER_TIRION_FORDRING" BackgroundImage="LEADER_TIRION_FORDRING_BACKGROUND"/>
+		<Row Type="LEADER_LICH_KING" BackgroundImage="LEADER_LICH_KING_BACKGROUND"/>
+		<Row Type="LEADER_ZULJIN" BackgroundImage="LEADER_ZULJIN_BACKGROUND"/>
+		<Row Type="LEADER_JINDO" BackgroundImage="LEADER_JINDO_BACKGROUND"/>
+		<Row Type="LEADER_MALAKK" BackgroundImage="LEADER_MALAKK_BACKGROUND"/>
+		<Row Type="LEADER_RASTAKHAN" BackgroundImage="LEADER_RASTAKHAN_BACKGROUND"/>
+
+	</DiplomacyInfo>
+
+	<LeaderTraits>
+		<Row LeaderType="LEADER_GARROSH_HELLSCREAM" TraitType="TRAIT_LEADER_SON_OF_HELLSCREAM"/>
+		<Row LeaderType="LEADER_VOL_JIN" TraitType="TRAIT_LEADER_MASTER_OF_THE_SHADOWS"/>
+		<Row LeaderType="LEADER_BAINE_BLOODHOOF" TraitType="TRAIT_LEADER_PLAINS_OF_MULGORE"/>
+		<Row LeaderType="LEADER_SYLVANAS_WINDRUNNER" TraitType="TRAIT_LEADER_BANSHEE_QUEEN"/>
+		<Row LeaderType="LEADER_LOR_THEMAR_THERON" TraitType="TRAIT_LEADER_DEFENSOR_OF_QUEL_THALAS"/>
+		<Row LeaderType="LEADER_JASTOR_GALLYWIX" TraitType="TRAIT_LEADER_TRADE_PRINCE"/>
+		<Row LeaderType="LEADER_VARIAN_WRYNN" TraitType="TRAIT_LEADER_GHOST_WOLF"/>
+		<Row LeaderType="LEADER_MURADIN_BRONZEBEARD" TraitType="TRAIT_LEADER_CLAN_BRONZEBEARD"/>
+		<Row LeaderType="LEADER_TYRANDE_WHISPERWIND" TraitType="TRAIT_LEADER_SISTER_HOOD_ELUNE"/>
+		<Row LeaderType="LEADER_PROPHET_VELEN" TraitType="TRAIT_LEADER_PROPHET_OFTHE_NAARU"/>
+		<Row LeaderType="LEADER_GENN_GREYMANE" TraitType="TRAIT_LEADER_GILNEAS_ISOLATION"/>
+		<Row LeaderType="LEADER_GELBIN_MEKKATORQUE" TraitType="TRAIT_LEADER_HIGH_TINKER"/>
+		<Row LeaderType="LEADER_TIRION_FORDRING" TraitType="TRAIT_LEADER_THE_ASHBRINGER"/>
+		<Row LeaderType="LEADER_LICH_KING" TraitType="TRAIT_LEADER_DEATH_GOD"/>
+		<Row LeaderType="LEADER_ZULJIN" TraitType="TRAIT_LEADER_WARLORD_OF_ZULAMAN"/>
+		<Row LeaderType="LEADER_JINDO" TraitType="TRAIT_LEADER_THE_HEXXER"/>
+		<Row LeaderType="LEADER_MALAKK" TraitType="TRAIT_LEADER_FROST_KING"/>
+		<Row LeaderType="LEADER_RASTAKHAN" TraitType="TRAIT_LEADER_GOD_KING_OF_TROLLS"/>
+
+	</LeaderTraits>
+
+	<Traits>
+		<Row TraitType="TRAIT_LEADER_SON_OF_HELLSCREAM" Name="LOC_TRAIT_SON_OF_HELLSCREAM_NAME" Description="LOC_TRAIT_SON_OF_HELLSCREAM_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_MASTER_OF_THE_SHADOWS" Name="LOC_TRAIT_MASTER_OF_THE_SHADOWS_NAME" Description="LOC_TRAIT_MASTER_OF_THE_SHADOWS_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_PLAINS_OF_MULGORE" Name="LOC_TRAIT_PLAINS_OF_MULGORE_NAME" Description="LOC_TRAIT_PLAINS_OF_MULGORE_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_BANSHEE_QUEEN" Name="LOC_TRAIT_BANSHEE_QUEEN_NAME" Description="LOC_TRAIT_BANSHEE_QUEEN_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_DEFENSOR_OF_QUEL_THALAS" Name="LOC_TRAIT_DEFENSOR_OF_QUEL_THALAS_NAME" Description="LOC_TRAIT_DEFENSOR_OF_QUEL_THALAS_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_TRADE_PRINCE" Name="LOC_TRAIT_TRADE_PRINCE_NAME" Description="LOC_TRAIT_TRADE_PRINCE_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_GHOST_WOLF" Name="LOC_TRAIT_GHOST_WOLF_NAME" Description="LOC_TRAIT_GHOST_WOLF_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_BRONZEBEARD" Name="LOC_TRAIT_CLAN_BRONZEBEARD_NAME" Description="LOC_TRAIT_CLAN_BRONZEBEARD_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_SISTER_HOOD_ELUNE" Name="LOC_TRAIT_SISTER_HOOD_ELUNE_NAME" Description="LOC_TRAIT_SISTER_HOOD_ELUNE_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_PROPHET_OFTHE_NAARU" Name="LOC_TRAIT_PROPHET_OFTHE_NAARU_NAME" Description="LOC_TRAIT_PROPHET_OFTHE_NAARU_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_GILNEAS_ISOLATION" Name="LOC_TRAIT_GILNEAS_ISOLATION_NAME" Description="LOC_TRAIT_GILNEAS_ISOLATION_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_HIGH_TINKER" Name="LOC_TRAIT_HIGH_TINKER_NAME" Description="LOC_TRAIT_HIGH_TINKER_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_THE_ASHBRINGER" Name="LOC_TRAIT_THE_ASHBRINGER_NAME" Description="LOC_TRAIT_THE_ASHBRINGER_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_DEATH_GOD" Name="LOC_TRAIT_DEATH_GOD_NAME" Description="LOC_TRAIT_DEATH_GOD_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_WARLORD_OF_ZULAMAN" Name="LOC_TRAIT_WARLORD_OF_ZULAMAN_NAME" Description="LOC_TRAIT_WARLORD_OF_ZULAMAN_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_THE_HEXXER" Name="LOC_TRAIT_THE_HEXXER_NAME" Description="LOC_TRAIT_THE_HEXXER_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_FROST_KING" Name="LOC_TRAIT_FROST_KING_NAME" Description="LOC_TRAIT_FROST_KING_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_GOD_KING_OF_TROLLS" Name="LOC_TRAIT_GOD_KING_OF_TROLLS_NAME" Description="LOC_TRAIT_GOD_KING_OF_TROLLS_DESCRIPTION"/>
+
+	</Traits>
+
+	<TraitModifiers>
+		<Row TraitType="TRAIT_LEADER_SON_OF_HELLSCREAM" ModifierId="TRAIT_MYWOW_COMBAT_FOREING_CONTINENT_TERRITORY"/>
+		<Row TraitType="TRAIT_LEADER_SON_OF_HELLSCREAM" ModifierId="MYWOW_ORCS_WAR"/>
+		<Row TraitType="TRAIT_LEADER_MASTER_OF_THE_SHADOWS" ModifierId="TRAIT_WILDCARD_GOVERNMENT_SLOT"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_MASTER_OF_THE_SHADOWS" ModifierId="TRAIT_MYWOW_FOREST_JUNGLE_COMBAT_BONUS"/>
+		<Row TraitType="TRAIT_LEADER_PLAINS_OF_MULGORE" ModifierId="MYWOW_PLAINS_UNITS_BONUS"/>
+		<Row TraitType="TRAIT_LEADER_PLAINS_OF_MULGORE" ModifierId="MYWOW_CLEAR_TERRAIN_BONUS_ALL_UNITS"/>
+		<Row TraitType="TRAIT_LEADER_PLAINS_OF_MULGORE" ModifierId="TRAIT_INCOMING_TRADE_GAIN_GOLD"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_PLAINS_OF_MULGORE" ModifierId="TRAIT_INCOMING_TRADE_OFFER_FOOD"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_BANSHEE_QUEEN" ModifierId="TRAIT_MYWOW_CAPTURE_AS_WORKERS"/>
+		<Row TraitType="TRAIT_LEADER_BANSHEE_QUEEN" ModifierId="TRAIT_MILITARY_GOVERNMENT_SLOT"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_DEFENSOR_OF_QUEL_THALAS" ModifierId="TRAIT_MYWOW_COMBAT_BONUS_HOME_TERRITORY"/>
+		<Row>
+			<TraitType>TRAIT_LEADER_TRADE_PRINCE</TraitType>
+			<ModifierId>TRAIT_GOLD_FROM_DOMESTIC_TRADING_POSTS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row TraitType="TRAIT_LEADER_TRADE_PRINCE" ModifierId="TRAIT_INTERNATIONAL_TRADE_GAIN_GOLD"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_TRADE_PRINCE" ModifierId="TRAIT_INCOMING_TRADE_GAIN_GOLD"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_TRADE_PRINCE" ModifierId="MYWOW_TRAIT_ECONOMIC_SLOT"/>
+		<Row TraitType="TRAIT_LEADER_GHOST_WOLF" ModifierId="TRAIT_COMBAT_BONUS_HOME_CONTINENT"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_GHOST_WOLF" ModifierId="TRAIT_MILITARY_GOVERNMENT_SLOT"/><!-- Implemented In Vanilla-->
+		<Row>
+			<TraitType>TRAIT_LEADER_CLAN_BRONZEBEARD</TraitType>
+			<ModifierId>TRAIT_MYWOW_INCREASED_SNOW_FOOD</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_CLAN_BRONZEBEARD</TraitType>
+			<ModifierId>TRAIT_MYWOW_INCREASED_SNOW_HILLS_FOOD</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_CLAN_BRONZEBEARD</TraitType>
+			<ModifierId>TRAIT_DOUBLE_ARCHAEOLOGY_SLOTS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_CLAN_BRONZEBEARD</TraitType>
+			<ModifierId>TRAIT_SUPPORT_TWO_ARCHAEOLOGISTS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_CLAN_BRONZEBEARD</TraitType>
+			<ModifierId>TRAIT_AUTO_THEME_ARCHAEOLOGY_MUSEUM</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_SISTER_HOOD_ELUNE</TraitType>
+			<ModifierId>TRAIT_MYWOW_HOLY_SITE_ADJACENCY_FOREST</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_SISTER_HOOD_ELUNE</TraitType>
+			<ModifierId>TRAIT_MYWOW_THEATER_ADJACENCY_FOREST</ModifierId>
+		</Row>
+		<Row TraitType="TRAIT_LEADER_SISTER_HOOD_ELUNE" ModifierId="TRAIT_NATIONAL_PARK_APPEAL_BONUS"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_SISTER_HOOD_ELUNE" ModifierId="TRAIT_BUILDER_WONDER_PERCENT"/>	<!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_PROPHET_OFTHE_NAARU" ModifierId="TRAIT_FAITH_PEACEFUL_FOUNDERS"/><!-- Implemented In Vanilla-->
+		<Row>
+			<TraitType>TRAIT_LEADER_PROPHET_OFTHE_NAARU</TraitType>
+			<ModifierId>TRAIT_GUARANTEE_ONE_PROPHET</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row TraitType="TRAIT_LEADER_GILNEAS_ISOLATION" ModifierId="TRAIT_MYWOW_COMBAT_BONUS_HOME_TERRITORY"/>
+		<Row TraitType="TRAIT_LEADER_GILNEAS_ISOLATION" ModifierId="MYWOW_INTERNAL_TRADE_FOOD"/>
+		<Row TraitType="TRAIT_LEADER_GILNEAS_ISOLATION" ModifierId="MYWOW_INTERNAL_TRADE_GOLD"/>
+		<Row TraitType="TRAIT_LEADER_HIGH_TINKER" ModifierId="FIVEYEARPLAN_DISTRICTSCIENCE"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_HIGH_TINKER" ModifierId="FIVEYEARPLAN_DISTRICTPRODUCTION"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_HIGH_TINKER" ModifierId="MYWOW_TRAIT_INCOMING_TRADE_OFFER_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_HIGH_TINKER" ModifierId="TRAIT_INCOMING_TRADE_GAIN_GOLD"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_THE_ASHBRINGER" ModifierId="TRAIT_COMBAT_BONUS_OTHER_RELIGION"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_THE_ASHBRINGER" ModifierId="MYWOW_UNIQUE_FAITH_FOR_KILLS"/>
+		<Row TraitType="TRAIT_LEADER_DEATH_GOD" ModifierId="TRAIT_MYWOW_RISE_THE_DEAD_AS_GHOULS"/>
+		<Row TraitType="TRAIT_LEADER_DEATH_GOD" ModifierId="TRAIT_MYWOW_DEAD_UNITS"/>
+		<Row TraitType="TRAIT_LEADER_DEATH_GOD" ModifierId="MYWOW_EVIL_FORCES"/>
+		<Row TraitType="TRAIT_LEADER_WARLORD_OF_ZULAMAN" ModifierId="TRAIT_MYWOW_FOREST_MOVEMENT"/><!-- Implemented In MyWowCivs-->
+		<Row TraitType="TRAIT_LEADER_WARLORD_OF_ZULAMAN" ModifierId="TRAIT_MYWOW_FOREST_COMBAT_BONUS_ELVES"/><!-- Implemented In MyWowCivs-->
+		<Row TraitType="TRAIT_LEADER_WARLORD_OF_ZULAMAN" ModifierId="MYWOW_EVIL_FORCES"/>
+		<Row TraitType="TRAIT_LEADER_THE_HEXXER" ModifierId="TRAIT_MYWOW_FOREST_JUNGLE_COMBAT_BONUS"/>
+		<Row TraitType="TRAIT_LEADER_THE_HEXXER" ModifierId="TRAIT_RELIGIOUS_BUILDING_DISCOUNT"/>
+		<Row TraitType="TRAIT_LEADER_THE_HEXXER" ModifierId="MYWOW_TRAIT_BONUS_FAITH_RELIC"/>
+		<Row TraitType="TRAIT_LEADER_FROST_KING" ModifierId="TRAIT_MYWOW_COMBAT_SNOW_BONUS"/>
+		<Row TraitType="TRAIT_LEADER_FROST_KING" ModifierId="TRAIT_MYWOW_ADD_FOOD_TO_CAMP"/>
+		<Row TraitType="TRAIT_LEADER_FROST_KING" ModifierId="TRAIT_MYWOW_ADD_FAITH_TO_CAMP"/>
+		<Row TraitType="TRAIT_LEADER_FROST_KING" ModifierId="MYWOW_EVIL_FORCES"/>
+		<Row>
+			<TraitType>TRAIT_LEADER_GOD_KING_OF_TROLLS</TraitType>
+			<ModifierId>MYWOW_ALL_MELEE_UNITS_BONUS</ModifierId> <!-- Implemented in Civs-->
+		</Row>
+		<Row TraitType="TRAIT_LEADER_GOD_KING_OF_TROLLS" ModifierId="TRAIT_MYWOW_ADD_FOOD_TO_FISHER"/>
+
+
+	</TraitModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_COMBAT_FOREING_CONTINENT_TERRITORY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>COMBAT_MYWOW_BONUS_FOREING_CONTINENT_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>REDCOAT_PLOT_IS_FOREIGN_CONTINENT</SubjectRequirementSetId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_ORCS_WAR</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_WAR_WEARINESS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_FOREST_JUNGLE_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_FOREST_JUNGLE_COMBAT_BONUS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYWOW_FOREST_JUNGLE_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_PLAINS_UNITS_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_COMBAT_PLAINS_BONUS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYWOW_PLAINS_COMBAT_BONUS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_CLEAR_TERRAIN_BONUS_ALL_UNITS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_FASTER_CLEAR_TERRAIN</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_CLEAR_TERRAIN_START_MOVEMENT</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_CAPTURE_AS_WORKERS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_CAPTURE_COMBAT_UNITS_AS_WORKERS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_CAPTURE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_COMBAT_BONUS_HOME_TERRITORY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_COMBAT_BONUS_HOME_TERRITORY_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>COSSACK_PLOT_IS_OWNER_OR_ADJACENT_REQUIREMENTS</SubjectRequirementSetId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_TRAIT_ECONOMIC_SLOT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CULTURE_ADJUST_GOVERNMENT_SLOTS_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_INCREASED_SNOW_FOOD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>PLOT_MYWOW_HAS_SNOW_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_INCREASED_SNOW_HILLS_FOOD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>PLOT_MYWOW_HAS_SNOW_HILLS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_HOLY_SITE_ADJACENCY_FOREST</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_FEATURE_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_THEATER_ADJACENCY_FOREST</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_FEATURE_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_INTERNAL_TRADE_FOOD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD_FOR_DOMESTIC</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_INTERNAL_TRADE_GOLD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD_FOR_DOMESTIC</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_TRAIT_INCOMING_TRADE_OFFER_PRODUCTION</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_TRADE_ROUTE_YIELD_TO_OTHERS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_UNIQUE_FAITH_FOR_KILLS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_POST_COMBAT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_RISE_THE_DEAD_AS_GHOULS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_CAPTURE_COMBAT_UNITS_AS_GHOULS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_CAPTURE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_EVIL_FORCES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_WAR_WEARINESS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_TRAIT_BONUS_FAITH_RELIC</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_GREATWORK_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_COMBAT_SNOW_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_ADD_FOOD_TO_CAMP</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_CAMP_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_ADD_FAITH_TO_CAMP</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_CAMP_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_ADD_FOOD_TO_FISHER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_FISHINGBOATS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_COMBAT_FOREING_CONTINENT_TERRITORY</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>COMBAT_MYWOW_BONUS_FOREING_CONTINENT_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>COMBAT_MYWOW_BONUS_FOREING_CONTINENT_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_ORCS_WAR</ModifierId>
+			<Name>Amount</Name>
+			<Value>-25</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_ORCS_WAR</ModifierId>
+			<Name>Overall</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_FOREST_JUNGLE_COMBAT_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYWOW_FOREST_JUNGLE_COMBAT_BONUS_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_FOREST_JUNGLE_COMBAT_BONUS_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_PLAINS_UNITS_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYWOW_COMBAT_PLAINS_BONUS_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_COMBAT_PLAINS_BONUS_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_CLEAR_TERRAIN_BONUS_ALL_UNITS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYWOW_FASTER_CLEAR_TERRAIN</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_FASTER_CLEAR_TERRAIN</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_CAPTURE_AS_WORKERS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYWOW_CAPTURE_COMBAT_UNITS_AS_WORKERS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_CAPTURE_COMBAT_UNITS_AS_WORKERS</ModifierId>
+			<Name>CanCapture</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_CAPTURE_COMBAT_UNITS_AS_WORKERS</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_BUILDER</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_COMBAT_BONUS_HOME_TERRITORY</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYWOW_COMBAT_BONUS_HOME_TERRITORY_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_COMBAT_BONUS_HOME_TERRITORY_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_TRAIT_ECONOMIC_SLOT</ModifierId>
+			<Name>GovernmentSlotType</Name>
+			<Value>SLOT_ECONOMIC</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_INCREASED_SNOW_FOOD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_INCREASED_SNOW_FOOD</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_INCREASED_SNOW_HILLS_FOOD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_INCREASED_SNOW_HILLS_FOOD</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_HOLY_SITE_ADJACENCY_FOREST</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_HOLY_SITE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_HOLY_SITE_ADJACENCY_FOREST</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_FOREST</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_HOLY_SITE_ADJACENCY_FOREST</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_HOLY_SITE_ADJACENCY_FOREST</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_HOLY_SITE_ADJACENCY_FOREST</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_MYWOW_DISTRICT_FOREST_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_THEATER_ADJACENCY_FOREST</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_THEATER</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_THEATER_ADJACENCY_FOREST</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_FOREST</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_THEATER_ADJACENCY_FOREST</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_THEATER_ADJACENCY_FOREST</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_THEATER_ADJACENCY_FOREST</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_MYWOW_DISTRICT_FOREST_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_INTERNAL_TRADE_FOOD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_INTERNAL_TRADE_FOOD</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_INTERNAL_TRADE_GOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_INTERNAL_TRADE_GOLD</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_TRAIT_INCOMING_TRADE_OFFER_PRODUCTION</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_PRODUCTION</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_TRAIT_INCOMING_TRADE_OFFER_PRODUCTION</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_UNIQUE_FAITH_FOR_KILLS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_UNIQUE_FAITH_FOR_KILLS</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_RISE_THE_DEAD_AS_GHOULS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYWOW_CAPTURE_COMBAT_UNITS_AS_GHOULS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_CAPTURE_COMBAT_UNITS_AS_GHOULS</ModifierId>
+			<Name>CanCapture</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_CAPTURE_COMBAT_UNITS_AS_GHOULS</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_GHOUL</Value>
+		</Row> 
+		<Row>
+			<ModifierId>MYWOW_EVIL_FORCES</ModifierId>
+			<Name>Amount</Name>
+			<Value>-60</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_EVIL_FORCES</ModifierId>
+			<Name>Overall</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_TRAIT_BONUS_FAITH_RELIC</ModifierId>
+			<Name>GreatWorkObjectType</Name>
+			<Value>GREATWORKOBJECT_RELIC</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_TRAIT_BONUS_FAITH_RELIC</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_TRAIT_BONUS_FAITH_RELIC</ModifierId>
+			<Name>YieldChange</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_COMBAT_SNOW_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYWOW_SNOW_COMBAT_BONUS</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_ADD_FOOD_TO_CAMP</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_ADD_FOOD_TO_CAMP</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_ADD_FAITH_TO_CAMP</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_ADD_FAITH_TO_CAMP</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_ADD_FOOD_TO_FISHER</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_ADD_FOOD_TO_FISHER</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		
+	</ModifierArguments>
+
+	<ModifierStrings>
+		<Row ModifierId="COMBAT_MYWOW_BONUS_FOREING_CONTINENT_MODIFIER" Context="Preview" Text="LOC_ABILITY_MYWOW_BONUS_FOREING_CONTINENT_MODIFIER"/>
+		<Row ModifierId="MYWOW_FOREST_JUNGLE_COMBAT_BONUS_MODIFIER" Context="Preview" Text="LOC_FOREST_JUNGLE_COMBAT_BONUS_MODIFIER_DESCRIPTION"/>
+		<Row ModifierId="MYWOW_COMBAT_PLAINS_BONUS_MODIFIER" Context="Preview" Text="LOC_MYWOW_COMBAT_PLAINS_BONUS_MODIFIER_DESCRIPTION"/>
+		<Row ModifierId="MYWOW_COMBAT_BONUS_HOME_TERRITORY_MODIFIER" Context="Preview" Text="LOC_ABILITY_COSSACK_LOCAL_COMBAT_MODIFIER_DESCRIPTION"/>
+	</ModifierStrings>
+
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>MYWOW_FOREST_JUNGLE_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_PLAINS_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>PLOT_MYWOW_HAS_SNOW_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>PLOT_MYWOW_HAS_SNOW_HILLS_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>MYWOW_FOREST_JUNGLE_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_FOREST_REQUIREMENT</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_FOREST_JUNGLE_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_JUNGLE_REQUIREMENT</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_PLAINS_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYWOW_REQUIRES_PLOT_HAS_PLAINS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_PLAINS_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYWOW_REQUIRES_PLOT_HAS_PLAINS_HILLS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>PLOT_MYWOW_HAS_SNOW_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYWOW_REQUIRES_PLOT_HAS_SNOW</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>PLOT_MYWOW_HAS_SNOW_HILLS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYWOW_REQUIRES_PLOT_HAS_SNOW_HILLS</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_PLOT_HAS_PLAINS</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_PLOT_HAS_PLAINS_HILLS</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_PLOT_HAS_SNOW</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_PLOT_HAS_SNOW_HILLS</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+
+	<RequirementArguments>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_PLOT_HAS_PLAINS</RequirementId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_PLAINS</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_PLOT_HAS_PLAINS_HILLS</RequirementId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_PLAINS_HILLS</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_PLOT_HAS_SNOW</RequirementId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_SNOW</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_PLOT_HAS_SNOW_HILLS</RequirementId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_SNOW_HILLS</Value>
+		</Row>
+	</RequirementArguments>
+
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_GARROSH_HELLSCREAM" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_GARROSH_HELLSCREAM_QUOTE"/>
+		<Row LeaderType="LEADER_VOL_JIN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_VOL_JIN_QUOTE"/>
+		<Row LeaderType="LEADER_BAINE_BLOODHOOF" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_BAINE_BLOODHOOF_QUOTE"/>
+		<Row LeaderType="LEADER_SYLVANAS_WINDRUNNER" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_SYLVANAS_WINDRUNNER_QUOTE"/>
+		<Row LeaderType="LEADER_LOR_THEMAR_THERON" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_LOR_THEMAR_THERON_QUOTE"/>
+		<Row LeaderType="LEADER_JASTOR_GALLYWIX" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_JASTOR_GALLYWIX_QUOTE"/>
+		<Row LeaderType="LEADER_VARIAN_WRYNN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_VARIAN_WRYNN_QUOTE"/>
+		<Row LeaderType="LEADER_MURADIN_BRONZEBEARD" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_MURADIN_BRONZEBEARD_QUOTE"/>
+		<Row LeaderType="LEADER_TYRANDE_WHISPERWIND" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_TYRANDE_WHISPERWIND_QUOTE"/>
+		<Row LeaderType="LEADER_PROPHET_VELEN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_PROPHET_VELEN_QUOTE"/>
+		<Row LeaderType="LEADER_GENN_GREYMANE" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_GENN_GREYMANE_QUOTE"/>
+		<Row LeaderType="LEADER_GELBIN_MEKKATORQUE" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_GELBIN_MEKKATORQUE_QUOTE"/>
+		<Row LeaderType="LEADER_TIRION_FORDRING" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_TIRION_FORDRING_QUOTE"/>
+		<Row LeaderType="LEADER_LICH_KING" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_LICH_KING_QUOTE"/>
+		<Row LeaderType="LEADER_ZULJIN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_ZULJIN_QUOTE"/>
+		<Row LeaderType="LEADER_JINDO" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_JINDO_QUOTE"/>
+	</LeaderQuotes>
+</GameData>

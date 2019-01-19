@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="IMPROVEMENT_WATCH_TOWER" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_ARCANE_SANCTUM" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_CRYSTAL_MINE" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_GREYMANE_WALL" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_NECROPOLIS" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_TROLL_ZIGGURAT" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_DRAKKARI_FARM" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_GOBLIN_RESORT" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_SERPENTS_SPINE" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_MOGU_STATUES" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_PANDAREN_BREWERY" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_STEAM_PUMP" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_MANAFORGE" Kind="KIND_IMPROVEMENT"/>
+	</Types>
+
+	<Improvements>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" Name="LOC_IMPROVEMENT_WATCH_TOWER_NAME" Description="LOC_IMPROVEMENT_WATCH_TOWER_DESCRIPTION" Icon="ICON_IMPROVEMENT_WATCH_TOWER" PlunderType="NO_PLUNDER" Buildable="true" PrereqTech="TECH_CONSTRUCTION" DefenseModifier="6" GrantFortification="2" Housing="1" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_WATCH_TOWER"/>
+		<Row ImprovementType="IMPROVEMENT_ARCANE_SANCTUM" Name="LOC_IMPROVEMENT_ARCANE_SANCTUM_NAME" Description="LOC_IMPROVEMENT_ARCANE_SANCTUM_DESCRIPTION" Icon="ICON_IMPROVEMENT_ARCANE_SANCTUM" PlunderType="PLUNDER_FAITH" PlunderAmount="25" Buildable="true" PrereqCivic="CIVIC_CRAFTSMANSHIP" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_ARCANE_SANCTUM" SameAdjacentValid="false"/>
+		<Row ImprovementType="IMPROVEMENT_CRYSTAL_MINE" Name="LOC_IMPROVEMENT_CRYSTAL_MINE_NAME" Description="LOC_IMPROVEMENT_CRYSTAL_MINE_DESCRIPTION" Icon="ICON_IMPROVEMENT_CRYSTAL_MINE" PlunderType="PLUNDER_FAITH" PlunderAmount="25" Buildable="true" PrereqCivic="CIVIC_CRAFTSMANSHIP" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_CRYSTAL_MINE"/>
+		<Row ImprovementType="IMPROVEMENT_GREYMANE_WALL" Name="LOC_IMPROVEMENT_GREYMANE_WALL_NAME" Description="LOC_IMPROVEMENT_GREYMANE_WALL_DESCRIPTION" Icon="ICON_IMPROVEMENT_GREYMANE_WALL" PlunderType="PLUNDER_GOLD" PlunderAmount="50" Buildable="true" PrereqTech="TECH_MASONRY" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_GREYMANE_WALL" BuildInLine="true" BuildOnFrontier="true" DefenseModifier="4" GrantFortification="2"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" Name="LOC_IMPROVEMENT_NECROPOLIS_NAME" Description="LOC_IMPROVEMENT_NECROPOLIS_DESCRIPTION" Icon="ICON_IMPROVEMENT_NECROPOLIS" PlunderType="NO_PLUNDER" Buildable="true" PrereqTech="TECH_CONSTRUCTION" DefenseModifier="6" GrantFortification="2" Housing="1" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_NECROPOLIS"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" Name="LOC_IMPROVEMENT_TROLL_ZIGGURAT_NAME" Description="LOC_IMPROVEMENT_TROLL_ZIGGURAT_DESCRIPTION" Icon="ICON_IMPROVEMENT_TROLL_ZIGGURAT" PlunderType="PLUNDER_GOLD" PlunderAmount="50" Buildable="true" PrereqTech="TECH_CONSTRUCTION" DefenseModifier="4" GrantFortification="2" Housing="1" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_TROLL_ZIGGURAT"/>
+		<Row ImprovementType="IMPROVEMENT_DRAKKARI_FARM" Name="LOC_IMPROVEMENT_DRAKKARI_FARM_NAME" Description="LOC_IMPROVEMENT_DRAKKARI_FARM_DESCRIPTION" Icon="ICON_IMPROVEMENT_DRAKKARI_FARM" PlunderType="PLUNDER_HEAL" PlunderAmount="100" Buildable="true" Housing="1" TilesRequired="2" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_DRAKKARI_FARM"/>
+		<Row ImprovementType="IMPROVEMENT_GOBLIN_RESORT" Name="LOC_IMPROVEMENT_GOBLIN_RESORT_NAME" Description="LOC_IMPROVEMENT_GOBLIN_RESORT_DESCRIPTION" Icon="ICON_IMPROVEMENT_GOBLIN_RESORT" PlunderType="PLUNDER_GOLD" PlunderAmount="100" Buildable="true" PrereqTech="TECH_APPRENTICESHIP" MinimumAppeal="4" Coast="true" YieldFromAppeal="YIELD_GOLD" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_GOBLIN_RESORT"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" Name="LOC_IMPROVEMENT_SERPENTS_SPINE_NAME" Description="LOC_IMPROVEMENT_SERPENTS_SPINE_DESCRIPTION" Icon="ICON_IMPROVEMENT_SERPENTS_SPINE" PlunderType="PLUNDER_GOLD" PlunderAmount="50" Buildable="true" PrereqTech="TECH_MASONRY" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_SERPENTS_SPINE" BuildInLine="true" BuildOnFrontier="true" DefenseModifier="4" GrantFortification="2"/>
+		<Row ImprovementType="IMPROVEMENT_MOGU_STATUES" Name="LOC_IMPROVEMENT_MOGU_STATUES_NAME" Description="LOC_IMPROVEMENT_MOGU_STATUES_DESCRIPTION" Icon="ICON_IMPROVEMENT_MOGU_STATUES" PlunderType="PLUNDER_CULTURE" PlunderAmount="25" Buildable="true"  PrereqTech="TECH_MASONRY" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_MOGU_STATUES"/>
+		<Row ImprovementType="IMPROVEMENT_PANDAREN_BREWERY" Name="LOC_IMPROVEMENT_PANDAREN_BREWERY_NAME" Description="LOC_IMPROVEMENT_PANDAREN_BREWERY_DESCRIPTION" Icon="ICON_IMPROVEMENT_PANDAREN_BREWERY" PlunderType="PLUNDER_GOLD" PlunderAmount="50" Buildable="true" PrereqTech="TECH_APPRENTICESHIP" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_PANDAREN_BREWERY" RequiresRiver="true"/>
+		<Row ImprovementType="IMPROVEMENT_STEAM_PUMP" Name="LOC_IMPROVEMENT_STEAM_PUMP_NAME" Description="LOC_IMPROVEMENT_STEAM_PUMP_DESCRIPTION" Icon="ICON_IMPROVEMENT_STEAM_PUMP" PlunderType="PLUNDER_GOLD" PlunderAmount="70" PrereqTech="TECH_MACHINERY" EnforceTerrain="true" Appeal="-1" Domain="DOMAIN_SEA" SameAdjacentValid="false" TilesRequired="3" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_STEAM_PUMP"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" Name="LOC_IMPROVEMENT_MANAFORGE_NAME" Description="LOC_IMPROVEMENT_MANAFORGE_DESCRIPTION" Icon="ICON_IMPROVEMENT_MANAFORGE" PlunderType="PLUNDER_SCIENCE" PlunderAmount="40" Buildable="true"  PrereqCivic="CIVIC_RECORDED_HISTORY" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_MANAFORGE" SameAdjacentValid="false" TilesRequired="2"/>
+
+	</Improvements>
+
+	<Improvement_Adjacencies>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" YieldChangeId="WatchTower_Adjacency"/>
+		<Row ImprovementType="IMPROVEMENT_GREYMANE_WALL" YieldChangeId="GreymaneWall_Culture"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" YieldChangeId="Necropolis_Adjacency"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" YieldChangeId="TrolZigguratForest_Adjacency"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" YieldChangeId="TrolZigguratJungle_Adjacency"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" YieldChangeId="SerpentsSpine_Gold"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" YieldChangeId="SerpentsSpine_Culture"/>
+		<Row ImprovementType="IMPROVEMENT_PANDAREN_BREWERY" YieldChangeId="Brewery_FarmAdjacency"/>
+		<Row ImprovementType="IMPROVEMENT_STEAM_PUMP" YieldChangeId="Steam_pumpAdjacency"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" YieldChangeId="ManaforgeAdjacency"/>
+
+
+	</Improvement_Adjacencies>
+
+	<Improvement_ValidFeatures>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" FeatureType="FEATURE_FOREST"/>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" FeatureType="FEATURE_JUNGLE"/>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" FeatureType="FEATURE_MARSH"/>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" FeatureType="FEATURE_FLOODPLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" FeatureType="FEATURE_FOREST"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" FeatureType="FEATURE_JUNGLE"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" FeatureType="FEATURE_MARSH"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" FeatureType="FEATURE_FOREST"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" FeatureType="FEATURE_JUNGLE"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" FeatureType="FEATURE_MARSH"/>
+	</Improvement_ValidFeatures>
+
+	<Improvement_ValidTerrains>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ARCANE_SANCTUM" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_ARCANE_SANCTUM" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_ARCANE_SANCTUM" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ARCANE_SANCTUM" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_GREYMANE_WALL" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_GREYMANE_WALL" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_GREYMANE_WALL" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_GREYMANE_WALL" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_GREYMANE_WALL" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_GREYMANE_WALL" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_GREYMANE_WALL" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_GREYMANE_WALL" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_GREYMANE_WALL" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_GREYMANE_WALL" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_DRAKKARI_FARM" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_DRAKKARI_FARM" TerrainType="TERRAIN_TUNDRA_HILLS" PrereqCivic="CIVIC_CIVIL_ENGINEERING"/>
+		<Row ImprovementType="IMPROVEMENT_GOBLIN_RESORT" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_GOBLIN_RESORT" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_GOBLIN_RESORT" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_MOGU_STATUES" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_MOGU_STATUES" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_MOGU_STATUES" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_MOGU_STATUES" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_MOGU_STATUES" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_MOGU_STATUES" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_MOGU_STATUES" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_MOGU_STATUES" TerrainType="TERRAIN_GRASS_HILLS"/>>
+		<Row ImprovementType="IMPROVEMENT_PANDAREN_BREWERY" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_PANDAREN_BREWERY" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_STEAM_PUMP" TerrainType="TERRAIN_COAST"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" TerrainType="TERRAIN_SNOW_HILLS"/>
+
+	</Improvement_ValidTerrains>
+
+	<Improvement_ValidResources>
+		<Row ImprovementType="IMPROVEMENT_CRYSTAL_MINE" ResourceType="RESOURCE_GYPSUM" MustRemoveFeature="false"/>
+		<Row ImprovementType="IMPROVEMENT_CRYSTAL_MINE" ResourceType="RESOURCE_DIAMONDS" MustRemoveFeature="false"/>
+	</Improvement_ValidResources>
+	
+	<Improvement_ValidBuildUnits>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" UnitType="UNIT_GRUNT"/>
+		<Row ImprovementType="IMPROVEMENT_ARCANE_SANCTUM" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_CRYSTAL_MINE" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_GREYMANE_WALL" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_DRAKKARI_FARM" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_GOBLIN_RESORT" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_MOGU_STATUES" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_PANDAREN_BREWERY" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_STEAM_PUMP" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" UnitType="UNIT_BUILDER"/>
+	</Improvement_ValidBuildUnits>
+
+	<Improvement_YieldChanges>
+		<Row ImprovementType="IMPROVEMENT_WATCH_TOWER" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_ARCANE_SANCTUM" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_ARCANE_SANCTUM" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_CRYSTAL_MINE" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_CRYSTAL_MINE" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_CRYSTAL_MINE" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_GREYMANE_WALL" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_NECROPOLIS" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_TROLL_ZIGGURAT" YieldType="YIELD_FAITH" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_DRAKKARI_FARM" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_DRAKKARI_FARM" YieldType="YIELD_FOOD" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_GOBLIN_RESORT" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_GOBLIN_RESORT" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" YieldType="YIELD_GOLD" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" YieldType="YIELD_CULTURE" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_MOGU_STATUES" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_MOGU_STATUES" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_PANDAREN_BREWERY" YieldType="YIELD_FOOD" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_PANDAREN_BREWERY" YieldType="YIELD_GOLD" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_STEAM_PUMP" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_STEAM_PUMP" YieldType="YIELD_GOLD" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_MANAFORGE" YieldType="YIELD_SCIENCE" YieldChange="0"/>
+	</Improvement_YieldChanges>
+
+	<Adjacency_YieldChanges>
+		<Row ID="WatchTower_Adjacency" Description="Placeholder" YieldType="YIELD_PRODUCTION" YieldChange="1" TilesRequired="1" AdjacentDistrict="DISTRICT_ENCAMPMENT"/>
+		<Row ID="GreymaneWall_Culture" Description="Placeholder" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_GREYMANE_WALL" PrereqTech="TECH_CASTLES"/>
+		<Row ID="Necropolis_Adjacency" Description="Placeholder" YieldType="YIELD_PRODUCTION" YieldChange="2" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_LUMBER_MILL"/>
+		<Row ID="TrolZigguratForest_Adjacency" Description="Placeholder" YieldType="YIELD_FAITH" YieldChange="1" TilesRequired="1" AdjacentFeature="FEATURE_FOREST"/>
+		<Row ID="TrolZigguratJungle_Adjacency" Description="Placeholder" YieldType="YIELD_FAITH" YieldChange="1" TilesRequired="1" AdjacentFeature="FEATURE_JUNGLE"/>
+		<Row ID="SerpentsSpine_Gold" Description="Placeholder" YieldType="YIELD_GOLD" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_SERPENTS_SPINE" PrereqTech="TECH_MASONRY"/>
+		<Row ID="SerpentsSpine_Culture" Description="Placeholder" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_SERPENTS_SPINE" PrereqTech="TECH_CASTLES"/>
+		<Row ID="Brewery_FarmAdjacency" Description="Placeholder" YieldType="YIELD_GOLD" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_FARM" PrereqTech="TECH_MASONRY"/>
+		<Row ID="Steam_pumpAdjacency" Description="Placeholder" YieldType="YIELD_GOLD" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_FISHING_BOATS" PrereqTech="TECH_MASONRY"/>
+		<Row ID="ManaforgeAdjacency" Description="Placeholder" YieldType="YIELD_SCIENCE" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_MANAFORGE" PrereqTech="TECH_MASONRY"/>
+
+	</Adjacency_YieldChanges>
+
+	<Improvement_Tourism>
+		<Row ImprovementType="IMPROVEMENT_ARCANE_SANCTUM" TourismSource="TOURISMSOURCE_CULTURE" PrereqTech="TECH_FLIGHT" ScalingFactor="100"/>
+		<Row ImprovementType="IMPROVEMENT_GOBLIN_RESORT" TourismSource="TOURISMSOURCE_APPEAL" ScalingFactor="100"/>
+		<Row ImprovementType="IMPROVEMENT_SERPENTS_SPINE" TourismSource="TOURISMSOURCE_CULTURE" PrereqTech="TECH_FLIGHT" ScalingFactor="100"/>
+		<Row ImprovementType="IMPROVEMENT_MOGU_STATUES" TourismSource="TOURISMSOURCE_CULTURE" PrereqTech="TECH_FLIGHT" ScalingFactor="100"/>
+
+	</Improvement_Tourism>
+
+	<ImprovementModifiers>
+		<Row>
+			<ImprovementType>IMPROVEMENT_ARCANE_SANCTUM</ImprovementType>
+			<ModifierId>ARCANE_SANCTUM_WONDERADJACENCY_FAITH</ModifierId>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TROLL_ZIGGURAT</ImprovementType>
+			<ModifierId>MYWOW_ZIGGURAT_LAKE_CULTURE</ModifierId>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_DRAKKARI_FARM</ImprovementType>
+			<ModifierId>MYWOW_DRAKKARI_FARM_LAKE_FOOD</ModifierId>
+		</Row>
+	</ImprovementModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>ARCANE_SANCTUM_WONDERADJACENCY_FAITH</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_PLOT_ADJUST_PLOT_YIELDS</ModifierType>
+			<SubjectRequirementSetId>PLOT_ADJACENT_TO_WONDER_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_ZIGGURAT_LAKE_CULTURE</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_PLOT_ADJUST_PLOT_YIELDS</ModifierType>
+			<SubjectRequirementSetId>MYWOW_PLOT_ADJACENT_TO_LAKE_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_DRAKKARI_FARM_LAKE_FOOD</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_PLOT_ADJUST_PLOT_YIELDS</ModifierType>
+			<SubjectRequirementSetId>MYWOW_PLOT_ADJACENT_TO_LAKE_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>ARCANE_SANCTUM_WONDERADJACENCY_FAITH</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>ARCANE_SANCTUM_WONDERADJACENCY_FAITH</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_DRAKKARI_FARM_LAKE_FOOD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_DRAKKARI_FARM_LAKE_FOOD</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_ZIGGURAT_LAKE_CULTURE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_ZIGGURAT_LAKE_CULTURE</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+	</ModifierArguments>
+
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>MYWOW_PLOT_ADJACENT_TO_LAKE_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>MYWOW_PLOT_ADJACENT_TO_LAKE_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYWOW_REQUIRES_PLOT_IS_ADJACENT_TO_LAKE</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_PLOT_IS_ADJACENT_TO_LAKE</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_TO_LAKE</RequirementType> <!-- Implemented in Vanilla GameEffects.xml-->
+		</Row>
+	</Requirements>
+
+
+</GameData>

@@ -1,0 +1,3720 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!--
+	Kaldorei: , , Arauk-Nashal, Izal-Shurah,
+	Loradeon: Hasic, Vandermar 
+	Old Horde Azeroth: Kyross
+	aMANI: Blackleaf , Treeblight 
+	
+	-->
+	<LocalizedText>
+		<Row Tag="LOC_MYWOW_DISTRICT_MOUNTAIN_PRODUCTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production for Mountain</Text>
+		</Row>
+		<Row Tag="LOC_MYWOW_DISTRICT_FOREST_CULTURE" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture for Forest</Text>
+		</Row>
+		<Row Tag="LOC_MYWOW_DISTRICT_FOREST_FAITH" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith for Forest</Text>
+		</Row>
+		<Row Tag="LOC_MYWOW_DISTRICT_MOUNTAIN_FAITH" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith for Mountain</Text>
+		</Row>
+		<Row Tag="LOC_MYWOW_DISTRICT_MOUNTAIN_CULTURE" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture for Mountain</Text>
+		</Row>
+		<!-- ORCS | GARROSH -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GARROSH_HELLSCREAM" Language="en_US">
+			<Text>Garrosh Hellscream was the son of Grom Hellscream and former chieftain of the Warsong clan. With the reopening of the Dark Portal, Garrosh was invited into the Horde by Thrall himself, quickly advancing to the position of personal adviser of the Warchief. Garrosh led the Horde troops into Northrend and was given the position of acting Warchief in Thrall's absence. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MYWOW_MELEE_UNITS_BONUS_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength for all melee units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MYWOW_BONUS_FOREING_CONTINENT_MODIFIER" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting on a continent other that your [ICON_Capital] Capital's.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_KOR_KRON_NAME" Language="en_US">
+			<Text>Kor'Kron</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_KOR_KRON_DESCRIPTION" Language="en_US">
+			<Text>Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Culture] Culture on combat victory</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WOLF_RIDER_NAME" Language="en_US">
+			<Text>Wolf Riders</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WOLF_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Faster movement in Woods and Jungle terrain.  Can see through Woods and Jungle. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORGRIMMAR" Language="en_US">
+			<Text>Orgrimmar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAZORHILL" Language="en_US">
+			<Text>Razorhill</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CROSSROADS" Language="en_US">
+			<Text>Crossroads</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VALLEY_OF_TRIALS" Language="en_US">
+			<Text>Valley of Trials</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KROM_GAR_FORTRESS" Language="en_US">
+			<Text>Krom'gar Fortress</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SPLINTERTREE_POST" Language="en_US">
+			<Text>Splintertree Post</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DESOLATION_HOLD" Language="en_US">
+			<Text>Desolation Hold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRACKENWALL_VILLAGE" Language="en_US">
+			<Text>Brackenwall Village</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GROM_GOL" Language="en_US">
+			<Text>Grom'gol</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DREADMAUL" Language="en_US">
+			<Text>Dreadmaul</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STONARD" Language="en_US">
+			<Text>Stonard</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CRUSHBLOW" Language="en_US">
+			<Text>Crushblow</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAMMERFALL" Language="en_US">
+			<Text>Hammerfall</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KARGATH" Language="en_US">
+			<Text>Kargath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRAGONMAW_PORT" Language="en_US">
+			<Text>Dragonmaw Port</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BLOODGULCH" Language="en_US">
+			<Text>Bloodgulch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WARSONG_HOLD" Language="en_US">
+			<Text>Warsong Hold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BOR_GOROK_OUTPOST" Language="en_US">
+			<Text>Bor'Gorok Outpost</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AGMAR_HAMMER" Language="en_US">
+			<Text>Agmar's Hammer</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CONQUEST_HOLD" Language="en_US">
+			<Text>Conquest Hold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOR_SHAN_RAMPART" Language="en_US">
+			<Text>Mor'shan Rampart</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FAR_WATCH_POST" Language="en_US">
+			<Text>Far Watch Post</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BLOODVENOM_POST" Language="en_US">
+			<Text>Bloodvenom Post</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HONEYDEW_VILLAGE" Language="en_US">
+			<Text>Honeydew Village</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GROOKIN_HILL" Language="en_US">
+			<Text>Grookin Hill</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EASTWIND_REST" Language="en_US">
+			<Text>Eastwind Rest</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOMINATION_POST" Language="en_US">
+			<Text>Domination Point</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THE_FOLD" Language="en_US">
+			<Text>The Fold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FROSTWOLF" Language="en_US">
+			<Text>Frostwolf</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DARK_PORTAL" Language="en_US">
+			<Text>Dark Portal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BLACK_MORASS" Language="en_US">
+			<Text>Black Morass</Text>
+		</Row>
+		<!-- END OF ORCS | GARROSH -->
+		<!-- TROLLS | VOL'JIN -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_VOL_JIN" Language="en_US">
+			<Text>The shadow hunter Vol'jin, son of Sen'jin, Chieftain of the Darkspear tribe. Vol'jin had sworn to do everything in his power to lead the Darkspear tribe just as his late father, Sen'jin, would have. For years Vol'jin resided in Orgrimmar, offering strategic advice to then-Warchief Thrall and assisting with critical operations such as retaking the Undercity after the Forsaken bastion had been usurped by Grand Apothecary Putress and the dreadlord Varimathras.  </Text>
+		</Row>
+		<Row Tag="LOC_FOREST_JUNGLE_COMBAT_BONUS_MODIFIER_DESCRIPTION" Language="en_US">
+			<Text>All units gains additional +5 [ICON_Strength] when fighting in Forest or Jungle.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SHADOW_HUNTER_NAME" Language="en_US">
+			<Text>Shadow Hunters</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SHADOW_HUNTER_DESCRIPTION" Language="en_US">
+			<Text>Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Culture] Faith on combat victory</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AXETHROWER_NAME" Language="en_US">
+			<Text>Axethrower</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AXETHROWER_DESCRIPTION" Language="en_US">
+			<Text>Can attack twice per turn</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HEADHUNTER_NAME" Language="en_US">
+			<Text>Hedhunter</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HEADHUNTER_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength vs. cavalry units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RAPTOR_RIDER_NAME" Language="en_US">
+			<Text>Raptor Riders</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RAPTOR_RIDER_DESCRIPTION" Language="en_US">
+			<Text>-3 [ICON_Strength] to enemies next to him. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DARKSPEAR_ISLE" Language="en_US">
+			<Text>Darkspear Isle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECHO_ISLES" Language="en_US">
+			<Text>Echo Isles</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SEN_JIN" Language="en_US">
+			<Text>Sen'jin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHADOWPREY" Language="en_US">
+			<Text>Shadowprey</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MALAKA_JIN" Language="en_US">
+			<Text>Malaka'jin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZORAM_GAR" Language="en_US">
+			<Text>Zoram’gar Outpost</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAMBALA" Language="en_US">
+			<Text>Bambala</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_REVANTUSK" Language="en_US">
+			<Text>Revantusk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZABRA_JIN" Language="en_US">
+			<Text>Zabra'jin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SWAMPRAT" Language="en_US">
+			<Text>Swamprat Post</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHATTERSPEAR_VALE" Language="en_US">
+			<Text>Shatterspear Vale</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_BWONSAMBI" Language="en_US">
+			<Text>Atal'Bwonsamdi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_DAMBALA" Language="en_US">
+			<Text>Atal'Dambala</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_GONK" Language="en_US">
+			<Text>Atal'Gonk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAMEDI_ALOR" Language="en_US">
+			<Text>Samedi'alor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHANGO_ALOR" Language="en_US">
+			<Text>Shango'alor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHIRVALLAH_ATAL" Language="en_US">
+			<Text>Shirvallah'atal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VOL_JIN" Language="en_US">
+			<Text>Vol'Jin</Text>
+		</Row>
+		<!-- END OF TROLLS | VOL'JIN -->
+		<!-- TAUREN | BAINE_BLOODHOOF -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_BAINE_BLOODHOOF" Language="en_US">
+			<Text>Baine Bloodhoof is the current High Chieftain of the Tauren, son of the aging Cairne Bloodhoof and Tamaala, Baine fought alongside his father with pride and respect, and continued to defend his people when they established a home for themselves in Mulgore.</Text>
+		</Row>
+		<Row Tag="LOC_MYWOW_COMBAT_PLAINS_BONUS_MODIFIER_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength in Plains.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAUREN_BRAVE_NAME" Language="en_US">
+			<Text>Brave Warrior</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAUREN_BRAVE_DESCRIPTION" Language="en_US">
+			<Text>Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_KODO_RIDER_NAME" Language="en_US">
+			<Text>Kodo Warrior</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_KODO_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THUNDER_BLUFF" Language="en_US">
+			<Text>Thunder Bluff</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BLOODHOOF" Language="en_US">
+			<Text>Bloodhoof</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAMP_NARACHE" Language="en_US">
+			<Text>Camp Narache</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THE_BIG_DOOR" Language="en_US">
+			<Text>The Big Door</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAURAJO" Language="en_US">
+			<Text>Taurajo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VENDETTA_POINT" Language="en_US">
+			<Text>Vendetta Point</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HUNTERS_HILL" Language="en_US">
+			<Text>Hunter's Hill</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUNROCK_RETREATE" Language="en_US">
+			<Text>Sun Rock Retreate</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CLIFFWALKER_POST" Language="en_US">
+			<Text>Cliffwalker Post</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WESTREACH_SUMMIT" Language="en_US">
+			<Text>Westreach Summit</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAMP_MOJACHE" Language="en_US">
+			<Text>Camp Mojache</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FREEWIND_POST" Language="en_US">
+			<Text>Freewind Post</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAMP_ATAYA" Language="en_US">
+			<Text>Camp Ataya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAUNKALE_VILLAGE" Language="en_US">
+			<Text>Taunka'le Village</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WINTERHOOF" Language="en_US">
+			<Text>Winterhoof</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAMP_ONEGWAH" Language="en_US">
+			<Text>Camp Onegwah</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAMP_TUNKALO" Language="en_US">
+			<Text>Camp Tunka'lo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THUNDER_CLEFT" Language="en_US">
+			<Text>Thunder Cleft</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEW_TAURAJO" Language="en_US">
+			<Text>New Taurajo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ICEMIST" Language="en_US">
+			<Text>Icemist</Text>
+		</Row>
+		
+		<!-- END OF TAUREN | BAINE_BLOODHOOF -->
+		<!-- FORSAKEN | SYLVANAS -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SYLVANAS_WINDRUNNER" Language="en_US">
+			<Text>Sylvanas Windrunner is the former Ranger-General of Silvermoon. She currently serves as leader of the Forsaken faction of undead.  Sylvanas was able to claim Lordaeron and made her home under the former Capital City, naming it "The Undercity." </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ABOMINATION_NAME" Language="en_US">
+			<Text>Abomination Horror</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ABOMINATION_DESCRIPTION" Language="en_US">
+			<Text>-5 [ICON_Strength] Combat Strength to adjacent enemy units.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UNDERCITY" Language="en_US">
+			<Text>Undercity</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DEATHKNELL" Language="en_US">
+			<Text>Deathknell</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BULWARK" Language="en_US">
+			<Text>The Bulwark</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRILL" Language="en_US">
+			<Text>Brill</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANDORHAL" Language="en_US">
+			<Text>Andorhal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SEPULCHER" Language="en_US">
+			<Text>Sepulcher</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMBER_MILL" Language="en_US">
+			<Text>Amber Mill</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SLUDGE_FIELDS" Language="en_US">
+			<Text>Sludge Fields</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SOUTHSHORE" Language="en_US">
+			<Text>Southshore</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TARREN_MILL" Language="en_US">
+			<Text>Tarrren Mill</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VENGEANCE_LANDING" Language="en_US">
+			<Text>Vengeance Landing</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEW_AGAMAND" Language="en_US">
+			<Text>New Agamand</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VENOMSPITE" Language="en_US">
+			<Text>Venomspite</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SOUTHPOINT_GATE" Language="en_US">
+			<Text>Southpoint Gate</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DREADKWAKES_LANDING" Language="en_US">
+			<Text>Dreadwakes Landing</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AGAMAND_MILLS" Language="en_US">
+			<Text>Agamand Mills</Text>
+		</Row>
+		<!-- END OF FORSAKEN | SYLVANAS -->
+		<!-- BLOOD ELVES | LOR_THEMAR_THERON -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_LOR_THEMAR_THERON" Language="en_US">
+			<Text>Lor'themar Theron is the Regent Lord of Quel'Thalas, and was the leader of the blood elves of Azeroth in the absence of Prince Kael'thas Sunstrider. After Kael'thas' betrayal and eventual death, Lor'themar has become the sole leader of his people and seeks to lead them to a brighter future.  </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SPELL_BREAKER_NAME" Language="en_US">
+			<Text>Spell Breaker</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SPELL_BREAKER_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength vs Ranged Units and +7 [ICON_Strength] Combat Strength when defending vs. ranged attacks.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ELF_MAGE_NAME" Language="en_US">
+			<Text>Elf Mage</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ELF_MAGE_DESCRIPTION" Language="en_US">
+			<Text>Heals every turn, even after moving or combat.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SILVERMOON" Language="en_US">
+			<Text>Silvermoon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FAIRBREEZE" Language="en_US">
+			<Text>Fairbreeze</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUNSTRIDER" Language="en_US">
+			<Text>Sunstrider</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DAWNSTAR" Language="en_US">
+			<Text>Dawnstar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TRANQUILLIEN" Language="en_US">
+			<Text>Tranquillien</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUNSAIL_ANCHORAGE" Language="en_US">
+			<Text>Sunsail Anchorage</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUNCROWN_VILLAGE" Language="en_US">
+			<Text>Suncrown Village</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GOLDENMIST_VILLAGE" Language="en_US">
+			<Text>Goldenmist Village</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WINDRUNNER_VILLAGE" Language="en_US">
+			<Text>Windrunner Village</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FARSTRIDER_ENCLAVE" Language="en_US">
+			<Text>Farstrider Enclave</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WINDRUNNER_SPIRE" Language="en_US">
+			<Text>Windrunner Spire </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUNS_REACH" Language="en_US">
+			<Text>Sun's Reach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QUELDANAS" Language="en_US">
+			<Text>Quel'Danas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUNVELL_EXCURSION" Language="en_US">
+			<Text>Sunvell Excursion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUNREAVER_COMMAND" Language="en_US">
+			<Text>Sunreaver's Command</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEMPEST_KEEP" Language="en_US">
+			<Text>Tempest Keep</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FALCON_WATCH" Language="en_US">
+			<Text>Falcon Watch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FIREWING_POINT" Language="en_US">
+			<Text>Firewing Point</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECLIPSE_POINT" Language="en_US">
+			<Text>Eclipse Point</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUNFURY_HOLD" Language="en_US">
+			<Text>Sunfury Hold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QUEL_LITHIEN_LODGE" Language="en_US">
+			<Text>Quel'Lithien Lodge</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QUEL_DANIL_LODGE" Language="en_US">
+			<Text>Quel'Danil Lodge</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FARSTRIDER_LODGE" Language="en_US">
+			<Text>Farstrider Lodge</Text>
+		</Row>
+		<!-- END OF BLOOD ELVES | LOR_THEMAR_THERON -->
+
+		<!-- GOBLINS | GALLYWIX -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JASTOR_GALLYWIX" Language="en_US">
+			<Text>Jastor Gallywix is the much-maligned Trade Prince of the Bilgewater Cartel, one of the most powerful goblin trade guilds on Kezan. Despite betraying his own people in a petty act of vengeance, he retains his position as Trade Prince of the Bilgewater Cartel in its service to the Horde.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UNDERMINE" Language="en_US">
+			<Text>Undermine</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KEZAN" Language="en_US">
+			<Text>Kezan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BILGEWATER_PORT" Language="en_US">
+			<Text>Bilgewater Port</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GALLYWIX_DOCKS" Language="en_US">
+			<Text>Gallywix Docks</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOWNINABOX" Language="en_US">
+			<Text>Town-In-A-Box</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BILGEWATER_HARBOUR" Language="en_US">
+			<Text>Bilgewater Harbour</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GALLYWIX_PLEASURE_PALACE" Language="en_US">
+			<Text>Gallywix Pleasure Palace</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KRAZZWORKS" Language="en_US">
+			<Text>Krazzworks</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NOZZLEPOTS_OUTPOST" Language="en_US">
+			<Text>Nozzlepot's Outpost</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARDWRENCH_HIDEAWAY" Language="en_US">
+			<Text>Hardwrench Hideaway</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SLUDGEWERKS" Language="en_US">
+			<Text>Sludgewerks</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NORTHERN_ROCKETWAY" Language="en_US">
+			<Text>Northern Rocketway</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SOUTHERN_ROCKETWAY" Language="en_US">
+			<Text>Southern Rocketway</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GOBLIN_SLUMS" Language="en_US">
+			<Text>Goblin Slums</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYRIX" Language="en_US">
+			<Text>Pyrix</Text>
+		</Row>
+		<!-- END OF GOBLINS | GALLYWIX -->
+		<!-- STORMWIND | VARIAN -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_VARIAN_WRYNN" Language="en_US">
+			<Text>Varian Wrynn, was the son of the late King Llane Wrynn, was the acting leader of the Alliance, and the former King of Stormwind. Under his leadership, the humans of Stormwind led the Alliance to victory against the Lich King in Northrend, and now seek to bolster their strategic holdings against their perennial enemy, "the Horde".</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_7HLEGION_NAME" Language="en_US">
+			<Text>7th Legion</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_7HLEGION_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting on a continent other that your [ICON_Capital] Capital's.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STORMWIND" Language="en_US">
+			<Text>Stormwind</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WESTRIDGE" Language="en_US">
+			<Text>Westridge</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GOLDSHIRE" Language="en_US">
+			<Text>Goldshire</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SENTINEL_HILL" Language="en_US">
+			<Text>Sentinel Hill</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOONBROOK" Language="en_US">
+			<Text>Moonbrook</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NORTHSHIRE" Language="en_US">
+			<Text>Northshire</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EASTVALE" Language="en_US">
+			<Text>Eastvale</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DARKSHIRE" Language="en_US">
+			<Text>Darkshire</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LAKESHIRE" Language="en_US">
+			<Text>Lakeshire</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MARSHTIDE_WATCH" Language="en_US">
+			<Text>Marshtide Watch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NETHERGARDE_KEEP" Language="en_US">
+			<Text>Nethergarde Keep</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MENETHIL" Language="en_US">
+			<Text>Menethil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VICTORS_POINT" Language="en_US">
+			<Text>Victor's Point</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIGHBANK" Language="en_US">
+			<Text>Highbank</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_REFUGE_POINT" Language="en_US">
+			<Text>Refuge Point</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KUL_TIRAS" Language="en_US">
+			<Text>Kul Tiras</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NORTHWATCH_HOLD" Language="en_US">
+			<Text>Northwatch Hold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THERAMORE" Language="en_US">
+			<Text>Theramore</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORT_TRIUMPH" Language="en_US">
+			<Text>Fort Triumph</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HONORS_STAND" Language="en_US">
+			<Text>Honor's Stand</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VALGRADE" Language="en_US">
+			<Text>Valgrade</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WESTGUARDE_KEEP" Language="en_US">
+			<Text>Westguarde Keep</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORT_WILDERVAR" Language="en_US">
+			<Text>Fort Wildervar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMBERPINE_LODGE" Language="en_US">
+			<Text>Amberpine Lodge</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORDRAGON_HOLD" Language="en_US">
+			<Text>Fordragon Hold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VALIANCE_KEEP" Language="en_US">
+			<Text>Valiance Keep</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WINTERGARDE_KEEP" Language="en_US">
+			<Text>Wintergarde Keep</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LIONS_LANDING" Language="en_US">
+			<Text>Lion's Landing</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PAWDON_VILLAGE" Language="en_US">
+			<Text>Paw'Don Village</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PEARLFIN_VILLAGE" Language="en_US">
+			<Text>Pearlfin Village</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WESTWIND_REST" Language="en_US">
+			<Text>Westwind Rest</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STONEWATCH" Language="en_US">
+			<Text>Stonewatch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STROMGARDE_KEEP" Language="en_US">
+			<Text>Stromgarde Keep</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALCAZ" Language="en_US">
+			<Text>Alcaz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIRAGARDE_KEEP" Language="en_US">
+			<Text>Tiragarde Keep</Text>
+		</Row>
+		<!-- END OF STORMWIND | VARIAN -->
+		<!-- IRONFORGE | MURADIN_BRONZEBEARD -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MURADIN_BRONZEBEARD" Language="en_US">
+			<Text>Muradin Bronzebeard is a hero of the Alliance, the younger brother of the dwarven King Magni Bronzebeard and the older brother of the renowned explorer Brann Bronzebeard. Muradin was believed to have perished in Northrend when the young prince Arthas Menethil claimed the runeblade Frostmourne. Magni was turned to stone after performing a ritual in Old Ironforge; Muradin, his daughter Moira and Thane Falstad Wildhammer succeeded him as leaders of the dwarves, ruling from the High Seat. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_STEAM_TANK_NAME" Language="en_US">
+			<Text>Steam Tank</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_STEAM_TANK_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Ranged] Ranged Strength vs. district defenses.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RAM_RIDER_NAME" Language="en_US">
+			<Text>Ram Riders</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RAM_RIDER_DESCRIPTION" Language="en_US">
+			<Text>+4 [ICON_Strength] Combat Strength in hills. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IRONFORGE" Language="en_US">
+			<Text>Ironforge</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KHARANOS" Language="en_US">
+			<Text>Kharanos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANVILMAR" Language="en_US">
+			<Text>Anvilmar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMBERSTILL_RANCH" Language="en_US">
+			<Text>Amberstill Ranch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THELSAMAR" Language="en_US">
+			<Text>Thelsamar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AERIE_PEAK" Language="en_US">
+			<Text>Aerie Peak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAEL_MODAN" Language="en_US">
+			<Text>Bael Modan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUN_ALGAZ" Language="en_US">
+			<Text>Dun Algaz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUN_MODR" Language="en_US">
+			<Text>Dun Modr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALGAZ_STATION" Language="en_US">
+			<Text>Algaz Station</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THUNDERMAR" Language="en_US">
+			<Text>Thundermar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KIRTHAVEN" Language="en_US">
+			<Text>Kirthaven</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FROSTHOLD" Language="en_US">
+			<Text>Frosthold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUN_BALDAR" Language="en_US">
+			<Text>Dun Baldar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORT_LIVINGSTON" Language="en_US">
+			<Text>Fort Livingston</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_COLDRIDGE" Language="en_US">
+			<Text>Coldridge</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUN_GAROK" Language="en_US">
+			<Text>Dun Garok</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GRIM_BATOL" Language="en_US">
+			<Text>Grim Batol</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUNWALD" Language="en_US">
+			<Text>Dunwald</Text>
+		</Row>
+		<!-- END OF IRONFORGE | MURADIN_BRONZEBEARD -->
+		<!-- NIGHT ELVES | TYRANDE_WHISPERWIND -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_TYRANDE_WHISPERWIND" Language="en_US">
+			<Text>Tyrande Whisperwind is the most prominent night elf leader, as the chosen high priestess of the goddess Elune, the former general of the night elf sentinels, and the current head of the Sisterhood of Elune. Together with her lifelong mate, the Archdruid Malfurion Stormrage, she has represented the highest leadership of the night elves since the fall of Queen Azshara and the Highborne caste ten thousand years ago.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MYWOW_FOREST_COMBAT_BONUS_ELVES_MODIFIER_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] when fighting in Forest</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SENTINEL_NAME" Language="en_US">
+			<Text>Sentinels</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SENTINEL_DESCRIPTION" Language="en_US">
+			<Text>150% of Flanking Bonus.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NELF_WARDEN_NAME" Language="en_US">
+			<Text>Wardens</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NELF_WARDEN_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when in your territory or adjacent to your territory.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SABER_RIDER_NAME" Language="en_US">
+			<Text>Saber Riders</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SABER_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Can move after attacking. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DARNASSUS" Language="en_US">
+			<Text>Darnassus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOLANAAR" Language="en_US">
+			<Text>Dolanaar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STARBREEZE" Language="en_US">
+			<Text>Starbreeze</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RUTTHERAN" Language="en_US">
+			<Text>Rut'theran</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LORDANEL" Language="en_US">
+			<Text>Lor'Danel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AUBERDINE" Language="en_US">
+			<Text>Auberdine</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ASTRANAAR" Language="en_US">
+			<Text>Astranaar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STARDUST" Language="en_US">
+			<Text>Stardust</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THALDARAH_GROVE" Language="en_US">
+			<Text>Thal'darah Grove</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WINDSHEAR_HOLD" Language="en_US">
+			<Text>Windshear Hold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FARWATCHER_GLEN" Language="en_US">
+			<Text>Farwatcher's Glen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEW_THALANAAR" Language="en_US">
+			<Text>New Thalanaar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FEATHERMOON_STRONGHOLD" Language="en_US">
+			<Text>Feathermoon Stronghold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FOREST_SONG" Language="en_US">
+			<Text>Forest Song</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAESTRAS_POST" Language="en_US">
+			<Text>Maestra's Post</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NIJELS_POINT" Language="en_US">
+			<Text>Nijel's Point</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TALONBRANCH_GLADE" Language="en_US">
+			<Text>Talonbranch Glade</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DREAMERS_REST" Language="en_US">
+			<Text>Dreamer's Rest</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STARFALL_VILLAGE" Language="en_US">
+			<Text>Starfall Village</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GREENWARDENS_GROVE" Language="en_US">
+			<Text>Greenwarden's Grove</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STARS_REST" Language="en_US">
+			<Text>Star's Rest</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THE_INCURSION" Language="en_US">
+			<Text>The Incursion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KEL_THERIL" Language="en_US">
+			<Text>Kel'Theril</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MATHYSTRA" Language="en_US">
+			<Text>Mathystra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DIRE_MAUL" Language="en_US">
+			<Text>Dire Maul</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAVENWIND" Language="en_US">
+			<Text>Ravenwind</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ISILDIEN" Language="en_US">
+			<Text>Isildien</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DARKMIST" Language="en_US">
+			<Text>Darkmist</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ELDARATH" Language="en_US">
+			<Text>Eldarath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SOUTHWIND_VILLAGE" Language="en_US">
+			<Text>Southwind Village</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NIGHTHAVEN" Language="en_US"><!--Cenarion -->
+			<Text>Nighthaven</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NORDRASSIL" Language="en_US"><!--Hyjal Guardians -->
+			<Text>Nordrassil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CENARION_HOLD" Language="en_US">	<!--Cenarion -->
+			<Text>Cenarion Hold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZIN_AZSHARI" Language="en_US">
+			<Text>Zin-Azshari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SURAMAR" Language="en_US">
+			<Text>Suramar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RIPLASH" Language="en_US">
+			<Text>Riplash</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOONSHRINE" Language="en_US">
+			<Text>Moonshrine</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NENDIS" Language="en_US">
+			<Text>Nendis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CONSTELLAS" Language="en_US">
+			<Text>Constellas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ELDRETHAR" Language="en_US">
+			<Text>Eldre'thar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ELDRANATH" Language="en_US">
+			<Text>Eldra'nath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LORETHARAN" Language="en_US">
+			<Text>Loreth'Aran</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORDILARAN" Language="en_US">
+			<Text>Ordil'Aran</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHANDARAL" Language="en_US">
+			<Text>Shandaral</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SOLARSAL" Language="en_US">
+			<Text>Solarsal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VASHJELAN" Language="en_US">
+			<Text>Vashj'elan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SARGERON" Language="en_US">
+			<Text>Sargeron</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TETHRIS_ARAN" Language="en_US">
+			<Text>Tethris Aran</Text>
+		</Row>
+		<!-- NIGHT ELVES | TYRANDE_WHISPERWIND -->
+		<!-- DRAENEI | VELEN -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_PROPHET_VELEN" Language="en_US">
+			<Text>Velen has been the leader of the draenei people since their flight from Argus 25,000 years before the first orcish invasion of Azeroth. As his title entails, he has been granted the gift of prophecy, and — aided by the Light — has guided his people as they fled from, and later fought against, the Burning Legion who had ensnared their eredar brethren.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VINDICATOR_NAME" Language="en_US">
+			<Text>Vindicator</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VINDICATOR_DESCRIPTION" Language="en_US">
+			<Text>Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith on combat victory and heals every turn, even after moving or combat.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ELEKK_RIDER_NAME" Language="en_US">
+			<Text>Elekk Riders</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ELEKK_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THE_EXODAR" Language="en_US">
+			<Text>The Exodar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AZURE_WATCH" Language="en_US">
+			<Text>Azure Watch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ODESYUS_LANDING" Language="en_US">
+			<Text>Odesyus Landing</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SILVERMYST_ISLE" Language="en_US">
+			<Text>Silvermyst Isle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMMEN_VALE" Language="en_US">
+			<Text>Ammen Vale</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BLOOD_WATCH" Language="en_US">
+			<Text>Blood Watch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KESSELS_CROSSING" Language="en_US">
+			<Text>Kessel's Crossing</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARBORAGE" Language="en_US">
+			<Text>Harborage</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHATTRATH" Language="en_US">
+			<Text>Shattrath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KARABOR" Language="en_US">
+			<Text>Karabor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TELMOR" Language="en_US">
+			<Text>Telmor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUUREM" Language="en_US">
+			<Text>Tuurem</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TELAAR" Language="en_US">
+			<Text>Telaar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TELREDOR" Language="en_US">
+			<Text>Telredor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRAAKORIUM" Language="en_US">
+			<Text>Draakorium</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMBAARI_VILLAGE" Language="en_US">
+			<Text>Embaari Village</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARUUNA" Language="en_US">
+			<Text>Aruuna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARKLON" Language="en_US">
+			<Text>Arklon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HALAA" Language="en_US">
+			<Text>Halaa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHANAAR" Language="en_US">
+			<Text>Sha'naar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RANGARI_ENCLAVE" Language="en_US">
+			<Text>Rangari Enclave</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ELODOR" Language="en_US">
+			<Text>Elodor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENKAAT" Language="en_US">
+			<Text>Enkaat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FARAHLON" Language="en_US">
+			<Text>Farahlon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STORMSPIRE" Language="en_US">
+			<Text>Stormspire</Text>
+		</Row>
+		<!-- DRAENEI | VELEN -->
+		<!-- KINGDOM_GILNEAS | GENN_GREYMANE -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GENN_GREYMANE" Language="en_US">
+			<Text>Lord Genn Greymane is the king of the nation and kingdom of Gilneas. Time and again, King Genn Greymane has been forced to make difficult decisions to sustain Gilneas’s well-being and autonomy. Following the Second War, he ordered the construction of the seemingly impenetrable Greymane Wall to protect his people from outside threats, effectively closing off the nation from the world and its petty conflicts.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MYWOW_MELEE_UNITS_MOVE_AFTER_ATTACK_DESCRIPTION" Language="en_US">
+			<Text>Melee units can move after attacking.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GLF_INFANTRY_NAME" Language="en_US">
+			<Text>Gilneas Liberation Front</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GLF_INFANTRY_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when attacking.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GILNEAS" Language="en_US">
+			<Text>Gilneas City</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUSKHAVEN" Language="en_US">
+			<Text>Duskhaven</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GREYMANE_MANOR" Language="en_US">
+			<Text>Greymane Manor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KEEL_HARBOUR" Language="en_US">
+			<Text>Keel Harbour</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STROMGLEN" Language="en_US">
+			<Text>Stromglen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEMPESTS_REACH" Language="en_US">
+			<Text>Tempest's Reach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMBERSTONE" Language="en_US">
+			<Text>Emberstone</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYREWOOD" Language="en_US">
+			<Text>Pyrewood</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SURWICH" Language="en_US">
+			<Text>Surwich</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAVEN_HILL" Language="en_US">
+			<Text>Raven Hill</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GREYWATCH" Language="en_US">
+			<Text>Greywatch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PURGATION_ISLE" Language="en_US">
+			<Text>Purgation Isle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZULDARE" Language="en_US">
+			<Text>Zul'Dare</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHADOWFANG_KEEP" Language="en_US">
+			<Text>Shadowfang Keep</Text>
+		</Row>
+		<!-- END OF KINGDOM_GILNEAS | GENN_GREYMANE -->
+		<!-- GNOMES | GELBIN_MEKKATORQUE -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GELBIN_MEKKATORQUE" Language="en_US">
+			<Text>High Tinker Gelbin Mekkatorque. The highest office in Gnomeregan, High Tinker, has been held by the crafty Gelbin Mekkatorque for the past seven to nine years. Gelbin is one of the most renowned inventors ever</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MECHANOSTRIDER_RIDER_NAME" Language="en_US">
+			<Text>Mechanostrider Rider</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MECHANOSTRIDER_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Faster than the Horseman and even faster if it starts in open terrain.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GNOMEREGAN" Language="en_US">
+			<Text>Gnomeregan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TINKERTOWN" Language="en_US">
+			<Text>Tinkertown</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TINKERS_COURT" Language="en_US">
+			<Text>Tinker's Court</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HALL_OF_GEARS" Language="en_US">
+			<Text>Hall of Gears</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CLOCKWERK_RUN" Language="en_US">
+			<Text>Clockwerk Run</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TRAIN_DEPOT" Language="en_US">
+			<Text>Train Depot</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOSHLEYS_STATION" Language="en_US">
+			<Text>Toshley's Station</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FIZZCRANK_AIRSTRIP" Language="en_US">
+			<Text>Fizzcrank Airstrip</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEW_TINKERTOWN" Language="en_US">
+			<Text>New Tinkertown</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DEEPRUN_TRAM" Language="en_US">
+			<Text>Deeprun Tram</Text>
+		</Row>
+		<!-- END OF GNOMES | GELBIN_MEKKATORQUE -->
+		<!-- ARGENT CRUSADE | TIRION -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_TIRION_FORDRING" Language="en_US">
+			<Text>Highlord Tirion Fordring was the Supreme Commander of the Argent Crusade and the bearer of the Ashbringer. One of the first five Knights of the Silver Hand selected by Archbishop Alonsus Faol, Fordring was one of the Alliance heroes of the Second War. Argent Crusade, an organization consisting of the old Knights of the Silver Hand and the Argent Dawn. Tirion led his new Crusade into battle against the Scourge during the invasion of Northrend </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PALADIN_NAME" Language="en_US">
+			<Text>Paladins of the Light</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PALADIN_DESCRIPTION" Language="en_US">
+			<Text>This unit does not suffer combat penalties when damaged and heals after defeating an enemy unit.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HEARTHGLEN" Language="en_US">
+			<Text>Hearthglen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LIGHTS_HOPE" Language="en_US">
+			<Text>Light's Hope</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STRATHOLME" Language="en_US">
+			<Text>Stratholme</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LIGHTS_TRUST" Language="en_US">
+			<Text>Light's Trust</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LIGHTS_BREACH" Language="en_US">
+			<Text>Light's Breach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARGENT_VANGUARD" Language="en_US">
+			<Text>Argent Vanguard</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARGENT_STAND" Language="en_US">
+			<Text>Argent Stand</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CRUSADERS_PINNACLE" Language="en_US">
+			<Text>Crusader's Pinnacle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CROWN_GUARD" Language="en_US">
+			<Text>Crown Guard</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DAWNS_REACH" Language="en_US">
+			<Text>Dawn's Reach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TRYS_HAND" Language="en_US">
+			<Text>Try's Hand</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MARDENHOLDE_KEEP" Language="en_US">
+			<Text>Mardenholde Keep</Text>
+		</Row>
+		<!-- END OF ARGENT CRUSADE | TIRION -->
+		<!-- THE_SCOURGE| lich king -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_LICH_KING" Language="en_US">
+			<Text>The Lich King is the master and lord of the Scourge, which he rules telepathically from the Frozen Throne atop the Icecrown Glacier. Kil'jaeden created the Lich King from the spirit of the orc shaman Ner'zhul to raise an undead army to conquer Azeroth for the Burning Legion. Initially trapped within the Frozen Throne with Frostmourne, the Lich King eventually betrayed Kil'jaeden and merged with the human Arthas Menethil.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GHOUL_NAME" Language="en_US">
+			<Text>Ghoul</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GHOUL_DESCRIPTION" Language="en_US">
+			<Text>Heals after defeating an enemy unit.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LICH_NAME" Language="en_US">
+			<Text>Lich</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LICH_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting in Tundra or Snow.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ICECROWN_CITADEL" Language="en_US">
+			<Text>Icecrown Citadel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MORDRETHAR" Language="en_US">
+			<Text>Mord’rethar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THEFLESHWORKS" Language="en_US">
+			<Text>The Fleshworks</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YMIRHEIM" Language="en_US">
+			<Text>Ymirheim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CORPRETHAR" Language="en_US">
+			<Text>Corp’rethar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JOTUNHEIM" Language="en_US">
+			<Text>Jotunheim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALDURTHAR" Language="en_US">
+			<Text>Aldur’thar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCOURGEHOLME" Language="en_US">
+			<Text>Scourgeholme</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANGRATHAR" Language="en_US">
+			<Text>Angrathar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAXXRAMAS" Language="en_US">
+			<Text>Naxxramas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENKILAH" Language="en_US">
+			<Text>En’Kilah</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VALKYRION" Language="en_US">
+			<Text>Valkyrion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VOLTARUS" Language="en_US">
+			<Text>Voltarus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZERAMUS" Language="en_US">
+			<Text>Zeramus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DEADHOLME" Language="en_US">
+			<Text>Deadholme</Text>
+		</Row>
+		<!--<Row Tag="LOC_CITY_NAME_STRATHOLME" Language="en_US">
+			<Text>Stratholme</Text>
+		</Row>-->
+		<Row Tag="LOC_CITY_NAME_SCHOLOMANCE" Language="en_US">
+			<Text>Scholomance</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VOLDRUNE" Language="en_US">
+			<Text>Voldrune</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GJALERBRON" Language="en_US">
+			<Text>Gjalerbron</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SKORN" Language="en_US">
+			<Text>Skorn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UTGARDE_KEEP" Language="en_US">
+			<Text>Utgarde Keep</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NIFFLEVAR" Language="en_US">
+			<Text>Nifflevar</Text>
+		</Row>
+		<!-- END OF THE_SCOURGE| lich king -->
+		<!-- AMANI | ZUL'JIN -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ZULJIN" Language="en_US">
+			<Text>Zul'jin was the Warlord of the Amani forest trolls and chieftain of the Amani tribe since before the Second War. Zul'jin was a fierce enemy of the high elves, with whom he shared many years of conflict. Zul'jin and the Amani tribe were allied with the orcish Horde for the duration of the Second War, but Zul'jin himself was captured. Upon gaining his freedom, he went into hiding to rebuild his army and plan an attack on the remnants of the high elves, now known as blood elves, only to find them allied with the reformed Horde.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TROLL_BERSERKER_NAME" Language="en_US">
+			<Text>Troll Berserker</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TROLL_BERSERKER_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength when attacking.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZULAMAN" Language="en_US">
+			<Text>Zul'Aman</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TORWATHA" Language="en_US">
+			<Text>Tor’Watha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZEBNOWA" Language="en_US">
+			<Text>Zeb’Nowa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZEBSORA" Language="en_US">
+			<Text>Zeb’Sora</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZEBTELA" Language="en_US">
+			<Text>Zeb’Tela</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZEBWATHA" Language="en_US">
+			<Text>Zeb’Watha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAZRAALOR" Language="en_US">
+			<Text>Mazra’Alor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZULMASHAR" Language="en_US">
+			<Text>Zul’Mashar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JINTHAALOR" Language="en_US">
+			<Text>Jintha’Alor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIRIWATHA" Language="en_US">
+			<Text>Hiri’watha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHADRAALOR" Language="en_US">
+			<Text>Shadra’Alor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHAOLWATHA" Language="en_US">
+			<Text>Shaol’watha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZUNWATHA" Language="en_US">
+			<Text>Zun’watha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AGOLWATHA" Language="en_US">
+			<Text>Agol’watha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAISARA" Language="en_US">
+			<Text>Maisara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ULATEK" Language="en_US">
+			<Text>Ula'Tek</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHADOWPINE" Language="en_US">
+			<Text>Shadowpine</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VILEBRANCH" Language="en_US">
+			<Text>Vilebranch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHADOWGLEN" Language="en_US">
+			<Text>Shadowglen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WHITERBARK" Language="en_US">
+			<Text>Whiterbark</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FIRETREE" Language="en_US">
+			<Text>Firetree</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SMOLDERTHORN" Language="en_US">
+			<Text>Smolderthorn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHILLWIND" Language="en_US">
+			<Text>Chillwind</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAL_AMAN" Language="en_US">
+			<Text>Tal'aman</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_AKIL" Language="en_US">
+			<Text>Atal'Akil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_AKILNAI" Language="en_US">
+			<Text>Atal'Akilnai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_HALAZZI" Language="en_US">
+			<Text>Atal'Halazzi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_NALORAKK" Language="en_US">
+			<Text>Atal'Nalorakk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOSSFLAYER" Language="en_US">
+			<Text>Mossflayer</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UN_GOL" Language="en_US">
+			<Text>Un'gol</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WHITERBRANCH" Language="en_US">
+			<Text>Whiterbranch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZEB_AMAN" Language="en_US">
+			<Text>Zeb'Aman</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZUL_HAKKAR" Language="en_US">
+			<Text>Zul'Hakkar</Text>
+		</Row>
+		<!-- END OF AMANI | ZUL'JIN  -->
+		<!-- GURUBASHI | JIN'DO -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JINDO" Language="en_US">
+			<Text>Jin'do was a Gurubashi troll Witch doctor of considerable power. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZULGURUB" Language="en_US">
+			<Text>Zul’Gurub</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZULKUNDA" Language="en_US">
+			<Text>Zul’Kunda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZULMAMWE" Language="en_US">
+			<Text>Zul’Mamwe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BALIAMAH" Language="en_US">
+			<Text>Balia’mah</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BALLAL" Language="en_US">
+			<Text>Bal’lal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JUBUWAL" Language="en_US">
+			<Text>Jubuwal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TKASHI" Language="en_US">
+			<Text>Tkashi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZIATAJAI" Language="en_US">
+			<Text>Ziata’jai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZUULDAIA" Language="en_US">
+			<Text>Zuuldaia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATALHAKKAR" Language="en_US">
+			<Text>Atal’Hakkar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ILALAI" Language="en_US">
+			<Text>I’lalai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KALAI" Language="en_US">
+			<Text>Kal’ai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAL_GURUB" Language="en_US">
+			<Text>Tal'gurub</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZUL_UR" Language="en_US">
+			<Text>Zul'Ur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MODAIGH" Language="en_US">
+			<Text>Modaigh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UN_KONJ" Language="en_US">
+			<Text>Ur'Konj</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MIZJAH" Language="en_US">
+			<Text>Mizjah</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ABORAZ" Language="en_US">
+			<Text>Aboraz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZULFARRAK" Language="en_US">
+			<Text>Zul’Farrak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GILLIJIM" Language="en_US">
+			<Text>Gillijim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LAPIDIS" Language="en_US">
+			<Text>Lapidis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SOUTHMOON" Language="en_US">
+			<Text>Southmoon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NOONSHADE" Language="en_US">
+			<Text>Noonshade</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EASTMOON" Language="en_US">
+			<Text>Eastmoon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALOR_SHADRA" Language="en_US">
+			<Text>Alor'Shadra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_AKILIR" Language="en_US">
+			<Text>Atal'Akilir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_BETHEKK" Language="en_US">
+			<Text>Atal'Bethekk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_HETHISS" Language="en_US">
+			<Text>Atal'Hethiss</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BLOODSCALP" Language="en_US">
+			<Text>Bloodscalp</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEK_MANI" Language="en_US">
+			<Text>Nek'Mani</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAZZASHI" Language="en_US">
+			<Text>Razzashi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHIRVALLAH_ALOR" Language="en_US">
+			<Text>Shirvallah'Alor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAZORBRANCH" Language="en_US">
+			<Text>Razorbranch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SANDFURY" Language="en_US">
+			<Text>Sandfury</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SANDSCALP" Language="en_US">
+			<Text>Sandscalp</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SKULLSPLITTER" Language="en_US">
+			<Text>Skullsplitter</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZEB_GURUB" Language="en_US">
+			<Text>Zeb'Gurub</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZULIAN" Language="en_US">
+			<Text>Zulian</Text>
+		</Row>
+		<!-- END OF GURUBASHI | JIN'DO -->
+
+		<!-- DRAKKARI | MALAKK -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MALAKK" Language="en_US">
+			<Text>Frost King Malakk is the leader of the ice trolls of Gundrak.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GUNDRAK" Language="en_US">
+			<Text>Gundrak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRAKTHARON" Language="en_US">
+			<Text>Drak’Tharon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZOLMAZ" Language="en_US">
+			<Text>Zol’Maz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZEBHALAK" Language="en_US">
+			<Text>Zeb’Halak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRAKAGAL" Language="en_US">
+			<Text>Drak’Agal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRAKSOTRA" Language="en_US">
+			<Text>Drak’Sotra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRAKMABWA" Language="en_US">
+			<Text>Drak’Mabwa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HEBDRAKKAR" Language="en_US">
+			<Text>Heb’Drakkar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HEBVALOK" Language="en_US">
+			<Text>Heb’Valok</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZIMABWA" Language="en_US">
+			<Text>Zim'Abwa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZIMRHUK" Language="en_US">
+			<Text>Zim’Rhuk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZOLHEB" Language="en_US">
+			<Text>Zol’Heb</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FROSTMANE" Language="en_US">
+			<Text>Frostmane</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WINTERAX" Language="en_US">
+			<Text>Winterax</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TETHYS" Language="en_US">
+			<Text>Tethys</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRAKZIN" Language="en_US">
+			<Text>Drak’Zin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRAKILJIN" Language="en_US">
+			<Text>Drakil’jin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRAKATAL" Language="en_US">
+			<Text>Drak’Atal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JINTHAKALAR" Language="en_US">
+			<Text>Jintha'kalar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRAKMAR" Language="en_US">
+			<Text>Drak'Mar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KUMUYA" Language="en_US">
+			<Text>Kum'uya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_AKALI" Language="en_US">
+			<Text>Atal'Akali</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_KOA" Language="en_US">
+			<Text>Atal'Koa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_RHUNOK" Language="en_US">
+			<Text>Atal'Rhunok</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_SSERATUS" Language="en_US">
+			<Text>Atal'Sseratus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_THARON" Language="en_US">
+			<Text>Atal'Tharon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRAK_WATHA" Language="en_US">
+			<Text>Drak'Watha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ICE_TUSK" Language="en_US">
+			<Text>Ice Tusk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MATOTH_ALOR" Language="en_US">
+			<Text>Matoth'alor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QUETZ_ALOR" Language="en_US">
+			<Text>Quetz'alor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WINTERFANG" Language="en_US">
+			<Text>Winterfang</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZEB_DRAKKAR" Language="en_US">
+			<Text>Zeb'Drakkar</Text>
+		</Row>
+		<!-- END OF DRAKKARI | MALAKK -->
+		<!-- ZANDALARI | ZANDALARI -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_RASTAKHAN" Language="en_US">
+			<Text>King Rastakhan rests on a golden throne, lording over all of the Zandalari. Empowered by the Zandalari Gods themseves to act as their voice, he has ruled over two hundred years. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TROLL_PRELATE_NAME" Language="en_US">
+			<Text>Troll Prelate</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TROLL_PRELATE_DESCRIPTION" Language="en_US">
+			<Text>Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZULDAZAR" Language="en_US">
+			<Text>Zuldazar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DAZAR_ALOR" Language="en_US">
+			<Text>Dazar'alor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_DAZAR" Language="en_US">
+			<Text>Atal'Dazar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MUGAMBA" Language="en_US">
+			<Text>Mugambala</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIJI_ISLAND" Language="en_US">
+			<Text>Hiji</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YOJAMBA_ISLAND" Language="en_US">
+			<Text>Yojamba</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VOODRESS" Language="en_US">
+			<Text>Voodress</Text> <!-- Kezan -->
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RECKONING_ISLAND" Language="en_US">
+			<Text>Reckoning Island</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZIMTORGA" Language="en_US">
+			<Text>Zim’Torga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUBRAJIN" Language="en_US">
+			<Text>Dubra’Jin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOJAN" Language="en_US">
+			<Text>Dojan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOGUSHAN" Language="en_US">
+			<Text>Mogu’shan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KORJA" Language="en_US">
+			<Text>Korja</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OGUDEI" Language="en_US">
+			<Text>Ogudei</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KRASARI" Language="en_US">
+			<Text>Krasari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KORUNE" Language="en_US">
+			<Text>Korune</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_GRAL" Language="en_US">
+			<Text>Atal'Gral</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_XIBALA" Language="en_US">
+			<Text>Xibala</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZEB_AHARI" Language="en_US">
+			<Text>Zeb'ahari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RASTARI" Language="en_US">
+			<Text>Rastari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATUL_AMAN" Language="en_US">
+			<Text>Atul'Aman</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZAK_RAJAN" Language="en_US">
+			<Text>Zak'rajan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZUL_AHJIN" Language="en_US">
+			<Text>Zul'Ahjin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAZWATHA" Language="en_US">
+			<Text>Nazwatha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZUL_JAN" Language="en_US">
+			<Text>Zul'jan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZO_BAL" Language="en_US">
+			<Text>Zo'bal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BWOLJIN" Language="en_US">
+			<Text>Bwoljin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZUL_NAZMAN" Language="en_US">
+			<Text>Zul'Nazman</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NATHA_VOR" Language="en_US">
+			<Text>Natha'vor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZAL_AMAK" Language="en_US">
+			<Text>Zal'amak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZALA_MAR" Language="en_US">
+			<Text>Zala'mar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KORAMAR" Language="en_US">
+			<Text>Koramar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUL_VOR" Language="en_US">
+			<Text>Tul'vor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHAOL_MARA" Language="en_US">
+			<Text>Shaol'mara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZEB_TULA" Language="en_US">
+			<Text>Zeb'tula</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZA_TUAL" Language="en_US">
+			<Text>Za'Tual</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_REZAN" Language="en_US">
+			<Text>Atal'Rezan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALOR_GONK" Language="en_US">
+			<Text>Alor'Gonk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_KIMBUL" Language="en_US">
+			<Text>Atal'Kimbul</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_MABWA" Language="en_US">
+			<Text>Atal'Mabwa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_AKUNDA" Language="en_US">
+			<Text>Atal'Akunda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_SETHRALLIS" Language="en_US">
+			<Text>Atal'Sethraliss</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_SHADRA" Language="en_US">
+			<Text>Atal'Shadra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATAL_TORGA" Language="en_US">
+			<Text>Atal'Torga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAZAVAR_ALOR" Language="en_US">
+			<Text>Kazavar'alor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TORCALI_ALOR" Language="en_US">
+			<Text>Torcali'alor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VOL_DUN" Language="en_US">
+			<Text>Vol'dun</Text>
+		</Row>
+		<!-- END OF ZANDALARI | ZANDALARI -->
+		<!-- Religions-->
+		<Row Tag="LOC_RELIGION_NAARU" Language="en_US">
+			<Text>Naaru</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_HOLY_LIGHT" Language="en_US">
+			<Text>Holy Light</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_BLOOD_KNIGHTS" Language="en_US">
+			<Text>Blood Knights</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FORGOTEN_SHADOW" Language="en_US">
+			<Text>Cult Forgotten Shadow</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_CULT_DAMMED" Language="en_US">
+			<Text>Cult of the Dammed</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ARCANE" Language="en_US">
+			<Text>Arcane</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FEL" Language="en_US">
+			<Text>Fel</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SHAMANISM" Language="en_US">
+			<Text>Shamanism</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_DRUIDISM" Language="en_US">
+			<Text>Druidism</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_GEOMANCY" Language="en_US">
+			<Text>Geomancy</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ELUNE" Language="en_US">
+			<Text>Elune</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_EARTHMOTHER" Language="en_US">
+			<Text>Earthmother</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_WOW_OLD_GODS" Language="en_US">
+			<Text>Old Gods</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_VOODO" Language="en_US">
+			<Text>Voodo</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_TITANS" Language="en_US">
+			<Text>Titans</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_MONEY" Language="en_US">
+			<Text>Money</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FOREST_LOA" Language="en_US">
+			<Text>Forest Loas</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_TUNDRA_LOA" Language="en_US">
+			<Text>Tundra Loas</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ZANDALAR_LOA" Language="en_US">
+			<Text>Zandalar Loas</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_JUNGLE_LOA" Language="en_US">
+			<Text>Jungle Loas</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ISLAND_LOA" Language="en_US">
+			<Text>Island Loas</Text>
+		</Row>
+		<!-- End of Religions-->
+		<Row Tag="LOC_CONTINENT_LORDAERON_DESCRIPTION" Language="en_US">
+			<Text>Lordaeron</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_KHAZ_MODAN_DESCRIPTION" Language="en_US">
+			<Text>Khaz Modan</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_AZEROTH_DESCRIPTION" Language="en_US">
+			<Text>Azeroth</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_KUL_TIRAS_DESCRIPTION" Language="en_US">
+			<Text>Kul Tiras</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_QUEL_THALAS_DESCRIPTION" Language="en_US">
+			<Text>Qhel'Thalas</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_TELDRASSIL_DESCRIPTION" Language="en_US">
+			<Text>Teldrassil</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_NORTHERN_KALIMDOR_DESCRIPTION" Language="en_US">
+			<Text>Northern Kalimdor</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_CENTRAL_KALIMDOR_DESCRIPTION" Language="en_US">
+			<Text>Central Kalimdor</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SOUTHERN_KALIMDOR_DESCRIPTION" Language="en_US">
+			<Text>Southern Kalimdor</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_NORTHREND_DESCRIPTION" Language="en_US">
+			<Text>Northrend</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_PANDARIA_DESCRIPTION" Language="en_US">
+			<Text>Pandaria</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_KEZAN_DESCRIPTION" Language="en_US">
+			<Text>Kezan</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_MAELSTROM_DESCRIPTION" Language="en_US">
+			<Text>Maelstrom</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SOUTH_SEAS_DESCRIPTION" Language="en_US">
+			<Text>South Seas</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_BROKEN_ISLES_DESCRIPTION" Language="en_US">
+			<Text>Broken Isles</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_ZANDALAR_DESCRIPTION" Language="en_US">
+			<Text>Zandalar</Text>
+		</Row>
+		<!-- MORE UNITS-->
+		<Row Tag="LOC_ABILITY_SUNWALKER_NAME" Language="en_US">
+			<Text>Sunwalker</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SUNWALKER_DESCRIPTION" Language="en_US">
+			<Text>Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DEATH_GUARD_NAME" Language="en_US">
+			<Text>Death Guard</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DEATH_GUARD_DESCRIPTION" Language="en_US">
+			<Text>-3 [ICON_Strength] to enemies next to him.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BLOOD_KNIGHT_NAME" Language="en_US">
+			<Text>Blood Knight</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BLOOD_KNIGHT_DESCRIPTION" Language="en_US">
+			<Text>Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GLAIVE_THROWER_NAME" Language="en_US">
+			<Text>Glaive Thrower</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GLAIVE_THROWER_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Ranged] Ranged Strength vs. land units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ARCANE_GOLEM_NAME" Language="en_US">
+			<Text>Arcane Golem</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ARCANE_GOLEM_DESCRIPTION" Language="en_US">
+			<Text>Yields 15% of defeated units' [ICON_Strength] Combat Strength as [ICON_Science] Science on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BRUISER_NAME" Language="en_US">
+			<Text>Bruiser</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BRUISER_DESCRIPTION" Language="en_US">
+			<Text>Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Gold] Gold on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BROTHERHOOD_HORSE_NAME" Language="en_US">
+			<Text>Brotherhood of the Horse</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BROTHERHOOD_HORSE_DESCRIPTION" Language="en_US">
+			<Text>+5 Combat Strength vs. anti-cavalry.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SENTINEL_WARRIOR_NAME" Language="en_US">
+			<Text>Sentinel Warrior</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SENTINEL_WARRIOR_DESCRIPTION" Language="en_US">
+			<Text>When defeating an enemy unit, spread their religion to nearby cities.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ANCIENT_PROTECTOR_NAME" Language="en_US">
+			<Text>Ancient Protector</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ANCIENT_PROTECTOR_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength when there is an Apostle, Inquisitor, or Missionary in the same hex.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LIGHTS_CHOSEN_NAME" Language="en_US">
+			<Text>Light's Chosen</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LIGHTS_CHOSEN_DESCRIPTION" Language="en_US">
+			<Text>This unit heals every turn, even after moving or combat.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DOOMGUARD_NAME" Language="en_US">
+			<Text>Doomguard</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DOOMGUARD_DESCRIPTION" Language="en_US">
+			<Text>Less ranged attack but with more movement and can move after attacking.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FELHOUND_NAME" Language="en_US">
+			<Text>Felhound</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FELHOUND_DESCRIPTION" Language="en_US">
+			<Text>This unit heals after defeating an enemy unit.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAGA_MYRMIDON_NAME" Language="en_US">
+			<Text>Naga</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAGA_MYRMIDON_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength on coastal tiles.</Text>
+		</Row>
+		<!-- END MORE UNITS-->
+		<!-- City States-->
+		<!-- STORMGARDE-->
+		<Row Tag="LOC_MINOR_CIV_STORMGARDE_TRAIT_NAME" Language="en_US">
+			<Text>Stormgarde</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_STORMGARDE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>-50% war weariness from combat in your territory.</Text>
+		</Row>
+		<Row Tag="LOC_STORMGARDE_NAME" Language="en_US">
+			<Text>Stormgarde</Text>
+		</Row>
+		<Row Tag="LOC_STORMGARDE_DESCRIPTION" Language="en_US">
+			<Text>City State of Stormgarde</Text>
+		</Row>
+		<Row Tag="LOC_STORMGARDE_ADJECTIVE" Language="en_US">
+			<Text>Stormgarde</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STORMGARDE" Language="en_US">
+			<Text>Stormgarde</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TROLLBANE_HALL" Language="en_US">
+			<Text>Trollbane Hall</Text>
+		</Row>
+		<!-- ALTERAC-->
+		<Row Tag="LOC_MINOR_CIV_ALTERAC_TRAIT_NAME" Language="en_US">
+			<Text>Alterac</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ALTERAC_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Mines gain +1 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_ALTERAC_NAME" Language="en_US">
+			<Text>Alterac</Text>
+		</Row>
+		<Row Tag="LOC_ALTERAC_DESCRIPTION" Language="en_US">
+			<Text>City State of Alterac</Text>
+		</Row>
+		<Row Tag="LOC_ALTERAC_ADJECTIVE" Language="en_US">
+			<Text>Alterac</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALTERAC" Language="en_US">
+			<Text>Alterac</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STRAHNBRAD" Language="en_US">
+			<Text>Strahnbrad</Text>
+		</Row>
+		<!-- KUL_TIRAS-->
+		<Row Tag="LOC_MINOR_CIV_KUL_TIRAS_TRAIT_NAME" Language="en_US">
+			<Text>Kul Tiras</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_KUL_TIRAS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +1 [ICON_Gold] Gold for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_KUL_TIRAS_NAME" Language="en_US">
+			<Text>Kul Tiras</Text>
+		</Row>
+		<Row Tag="LOC_KUL_TIRAS_DESCRIPTION" Language="en_US">
+			<Text>City State of Kul Tiras</Text>
+		</Row>
+		<Row Tag="LOC_KUL_TIRAS_ADJECTIVE" Language="en_US">
+			<Text>Kul Tiras</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BOLARUS" Language="en_US">
+			<Text>Bolarus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FALLHAVEN" Language="en_US">
+			<Text>Fallhaven</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRISBURG" Language="en_US">
+			<Text>Drisburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CRESTFALL" Language="en_US">
+			<Text>Crestfall</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WAYCREST_MANOR" Language="en_US">
+			<Text>Waycrest Manor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHIRE_OF_THE_STORM" Language="en_US">
+			<Text>Shrine of the Storm</Text>
+		</Row>
+		<!-- THERAMORE-->
+		<Row Tag="LOC_MINOR_CIV_THERAMORE_TRAIT_NAME" Language="en_US">
+			<Text>Theramore</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_THERAMORE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +1 [ICON_Science] Science for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_THERAMORE_NAME" Language="en_US">
+			<Text>Theramore</Text>
+		</Row>
+		<Row Tag="LOC_THERAMORE_DESCRIPTION" Language="en_US">
+			<Text>City State of Theramore</Text>
+		</Row>
+		<Row Tag="LOC_THERAMORE_ADJECTIVE" Language="en_US">
+			<Text>Theramore</Text>
+		</Row>
+		<!-- DALARAN-->
+		<Row Tag="LOC_MINOR_CIV_DALARAN_TRAIT_NAME" Language="en_US">
+			<Text>Dalaran</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_DALARAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your districts provide +1 [ICON_GreatPerson] Great Person point of their type ([ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, and [ICON_GreatMusician] Great Musician for Theater Square districts).</Text>
+		</Row>
+		<Row Tag="LOC_DALARAN_NAME" Language="en_US">
+			<Text>Dalaran</Text>
+		</Row>
+		<Row Tag="LOC_DALARAN_DESCRIPTION" Language="en_US">
+			<Text>City State of Dalaran</Text>
+		</Row>
+		<Row Tag="LOC_DALARAN_ADJECTIVE" Language="en_US">
+			<Text>Dalaran</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DALARAN" Language="en_US">
+			<Text>Dalaran</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMBER_LEDGE" Language="en_US">
+			<Text>Amber Ledge</Text>
+		</Row>
+		<!-- ACHERUS-->
+		<Row Tag="LOC_MINOR_CIV_ACHERUS_TRAIT_NAME" Language="en_US">
+			<Text>Acherus</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ACHERUS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>City Center buildings and Encampment district buildings can be bought with [ICON_Faith] Faith. Cost of purchasing Ancient, Medieval, and Renaissance Walls is reduced, but they can only be bought with [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_ACHERUS_NAME" Language="en_US">
+			<Text>Acherus</Text>
+		</Row>
+		<Row Tag="LOC_ACHERUS_DESCRIPTION" Language="en_US">
+			<Text>City State of Acherus</Text>
+		</Row>
+		<Row Tag="LOC_ACHERUS_ADJECTIVE" Language="en_US">
+			<Text>Acherus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ACHERUS" Language="en_US">
+			<Text>Acherus</Text>
+		</Row>
+		<!-- GADGETZAN-->
+		<Row Tag="LOC_MINOR_CIV_GADGETZAN_TRAIT_NAME" Language="en_US">
+			<Text>Gadgetzan</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_GADGETZAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold to all [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_GADGETZAN_NAME" Language="en_US">
+			<Text>Gadgetzan</Text>
+		</Row>
+		<Row Tag="LOC_GADGETZAN_DESCRIPTION" Language="en_US">
+			<Text>City State of Gadgetzan</Text>
+		</Row>
+		<Row Tag="LOC_GADGETZAN_ADJECTIVE" Language="en_US">
+			<Text>Gadgetzan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GADGETZAN" Language="en_US">
+			<Text>Gadgetzan</Text>
+		</Row>
+		<!-- BOOTY_BAY-->
+		<Row Tag="LOC_MINOR_CIV_BOOTY_BAY_TRAIT_NAME" Language="en_US">
+			<Text>Booty Bay</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BOOTY_BAY_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +1 [ICON_Gold] Gold for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_BOOTY_BAY_NAME" Language="en_US">
+			<Text>Booty Bay</Text>
+		</Row>
+		<Row Tag="LOC_BOOTY_BAY_DESCRIPTION" Language="en_US">
+			<Text>City State of Booty Bay</Text>
+		</Row>
+		<Row Tag="LOC_BOOTY_BAY_ADJECTIVE" Language="en_US">
+			<Text>Booty Bay</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BOOTY_BAY" Language="en_US">
+			<Text>Booty Bay</Text>
+		</Row>
+		<!-- RATCHET-->
+		<Row Tag="LOC_MINOR_CIV_RATCHET_TRAIT_NAME" Language="en_US">
+			<Text>Ratchet</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RATCHET_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +1 [ICON_Gold] Gold for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_RATCHET_NAME" Language="en_US">
+			<Text>Ratchet</Text>
+		</Row>
+		<Row Tag="LOC_RATCHET_DESCRIPTION" Language="en_US">
+			<Text>City State of Ratchet</Text>
+		</Row>
+		<Row Tag="LOC_RATCHET_ADJECTIVE" Language="en_US">
+			<Text>Ratchet</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RATCHET" Language="en_US">
+			<Text>Ratchet</Text>
+		</Row>
+		<!-- EVERLOOK-->
+		<Row Tag="LOC_MINOR_CIV_EVERLOOK_TRAIT_NAME" Language="en_US">
+			<Text>Everlook</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_EVERLOOK_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold to all [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_EVERLOOK_NAME" Language="en_US">
+			<Text>Everlook</Text>
+		</Row>
+		<Row Tag="LOC_EVERLOOK_DESCRIPTION" Language="en_US">
+			<Text>City State of Everlook</Text>
+		</Row>
+		<Row Tag="LOC_EVERLOOK_ADJECTIVE" Language="en_US">
+			<Text>Everlook</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EVERLOOK" Language="en_US">
+			<Text>Everlook</Text>
+		</Row>
+		<!-- MUDSPROCKET-->
+		<Row Tag="LOC_MINOR_CIV_MUDSPROCKET_TRAIT_NAME" Language="en_US">
+			<Text>Mudsprocket</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MUDSPROCKET_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_Production] Production in Industrial Zones for adjecency to a Marsh.</Text>
+		</Row>
+		<Row Tag="LOC_MUDSPROCKET_NAME" Language="en_US">
+			<Text>Mudsprocket</Text>
+		</Row>
+		<Row Tag="LOC_MUDSPROCKET_DESCRIPTION" Language="en_US">
+			<Text>City State of Mudsprocket</Text>
+		</Row>
+		<Row Tag="LOC_MUDSPROCKET_ADJECTIVE" Language="en_US">
+			<Text>Mudsprocket</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MUDSPROCKET" Language="en_US">
+			<Text>Mudsprocket</Text>
+		</Row>
+		<!-- BOGPADDLE-->
+		<Row Tag="LOC_MINOR_CIV_BOGPADDLE_TRAIT_NAME" Language="en_US">
+			<Text>Bogpaddle</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BOGPADDLE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_Production] Production in Industrial Zones for adjecency to a Marsh.</Text>
+		</Row>
+		<Row Tag="LOC_BOGPADDLE_NAME" Language="en_US">
+			<Text>Bogpaddle</Text>
+		</Row>
+		<Row Tag="LOC_BOGPADDLE_DESCRIPTION" Language="en_US">
+			<Text>City State of Bogpaddle</Text>
+		</Row>
+		<Row Tag="LOC_BOGPADDLE_ADJECTIVE" Language="en_US">
+			<Text>Bogpaddle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BOGPADDLE" Language="en_US">
+			<Text>Bogpaddle</Text>
+		</Row>
+		<!-- FUSELIGHT-->
+		<Row Tag="LOC_MINOR_CIV_FUSELIGHT_TRAIT_NAME" Language="en_US">
+			<Text>Fuselight</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_FUSELIGHT_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production in Industrial Zones for adjecency to a Desert.</Text>
+		</Row>
+		<Row Tag="LOC_FUSELIGHT_NAME" Language="en_US">
+			<Text>Fuselight</Text>
+		</Row>
+		<Row Tag="LOC_FUSELIGHT_DESCRIPTION" Language="en_US">
+			<Text>City State of Fuselight</Text>
+		</Row>
+		<Row Tag="LOC_FUSELIGHT_ADJECTIVE" Language="en_US">
+			<Text>Fuselight</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUSELIGHT" Language="en_US">
+			<Text>Fuselight</Text>
+		</Row>
+		<!-- K3-->
+		<Row Tag="LOC_MINOR_CIV_K3_TRAIT_NAME" Language="en_US">
+			<Text>K3</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_K3_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production in Industrial Zones for adjecency to a Tundra.</Text>
+		</Row>
+		<Row Tag="LOC_K3_NAME" Language="en_US">
+			<Text>K3</Text>
+		</Row>
+		<Row Tag="LOC_K3_DESCRIPTION" Language="en_US">
+			<Text>City State of K3</Text>
+		</Row>
+		<Row Tag="LOC_K3_ADJECTIVE" Language="en_US">
+			<Text>K3</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_K3" Language="en_US">
+			<Text>K3</Text>
+		</Row>
+		<!-- SCARLET_CRUSADE-->
+		<Row Tag="LOC_MINOR_CIV_SCARLET_CRUSADE_TRAIT_NAME" Language="en_US">
+			<Text>Scarlet Crusade</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCARLET_CRUSADE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+4 [ICON_Strength] Combat Strength against other religions.</Text>
+		</Row>
+		<Row Tag="LOC_SCARLET_CRUSADE_NAME" Language="en_US">
+			<Text>Scarlet Crusade</Text>
+		</Row>
+		<Row Tag="LOC_SCARLET_CRUSADE_DESCRIPTION" Language="en_US">
+			<Text>City State of Scarlet Crusade</Text>
+		</Row>
+		<Row Tag="LOC_SCARLET_CRUSADE_ADJECTIVE" Language="en_US">
+			<Text>Scarlet Crusade</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEW_HEARTHGLEN" Language="en_US">
+			<Text>New Hearthglen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ONSLAUGHT_HARBOUR" Language="en_US">
+			<Text>Onslaught Harbour</Text>
+		</Row>
+		<!-- CENARION_CIRCLE-->
+		<Row Tag="LOC_MINOR_CIV_CENARION_CIRCLE_TRAIT_NAME" Language="en_US">
+			<Text>Cenarion Circle</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CENARION_CIRCLE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith for routes between your own cities.</Text>
+		</Row>
+		<Row Tag="LOC_CENARION_CIRCLE_NAME" Language="en_US">
+			<Text>Cenarion Circle</Text>
+		</Row>
+		<Row Tag="LOC_CENARION_CIRCLE_DESCRIPTION" Language="en_US">
+			<Text>City State of Cenarion Circle</Text>
+		</Row>
+		<Row Tag="LOC_CENARION_CIRCLE_ADJECTIVE" Language="en_US">
+			<Text>Cenarion Circle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WHISPERWIND_GROVE" Language="en_US">
+			<Text>Whisperwind Grove</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DREAMGROVE" Language="en_US">
+			<Text>Dreamgrove</Text>
+		</Row>
+		<!-- RAMKAHEN-->
+		<Row Tag="LOC_MINOR_CIV_RAMKAHEN_TRAIT_NAME" Language="en_US">
+			<Text>Ramkahen</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RAMKAHEN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture for Desert in Holy Sites.</Text>
+		</Row>
+		<Row Tag="LOC_RAMKAHEN_NAME" Language="en_US">
+			<Text>Ramkahen</Text>
+		</Row>
+		<Row Tag="LOC_RAMKAHEN_DESCRIPTION" Language="en_US">
+			<Text>City State of Ramkahen</Text>
+		</Row>
+		<Row Tag="LOC_RAMKAHEN_ADJECTIVE" Language="en_US">
+			<Text>Ramkahen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAMKAHEN" Language="en_US">
+			<Text>Ramkahen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORSIS" Language="en_US">
+			<Text>Orsis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEFERSET" Language="en_US">
+			<Text>Neferset</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOLVIR" Language="en_US">
+			<Text>Tol'vir</Text>
+		</Row>
+		<Row Tag="MYWOW_DESERT_CULTURE" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture for Desert</Text>
+		</Row>
+		<!-- FIZZLE_POZZIK-->
+		<Row Tag="LOC_MINOR_CIV_FIZZLE_POZZIK_TRAIT_NAME" Language="en_US">
+			<Text>Fizzle and Pozzik’s Speedbarge</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_FIZZLE_POZZIK_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Science] Science for Coasts tiles in Harbors.</Text>
+		</Row>
+		<Row Tag="LOC_FIZZLE_POZZIK_NAME" Language="en_US">
+			<Text>Fizzle and Pozzik’s Speedbarge</Text>
+		</Row>
+		<Row Tag="LOC_FIZZLE_POZZIK_DESCRIPTION" Language="en_US">
+			<Text>Fizzle and Pozzik’s Speedbarge</Text>
+		</Row>
+		<Row Tag="LOC_FIZZLE_POZZIK_ADJECTIVE" Language="en_US">
+			<Text>Pozzik’s</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FIZZLE_POZZIK" Language="en_US">
+			<Text>Fizzle and Pozzik’s Speedbarge</Text>
+		</Row>
+		<Row Tag="MYWOW_COAST_SCIENCE" Language="en_US">
+			<Text>+1 [ICON_Science] Science for Coasts tiles.</Text>
+		</Row>
+		<!-- TUSKARR-->
+		<Row Tag="LOC_MINOR_CIV_TUSKARR_TRAIT_NAME" Language="en_US">
+			<Text>Tuskarr</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TUSKARR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +1 [ICON_Gold] Gold for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_TUSKARR_NAME" Language="en_US">
+			<Text>Tuskarr</Text>
+		</Row>
+		<Row Tag="LOC_TUSKARR_DESCRIPTION" Language="en_US">
+			<Text>Tuskarr</Text>
+		</Row>
+		<Row Tag="LOC_TUSKARR_ADJECTIVE" Language="en_US">
+			<Text>Tuskarr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KASKALA" Language="en_US">
+			<Text>Kaskala</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOAKI" Language="en_US">
+			<Text>Moa’ki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAMAGUA" Language="en_US">
+			<Text>Kamagua</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUALIQ" Language="en_US">
+			<Text>Tualiq</Text>
+		</Row>
+		<!-- IRON_DWARF-->
+		<Row Tag="LOC_MINOR_CIV_IRON_DWARF_TRAIT_NAME" Language="en_US">
+			<Text>Iron Dwarf</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_IRON_DWARF_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Mines gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_IRON_DWARF_NAME" Language="en_US">
+			<Text>Iron Dwarf</Text>
+		</Row>
+		<Row Tag="LOC_IRON_DWARF_DESCRIPTION" Language="en_US">
+			<Text>Iron Dwarf</Text>
+		</Row>
+		<Row Tag="LOC_IRON_DWARF_ADJECTIVE" Language="en_US">
+			<Text>Iron Dwarf</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THOR_MODAN" Language="en_US">
+			<Text>Thor Modan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUN_ARGOL" Language="en_US">
+			<Text>Dun Argol</Text>
+		</Row>
+		<!-- FROSTBORN-->
+		<Row Tag="LOC_MINOR_CIV_FROSTBORN_TRAIT_NAME" Language="en_US">
+			<Text>Frostborn</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_FROSTBORN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Mines gain +1 [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_FROSTBORN_NAME" Language="en_US">
+			<Text>Frostborn</Text>
+		</Row>
+		<Row Tag="LOC_FROSTBORN_DESCRIPTION" Language="en_US">
+			<Text>Frostborn</Text>
+		</Row>
+		<Row Tag="LOC_FROSTBORN_ADJECTIVE" Language="en_US">
+			<Text>Frostborn</Text>
+		</Row>
+		<!-- VRYKUL-->
+		<Row Tag="LOC_MINOR_CIV_VRYKUL_TRAIT_NAME" Language="en_US">
+			<Text>Vrykul</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_VRYKUL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Encampment districts provide +1 [ICON_TradeRoute] Trade Route capacity each.</Text>
+		</Row>
+		<Row Tag="LOC_VRYKUL_NAME" Language="en_US">
+			<Text>Vrykul</Text>
+		</Row>
+		<Row Tag="LOC_VRYKUL_DESCRIPTION" Language="en_US">
+			<Text>Vrykul</Text>
+		</Row>
+		<Row Tag="LOC_VRYKUL_ADJECTIVE" Language="en_US">
+			<Text>Vrykul</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UTGARDE" Language="en_US">
+			<Text>Utgarde</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VALGARDE" Language="en_US">
+			<Text>Valgarde</Text>
+		</Row>
+		<!-- SHADOPAN-->
+		<Row Tag="LOC_MINOR_CIV_SHADOPAN_TRAIT_NAME" Language="en_US">
+			<Text>Shado-Pan</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SHADOPAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture in Enchament District for adjecency to a Mountain.</Text>
+		</Row>
+		<Row Tag="LOC_SHADOPAN_NAME" Language="en_US">
+			<Text>Shado-Pan</Text>
+		</Row>
+		<Row Tag="LOC_SHADOPAN_DESCRIPTION" Language="en_US">
+			<Text>City State of Shado-Pan</Text>
+		</Row>
+		<Row Tag="LOC_SHADOPAN_ADJECTIVE" Language="en_US">
+			<Text>Shado-Pan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHADOPAN" Language="en_US">
+			<Text>Shado-Pan</Text>
+		</Row>
+		<Row Tag="WOW_LOC_DISTRICT_MOUNTAIN_CULTURE" Language="en_US">
+			<Text>>+1 [ICON_Culture] Culture for Mountain</Text>
+		</Row>
+		<!-- PEAK_SERENITY-->
+		<Row Tag="LOC_MINOR_CIV_PEAK_SERENITY_TRAIT_NAME" Language="en_US">
+			<Text>Peak of Serenity</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_PEAK_SERENITY_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith in Holy Sites for adjecency to a Mountain.</Text>
+		</Row>
+		<Row Tag="LOC_PEAK_SERENITY_NAME" Language="en_US">
+			<Text>Peak of Serenity</Text>
+		</Row>
+		<Row Tag="LOC_PEAK_SERENITY_DESCRIPTION" Language="en_US">
+			<Text>City State of Peak of Serenity</Text>
+		</Row>
+		<Row Tag="LOC_PEAK_SERENITY_ADJECTIVE" Language="en_US">
+			<Text>Peak of Serenity</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PEAK_SERENITY" Language="en_US">
+			<Text>Peak of Serenity</Text>
+		</Row>
+		<Row Tag="WOW_LOC_DISTRICT_MOUNTAIN_FAITH" Language="en_US">
+			<Text>>+1 [ICON_Faith] Faith for Mountain</Text>
+		</Row>
+		<!-- JADE_SERPENT-->
+		<Row Tag="LOC_MINOR_CIV_JADE_SERPENT_TRAIT_NAME" Language="en_US">
+			<Text>Jade Serpent</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_JADE_SERPENT_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith in Holy Sites for adjecency to a River.</Text>
+		</Row>
+		<Row Tag="LOC_JADE_SERPENT_NAME" Language="en_US">
+			<Text>Jade Serpent</Text>
+		</Row>
+		<Row Tag="LOC_JADE_SERPENT_DESCRIPTION" Language="en_US">
+			<Text>City State of Jade Serpent</Text>
+		</Row>
+		<Row Tag="LOC_JADE_SERPENT_ADJECTIVE" Language="en_US">
+			<Text>Jade Serpent</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JADE_SERPENT" Language="en_US">
+			<Text>Jade Serpent</Text>
+		</Row>
+		<!-- WHITE_TIGER-->
+		<Row Tag="LOC_MINOR_CIV_WHITE_TIGER_TRAIT_NAME" Language="en_US">
+			<Text>White Tiger</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_WHITE_TIGER_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith in Holy Sites for adjecency to a Hill.</Text>
+		</Row>
+		<Row Tag="LOC_WHITE_TIGER_NAME" Language="en_US">
+			<Text>White Tiger</Text>
+		</Row>
+		<Row Tag="LOC_WHITE_TIGER_DESCRIPTION" Language="en_US">
+			<Text>City State of White Tiger</Text>
+		</Row>
+		<Row Tag="LOC_WHITE_TIGER_ADJECTIVE" Language="en_US">
+			<Text>White Tiger</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WHITE_TIGER" Language="en_US">
+			<Text>White Tiger</Text>
+		</Row>
+		<!-- JINYU-->
+		<Row Tag="LOC_MINOR_CIV_JINYU_TRAIT_NAME" Language="en_US">
+			<Text>Jinyu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_JINYU_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Science] Science in Campus for adjecency to a River.</Text>
+		</Row>
+		<Row Tag="LOC_JINYU_NAME" Language="en_US">
+			<Text>Jinyu</Text>
+		</Row>
+		<Row Tag="LOC_JINYU_DESCRIPTION" Language="en_US">
+			<Text>City State of Jinyu</Text>
+		</Row>
+		<Row Tag="LOC_JINYU_ADJECTIVE" Language="en_US">
+			<Text>Jinyu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PEARLFIN" Language="en_US">
+			<Text>Pearlfin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOONWATER_RETREAT" Language="en_US">
+			<Text>Moonwater Retreat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_INKGILL_MERE" Language="en_US">
+			<Text>Inkgill Mere</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POOLS_PURITY" Language="en_US">
+			<Text>Pools of Purity</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FALLSONG" Language="en_US">
+			<Text>Fallsong</Text>
+		</Row>
+		<!-- ZULFARRAK-->
+		<Row Tag="LOC_MINOR_CIV_ZULFARRAK_TRAIT_NAME" Language="en_US">
+			<Text>Zul'Farrak</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ZULFARRAK_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength for melee units in Desert tiles.</Text>
+		</Row>
+		<Row Tag="LOC_ZULFARRAK_NAME" Language="en_US">
+			<Text>Zul'Farrak</Text>
+		</Row>
+		<Row Tag="LOC_ZULFARRAK_DESCRIPTION" Language="en_US">
+			<Text>City State of Zul'Farrak</Text>
+		</Row>
+		<Row Tag="LOC_ZULFARRAK_ADJECTIVE" Language="en_US">
+			<Text>Zul'Farrak</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MYWOW_MELEE_DESERT_BONUS_DESCRIPTION" Language="en_US">
+			<Text>>+5 [ICON_Strength] Combat Strength for Desert</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAL_FARRAK" Language="en_US">
+			<Text>Tal'farrak</Text>
+		</Row>
+		
+		<!-- HIGHMOUNTAIN-->
+		<Row Tag="LOC_MINOR_CIV_HIGHMOUNTAIN_TRAIT_NAME" Language="en_US">
+			<Text>Highmountain</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_HIGHMOUNTAIN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture in all Camps.</Text>
+		</Row>
+		<Row Tag="LOC_HIGHMOUNTAIN_NAME" Language="en_US">
+			<Text>Highmountain</Text>
+		</Row>
+		<Row Tag="LOC_HIGHMOUNTAIN_DESCRIPTION" Language="en_US">
+			<Text>City State of Highmountain</Text>
+		</Row>
+		<Row Tag="LOC_HIGHMOUNTAIN_ADJECTIVE" Language="en_US">
+			<Text>Highmountain</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THUNDER_TOTEM" Language="en_US">
+			<Text>Thunder Totem</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SKYHORN" Language="en_US">
+			<Text>Skyhorn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RIVERBEND" Language="en_US">
+			<Text>Riverbend</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FROSTHOOF_WATCH" Language="en_US">
+			<Text>Frosthoof Watch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IRONHORN_ENCLAVE" Language="en_US">
+			<Text>Ironhorn Enclave</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STONEHOOF_WATCH" Language="en_US">
+			<Text>Stonehoof Watch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PREPFOOT" Language="en_US">
+			<Text>Prepfoot</Text>
+		</Row>
+		<!-- BLOODTOTEM-->
+		<Row Tag="LOC_MINOR_CIV_BLOODTOTEM_TRAIT_NAME" Language="en_US">
+			<Text>Bloodtotem</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BLOODTOTEM_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your units receive double experience from battles they initiate.</Text>
+		</Row>
+		<Row Tag="LOC_BLOODTOTEM_NAME" Language="en_US">
+			<Text>Bloodtotem</Text>
+		</Row>
+		<Row Tag="LOC_BLOODTOTEM_DESCRIPTION" Language="en_US">
+			<Text>Bloodtotem Tribe</Text>
+		</Row>
+		<Row Tag="LOC_BLOODTOTEM_ADJECTIVE" Language="en_US">
+			<Text>Bloodtotem</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOROKS_BLUFF" Language="en_US">
+			<Text>Torok's Bluff</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FELTOTEM" Language="en_US">
+			<Text>Feltotem</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CLIFFS_EDGE" Language="en_US">
+			<Text>Cliff's Edge</Text>
+		</Row>
+		<!-- TIDESKORN-->
+		<Row Tag="LOC_MINOR_CIV_TIDESKORN_TRAIT_NAME" Language="en_US">
+			<Text>Tideskorn</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TIDESKORN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Melee units gain 50% more experience than usual.</Text>
+		</Row>
+		<Row Tag="LOC_TIDESKORN_NAME" Language="en_US">
+			<Text>Tideskorn</Text>
+		</Row>
+		<Row Tag="LOC_TIDESKORN_DESCRIPTION" Language="en_US">
+			<Text>Tideskorn</Text>
+		</Row>
+		<Row Tag="LOC_TIDESKORN_ADJECTIVE" Language="en_US">
+			<Text>Tideskorn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HRYDSHAL" Language="en_US">
+			<Text>Hrydshal</Text>
+		</Row>
+		<!-- BLACK_ROOK_HOLD-->
+		<Row Tag="LOC_MINOR_CIV_BLACK_ROOK_HOLD_TRAIT_NAME" Language="en_US">
+			<Text>Black Rook Hold</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BLACK_ROOK_HOLD_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+6 City defense strength, +5 City ranged attack strength.</Text>
+		</Row>
+		<Row Tag="LOC_BLACK_ROOK_HOLD_NAME" Language="en_US">
+			<Text>Black Rook Hold</Text>
+		</Row>
+		<Row Tag="LOC_BLACK_ROOK_HOLD_DESCRIPTION" Language="en_US">
+			<Text>Black Rook Hold</Text>
+		</Row>
+		<Row Tag="LOC_BLACK_ROOK_HOLD_ADJECTIVE" Language="en_US">
+			<Text>Black Rook Hold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BLACK_ROOK_HOLD" Language="en_US">
+			<Text>Black Rook Hold</Text>
+		</Row>
+		<!-- VALARJAR-->
+		<Row Tag="LOC_MINOR_CIV_VALARJAR_TRAIT_NAME" Language="en_US">
+			<Text>Valarjar</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_VALARJAR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith for Coast tiles in Encampents.</Text>
+		</Row>
+		<Row Tag="LOC_VALARJAR_NAME" Language="en_US">
+			<Text>Valarjar</Text>
+		</Row>
+		<Row Tag="LOC_VALARJAR_DESCRIPTION" Language="en_US">
+			<Text>City State of Valarjar</Text>
+		</Row>
+		<Row Tag="LOC_VALARJAR_ADJECTIVE" Language="en_US">
+			<Text>Valarjar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SKYHOLD" Language="en_US">
+			<Text>Skyhold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VALDISDALL" Language="en_US">
+			<Text>Valdisdall</Text>
+		</Row>
+		<Row Tag="MYWOW_FAITH_COAST" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith for Coast tiles.</Text>
+		</Row>
+		<!-- AZJOL_NERUB-->
+		<Row Tag="LOC_MINOR_CIV_AZJOL_NERUB_TRAIT_NAME" Language="en_US">
+			<Text>Azjol-Nerub</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_AZJOL_NERUB_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Mines gain +1 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_AZJOL_NERUB_NAME" Language="en_US">
+			<Text>Azjol-Nerub</Text>
+		</Row>
+		<Row Tag="LOC_AZJOL_NERUB_DESCRIPTION" Language="en_US">
+			<Text>City State of Azjol-Nerub</Text>
+		</Row>
+		<Row Tag="LOC_AZJOL_NERUB_ADJECTIVE" Language="en_US">
+			<Text>Nerubian</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AZJOL_NERUB" Language="en_US">
+			<Text>Azjol-Nerub</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AHN_KAHET" Language="en_US">
+			<Text>Ahn'kahet</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAZ_ANAK" Language="en_US">
+			<Text>Naz'Anak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAZ_AMUN" Language="en_US">
+			<Text>Naz'Amun</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AHN_VEKIR" Language="en_US">
+			<Text>Ahn'Vekir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AHN_DIRAC" Language="en_US">
+			<Text>Ahn'Dirac</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAZ_ZURAQ" Language="en_US">
+			<Text>Naz'Zuraq</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AHN_SARON" Language="en_US">
+			<Text>Ahn'Saron</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UMBRATHAR" Language="en_US">
+			<Text>Umbrathar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAZANAK" Language="en_US">
+			<Text>Nazanak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NARJUN" Language="en_US">
+			<Text>Narjun</Text>
+		</Row>
+		<!-- AHN_QIRAJ-->
+		<Row Tag="LOC_MINOR_CIV_AHN_QIRAJ_TRAIT_NAME" Language="en_US">
+			<Text>Ahn'Qiraj</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_AHN_QIRAJ_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+20% Production toward Melee units from all the eras since the Classical Era.</Text>
+		</Row>
+		<Row Tag="LOC_AHN_QIRAJ_NAME" Language="en_US">
+			<Text>Ahn'Qiraj</Text>
+		</Row>
+		<Row Tag="LOC_AHN_QIRAJ_DESCRIPTION" Language="en_US">
+			<Text>City State of Ahn'Qiraj</Text>
+		</Row>
+		<Row Tag="LOC_AHN_QIRAJ_ADJECTIVE" Language="en_US">
+			<Text>Qiraji</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AHN_QIRAJ" Language="en_US">
+			<Text>Ahn'Qiraj</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIVE_REGAL" Language="en_US">
+			<Text>Hive'Regal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIVE_ZORA" Language="en_US">
+			<Text>Hive'Zora</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIVE_ASHI" Language="en_US">
+			<Text>Hive'Ashi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIVE_ZARA" Language="en_US">
+			<Text>Hive'Zara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GORISHI" Language="en_US">
+			<Text>Gorishi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZUKK_ASH" Language="en_US">
+			<Text>Zukk'ash</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NOXIOUS" Language="en_US">
+			<Text>Noxious</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAZZALI" Language="en_US">
+			<Text>Hazzali</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SWARMING_PILLAR" Language="en_US">
+			<Text>Swarming Pillar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RUSTMAUL" Language="en_US">
+			<Text>Rustmaul</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VEKNISS" Language="en_US">
+			<Text>Vekniss</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIVE_SARD" Language="en_US">
+			<Text>Hive'Sard</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AZJ_NAGGAI" Language="en_US">
+			<Text>Azj'Naggai</Text>
+		</Row>
+		<!-- MANTI_VESS-->
+		<Row Tag="LOC_MINOR_CIV_MANTI_VESS_TRAIT_NAME" Language="en_US">
+			<Text>Manti'vess</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MANTI_VESS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Unit maintenance cost reduced by 2 Gold per turn, per unit.</Text>
+		</Row>
+		<Row Tag="LOC_MANTI_VESS_NAME" Language="en_US">
+			<Text>Manti'vess</Text>
+		</Row>
+		<Row Tag="LOC_MANTI_VESS_DESCRIPTION" Language="en_US">
+			<Text>City State of Manti'vess</Text>
+		</Row>
+		<Row Tag="LOC_MANTI_VESS_ADJECTIVE" Language="en_US">
+			<Text>Mantid</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MANTI_VESS" Language="en_US">
+			<Text>Manti'vess</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HEART_OF_FEAR" Language="en_US">
+			<Text>Heart of Fear</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KLAXXI_VESS" Language="en_US">
+			<Text>Klaxxi'vess</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOR_VESS" Language="en_US">
+			<Text>Kor'vess</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KYPARI_ZAR" Language="en_US">
+			<Text>Kypari Zar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KYPARI_VOR" Language="en_US">
+			<Text>Kypari Vor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KYPARI_IK" Language="en_US">
+			<Text>Kypari Ik</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZAN_VESS" Language="en_US">
+			<Text>Zan'vess</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SIK_VESS" Language="en_US">
+			<Text>Sik'vess</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KRI_VESS" Language="en_US">
+			<Text>Kri'vess</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SRA_VESS" Language="en_US">
+			<Text>Sra'vess</Text>
+		</Row>
+		<!-- ULDUAR-->
+		<Row Tag="LOC_MINOR_CIV_ULDUAR_TRAIT_NAME" Language="en_US">
+			<Text>Ulduar</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ULDUAR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Quarries give +1 [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_ULDUAR_NAME" Language="en_US">
+			<Text>Ulduar</Text>
+		</Row>
+		<Row Tag="LOC_ULDUAR_DESCRIPTION" Language="en_US">
+			<Text>City State of Ulduar</Text>
+		</Row>
+		<Row Tag="LOC_ULDUAR_ADJECTIVE" Language="en_US">
+			<Text>Ulduar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ULDUAR" Language="en_US">
+			<Text>Ulduar</Text>
+		</Row>
+		<!-- ULDUMAN-->
+		<Row Tag="LOC_MINOR_CIV_ULDUMAN_TRAIT_NAME" Language="en_US">
+			<Text>Ulduman</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ULDUMAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Quarries give +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_ULDUMAN_NAME" Language="en_US">
+			<Text>Ulduman</Text>
+		</Row>
+		<Row Tag="LOC_ULDUMAN_DESCRIPTION" Language="en_US">
+			<Text>City State of Ulduman</Text>
+		</Row>
+		<Row Tag="LOC_ULDUMAN_ADJECTIVE" Language="en_US">
+			<Text>Ulduman</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ULDUMAN" Language="en_US">
+			<Text>Ulduman</Text>
+		</Row>
+		<!-- TAUNKA-->
+		<Row Tag="LOC_MINOR_CIV_TAUNKA_TRAIT_NAME" Language="en_US">
+			<Text>Taunka</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TAUNKA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture in all Camps.</Text>
+		</Row>
+		<Row Tag="LOC_TAUNKA_NAME" Language="en_US">
+			<Text>Taunka</Text>
+		</Row>
+		<Row Tag="LOC_TAUNKA_DESCRIPTION" Language="en_US">
+			<Text>Taunka Tribe</Text>
+		</Row>
+		<Row Tag="LOC_TAUNKA_ADJECTIVE" Language="en_US">
+			<Text>Taunka</Text>
+		</Row>
+		<!-- DRAGONMAW-->
+		<Row Tag="LOC_MINOR_CIV_DRAGONMAW_TRAIT_NAME" Language="en_US">
+			<Text>Dragonmaw</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_DRAGONMAW_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Production] Production in every Encampment district when producing units</Text>
+		</Row>
+		<Row Tag="LOC_DRAGONMAW_NAME" Language="en_US">
+			<Text>Dragonmaw</Text>
+		</Row>
+		<Row Tag="LOC_DRAGONMAW_DESCRIPTION" Language="en_US">
+			<Text>Dragonmaw Clan</Text>
+		</Row>
+		<Row Tag="LOC_DRAGONMAW_ADJECTIVE" Language="en_US">
+			<Text>Dragonmaw</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRAKGOR" Language="en_US">
+			<Text>Drakgor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GORSHAK" Language="en_US">
+			<Text>Gorshak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GULLET" Language="en_US">
+			<Text>Gullet</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANGERFANG" Language="en_US">
+			<Text>Angerfang</Text>
+		</Row>
+		<!-- WILDHAMMER-->
+		<Row Tag="LOC_MINOR_CIV_WILDHAMMER_TRAIT_NAME" Language="en_US">
+			<Text>Wildhammer</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_WILDHAMMER_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Mines give +1 [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_WILDHAMMER_NAME" Language="en_US">
+			<Text>Wildhammer</Text>
+		</Row>
+		<Row Tag="LOC_WILDHAMMER_DESCRIPTION" Language="en_US">
+			<Text>Wildhammer Clan</Text>
+		</Row>
+		<Row Tag="LOC_WILDHAMMER_ADJECTIVE" Language="en_US">
+			<Text>Wildhammer</Text>
+		</Row>
+		<!-- DARK_IRON-->
+		<Row Tag="LOC_MINOR_CIV_DARK_IRON_TRAIT_NAME" Language="en_US">
+			<Text>Dark Iron</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_DARK_IRON_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+2 Amenity for cities with a garrisoned unit.</Text>
+		</Row>
+		<Row Tag="LOC_DARK_IRON_NAME" Language="en_US">
+			<Text>Dark Iron</Text>
+		</Row>
+		<Row Tag="LOC_DARK_IRON_DESCRIPTION" Language="en_US">
+			<Text>Dark Iron Clan</Text>
+		</Row>
+		<Row Tag="LOC_DARK_IRON_ADJECTIVE" Language="en_US">
+			<Text>Dark Iron</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHADOWFORGE" Language="en_US">
+			<Text>Shadowforge</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THAURISSAN" Language="en_US">
+			<Text>Thaurissan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANGOR_FORTRESS" Language="en_US">
+			<Text>Angor Fortress</Text>
+		</Row>
+		<!-- TIMBERMAW_HOLD-->
+		<Row Tag="LOC_MINOR_CIV_TIMBERMAW_HOLD_TRAIT_NAME" Language="en_US">
+			<Text>Timbermaw Hold</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TIMBERMAW_HOLD_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_Culture] Culture and +1 [ICON_Gold] Gold for every specialty district in the origin city.</Text>
+		</Row>
+		<Row Tag="LOC_TIMBERMAW_HOLD_NAME" Language="en_US">
+			<Text>Timbermaw Hold</Text>
+		</Row>
+		<Row Tag="LOC_TIMBERMAW_HOLD_DESCRIPTION" Language="en_US">
+			<Text>Timbermaw Tribe</Text>
+		</Row>
+		<Row Tag="LOC_TIMBERMAW_HOLD_ADJECTIVE" Language="en_US">
+			<Text>Timbermaw Hold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIMBERMAW_HOLD" Language="en_US">
+			<Text>Timbermaw Hold</Text>
+		</Row>
+		<!-- GRIZZLEMAW-->
+		<Row Tag="LOC_MINOR_CIV_GRIZZLEMAW_TRAIT_NAME" Language="en_US">
+			<Text>Grizzlemaw</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_GRIZZLEMAW_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Receive a [ICON_GreatWork_Relic] Relic every time you discover a new natural wonder, and earn +50% [ICON_Faith] Faith from all [ICON_GreatWork_Relic] Relics.</Text>
+		</Row>
+		<Row Tag="LOC_GRIZZLEMAW_NAME" Language="en_US">
+			<Text>Grizzlemaw</Text>
+		</Row>
+		<Row Tag="LOC_GRIZZLEMAW_DESCRIPTION" Language="en_US">
+			<Text>Grizzlemaw Tribe</Text>
+		</Row>
+		<Row Tag="LOC_GRIZZLEMAW_ADJECTIVE" Language="en_US">
+			<Text>Grizzlemaw</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GRIZZLEMAW" Language="en_US">
+			<Text>Grizzlemaw</Text>
+		</Row>
+	<!-- End of City States-->
+	<!-- Citizens-->
+		<!-- Posible:
+		Trolls: Zando'zan,Zelaztro, Zorak'tul
+		-->
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MALE_1" Language="en_US">
+			<Text>Omril Keenedge</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MALE_2" Language="en_US">
+			<Text>Kilrath</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MALE_3" Language="en_US">
+			<Text>Verzuk Bloodfist</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MALE_4" Language="en_US">
+			<Text>Roktar Blackfist</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MALE_5" Language="en_US">
+			<Text>Amakkar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MALE_6" Language="en_US">
+			<Text>Gordul</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MALE_7" Language="en_US">
+			<Text>Kaplak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MALE_8" Language="en_US">
+			<Text>Ukos Bloodwhisper</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MALE_9" Language="en_US">
+			<Text>Savitir Skullsmasher</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MALE_10" Language="en_US">
+			<Text>Bony Xuk</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_FEMALE_1" Language="en_US">
+			<Text>Garona Halforcen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MODERN_MALE_1" Language="en_US">
+			<Text>Gest</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MODERN_MALE_2" Language="en_US">
+			<Text>Zomm Hopeslayer</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MODERN_MALE_3" Language="en_US">
+			<Text>Rendrol Goreslash</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MODERN_MALE_4" Language="en_US">
+			<Text>Rwag</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MODERN_MALE_5" Language="en_US">
+			<Text>Ormok</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MODERN_MALE_6" Language="en_US">
+			<Text>Kareth</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MODERN_MALE_7" Language="en_US">
+			<Text>Rak'gor Bloodrazor</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MODERN_MALE_8" Language="en_US">
+			<Text>Dorzok Shadowhand</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ORCS_DUROTAR_MODERN_MALE_9" Language="en_US">
+			<Text>Angry Zurge</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MALE_1" Language="en_US">
+			<Text>Jes'rimon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MALE_2" Language="en_US">
+			<Text>Night-Stalker Ku'nanji</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MALE_3" Language="en_US">
+			<Text>Shenthul</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MALE_4" Language="en_US">
+			<Text>Vaz'rek</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MALE_5" Language="en_US">
+			<Text>Ash'ergi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MALE_6" Language="en_US">
+			<Text>Greefer</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MALE_7" Language="en_US">
+			<Text>Iku'tak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MALE_8" Language="en_US">
+			<Text>Ja'zoona</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MALE_9" Language="en_US">
+			<Text>Legati</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MALE_10" Language="en_US">
+			<Text>Jin'lak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_FEMALE_1" Language="en_US">
+			<Text>Nightfang</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_FEMALE_2" Language="en_US">
+			<Text>Zaelatha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MODERN_MALE_1" Language="en_US">
+			<Text>Nyn'jah</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MODERN_MALE_2" Language="en_US">
+			<Text>Sindo'zur the Toxifier</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MODERN_MALE_3" Language="en_US">
+			<Text>Temanu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MODERN_MALE_4" Language="en_US">
+			<Text>Ubunti the Shade</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MODERN_MALE_5" Language="en_US">
+			<Text>Vaz'rek</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MODERN_MALE_6" Language="en_US">
+			<Text>Kareth</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MODERN_MALE_7" Language="en_US">
+			<Text>Ven'dangor</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MODERN_MALE_8" Language="en_US">
+			<Text>Ya'mon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MODERN_MALE_9" Language="en_US">
+			<Text>Ya'za</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MODERN_MALE_10" Language="en_US">
+			<Text>Zag'zil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DARKSPEAR_TROLLS_MODERN_FEMALE_1" Language="en_US">
+			<Text>Uruka the Cutthroat</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MALE_1" Language="en_US">
+			<Text>Hamuul Runetotem</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MALE_2" Language="en_US">
+			<Text>Tahu Sagewind</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MALE_3" Language="en_US">
+			<Text>Perith Stormhoof</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MALE_4" Language="en_US">
+			<Text>Tagar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MALE_5" Language="en_US">
+			<Text>Bovan Windtotem</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MALE_6" Language="en_US">
+			<Text>Jevan Grimtotem</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MALE_7" Language="en_US">
+			<Text>Sunwalker Dezco</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MALE_8" Language="en_US">
+			<Text>Trag Highmountain</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MALE_9" Language="en_US">
+			<Text>Kador Cloudsong</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_FEMALE_1" Language="en_US">
+			<Text>Aponi Brightmane</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_FEMALE_2" Language="en_US">
+			<Text>Lama Cloudsong</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_FEMALE_3" Language="en_US">
+			<Text>Aizra Dawnchaser</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_FEMALE_4" Language="en_US">
+			<Text>Aska Mistrunner</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MODERN_MALE_1" Language="en_US">
+			<Text>Garn Cloudsong</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MODERN_MALE_2" Language="en_US">
+			<Text>Tarl Cloudsong</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MODERN_MALE_3" Language="en_US">
+			<Text>Chuho Dawnchaser</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MODERN_MALE_4" Language="en_US">
+			<Text>Mot Dawnstrider</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MODERN_MALE_5" Language="en_US">
+			<Text>Greyhoof Farwanderer</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MODERN_FEMALE_1" Language="en_US">
+			<Text>Masha Cliffwalker</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MODERN_FEMALE_2" Language="en_US">
+			<Text>Mahala Cloudsong</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MODERN_FEMALE_3" Language="en_US">
+			<Text>Malaya Dawnchaser</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TAUREN_MODERN_FEMALE_4" Language="en_US">
+			<Text>Meela Dawnstrider</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MALE_1" Language="en_US">
+			<Text>Lilian Voss</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MALE_2" Language="en_US">
+			<Text>Aleric Hawkins</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MALE_3" Language="en_US">
+			<Text>Alessandro Luca</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MALE_4" Language="en_US">
+			<Text>Apothecary Keever</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MALE_5" Language="en_US">
+			<Text>Belmont</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MALE_6" Language="en_US">
+			<Text>Charles Seaton</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MALE_7" Language="en_US">
+			<Text>Gregory Charles</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MALE_8" Language="en_US">
+			<Text>Lawrence Sharp</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MALE_9" Language="en_US">
+			<Text>Apothecary Faranell</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_FEMALE_1" Language="en_US">
+			<Text>Carolyn Ward</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_FEMALE_2" Language="en_US">
+			<Text>Rane Yorick</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MODERN_MALE_1" Language="en_US">
+			<Text>Miles Dexter</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MODERN_MALE_2" Language="en_US">
+			<Text>Alexi Barov</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MODERN_MALE_3" Language="en_US">
+			<Text>Walter Soref</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MODERN_MALE_4" Language="en_US">
+			<Text>David Trias</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MODERN_FEMALE_1" Language="en_US">
+			<Text>Deathstalker Maudria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_FORSAKEN_MODERN_FEMALE_2" Language="en_US">
+			<Text>Marion Call</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BLOOD_ELVES_MALE_1" Language="en_US">
+			<Text>Nerisen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BLOOD_ELVES_MALE_2" Language="en_US">
+			<Text>Pathstalker Kariel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BLOOD_ELVES_MALE_3" Language="en_US">
+			<Text>Vinemaster Suntouched</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BLOOD_ELVES_MALE_4" Language="en_US">
+			<Text>Daspien Bladedancer</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BLOOD_ELVES_FEMALE_1" Language="en_US">
+			<Text>Ariiya Sunblood</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BLOOD_ELVES_FEMALE_2" Language="en_US">
+			<Text>Elara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BLOOD_ELVES_FEMALE_3" Language="en_US">
+			<Text>Vivalia Sundagger</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BLOOD_ELVES_MODERN_MALE_1" Language="en_US">
+			<Text>Vaal'kelthos</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BLOOD_ELVES_MODERN_MALE_2" Language="en_US">
+			<Text>Dawngrief</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BLOOD_ELVES_MODERN_MALE_3" Language="en_US">
+			<Text>Zelanis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BLOOD_ELVES_MODERN_MALE_4" Language="en_US">
+			<Text>Beezle Boomsticks</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BLOOD_ELVES_MODERN_FEMALE_1" Language="en_US">
+			<Text>Darlia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BLOOD_ELVES_MODERN_FEMALE_2" Language="en_US">
+			<Text>Tannaria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GOBLINS_BILGEWATER_MALE_1" Language="en_US">
+			<Text>Miragohn Mixmaster</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GOBLINS_BILGEWATER_MALE_2" Language="en_US">
+			<Text>Grizzle Gearslip</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GOBLINS_BILGEWATER_MALE_3" Language="en_US">
+			<Text>Druz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GOBLINS_BILGEWATER_FEMALE_1" Language="en_US">
+			<Text>Boss Mida</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GOBLINS_BILGEWATER_FEMALE_2" Language="en_US">
+			<Text>Kablouie One-Eye</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GOBLINS_BILGEWATER_FEMALE_3" Language="en_US">
+			<Text>Qwilla Bloodedge</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GOBLINS_BILGEWATER_MODERN_MALE_1" Language="en_US">
+			<Text>Skalliz Skullslice</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GOBLINS_BILGEWATER_MODERN_MALE_2" Language="en_US">
+			<Text>Pozzik</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GOBLINS_BILGEWATER_MODERN_FEMALE_1" Language="en_US">
+			<Text>Grelwaz Redknife</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GOBLINS_BILGEWATER_MODERN_FEMALE_2" Language="en_US">
+			<Text>Pinkee Rizzo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GOBLINS_BILGEWATER_MODERN_FEMALE_3" Language="en_US">
+			<Text>Sanzi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MALE_1" Language="en_US">
+			<Text>Mathias Shaw</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MALE_2" Language="en_US">
+			<Text>Renzik</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MALE_3" Language="en_US">
+			<Text>Arthur Huwe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MALE_4" Language="en_US">
+			<Text>Elling Trias</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MALE_5" Language="en_US">
+			<Text>Flint Shadowmore</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MALE_6" Language="en_US">
+			<Text>Jasper Fel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MALE_7" Language="en_US">
+			<Text>Jorik Kerridan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MALE_8" Language="en_US">
+			<Text>Tony Romano</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MALE_9" Language="en_US">
+			<Text>Osborne the Night Man</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MALE_10" Language="en_US">
+			<Text>Rutger</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_FEMALE_1" Language="en_US">
+			<Text>Amber Kearnen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_FEMALE_2" Language="en_US">
+			<Text>Keryn Sylvius</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MODERN_MALE_1" Language="en_US">
+			<Text>Timothy Daniels</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MODERN_MALE_2" Language="en_US">
+			<Text>Turyen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MODERN_MALE_3" Language="en_US">
+			<Text>Weldon Barov</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MODERN_MALE_4" Language="en_US">
+			<Text>Wiley the Black</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MODERN_MALE_5" Language="en_US">
+			<Text>Jack Bauden</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MODERN_MALE_6" Language="en_US">
+			<Text>Chris Clarkie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MODERN_MALE_7" Language="en_US">
+			<Text>Fardel Dabyrie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MODERN_FEMALE_1" Language="en_US">
+			<Text>Calia Hastings</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_STORMWIND_MODERN_FEMALE_2" Language="en_US">
+			<Text>Justine DeGroot</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_IRONFORGE_MALE_1" Language="en_US">
+			<Text>Hulfdan Blackbeard</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_IRONFORGE_MALE_2" Language="en_US">
+			<Text>Ormyr Flinteye</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_IRONFORGE_MALE_3" Language="en_US">
+			<Text>Hogral Bakkan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_IRONFORGE_MALE_4" Language="en_US">
+			<Text>Turp</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_IRONFORGE_FEMALE_1" Language="en_US">
+			<Text>Hulda Shadowblade</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_IRONFORGE_MODERN_MALE_1" Language="en_US">
+			<Text>Owynn Graddock</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_IRONFORGE_MODERN_MALE_2" Language="en_US">
+			<Text>Solm Hargrin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_IRONFORGE_MODERN_MALE_3" Language="en_US">
+			<Text>Cliff Thundermar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_IRONFORGE_MODERN_MALE_4" Language="en_US">
+			<Text>Lhurg Venomblade</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_IRONFORGE_MODERN_FEMALE_1" Language="en_US">
+			<Text>Brula Brandykeg</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_IRONFORGE_MODERN_FEMALE_2" Language="en_US">
+			<Text>Durga Gravestone</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_MALE_1" Language="en_US">
+			<Text>Anishar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_MALE_2" Language="en_US">
+			<Text>Frahun Shadewhisper</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_MALE_3" Language="en_US">
+			<Text>Kialon Nightblade</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_MALE_4" Language="en_US">
+			<Text>Arantir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_FEMALE_1" Language="en_US">
+			<Text>Maiev Shadowsong</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_FEMALE_2" Language="en_US">
+			<Text>Kyrai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_FEMALE_3" Language="en_US">
+			<Text>Syurna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_FEMALE_4" Language="en_US">
+			<Text>Lynore Windstryke</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_MODERN_MALE_1" Language="en_US">
+			<Text>Erion Shadewhisper</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_MODERN_MALE_2" Language="en_US">
+			<Text>Jannok Breezesong</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_MODERN_MALE_3" Language="en_US">
+			<Text>Kilandric Hawkstrike</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_MODERN_MALE_4" Language="en_US">
+			<Text>Jen'thael Darkcloak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_MODERN_FEMALE_1" Language="en_US">
+			<Text>Caelvana Duskwalker</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_MODERN_FEMALE_2" Language="en_US">
+			<Text>Nihil Tel'alara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NIGHT_ELVES_MODERN_FEMALE_3" Language="en_US">
+			<Text>Zelena Moonbreak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAENEI_MALE_1" Language="en_US">
+			<Text>Altauur</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAENEI_MALE_2" Language="en_US">
+			<Text>Akama</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAENEI_MALE_3" Language="en_US">
+			<Text>Maladaar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAENEI_FEMALE_1" Language="en_US">
+			<Text>Erdanii</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAENEI_FEMALE_2" Language="en_US">
+			<Text>Ishanah</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAENEI_FEMALE_3" Language="en_US">
+			<Text>Yrel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAENEI_MODERN_MALE_1" Language="en_US">
+			<Text>Nobundo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAENEI_MODERN_MALE_2" Language="en_US">
+			<Text>Hataaru</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAENEI_MODERN_MALE_3" Language="en_US">
+			<Text>Maraad</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAENEI_MODERN_FEMALE_1" Language="en_US">
+			<Text>Mishka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAENEI_MODERN_FEMALE_2" Language="en_US">
+			<Text>Naielle</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAENEI_MODERN_FEMALE_3" Language="en_US">
+			<Text>Iridi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_GILNEAS_MALE_1" Language="en_US">
+			<Text>Jephet Nighthowler</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_GILNEAS_MALE_2" Language="en_US">
+			<Text>Darius Crowley</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_GILNEAS_MALE_3" Language="en_US">
+			<Text>Ivar Bloodfang</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_GILNEAS_FEMALE_1" Language="en_US">
+			<Text>Tess Greymane</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_GILNEAS_FEMALE_2" Language="en_US">
+			<Text>Loren the Fence</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_GILNEAS_FEMALE_3" Language="en_US">
+			<Text>Lorena Belle</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_GILNEAS_MODERN_MALE_1" Language="en_US">
+			<Text>Tobias Mistmantle</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_GILNEAS_MODERN_MALE_2" Language="en_US">
+			<Text>Eric Thibeau</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_GILNEAS_MODERN_FEMALE_1" Language="en_US">
+			<Text>Claire the Fox</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_GILNEAS_MODERN_FEMALE_2" Language="en_US">
+			<Text>Jeanine Amrell</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KINGDOM_GILNEAS_MODERN_FEMALE_3" Language="en_US">
+			<Text>Denmother Ulrica</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GNOMES_MALE_1" Language="en_US">
+			<Text>Agent Springslip</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GNOMES_MALE_2" Language="en_US">
+			<Text>Fenthwick</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GNOMES_MALE_3" Language="en_US">
+			<Text>Bizzazz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GNOMES_MALE_4" Language="en_US">
+			<Text>Slamp Wobblecog</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GNOMES_FEMALE_1" Language="en_US">
+			<Text>Kelsey Steelspark</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GNOMES_FEMALE_2" Language="en_US">
+			<Text>Yili</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GNOMES_MODERN_MALE_1" Language="en_US">
+			<Text>Brink Spannercrank</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GNOMES_MODERN_MALE_2" Language="en_US">
+			<Text>Lowpingn</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GNOMES_MODERN_MALE_3" Language="en_US">
+			<Text>Burghy Blackheart</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GNOMES_MODERN_FEMALE_1" Language="en_US">
+			<Text>Syndee Sparkblade</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GNOMES_MODERN_FEMALE_2" Language="en_US">
+			<Text>Briona the Bloodthirsty</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MALE_1" Language="en_US">
+			<Text>Absalan the Pious</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MALE_2" Language="en_US">
+			<Text>High Crusader Adelard</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MALE_3" Language="en_US">
+			<Text>Alrin the Agile</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MALE_4" Language="en_US">
+			<Text>Deacon Andaal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MALE_5" Language="en_US">
+			<Text>Leonid Barthalomew</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MALE_6" Language="en_US">
+			<Text>Herald Beluus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MALE_7" Language="en_US">
+			<Text>Fizzix Blastbolt</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MALE_8" Language="en_US">
+			<Text>Arlen Brighthammer</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MALE_9" Language="en_US">
+			<Text>Arelas Brightstar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MALE_10" Language="en_US">
+			<Text>Durik Bronzebomb</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_FEMALE_1" Language="en_US">
+			<Text>Alchemist Adrianna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_FEMALE_2" Language="en_US">
+			<Text>Claudia Bloodraven</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MODERN_MALE_1" Language="en_US">
+			<Text>High Cleric Alphus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MODERN_MALE_2" Language="en_US">
+			<Text>Frederick Calston</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MODERN_MALE_3" Language="en_US">
+			<Text>Chad Carter</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MODERN_MALE_4" Language="en_US">
+			<Text>Squire Cavin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MODERN_MALE_5" Language="en_US">
+			<Text>Gerald Fairbanks</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MODERN_MALE_6" Language="en_US">
+			<Text>Chad Fillmore</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MODERN_MALE_7" Language="en_US">
+			<Text>Halig Fireforge</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MODERN_MALE_8" Language="en_US">
+			<Text>Gidwin Goldbraids</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MODERN_MALE_9" Language="en_US">
+			<Text>William Henderson</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MODERN_MALE_10" Language="en_US">
+			<Text>Argus Highbeacon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MODERN_FEMALE_1" Language="en_US">
+			<Text>Priestess Alorah</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ARGENT_CRUSADE_MODERN_FEMALE_2" Language="en_US">
+			<Text>Miranda Breechlock</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_THE_SCOURGE_MALE_1" Language="en_US">
+			<Text>Devlin Agamand</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_THE_SCOURGE_MALE_2" Language="en_US">
+			<Text>High Invoker Basaleph</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_THE_SCOURGE_MALE_3" Language="en_US">
+			<Text>Masophet the Black</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_THE_SCOURGE_MALE_4" Language="en_US">
+			<Text>Araj the Summoner</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_THE_SCOURGE_FEMALE_1" Language="en_US">
+			<Text>Lady Deathwhisper</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_THE_SCOURGE_MODERN_MALE_1" Language="en_US">
+			<Text>Dar'Khan Drathir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_THE_SCOURGE_MODERN_MALE_2" Language="en_US">
+			<Text>Grimkor the Wicked</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_THE_SCOURGE_MODERN_MALE_3" Language="en_US">
+			<Text>Overseer Savryn</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_THE_SCOURGE_MODERN_MALE_4" Language="en_US">
+			<Text>Thel'zan the Duskbringer</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_THE_SCOURGE_MODERN_FEMALE_1" Language="en_US">
+			<Text>Grand Widow Faerlina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_THE_SCOURGE_MODERN_FEMALE_2" Language="en_US">
+			<Text>Lady Blaumeux</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AMANI_EMPIRE_MALE_1" Language="en_US">
+			<Text>Kazra'jin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AMANI_EMPIRE_MALE_2" Language="en_US">
+			<Text>Zul'Marosh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AMANI_EMPIRE_MALE_3" Language="en_US">
+			<Text>Infiltrator Hameya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AMANI_EMPIRE_MALE_4" Language="en_US">
+			<Text>Kel'gash the Wicked</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AMANI_EMPIRE_FEMALE_1" Language="en_US">
+			<Text>Vile Priestess Hexx</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AMANI_EMPIRE_MODERN_MALE_1" Language="en_US">
+			<Text>Kul'krazahn</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AMANI_EMPIRE_MODERN_MALE_2" Language="en_US">
+			<Text>Malacrass</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AMANI_EMPIRE_MODERN_MALE_3" Language="en_US">
+			<Text>Krag'jin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AMANI_EMPIRE_MODERN_MALE_4" Language="en_US">
+			<Text>Mai'jin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AMANI_EMPIRE_MODERN_FEMALE_1" Language="en_US">
+			<Text>Hitah'ya the Keeper</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AMANI_EMPIRE_MODERN_FEMALE_2" Language="en_US">
+			<Text>Ojin'ba</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GURUBASHI_EMPIRE_MALE_1" Language="en_US">
+			<Text>Renataki</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GURUBASHI_EMPIRE_MALE_2" Language="en_US">
+			<Text>Gri'lek</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GURUBASHI_EMPIRE_MALE_3" Language="en_US">
+			<Text>Hazza'rah</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GURUBASHI_EMPIRE_MALE_4" Language="en_US">
+			<Text>Kaulema the Mover</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GURUBASHI_EMPIRE_FEMALE_1" Language="en_US">
+			<Text>Kilnara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GURUBASHI_EMPIRE_MODERN_MALE_1" Language="en_US">
+			<Text>Mor'Lek the Dismantler</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GURUBASHI_EMPIRE_MODERN_MALE_2" Language="en_US">
+			<Text>Venomancer T'Kulu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GURUBASHI_EMPIRE_MODERN_MALE_3" Language="en_US">
+			<Text>High Priest Venoxis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GURUBASHI_EMPIRE_MODERN_MALE_4" Language="en_US">
+			<Text>Thel'zan the Duskbringer</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GURUBASHI_EMPIRE_MODERN_FEMALE_1" Language="en_US">
+			<Text>Venomancer Mauri</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GURUBASHI_EMPIRE_MODERN_FEMALE_2" Language="en_US">
+			<Text>Witch Doctor Qu'in</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAKKARI_EMPIRE_MALE_1" Language="en_US">
+			<Text>Drakuru</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAKKARI_EMPIRE_MALE_2" Language="en_US">
+			<Text>Slad'ran</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAKKARI_EMPIRE_MALE_3" Language="en_US">
+			<Text>Drek'Maz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAKKARI_EMPIRE_MALE_4" Language="en_US">
+			<Text>Gal'darah</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAKKARI_EMPIRE_FEMALE_1" Language="en_US">
+			<Text>Soothsayer Rikkari</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAKKARI_EMPIRE_FEMALE_2" Language="en_US">
+			<Text>Yara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAKKARI_EMPIRE_MODERN_MALE_1" Language="en_US">
+			<Text>Gawanil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAKKARI_EMPIRE_MODERN_MALE_2" Language="en_US">
+			<Text>Heb'Jin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAKKARI_EMPIRE_MODERN_MALE_3" Language="en_US">
+			<Text>Kutube'sa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAKKARI_EMPIRE_MODERN_MALE_4" Language="en_US">
+			<Text>Malaka'raz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAKKARI_EMPIRE_MODERN_FEMALE_1" Language="en_US">
+			<Text>Tiri</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DRAKKARI_EMPIRE_MODERN_FEMALE_2" Language="en_US">
+			<Text>Tua-Tua</Text>
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_ZANDALARI_EMPIRE_MALE_1" Language="en_US">
+			<Text>Al'tabim the All-Seeing</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZANDALARI_EMPIRE_MALE_2" Language="en_US">
+			<Text>Chabal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZANDALARI_EMPIRE_MALE_3" Language="en_US">
+			<Text>Ghaliri</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZANDALARI_EMPIRE_MALE_4" Language="en_US">
+			<Text>Surkhan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZANDALARI_EMPIRE_FEMALE_1" Language="en_US">
+			<Text>Maywiki</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZANDALARI_EMPIRE_MODERN_MALE_1" Language="en_US">
+			<Text>Falthir the Sightless</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZANDALARI_EMPIRE_MODERN_MALE_2" Language="en_US">
+			<Text>Khar'vaxal the Cracked</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZANDALARI_EMPIRE_MODERN_MALE_3" Language="en_US">
+			<Text>Witch Doctor Khufu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZANDALARI_EMPIRE_MODERN_MALE_4" Language="en_US">
+			<Text>Vinchaxa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZANDALARI_EMPIRE_MODERN_FEMALE_1" Language="en_US">
+			<Text>Element-Tamer Dagoda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZANDALARI_EMPIRE_MODERN_FEMALE_2" Language="en_US">
+			<Text>Khal'ak</Text>
+		</Row>
+		<!-- End of Citizens-->
+	</LocalizedText>
+</GameData>

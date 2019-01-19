@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="LeaderFallback"/>
+	<m_PackageName text="LeaderFallbacks"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GARROSH_HELLSCREAM"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GARROSH_HELLSCREAM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_VOL_JIN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_VOL_JIN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_BAINE_BLOODHOOF"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_BAINE_BLOODHOOF"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_JASTOR_GALLYWIX"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_JASTOR_GALLYWIX"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_VARIAN_WRYNN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_VARIAN_WRYNN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_MURADIN_BRONZEBEARD"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_MURADIN_BRONZEBEARD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_PROPHET_VELEN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_PROPHET_VELEN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GENN_GREYMANE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GENN_GREYMANE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GELBIN_MEKKATORQUE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GELBIN_MEKKATORQUE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_TIRION_FORDRING"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_TIRION_FORDRING"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_LICH_KING"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_LICH_KING"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ZULJIN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ZULJIN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_JINDO"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_JINDO"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_MALAKK"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_MALAKK"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_RASTAKHAN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_RASTAKHAN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_SYLVANAS_WINDRUNNER"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_SYLVANAS_WINDRUNNER"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_TYRANDE_WHISPERWIND"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_TYRANDE_WHISPERWIND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_LOR_THEMAR_THERON"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_LOR_THEMAR_THERON"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

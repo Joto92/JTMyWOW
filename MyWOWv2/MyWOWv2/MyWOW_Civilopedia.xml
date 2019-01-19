@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GARROSH_HELLSCREAM_QUOTE"  Language="en_US">
+			<Text>We are the HORDE. We are slaves to nothing and no one!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VOL_JIN_QUOTE"  Language="en_US">
+			<Text>This Horde be our family! We don't always see eye-to-eye. We come to blows before. But when we work together - ah - there's nothing this Horde can't do.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BAINE_BLOODHOOF_QUOTE"  Language="en_US">
+			<Text>Our people have walked this land for many, many years, and in that time have learned much about the world. Our allies will need to look to us for wisdom and guidance. My father once made a promise to the Horde, to repay a debt we owed them for their service to our race. I, for one, intend to deliver on that promise.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SYLVANAS_WINDRUNNER_QUOTE"  Language="en_US">
+			<Text>Those who do not stand with the Forsaken stand against them. And those who stand against the Forsaken will not stand long.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LOR_THEMAR_THERON_QUOTE"  Language="en_US">
+			<Text>All we can do is walk the road we are given with such dignity as we can muster, each to our own glory or demise, and pray that there yet remains something of our own hearts when all is said and done. By the Sunwell, I hope that there will remain something of mine.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JASTOR_GALLYWIX_QUOTE"  Language="en_US">
+			<Text>If the world was gonna split in half tomorrow, I’d buy the Dark Portal, slap a toll booth on it, and charge refugees the last of their pocket change, the rings off their fingers, a bite of their sandwiches, and a contractual obligation to build me a rocket palace in the skies of Nagrand. It’s the goblin way! Supply and demand! Deal with it!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VARIAN_WRYNN_QUOTE"  Language="en_US">
+			<Text>I am the King of Stormwind and no one, not the naga, nor the Scourge, nor the fiery lords of the Burning Legion will keep me from my people!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MURADIN_BRONZEBEARD_QUOTE"  Language="en_US">
+			<Text>Magni has the great halls of Ironforge, Brann has the freedom of exploration, and I have the allure of adventure and battle.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TYRANDE_WHISPERWIND_QUOTE"  Language="en_US">
+			<Text>Darkness covered us in the beginning, and we could not see. We cried for guidance and the moon shone down bright upon us.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PROPHET_VELEN_QUOTE"  Language="en_US">
+			<Text>Where faith dwells, hope is never lost.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENN_GREYMANE_QUOTE"  Language="en_US">
+			<Text>A monster lurks in my veins... Threaten my people, and it will be the last thing you ever see.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GELBIN_MEKKATORQUE_QUOTE"  Language="en_US">
+			<Text>You never really understood, did you? It is our loyalty to our friends that provides our truest, greatest strength... My friends. It is a power that numbers cannot match.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TIRION_FORDRING_QUOTE"  Language="en_US">
+			<Text>Put your faith in the Light, and all is possible.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LICH_KING_QUOTE"  Language="en_US">
+			<Text>You speak of justice? Of cowardice? I will show you the justice of the grave and the true meaning of fear.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ZULJIN_QUOTE"  Language="en_US">
+			<Text>Dis... was our land. Troll land. We Amani was here before ANYONE! Da elves and their Alliance came ta drive us out. But we never give up. We never forget. Da elves took my eye. De Amani never give up! We never forget! We never die. Dis is our land. You wanna stay, you stay here forever! We gonna bury you here.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JINDO_QUOTE"  Language="en_US">
+			<Text>Welcome to de great show, friends. Just wait 'til ya see what I got in store for ya.</Text>
+		</Row>
+		<!-- MALAKK RASTAKHAN-->
+		<!-- CIV INFO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_ORCS_DUROTAR_LOCATION" Language="en_US">
+			<Text>Kalimdor</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ORCS_DUROTAR_SIZE" Language="en_US">
+			<Text>331,776 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ORCS_DUROTAR_POPULATION" Language="en_US">
+			<Text>1,500,000 Orcs</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ORCS_DUROTAR_CAPITAL" Language="en_US">
+			<Text>Orgrimmar</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DARKSPEAR_TROLLS_LOCATION" Language="en_US">
+			<Text>Kalimdor</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DARKSPEAR_TROLLS_SIZE" Language="en_US">
+			<Text>32,400 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DARKSPEAR_TROLLS_POPULATION" Language="en_US">
+			<Text>25,000 Trolls</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DARKSPEAR_TROLLS_CAPITAL" Language="en_US">
+			<Text>Echo Isles, before Darkspear Isle</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TAUREN_LOCATION" Language="en_US">
+			<Text>Kalimdor</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TAUREN_SIZE" Language="en_US">
+			<Text>230,400 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TAUREN_POPULATION" Language="en_US">
+			<Text>350,000 Tauren</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TAUREN_CAPITAL" Language="en_US">
+			<Text>Thunder Bluff</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FORSAKEN_LOCATION" Language="en_US">
+			<Text>Eastern Kingdoms</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FORSAKEN_SIZE" Language="en_US">
+			<Text>313,344 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FORSAKEN_POPULATION" Language="en_US">
+			<Text>1,000,000 Forsaken</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FORSAKEN_CAPITAL" Language="en_US">
+			<Text>Undercity</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BLOOD_ELVES_LOCATION" Language="en_US">
+			<Text>Eastern Kingdoms</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BLOOD_ELVES_SIZE" Language="en_US">
+			<Text>131,328 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BLOOD_ELVES_POPULATION" Language="en_US">
+			<Text>350,000 Blood Elves</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BLOOD_ELVES_CAPITAL" Language="en_US">
+			<Text>Silvermoon City</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GOBLINS_BILGEWATER_LOCATION" Language="en_US">
+			<Text>Kalimdor</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GOBLINS_BILGEWATER_SIZE" Language="en_US">
+			<Text>105,000 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GOBLINS_BILGEWATER_POPULATION" Language="en_US">
+			<Text>Now 20,000 Goblins, before fleeing Kezan 350,000</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GOBLINS_BILGEWATER_CAPITAL" Language="en_US">
+			<Text>Bilgewater Harbor, before Kezan</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KINGDOM_STORMWIND_LOCATION" Language="en_US">
+			<Text>Eastern Kingdoms</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KINGDOM_STORMWIND_SIZE" Language="en_US">
+			<Text>385,512 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KINGDOM_STORMWIND_POPULATION" Language="en_US">
+			<Text>7,000,000 Humans</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KINGDOM_STORMWIND_CAPITAL" Language="en_US">
+			<Text>Stormwind</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KINGDOM_IRONFORGE_LOCATION" Language="en_US">
+			<Text>Eastern Kingdoms</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KINGDOM_IRONFORGE_SIZE" Language="en_US">
+			<Text>394,720 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KINGDOM_IRONFORGE_POPULATION" Language="en_US">
+			<Text>4,500,000 Bronzebeard and Wildhammer Dwarves</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KINGDOM_IRONFORGE_CAPITAL" Language="en_US">
+			<Text>Ironforge</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NIGHT_ELVES_LOCATION" Language="en_US">
+			<Text>Kalimdor</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NIGHT_ELVES_SIZE" Language="en_US">
+			<Text>288,000 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NIGHT_ELVES_POPULATION" Language="en_US">
+			<Text>4,000,000 Elves</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NIGHT_ELVES_CAPITAL" Language="en_US">
+			<Text>Darnassus</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DRAENEI_LOCATION" Language="en_US">
+			<Text>Kalimdor</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DRAENEI_SIZE" Language="en_US">
+			<Text>230,400 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DRAENEI_POPULATION" Language="en_US">
+			<Text>10,000 Draenei</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DRAENEI_CAPITAL" Language="en_US">
+			<Text>The Exodar</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KINGDOM_GILNEAS_LOCATION" Language="en_US">
+			<Text>Eastern Kingdoms</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KINGDOM_GILNEAS_SIZE" Language="en_US">
+			<Text>75,472 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KINGDOM_GILNEAS_POPULATION" Language="en_US">
+			<Text>400,000 Huargen</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KINGDOM_GILNEAS_CAPITAL" Language="en_US">
+			<Text>Gilneas</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GNOMES_LOCATION" Language="en_US">
+			<Text>Eastern Kingdoms</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GNOMES_SIZE" Language="en_US">
+			<Text>14,400 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GNOMES_POPULATION" Language="en_US">
+			<Text>80,000 Gnomes</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GNOMES_CAPITAL" Language="en_US">
+			<Text>Gnomeregan</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARGENT_CRUSADE_LOCATION" Language="en_US">
+			<Text>Eastern Kingdoms</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARGENT_CRUSADE_SIZE" Language="en_US">
+			<Text>82,944 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARGENT_CRUSADE_POPULATION" Language="en_US">
+			<Text>250,000 humans</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARGENT_CRUSADE_CAPITAL" Language="en_US">
+			<Text>Hearthglen</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_THE_SCOURGE_LOCATION" Language="en_US">
+			<Text>Northrend</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_THE_SCOURGE_SIZE" Language="en_US">
+			<Text>260,736 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_THE_SCOURGE_POPULATION" Language="en_US">
+			<Text>9,000,000 Undead</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_THE_SCOURGE_CAPITAL" Language="en_US">
+			<Text>Icecrown Citadel</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMANI_EMPIRE_LOCATION" Language="en_US">
+			<Text>Eastern Kingdoms</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMANI_EMPIRE_SIZE" Language="en_US">
+			<Text>124,416 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMANI_EMPIRE_POPULATION" Language="en_US">
+			<Text>85,000 trolls</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMANI_EMPIRE_CAPITAL" Language="en_US">
+			<Text>Zul'Aman</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GURUBASHI_EMPIRE_LOCATION" Language="en_US">
+			<Text>Eastern Kingdoms</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GURUBASHI_EMPIRE_SIZE" Language="en_US">
+			<Text>88,994 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GURUBASHI_EMPIRE_POPULATION" Language="en_US">
+			<Text>125,000 trolls</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GURUBASHI_EMPIRE_CAPITAL" Language="en_US">
+			<Text>Zul'Gurub</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DRAKKARI_EMPIRE_LOCATION" Language="en_US">
+			<Text>Northrend</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DRAKKARI_EMPIRE_SIZE" Language="en_US">
+			<Text>69,120 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DRAKKARI_EMPIRE_POPULATION" Language="en_US">
+			<Text>45,000 trolls</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DRAKKARI_EMPIRE_CAPITAL" Language="en_US">
+			<Text>Gundrak</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ZANDALARI_EMPIRE_LOCATION" Language="en_US">
+			<Text>Zundalar</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ZANDALARI_EMPIRE_SIZE" Language="en_US">
+			<Text>110,592 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ZANDALARI_EMPIRE_POPULATION" Language="en_US">
+			<Text>670,000 Trolls</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ZANDALARI_EMPIRE_CAPITAL" Language="en_US">
+			<Text>Zundalar</Text>
+		</Row>
+		<!-- CIVILIZATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ORCS_DUROTAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The orcs are one of the most prolific races on Azeroth. Originally hailing from the harsh, alien world of Draenor, the orcs were once a noble shamanistic people cultivating a mighty tribal society that was centered around survival, regulating themselves through ritualized combat and personal honor. Tragically betrayed by one of their spiritual leaders and delivered into the hands of the Burning Legion, the orc clans fell deep into demonic enslavement and were led into Azeroth as an unholy vanguard of the Legion meant to destroy everything in their path.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ORCS_DUROTAR_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Yet, the shamanistic tradition of the orcs managed to rekindle from the ashes, and a young shaman by the name of Thrall arose to become a living symbol of his people's true identity in their darkest hour, causing many of the orcs to rise up against their demon masters and break free from their control. Several of the orcish clans that had existed on Draenor since ancient times reemerged and were united under Thrall's guidance, and the shaman warchief led the orcs out of the Eastern Kingdoms they had been forced to invade and into the continent of Kalimdor, in order to begin a new existence for themselves and their newfound allies. There, they founded the nation of Durotar and the great city of Orgrimmar. Today, the orcs of the Horde are a redeemed people who have reclaimed their destiny from dark influences, fighting no longer for the sake of destruction but for their very right of survival in their adopted world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_DARKSPEAR_TROLLS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Darkspear tribe are a tribe of jungle trolls (occasionally called island trolls). Members of the tribe belong to the Darkspear Trolls faction of the Horde. Once a part of the Gurubashi Empire, the portion that would eventually become Darkspear suffered heavily when the empire split into separate tribes as they were smaller than the rest. The Darkspear are mortal enemies of the Amani tribe. As tribal rivalries erupted throughout the former Gurubashi Empire, the Darkspear tribe found themselves driven from their homeland in Stranglethorn Vale. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_DARKSPEAR_TROLLS_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Having settled on the Darkspear islands, the tribe soon found themselves entangled in a conflict with a group of murlocs. Eventually they also found new enemies in humans when a Kul Tiras-fleet landed on the island in search for some orcs who had stolen some ships. The trolls' fate seemed sealed until the orcish Warchief Thrall and his band of newly freed orcs, which were the orcs the humans were looking for, took shelter on the island after a heavy storm. The orcs managed to defeat the humans, but their victory was short-lived. Controlled by a Sea Witch, the Underworld Minions captured the Darkspears' leader Sen'jin along with Thrall and several orcs, trolls and humans. They were all brought to a complex prison made by caves below the island. Thrall managed to free himself and his companions, but was ultimately unable to save the trolls' leader. Although Sen'jin was sacrificed to the Sea Witch, he was able to reveal a vision he had in which Thrall would lead the Darkspear trolls from the island.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TAUREN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The tauren are a race of large, bovine humanoids who dwell on the great plains of Central Kalimdor. For countless generations, they were constantly harassed by the violent centaur, who forced the tauren into a nomadic lifestyle in the harsh Barrens. However, during the Third War and the Horde's invasion of Kalimdor, the tauren and the invading Horde became allies, and the Horde aided the tauren in driving off the centaur from the sacred lands of Mulgore. High Chieftain Cairne Bloodhoof established the capital city of Thunder Bluff, and to this day the tauren remain one of the most stalwart allies of the Horde, even after Cairne's death and the ascension of his son, Baine Bloodhoof.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TAUREN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The tauren are a peaceful and honorable people, that nonetheless are fierce fighters when roused. Hunting and shamanism are held in high regard in their culture, as is their worship of the Earth Mother and respect for the land and nature.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_FORSAKEN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The undead Forsaken or simply Forsaken and Undead are a race and a faction of intelligent undead who broke away from the Scourge and took control of much of the kingdom of Lordaeron, destroyed during the Third War by the death knight Arthas. The Forsaken are led by their Banshee Queen, Lady Sylvanas Windrunner, the former Ranger-General of Quel'Thalas. Their capital is the Undercity, in the royal catacombs beneath the ruins of the capital city of Lordaeron.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BLOOD_ELVES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The blood elves (or sin'dorei, "children of the blood" in Thalassian are high elves who changed their name after the Scourge invasion of Quel'Thalas. Their new name is a dirge, referencing both the blood of their many brethren who fell during the Third War, and their royal lineage. For nearly 7,000 years, high elven society centered on the sacred Sunwell, a magical fount that was created using a vial of pure arcane energy from the first Well of Eternity. Nourished and strengthened by the Sunwell’s potent energies, the high elves’ enchanted kingdom of Quel'Thalas prospered within the verdant forests north of Lordaeron. During the Third War, however, the high elves were nearly scoured from Azeroth. Led by the death knight Arthas, a Scourge army stormed into Quel'Thalas, slaughtering almost ninety percent of the kingdom’s population. Arthas then used the mystical Sunwell to resurrect the fallen necromancer Kel'Thuzad, irrevocably tainting the fount in the process. Prince Kael'thas Sunstrider rushed to his homeland's aid, and the survivors of the onslaught were renamed the "blood elves" in honor of their fallen people.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GOBLINS_BILGEWATER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Bilgewater Cartel is one of the largest goblin organizations found on Azeroth. Run by the ruthless Trade Prince Gallywix, it is the most powerful trading company on Kezan. From their headquarters at Bilgewater Port, the cartel dominated the trade all over the South Seas until it was destroyed due to the Cataclysm. They compete with other goblin organizations such as the Steamwheedle Cartel and Venture Company over both resources and customers. Originally the slaves of Zandalari trolls on the Isle of Kezan,the goblin race was forced to mine kaja'mite ore out of the volcanic bowels of Mount Kajaro. Crafting their own powerful artifacts of engineering and alchemy in secret, the goblins soon overthrew their oppressors and claimed Kezan for their homeland.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KINGDOM_STORMWIND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Kingdom of Stormwind (also called Kingdom of Azeroth) is a human kingdom controlling much of the southern continent of Azeroth, from Elwynn Forest and Westfall to Duskwood and the Redridge Mountains. Originally settled by descendants of the Arathi, Stormwind flourished until the First War when it was conquered and laid waste by the Orcish Horde. The survivors of that conflict, led by Anduin Lothar, sought refuge in Lordaeron, but were able to reclaim their homeland at the end of the Second War with the aid of the Alliance of Lordaeron.  Since the fall of the kingdom of Lordaeron during the Third War, the kingdom of Stormwind has become the strongest bastion of humanity and the most powerful force in the now multiracial Alliance.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KINGDOM_IRONFORGE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Kingdom of Ironforge (aka the Kingdom of Khaz Modan) is the major government of the dwarves on the continent of Khaz Modan. Being a senatorial monarchy, it's now reigned by the Council of Three Hammers, composed of one member from each clan, until the heir Dagran Thaurissan II is old enough. The kingdom also has its own treasury. The dwarven kingdom was founded after the awakened dwarves ventured out from the ancient city of Uldaman.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NIGHT_ELVES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Night elves (or kaldorei, for "Children of the Stars" in Darnassian) are a powerful and mystical race whose origins extend back to ancient times. These then-immortal beings were among the first to study magic and let it loose throughout the world nearly ten thousand years before the First War. The founders of a magical and advanced civilization which at its peak spanned the breadth of ancient Kalimdor, the night elves came into a horrific conflict with the Burning Legion but achieved a Pyrrhic victory that ended in the Great Sundering, turning Kalimdor's landmass into the continents of the present age. The devastation wrought by the chain of events birthed in conceit caused a wholesale shift in direction. The night elves abandoned the use of arcane magic, fearing its use would draw the Burning Legion back to their world. The main survivors of the Sundering crafted a radically different society centered around druidism, the harmony with the natural world and its denizens. They then began to associate themselves with the Alliance in response to the Horde's presence in Ashenvale.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_DRAENEI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The draenei are a faction of uncorrupted eredar who fled their home world of Argus to escape the corruption of the demonic Burning Legion. Led by Prophet Velen and guided by the divine naaru, they traveled throughout the cosmos in search of a safe world to settle on, eventually landing on a planet they would come to call Draenor, or "Exiles' Refuge". For centuries, the draenei lived in relative peace with Draenor's native orcs, until agents of the Burning Legion found them. As the orcs were corrupted by the Legion and formed the original Horde, the draenei were slaughtered en masse and driven into hiding. Eventually, they managed to escape Draenor on the Exodar, a vessel of the naaru fortress of Tempest Keep, crash-landing on Azeroth; more specifically, on the Azuremyst Isles off the western coast of Kalimdor. Once they had arrived on Azeroth, the draenei allied with the Alliance and aided them in the war in Outland.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KINGDOM_GILNEAS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The kingdom of Gilneas is one of the seven human kingdoms located in the peninsula of Gilneas and situated south-west of Silverpine Forest on the continent of Lordaeron. It is ruled by Genn Greymane of the Greymane family. With the events of the Cataclysm, Gilneas has rejoined the Alliance.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GNOMES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The gnomes  are a race of diminutive and highly intelligent humanoids, known for their mastery of technology. They were originally descended from mechagnomes, metallic Titan creations, who were affected by the Curse of Flesh. The early gnomes eventually found their way to Khaz Modan, where they founded the capital of Gnomeregan and became allies with their nearby dwarven cousins. For years the gnomes were based in Gnomeregan, providing technological support to the Alliance during the Second War, until a trogg invasion and treachery from within irradiated Gnomeregan and killed as much as eighty percent of the gnomish population. The gnomes were forced into exile in Tinker Town in the dwarven capital of Ironforge, until, following the Cataclysm, the gnomes launched a partially successful recapture of Gnomeregan, and are now based in New Tinkertown.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARGENT_CRUSADE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Argent Crusade is an order of holy warriors formed from the union of the reformed Order of the Silver Hand and the Argent Dawn. Led by the paladin Tirion Fordring, the Argent Crusade was a major contributor to the successful campaign in Northrend that toppled the Lich King. As of the Shattering, they currently work to restore the Plaguelands of northern Lordaeron.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_THE_SCOURGE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Scourge  is one of three major undead factions existing in the world of Azeroth Until recently, it was a major player for control of the world. Created initially as the precursor to an invasion by the Burning Legion, the Scourge broke free from their demonic masters and — under the iron rule of the dread Lich King — have built up their power base on the Arctic continent of Northrend. Their influence spreads throughout Northrend, as well as the Plaguelands in northern Lordaeron and southern Quel'Thalas, and even Kalimdor to a small degree. A terrifying and insidious enemy, before its downfall the Scourge was perhaps the most dangerous threat to the world of Azeroth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AMANI_EMPIRE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Amani Empire was a forest troll empire of incredible power in antiquity. It took its name from the strongest tribe of forest trolls and the founders of the empire in that time, the Amani. Their empire was crushed in the Troll Wars, never to rise again. When the high elves led by Dath'Remar Sunstrider were first exiled and landed in Lordaeron, they met violent clashes with the forest trolls, who viewed them as defiling their homeland. At the time of the founding of Quel'Thalas, the Amani Empire was the most powerful empire in the Eastern Kingdoms; they still held much of northern Lordaeron in their territorial grasp. As the forces of Zul'Aman fought to keep these unwanted strangers from their lands, the High Elves developed a deep loathing for the vicious trolls and killed them on sight whenever they were encountered. In time the High Elves founded the Kingdom of Quel'Thalas and vowed to create a mighty empire which would dwarf that of their Kaldorei cousins. Unfortunately they soon learned that Quel'Thalas was founded upon an ancient troll city that the trolls still held to be sacred. Almost immediately, the trolls began to attack the elven settlements en masse.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GURUBASHI_EMPIRE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Gurubashi Empire was once one of the most powerful forces of Azeroth, controlling much of the southern part of the eastern continents. It took its name from the strongest tribe of jungle trolls at the time, the Gurubashi.  Their former capital of Zul'Gurub is located in Stranglethorn Vale. Eventually, this great nation splintered into separate tribes such as the Darkspear tribe.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_DRAKKARI_EMPIRE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Drakkari Empire  was among the largest troll nations ever to have existed, composed of the ice trolls of Old Kalimdor and led by the Drakkari tribe. The empire was formed at a time when troll dominance on Azeroth was unhindered. From the capital temple city of Gundrak, the Drakkari and their client tribes (including the Winterax and Frostmane) laid claim to much of the frigid north of the continent, bordering the Amani Empire to the south. The Drakkari were known to be particularly cunning fighters, which they would prove to great effect during the Aqir and Troll War,and were strong enough to challenge the Zandalari, Amani, and Gurubashi trolls. As with the rest of their kind, the Drakkari Empire was fiercely devoted to loa worship, erecting temple cities and other structures in their honor. For millennia, the Drakkari Empire continued to thrive without incident. The Great Sundering, which shattered the old continent of Kalimdor, would prove disastrous for the Drakkari. Their empire was weakened, with the tribes dispersed to different continents. The Drakkari themselves, now living on Northrend, would continue to maintain a nation known as Zul'Drak, though it was a shadow of their former glory. In time, this too would eventually fall at the hands of the Undead Scourge, marking the end of an era.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ZANDALARI_EMPIRE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Zandalari Empire is one of the great troll nations, and home of the Zandalari trolls. Ruled by King Rastakhan, their seat is the island of Zandalar. They possess one of the most powerful navies on Azeroth. The Zandalari Empire is the longest-lasting empire on Azeroth, having been around for over 16,000 years, before even the Empire of Zul united all the troll tribes. The first king to rule the empire so long ago was King Dazar.</Text>
+		</Row>
+		<!-- LEADERS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GARROSH_HELLSCREAM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Garrosh Hellscream  was a former Warchief of the Horde chosen by Thrall to replace him in the wake of the Cataclysm. Throughout the history of Azeroth, few mortals have achieved greater notoriety than him. Garrosh grew up on Draenor in the shadow of his father, the great warrior Grommash Hellscream, leader of the Warsong clan. Grom was the first orc leader to drink the blood of Mannoroth, subjugating the orcs to the Legion's will. Before this event, Garrosh was among several orcs who had become ill with the red pox. They had been quarantined far away in Nagrand, allowing them to escape the demonic corruption. The younger Hellscream was ashamed of his father for many years until he met Thrall during the Invasion of Outland and learned of Grom's heroic redemption. Garrosh has since embraced his potential as a strong leader, most notably in Northrend, where he directed the Horde advance through the Borean Tundra and won the hearts of his people. Uncompromising and fiercely proud, Garrosh intended to restore the orcs' glory by any means necessary.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VOL_JIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The shadow hunter Vol'jin , son of Sen'jin, was the Warchief of the Horde, as well as Chieftain of the Darkspear tribe and rightful ruler of Durotar and the Echo Isles. Vol'jin had sworn to do everything in his power to lead the Darkspear tribe just as his late father, Sen'jin, would have. For years Vol'jin resided in Orgrimmar, offering strategic advice to then-Warchief Thrall and assisting with critical operations.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BAINE_BLOODHOOF_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>High Chieftain Baine Bloodhoof is the son of the late tauren leader, Cairne Bloodhoof whom he looked up to as a role model. While Baine has formidable skill on the battlefield, his true talents lie in the arena of diplomacy. He is a strong force for moderation, calm wisdom, and unity within the Horde, especially in their dealings with the Alliance.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SYLVANAS_WINDRUNNER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Lady Sylvanas Windrunner, also referred to as "the Dark Lady" and "the Banshee Queen", is the Warchief of the Horde and supreme ruler of the Forsaken, one of the most powerful factions of undead on Azeroth. In life, Sylvanas was the ranger-general of Silvermoon, whose leadership acumen and martial prowess were without equal. During the Third War, she bravely defended Quel'Thalas from a Scourge invasion led by the death knight Arthas Menethil. Ultimately, however, Sylvanas fell in battle. Rather than honor the ranger-general with a quick death, Arthas ripped out her soul and transformed it into a banshee: a cunning and vengeful agent of the Lich King empowered by hate. When the Lich King's control over his minions weakened, Sylvanas broke away from her tyrannical master's control and reclaimed her body. Vowing to avenge her death, Sylvanas gathered other renegade undead and set out to wage war against the Scourge. Thus it was that the Forsaken came to be, with Sylvanas as their queen. Under Sylvanas' command, the Forsaken joined the Horde and later helped bring about the Lich King's fall in the frozen wastes of Northrend. She seeks a higher purpose for a people who have already died once.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LOR_THEMAR_THERON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Lor'themar Theron is the Regent Lord of Quel'Thalas and thus the ruler of the blood elves of Azeroth. He used to lead the Sin'dorei in the absence of Prince Kael'thas Sunstrider, but after his betrayal and eventual death, Lor'themar became the sole leader of his people. Lor'themar was once the second-in-command to Ranger General Sylvanas Windrunner, and assumed temporary leadership of the high elves after the Scourge onslaught, a role that would pave the way to his regency after the prince's return.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JASTOR_GALLYWIX_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Jastor Gallywix is the much-maligned Trade Prince of the Bilgewater Cartel, one of the most powerful goblin trade guilds on Kezan. Despite betraying his own people in wake of the Cataclysm in a petty act of vengeance, he retains his position as Trade Prince of the Bilgewater Cartel in its service to the Horde. Once being a vocal supporter of Garrosh Hellscream, he would eventually become one of the last leaders to support the Darkspear Rebellion, showing respect for Vol'jin and pledging his loyalty to the new Warchief following the Siege of Orgrimmar. Despite his past actions, Gallywix wishes to find his people a secure and profitable future, which he saw neither of under Hellscream's reign.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VARIAN_WRYNN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Varian Wrynn was the former King of Stormwind and former High King of the Grand Alliance. During the First War when Varian was a young boy, his father King Llane was murdered and Stormwind was sacked by the Orcish Horde. His guardian and regent Anduin Lothar gathered the survivors and sailed to Lordaeron, where the Alliance of Lordaeron was formed. The Alliance defeated the Horde in the Second War and Stormwind was reclaimed, though at the cost of Lothar's life. Varian was crowned King of Stormwind and stood by King Terenas of Lordaeron as the Alliance began to fracture, but soon faced many internal problems. He was unable to reach a settlement between the Stonemasons who rebuilt Stormwind and the House of Nobles, which led to a riot in which his wife Queen Tiffin was killed. While on a diplomatic mission to Theramore, Varian was abducted by the Defias Brotherhood, formerly the Stonemasons, and went missing.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VARIAN_WRYNN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>He had managed to escape from the Defias but was suffering from memory loss and soon after enslaved by the Horde and became a gladiator in the Crimson Ring, teamed with Broll Bearmantle and Valeera Sanguinar. The trio won the Crimson Ring tournament in Dire Maul, for which Varian was given the Taur-ahe moniker "Lo'Gosh" — meaning "Ghost Wolf". After escaping his slavers, Varian discovered he was the missing King of Stormwind and his advisor Lady Katrana Prestor was revealed to be the black dragonflight broodmother Onyxia in disguise, who had manipulated the Defias and Nobles dispute, was behind Varian's kidnapping, and created a duplicate of him using dark magic. With the help of his comrades, he was able to recover his true identity and finally defeat Onyxia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VARIAN_WRYNN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Under his daring leadership, the humans of Stormwind led the Alliance to victory against the Lich King in Northrend. After the death of Highlord Bolvar Fordragon and Alliance forces at the Wrathgate, Varian declared war on the Horde and sought to bolster their strategic holdings against their perennial enemy. Known for his tenacity and fierce will, King Varian Wrynn was committed to protecting the Alliance's interests and raising his son Anduin to follow in his place.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MURADIN_BRONZEBEARD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Muradin Bronzebeard is the Thane of the Bronzebeard clan and the younger brother of the dwarven King Magni Bronzebeard and the older brother of the renowned explorer Brann Bronzebeard. He was a hero of the Alliance from the Second War and later served as ambassador to Lordaeron, where he befriended the young prince Arthas Menethil and trained him in combat. Muradin was believed to have perished in Northrend when Arthas claimed the runeblade Frostmourne. However, during the War against the Lich King, it was revealed that Muradin survived this brush with death, and wandered the wastes of Northrend with no memory of the incident. He was eventually found by the Frostborn and made leader of their clan under the name Yorg Stormheart. Rediscovered by his brothers years later, Muradin rejoined the Alliance and commanded its forces during the siege of Icecrown Citadel. Following the petrification of his elder brother Magni during the Shattering, Muradin returned to Ironforge to lead his clan in the Council of Three Hammers. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TYRANDE_WHISPERWIND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Tyrande Whisperwind is the chosen high priestess of the goddess Elune, the former general of the night elf sentinels and the current head of the Sisterhood of Elune. Together with her lifelong mate, the archdruid Malfurion Stormrage, she has represented the highest leadership of the night elves since the fall of Queen Azshara and the Highborne caste ten thousand years ago. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PROPHET_VELEN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Velen has been the leader of the draenei people since their flight from Argus 25,000 years before the first orcish invasion of Azeroth. Known by his people as the Prophet, he has been granted the gift of the Sight, and — aided by the Light — rejected offers of dark power from Sargeras and has guided his people as they fled from, and later fought against, the Burning Legion and their former eredar brethren. He is first among the draenei and is the arch-nemesis (formerly best friend) of Kil'jaeden. Following the draenei's flight to Azeroth, they made a new home on the Azuremyst Isles and, sensing great courage in the Alliance, Velen and his followers pledged themselves to this faction.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENN_GREYMANE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Genn Greymane is the current King of Gilneas, and one of the original founders of the Alliance of Lordaeron. Greymane has also been noted for being stubborn, proud, strong-willed, cunning, and arrogant. After the conclusion of the Second War, Greymane decided that Gilneas could not and would not pay for the wars of other nations, so he withdrew Gilneas from the Alliance, ordered the construction of the Greymane Wall and isolated Gilneas from the rest of the world. Greymane instructed Archmage Arugal, a Dalaran wizard loyal to Gilneas, to summon feral worgen to protect Gilneas from the Scourge threat. The plan backfired, and the worgen curse would eventually run rampant among the Gilnean population. In the time between the Third War and the War against the Lich King, the number of those afflicted with the Worgen curse had grown and were now attacking Gilneas City. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GELBIN_MEKKATORQUE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Gelbin Mekkatorque is the current High Tinker of Gnomeregan, and is also styled "King of Gnomes". Gelbin has been at the helm of the gnome race during some of its most difficult and trying times. Since his title is an elected one, the fact that he has held his position throughout such hardship is a testament to the love his people have for him.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TIRION_FORDRING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Highlord Tirion Fordring was the Supreme Commander of the Argent Crusade and the bearer of the Ashbringer. Fordring was one of the first five paladins of the Knights of the Silver Hand selected by Archbishop Alonsus Faol along with Uther the Lightbringer, Turalyon, Saidan Dathrohan, and Gavinrad the Dire. One of the Alliance heroes of the Second War, he became Lord of Mardenholde Keep in Hearthglen and held the position for several peaceful years until being stripped of his title and exiled for defending an orc, Eitrigg, with whom he remained good friends.  Tirion committed himself to refounding the order of the Silver Hand. The result was the Argent Crusade, an organization consisting of the old Knights of the Silver Hand and the Argent Dawn. Tirion led his new Crusade into battle against the Scourge during the invasion of Northrend.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LICH_KING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Lich King is the master and lord of the Scourge, which he rules telepathically from Icecrown Glacier atop the Frozen Throne. Kil'jaeden the Deceiver created the Lich King from the spirit of the orc shaman Ner'zhul to raise an undead army to weaken Azeroth in preperation of the Burning Legion's invasion. Initially trapped within the Frozen Throne with Frostmourne, the Lich King eventually betrayed Kil'jaeden and merged with the human Arthas Menethil.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ZULJIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Zul'jin  was the Warlord of the Amani forest trolls and chieftain of the Amani tribe since before the Second War. Zul'jin was a fierce enemy of the high elves, with whom he shared many years of conflict. Zul'jin and the Amani tribe were allied with the orcish Horde for the duration of the Second War, but Zul'jin himself was captured near its end by Halduron Brightwing, in whose custody he lost an eye and an arm, which he never regenerated. Upon gaining his freedom, he went into hiding to rebuild his army and plan an attack on the remnants of the high elves, now known as blood elves, only to find them allied with the reformed Horde.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JINDO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Jin'do was a Gurubashi jungle troll witch doctor of considerable power. He was initially killed during the first battle against the Hakkari trolls of Zul'Gurub. His spirit later returned, stole the powers of Hakkar and attempted to bring power back to the Gurubashi, enlisting the aid of Zanzil the Outcast.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MALAKK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Frost King Malakk is the leader of the ice trolls of Gundrak. He is as greedy and ravenous as most Drakkari. Leading the remaining Drakkari, he was the representative of the ice trolls on the Council of Elders in the Throne of Thunder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RASTAKHAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>God King Rastakhan is the ruler of the Zandalari Empire. He was blessed by the loa Rezan with a long life, swift healing, and strength beyond most trolls. King Rastakhan rests on a golden throne, lording over all of the Zandalari. Empowered by the Zandalari gods themselves to act as their voice, he has ruled over two hundred years. King Rastakhan is consulted before every battle or major decision by the Zanchuli Council, which both advises the King and ensures his every command is executed.</Text>
+		</Row>
+		<!-- UNITS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_KOR_KRON_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Kor'kron are an elite fighting force of the Horde, serving as the personal bodyguards of the Warchief and enforcers of their command.They are stationed in many areas, including the Warchief's own fortress of Grommash Hold in Orgrimmar. They served as the Warchief's primary soldiers during the Siege of Orgrimmar, until Hellscream's forced removal from power.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WOLF_RIDER_LIGHT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Wolf mounts are the racial mounts of the orc race. These cunning and ferocious creatures have found an especially welcome home among the orcs, who admire their endurance and keen survival instincts. These massive canines came to be the orcs’ chosen companions as well as their favored method of transportation. When the orcs became more warlike and invaded Azeroth, their wolves were bred for size and stamina so they could bear armored riders into battle. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UNIT_WOLF_RIDER_HEAVY_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Wolf mounts are the racial mounts of the orc race. These cunning and ferocious creatures have found an especially welcome home among the orcs, who admire their endurance and keen survival instincts. These massive canines came to be the orcs’ chosen companions as well as their favored method of transportation. When the orcs became more warlike and invaded Azeroth, their wolves were bred for size and stamina so they could bear armored riders into battle. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORDE_GUNSHIP_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Gunships are massive heavily armed and armored aircraft which can be found in the arsenal of both the Alliance and the Horde, although the gunships of each differ significantly. Gunships are the result of many hours of labor and painstaking amounts of advanced engineering, generally gnomish and dwarven for the Alliance, and goblin for the Horde. They may serve several roles, from transport to attack aircraft, but regardless of their function, all serve as versatile and maneuverable platforms from which attacks may be launched or operations conducted. Gunships tend to be vulnerable to ground- or sea-based artillery and, due to their nature, do not survive for very long if they become seriously damaged. As such, they usually deploy shock tactics. Utilizing heavy firepower and quick movement to pacify resistance, or deploying other ground attack aircraft, like gyrocopters, or ground personnel like marines, gunships can succeed with light casualties where other forces simply could not.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WYVERN_RIDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>A wyvern, also known as a wind rider and war rider, is a sentient wolfish-lion with bat wings and a scorpion tail native to Kalimdor. They can speak and understand Orcish and Taur-ahe, but cannot understand Common. Wyverns share a common ancestry with both dragons and gryphons. When Thrall first arrived on Kalimdor, Cairne Bloodhoof suggested enlisting the aid of the wyverns who dwelt nearby. Upon reaching their nesting grounds, the two leaders discovered that a band of harpies had captured and enslaved the wyverns. Encountering fierce local resistance, a force led by Thrall and Cairne fought their way to the harpies' lair and slaughtered the vile bird-women, freeing the wyverns. The sentient wyverns of Kalimdor were eager to ally themselves with the shamanistic Horde. Impressed by the orcs' commitment to honor and victory, the wyverns allowed the orcs to ride them into combat against those who would disturb the tranquility of Kalimdor and its denizens. The wyverns use their powerful claws and razor-like fangs against both airborne attackers and ground troops, while their riders may hurl envenomed spears at the enemy.  Wyverns are today considered sacred by both orcs and tauren.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHADOW_HUNTER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The shadow hunters are masters of voodoo and shadow magic, were once upon a time the highest authority amongst trolls. Their spirit powers can both heal and curse, walking the line of dark and light in hope of saving the future of trollkind, doing whatever it takes to secure a future for their kin. The loa can channel themselves through the shadow hunters when they use their ceremonial rush'kah masks. The traditional shadow hunter weapon is a long double-bladed sword or glaive.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXETHROWER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Axethrowers are quite simply units that throw axes. Like spear-throwing, this is an activity favored by the various troll tribes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEADHUNTER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Headhunters are spearmen specialized in tracking and hunting their opponents. Many headhunters are trolls, dexterous spearthrowers and experts at taking trophies on their fallen opponents. Upon their backs is a large pack designed to carry many spears.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAPTOR_RIDER_LIGHT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Raptors are a type of predatory dinosaurs and one of the most iconic beasts of the Warcraft universe. They can be found both in Azeroth and Outland, as well as Draenor. Longtime allies of the trolls, these jungle hunters form a special bond with their masters. They become steed, guardian, and friend. Speed, cunning and ferocity are the things trolls and raptors admire about each other. The first tamer of raptors was King Dazar, founder of the Zandalari Empire. Since the dawn of the trolls they have hunted with raptors and used a variety of raptors as mounts. A troll and his raptor are more than just friendship — it is a bond of blood, as both of them need each other. Usually it takes many years to form this kind of bond.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAPTOR_RIDER_HEAVY_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Raptors are a type of predatory dinosaurs and one of the most iconic beasts of the Warcraft universe. They can be found both in Azeroth and Outland, as well as Draenor. Longtime allies of the trolls, these jungle hunters form a special bond with their masters. They become steed, guardian, and friend. Speed, cunning and ferocity are the things trolls and raptors admire about each other. The first tamer of raptors was King Dazar, founder of the Zandalari Empire. Since the dawn of the trolls they have hunted with raptors and used a variety of raptors as mounts. A troll and his raptor are more than just friendship — it is a bond of blood, as both of them need each other. Usually it takes many years to form this kind of bond.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BAT_RIDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Bat riders  of the fire obsessed jungle troll's Darkspear tribe are often used as reconnaissance for the Horde since the aftermath of the Third War.  In battle, troll batriders use their flying mounts to swoop down upon enemy targets. When fighting alongside the Horde, batriders are often equipped with blazing torches and fire bombs with which they can set buildings, war engines and other devices ablaze. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BAT_RIDER_CHAPTER_HISTORY_PARA_2"  Language="en_US">
+			<Text>The Forsaken have also bat riders in their army. Since the Burning Legion's third invasion, their units are called dread-riders.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TAUREN_BRAVE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Brave is a title of respect for tauren who take up arms, whether to fight or to guard. They are the primary guards at most tauren settlements. Becoming a tauren brave involves overcoming several trials to test mind, body, and spirit. The exact nature of the rites has changed with time, but the meaning behind them has remained the same. Tauren brave initiates of Thunder Bluff start their training at Camp Narache on Red Cloud Mesa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_KODO_RIDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The kodo is a large omnivorous herd animal native to the Barrens. The tauren hold these reptiles in high esteem, and breed them as mounts. They are also used extensively as pack animals by both the goblins and the Horde as a whole. A kodo can eat its own weight in grass each day, but a lot comes out the other end.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_KODO_RIDER_LIGHT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The kodo is a large omnivorous herd animal native to the Barrens. The tauren hold these reptiles in high esteem, and breed them as mounts. They are also used extensively as pack animals by both the goblins and the Horde as a whole. A kodo can eat its own weight in grass each day, but a lot comes out the other end.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ABOMINATION_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Abominations are twisted, mutilated undead creatures comprised of multiple dead limbs and body parts from many different corpses. They are enormous warriors, scarred by loose stitchings and putrid, open sores. They love to carve flesh and tear their enemies apart. The slow-moving and dull-witted abominations constantly drip blood and smell like disease-ridden slaughterhouses. They carry large cleavers into combat and wield various sickle-bladed hooks on their disproportionate limbs. Almost all abominations lack any real intelligence, having an I.Q. closest to that of an ogre on average. Abominations outwardly appear strangely joyful due to their absent-minded expressions and mannerisms, though this is most likely due to their low level of mental capacity. Like their undead cousins, abominations lust for flesh and are known to eat not only the living but the dead as well.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FORSAKEN_CATAPULT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Forsaken catapult (or blight spreaders) is a type of Forsaken catapult found in Wintergrasp and Lordaeron. They are much quicker than the demolisher, with faster acceleration and quicker turning speed. However, it does not have as long as a range as the demolisher and does not inflict as much damage. It does not carry any passengers but has a frontal flame attack. Catapults have been used as both as blight-spreaders and siege weapons by the Forsaken. They typically launch barrels of the New Plague which explode on impact, makes the land toxic, and typically turn its targets into shapeless piles of goo. The catapults have been equipped on Forsaken battleships providing projectile weapons and blight anti-air to their ships.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DARK_RANGER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Dark Ranger are troops from Undercity following Sylvanas Windrunner. They are undead high elves like Sylvanas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SPELL_BREAKER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Spellbreakers are a blood elf unit that excel at battling caster units. While they were already few in number to begin with, the ranks of this formidable fighting force were thinned drastically when their headquarters on the Isle of Quel'Danas was overwhelmed by Kael'thas Sunstrider and his Burning Legion forces. The lone squad that remains now exists as a relic of a bygone era, as the spellbreakers have refrained from training any new recruits since Kael'thas's betrayal. In more recent times, Regent Lord Lor'themar Theron himself ordered a revitalization of spellbreaker training, leading to a resurgence of spellbreakers among the blood elves' ranks.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ELF_MAGE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The mage is a damage-dealing spell-caster that specializes in burst damage and area of effect spells. Mages are well known for their formidable damage output, as well as their range of crowd control abilities. Mages are also capable of performing a number of utility roles, from conjuring refreshments for their allies to teleporting or opening Portals to major cities.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ELVEN_RANGER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Elven rangers are elite archers turning to nature for aid, befriending animals. Some of them possess minor druidic abilities, as Vereesa Windrunner was able to use the "language of the trees, of all plants", and sense a plant's emotions and history through touch.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DRAGONHAWK_RIDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Dragonhawks riders are swift flying unit mounted by high elven, blood elven warriors and Amani Trolls. The fierce warriors of the dragonhawk battalions are often the first into combat, picking apart the enemy ranks and surrounding enemy towers with dense fog so that reinforcements can strike unhindered by enemy defenses. The riders are depicted with a shield and a lance, but they can also act as archers and bombardiers.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GOBLIN_FLYING_MACHINE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Flying machines are mainly products goblin ingenuity. Flying machines are by definition mechanical devices capable of flight. The goblins they usually focus on lighter-than-air designs.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TURTLE_RIDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Turtles are ancient creatures that have changed little over the eons. There are three main categories: sea turtles, land tortoises and fresh-water-dwelling terrapins.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHREDDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Shredders are goblin inventions designed to harvest lumber often replacing lumberjacks. Shredders are used for lumbering, but they can serve in war because of the solid metal construction of the machine and the great saws they wield. The first machine designed to mimic the humanoid form, goblin shredders use the steamsaws attached to their arms to cut down lumber at an incredible rate that is unmatched by peasant work crews. It moves at 10 miles per hour and has a crew of 1 usually designed for goblin-sized creatures, though larger version have been built. Goblin shredders were notably used in the Third War and Ashenvale war.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_7HLEGION_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The 7th Legion is an elite special ops regiment composed of Alliance veterans. They have been present behind the scenes for almost every major offensive and military engagement the Alliance has ever done. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GRYPHON_RIDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Gryphon riders are mounted warriors who serve as air support in the armies of the Alliance's nations. Most of them are dwarves of the Wildhammer clan, known to wield deadly stormhammers and to have a special bond with their gryphon mounts, but recently Ironforge dwarves and humans alike have started deploying gryphon riders of their own. A group of gryphon riders is called a gryphon wing.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ALIANCE_GUNSHIP_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Gunships are massive heavily armed and armored aircraft which can be found in the arsenal of both the Alliance and the Horde, although the gunships of each differ significantly. Gunships are the result of many hours of labor and painstaking amounts of advanced engineering, generally gnomish and dwarven for the Alliance, and goblin for the Horde. They may serve several roles, from transport to attack aircraft, but regardless of their function, all serve as versatile and maneuverable platforms from which attacks may be launched or operations conducted. Gunships tend to be vulnerable to ground- or sea-based artillery and, due to their nature, do not survive for very long if they become seriously damaged. As such, they usually deploy shock tactics. Utilizing heavy firepower and quick movement to pacify resistance, or deploying other ground attack aircraft, like gyrocopters, or ground personnel like marines, gunships can succeed with light casualties where other forces simply could not.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DWARF_RIFLEMAN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Riflemen are soldiers armed with rifles. While dwarves were among the first to invent and use them, many races since took up these weapons. The brave dwarven riflemen have faithfully protected their mountain kingdom of Khaz Modan for hundreds of years.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEAM_TANK_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Dwarven steam tanks are cumbersome, heavily armored vehicles, that are mobile siege weapons piloted by brave and sometimes reckless dwarves. These cumbersome, heavily armored vehicles can transport troops across hostile terrain and serve as mobile bunkers for beleaguered forces. Their heavy weaponry is too cumbersome to target enemy units and can only be used on buildings.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GYROCOPTER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Gyrocopters are a type of flying machines. The ingenious dwarven engineers, taking a nod from their inventive gnomish cousins, constructed the ultimate airborne scout vehicle. The gyrocopters are small but versatile flying machines that can cover great distances at speed and evade enemy ground forces. Though the contraptions are somewhat rickety, they are armed with mounted cannons and bombs, and piloted by the daring – if not insane – dwarven pilot corps.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAM_RIDER_LIGHT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The ram is a rugged, horned beast and the racial mount for dwarf characters. Distinguished by their shaggy coats and massive horns, Barak Tor'ol mountain rams are simple yet proud animals whose fearlessness is matched only by that of their dwarven masters. While these good-natured animals lack ferocity, they compensate with uncommon durability and strength. The thickness of their fur helps them withstand the biting winds of Khaz Modan and the sharp claws of the mountain beasts that populate the region. The dwarves value them for their fearlessness charging into battle.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAM_RIDER_HEAVY_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The ram is a rugged, horned beast and the racial mount for dwarf characters. Distinguished by their shaggy coats and massive horns, Barak Tor'ol mountain rams are simple yet proud animals whose fearlessness is matched only by that of their dwarven masters. While these good-natured animals lack ferocity, they compensate with uncommon durability and strength. The thickness of their fur helps them withstand the biting winds of Khaz Modan and the sharp claws of the mountain beasts that populate the region. The dwarves value them for their fearlessness charging into battle.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SENTINEL_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Sentinels  are the primary military arm of the night elf race. Founded in the years following the War of the Ancients and the destruction of the old Kaldorei Empire, the Sentinels serve as Darnassus's army in its engagements throughout Kalimdor and beyond. The organization is composed of devout and well-trained warrior women, with strong ties to the Sisterhood of Elune.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SABER_RIDER_LIGHT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Nightsabers are large saber cats found in Kalimdor, commonly used as mounts by the night elves. Elune made them silver and black so they could meld into the shadows on a moonlit night. When a night elf's mount perishes, it is custom for the rider to keep one of the saber's great fangs as a token of remembrance. Considered one of Azeroth's perfect predators, these agile beasts can sprint through dense forests without making a sound.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SABER_RIDER_HEAVY_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Nightsabers are large saber cats found in Kalimdor, commonly used as mounts by the night elves. Elune made them silver and black so they could meld into the shadows on a moonlit night. When a night elf's mount perishes, it is custom for the rider to keep one of the saber's great fangs as a token of remembrance. Considered one of Azeroth's perfect predators, these agile beasts can sprint through dense forests without making a sound.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HIPPOGRYPH_RIDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Hippogryph riders are night elf female archers and scouts mounted on hippogryphs as a part of the Sentinel Army. The brave creatures respond to the female riders as if they shared an empathic bond. Most notably, they participated in the War of the Ancients, the Third War, the Ashenvale war, and the Destruction of Theramore. According to Handler Tessina, properly trained squadron of hippogryph riders can take on nearly any opposing force.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_NELF_WARDEN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The mysterious wardens serve as the night elves' special police force in Kalimdor. They are elite members of the Watchers, the jailors and marshalls of night elf society, to the point that the highest rank that can be bestowed on a Watcher is the one of warden. et apart from the militant Sentinels, wardens are usually employed as jailors, assassins, and bounty hunters. They wield umbra crescents and typical glaives. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VINDICATOR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>"Vindicator" is a title used by many draenei, similar to priests using the title of Anchorite. The exact definition of vindicator remains unclear. It is a generic title and profession. While the majority of Vindicators are paladins, and it was initially assumed that it was an honorific for a paladin, the title also includes many warriors and a few other classes. What is known is that the Vindicators are defenders of draenei society, standing as the primary guardians of Shattrath City during the orcish invasion and are seen as both members and leaders of the Hand of Argus. All members of the Triumvirate of the Hand have this title. They are referred to as "holy warriors of the Light" and are counted as wielders of the Light along with Anchorites.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ELEKK_RIDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Elekk are a species of large, elephant-like creatures native to Draenor that the draenei commonly employ as mounts. Elekk became sickly and corrupt as a result of Draenor's fel corruption and subsequent transformation into Outland.Patient and strong, the elekk exemplify the draenei attitude towards the hardships of life. They can live to be over a hundred years old. It is said an elekk never forgets.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ELEKK_RIDER_LIGHT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Elekk are a species of large, elephant-like creatures native to Draenor that the draenei commonly employ as mounts. Elekk became sickly and corrupt as a result of Draenor's fel corruption and subsequent transformation into Outland.Patient and strong, the elekk exemplify the draenei attitude towards the hardships of life. They can live to be over a hundred years old. It is said an elekk never forgets.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_NETHER_RAY_RIDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The nether ray is a beast native to Draenor/Outland and Bonich. It has a body much like a stingray's with a long tail and two feathery plumes. It has crystalline growths and stripes running down its body, and all types are brightly colored. Nether Rays are among the most trusted, versatile mounts in all of Outland and beyond.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DRAENEI_PRIEST_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The priest is the master of healing and preservation, restoring his wounded allies, shielding them in battle and even resurrecting his fallen comrades from death. While he has a variety of protective and enhancement spells to bolster his allies, the priest can also wreak terrible vengeance on his enemies, using the grand powers of the Holy Light to smite and purge them or the devastating powers of the Void to decimate their minds. The priest is a diverse and powerful class, highly desirable in any group and capable of fulfilling multiple roles.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GLF_INFANTRY_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Gilneas Liberation Front (GLF) is the main Gilnean resistance group fighting against the Forsaken invasion of their nation. The GLF was formed following the Invasion of Gilneas at the time of the Cataclysm, and is made up of worgen and human soldiers who chose to remain behind after the evacuation of most of Gilneas's citizenry.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GNOMISH_MECH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Gnomish Mech or Steam armors are piloted mechanical humanoid-shaped suits or vehicles, used for work or battle. The operating parameters of steam armor allow for an individual to turn himself from a single man into a massive engine of destruction. Yet the armor has its vulnerabilities. Such complex systems of mechanical interactions are prone to fail at some point, and the stresses of combat and conflict cause even more strain on what would otherwise be sturdy systems. Yet the rigors of combat are exactly what steam armor is built to endure. Because of this property, those who rely on steam armor, the steam warriors, often take to customizing and building the armor to suit their particular needs. There are a variety of devices and attachments that can be inserted into a suit of steam armor to enhance its functions and increase its capabilities. To ensure the armor lasts, most steam warriors also build redundancies, failsafe systems, and various features into their armor to ensure their survival.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MECHANOSTRIDER_RIDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The mechanostrider is the mount used by the gnomes of the Alliance. They were invented by a young Gelbin Mekkatorque. The gnomes' revolutionary mechanostrider represents yet another marvel of their engineering prowess. Each strider is specifically designed with the individual rider in mind. They are constructed using state-of-the-art steam compression, servo-motor dynamics, and duro-steel plating. This offers the rider a reliable and durable means of transportation. Some claim that the mechanostrider's lack of true sentience makes for a very dumb mount. However, the gnomes counter that under a skilled rider, the mechanostrider is more responsive than even the best trained live mount.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PALADIN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The paladin is a holy knight, As "warriors of the Holy Light", paladins uphold all that is good and true in the world and revile all that is evil and sinister — especially undead and the Burning Legion. They offer assistance to the beleaguered and smite their enemies with holy fervor. Found in almost every corner of Azeroth fighting the forces of evil and barbarism, these stalwart, zealous warriors ceaselessly maintain their vigil. Paladins are the embodiment of good and selfless dedication to the protection of their peoples. Their passion and fearsome resolve can lead them astray, however. Most notably, the Scarlet Crusade, a faction of paladins and priests who broke away from the the Knights of the Silver Hand, took their commitment to eradicating the Scourge so far that they turned on their former allies, suspecting anyone whom they believed carried the "taint" of the undeath.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GHOUL_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Ghouls act as the shock troops for the Scourge. These lumbering, rotting corpses were once innocent townsfolk who have made the final transition into true undeath. Ghouls have great stamina and revel in combat with living beings. Ghouls are ravenous cannibals who can replenish their health by devouring the flesh of fallen warriors, friend and foe alike.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_YMIRJAR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Ymirjar are the elite warrior caste of the Lich King, the victorious vrykul in the battle of ascension at Jotunheim. They inhabit the city of Ymirheim in the center of Icecrown.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LICH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Liches are powerful undead beings. Usually bound to the iron will of the Lich King, they mainly wield frost magic and necromantic spells. Typically appearing as large, floating, skeletal figures wrapped in long robes, they are often found in high-ranking positions within the Scourge. Unlike many other forms of undead, a lich's soul is not imperfectly attached to its body; instead, liches bind their souls to special containers known as phylacteries, which then allows them to generate a physical form. This is why lich bodies look nothing like their former mortal selves, and also why one has to destroy a lich's phylactery to truly kill them; as long as a lich's phylactery and soul are allowed to remain intact, the being can never truly die and will always be able to regenerate their corporeal body.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PLAGUE_DOG_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Plague-dogs are a form of abomination that are seemingly fashioned entirely out of animal parts. They are one of the newer creations of the Scourge, and originally only a single one was found stalking the corridors of the dreaded Naxxramas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CRYPT_LORD_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Crypt lords are undead nerubian spiderlords of the subterranean spider kingdom of Azjol-Nerub. Crypt lords are adept at summoning insect minions and crushing enemies. Betraying the nerubian people, the crypt lords have sacrificed the lifeblood of thousands to bolster the undead armies of Ner'zhul, winning an eternal life of servitude in his name.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GARGOYLE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The dreaded gargoyles of Northrend are voracious flying creatures who revel in slaughter and mayhem. Gargoyles were brought to Lordaeron from the frozen Northrend by Arthas's armies for the siege of Silvermoon. Now, gargoyles live in the Eastern Plaguelands and the Ghostlands. These strange, wiry flyers have rough, crystalline hides which protect them from all manner of attacks.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FROST_WYRM_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Frost wyrms are the skeletal remains of adult blue dragons killed by the Scourge. These reanimated vessels of destruction do not fear death; they dispense it.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BEAR_RIDER_LIGHT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The bear is a very common, bulky, furry, four-legged carnivorous beast found in countless areas across Azeroth. The Amani trolls decorate the ferocious Amani battle bears in magic amulets and ceremonial masks as a way to venerate the bear god Nalorakk.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BEAR_RIDER_HEAVY_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The bear is a very common, bulky, furry, four-legged carnivorous beast found in countless areas across Azeroth. The Amani trolls decorate the ferocious Amani battle bears in magic amulets and ceremonial masks as a way to venerate the bear god Nalorakk.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TROLL_BERSERKER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Troll berserkers are members of bloodthirsty sects presents in the various troll tribes, with axe or spear-throwing hunters becoming known as berserkers through a combination of learning how to channel their rage and alchemical means. Sometimes, alchemical or magical alteration can lead those berserkers to become dire trolls. Heavily muscled, the troll berserkers are fueled by a cocktail of primitive and dark magic, potions concocted by the shadowy witch doctors that send the ferocious warriors into a blood-chilling frenzy.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RHINO_RIDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Rhinos are a type of large, shaggy, horned beast found in Northrend</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TROLL_PRELATE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Zandalari prelates are Zandalari paladins. The prelates serve Rezan, and they are the highest order of holy warriors to serve any loa. Their path is the elite, taking only those gifted from birth with prowess in battle and gifted by the loa, and crafting champions of light to defend their empire. The prelates do not have any openings or handouts.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ZANDALARI_WARSHIP_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Golden Fleet is the maritime military force of the Zandalari Empire. Zandalar has the most powerful fleet of all Azeroth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DIREHORN_RIDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Direhorns, also known as triceratops, are three-horned dinosaurs found mainly on Zandalar, the Isle of Giants and the Isle of Thunder. These saurian titans populate many islands in the South Seas. The Zandalari trolls recently deployed direhorns for use as living war engines to aid them in defending the Throne of Thunder and their mogu allies on the Isle of Thunder. The Zandalari breed specific direhorn species for their small size for use as mounts. Direhorn hides can be harder than plate armor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PTERRORWING_RIDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Skyscreamers also known as pterodactyls and pterrorwings, are large, flying pterosaurs found on the Isle of Giants. Many of them were tamed by the Zandalari trolls and brought to the Isle of Thunder to be used as aerial companions and mounts during their conflict with the Alliance and Horde. Skyscreamers are immune to lightning. During the Zandalari Troll Wars, the Zandalari employed a form of warfare none had ever seen, descending into battle on the backs of pterrorwings and giant bats. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GRUNT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Grunts are the basic warriors of the Horde and the orcish clans. They are typically equipped with mighty axes and battle-worn armor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_OGRE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Ogres are large, brutish humanoids of notable strength native to Draenor Descendants of the various stone giants known as Breakers, the ogres were originally enslaved by their progenitors, the ogron. Eventually, the ogre hero Gog the Gronnslayer showed that it was possible to kill the gronn, which both ogres and ogron revered as godlike beings, and he became the founder of the Gorian Empire that would come to rule much of Draenor for centuries until the arrival of the draenei. Over the years, ogre influence gradually waned across the world as they were slowly surpassed by their orc descendants and the draenei as the dominant races of the world. The ogres eventually accompanied the Old Horde through the Dark Portal to Azeroth to participate in the First and Second Wars. Following the Second War, the ogre clans scattered across Azeroth. Shortly after the Third War, the Stonemaul clan joined the New Horde after the half-ogre Rexxar killed their chieftain. After the Cataclysm, the Dreadmaul tribe was partially re-enslaved by Horde forces, while the Dunemaul clan was brought into the Horde by Megs Dreadshredder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ORC_DESTROYER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Destroyers are intermediary warships intended to fight during naval engagements as well as escort other vessels like transport ships and battleships. Many of the races of Azeroth and Draenor have their own variant of the destroyer class. Orc destroyers are small spiked craft. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DEMOLISHER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The orcish demolisher is a replacement for the formerly used orcish catapults which were replaced after the Third War. It is a standing asset to the Horde. Capable of hurling fiery projectiles over great distances, orcish demolishers have been the doom of many Alliance regiments. Though a small team of orcs must always be available to man these destructive machines, unerringly demolishers serve as the Horde's greatest siege weapon. Unlike catapults, demolishers can be equipped with burning oil which smothers their projectiles in napalm and thus setting the ground ablaze wherever they land.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHAMAN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Shaman are mortal mediators between the very elements themselves. Often spiritual guides of their communities, these powerful practitioners commune with the ancestors and seek to balance the raging elemental forces, and can call upon them in battle to scorch and blast their enemies, or to strengthen and heal their allies. Shaman can enhance their weapons with elemental effects, smite enemies with lightning strikes and bursts of lava, and summon powerful elementals to their aid.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WITCH_DOCTOR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Witch doctors are spellcasters often use the smoke of an herb known as Witchbane to draw evil from its hiding places. Witch doctors work with voodoo and arcane.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUNWALKER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Sunwalkers are an order of tauren paladins. They were founded by Aponi Brightmane after a series of theological discussions with Tahu Sagewind about the importance of balancing out the night elven focus on moon-worship through reverence of light as part of their worship of the Earth Mother. As such, the Sunwalkers are warriors who wield the power of An'she, the sun in tauren mythology, as they did in the past. They are the most militant branch of the tauren armies within the Horde.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SPIRIT_WALKER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Spiritwalkers are mystical, white-furred tauren casters. They can enter an "Ethereal Form", allowing them to avoid physical damage. Believed to be the ill omen of a coming age, white tauren are held in near reverence by their people, often becoming reclusive priests who wander the land in search of kindred spirits. Spiritwalkers maintain balance between the world of the living and the spirit realm. They can travel into the memories of the dead to glean clues about the past.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DEATH_GUARD_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Deathguard is the bulk of the Forsaken military force. They are mostly deployed to the Tirisfal Glades, Silverpine Forest, and the Hillsbrad Foothills, as well as Northrend with the Hand of Vengeance under the Horde Expedition.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FORSAKEN_BATTLESHIP_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Forsaken do not have a harbor or any dry docks. The Forsaken navy is composed of ships dredged up from the bottom of the ocean. Most of them were once among Lordaeron's fleets. The Forsaken battleships have been equipped with Forsaken catapults, providing their ships with projectile weapons and blight anti-air.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_APOTHECARY_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Apothecaries are alchemists of various races but mostly of the Forsaken that also established the Royal Apothecary Society. The Royal Apothecary Society is an alchemical society based in the Apothecarium in Undercity. It was created by Lady Sylvanas Windrunner in order to create a new undead plague to wipe out the Scourge. Its members are all Forsaken or other types of undead beings who joined Sylvanas' cause. They are constantly brewing up new plagues and poisons to unleash upon Sylvanas' enemies. The other races of the Horde believe they are working on a remedy to cure their "illness".</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BLOOD_KNIGHT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Blood Knights are an order of blood elven paladins formed in Quel'Thalas in Year 25. With the strong support of the Magisters and the blood elven guard force, the former of which had a hand in their creation, the Blood Knights rose from unproven and scorned beginnings to become a popular group within sin'dorei society. They are led by their matriarch, Lady Liadrin, who was the first of their order.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ELVEN_DESTROYER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Destroyers are intermediary warships intended to fight during naval engagements as well as escort other vessels like transport ships and battleships. Many of the races of Azeroth and Draenor have their own variant of the destroyer class. Elven destroyers of the trireme hull type employ "junk sails" in a "schooner rig". This sail configuration is characterized by good windward handling and generally good speed across all sailing points (but less from running with the wind). This is consistent with the idea that the elven destroyer is a fast, highly maneuverable warship.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GLAIVE_THROWER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Glaive throwers are ballista type siege weapons that throw glaives (a three bladed disk) at enemy forces. Generally used by members of the various elven races, they have been handy at fighting enemy forces of the night elves, blood elves.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARCANE_GOLEM_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Arcane golems  are hulking, magically-powered robotic constructs found mainly in blood elf territories. They act as peacekeepers, defenders, and sometimes public announcers. The golems returned to prominence in Silvermoon some years after Scourge invasion of Quel'Thalas. Their physical build boasts a number of different color schemes depending on the model. The blood elves have put them to the most use, generally using a red-and-gold variant, though also have vermilion and altered fel golem versions in their arsenal.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BRUISER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Bruisers are the policing force of the goblin cities. The bruisers are responsible for upholding law and order with a firm hand, and ensuring that all exchange is fair. And as the bruisers improve their weaponry and training, they have to cut off their free time.[</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MINI_SUBMARINE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Submarines (or subs) are watercrafts capable of independent operation underwater.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HUMAN_GUNMAN_RIFLEMAN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Gunman are soldiers armed with rifles. While dwarves were among the first to invent and use them, many races since took up these weapons. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BROTHERHOOD_HORSE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Brotherhood of the Horse was the official name of the kingdom of Stormwind's knights before the First War. The most notable, and only known, member of the Brotherhood was Anduin Lothar, who became a knight and rose to the position of Armsman.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ALLIANCE_ICEBREAKER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Icebreakers (Human destroyers)  are massive paddlewheel-driven behemoths functioning on steam power and originally built to get through the icy waters of Northrend. To accomplish this they have a ram similar to a battleship. It is possible that the steam powerplant and paddlewheel system for these ships had, at the very least, dwarven or gnomish technical expertise in their design, as both races have considerable experience with steam power.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HUMAN_MAGE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>While humans have not wielded arcane magic for as long as high elves, they have a strong tradition of it. When high elf magi brought the secrets of arcane magic to humans, the younger race showed a natural predilection for it. Human mastery of arcane energy was instrumental in vanquishing the ancient troll empire that threatened human and high elf civilization. Humans and high elves recognized the danger arcane magic posed, and so created the Guardians of Tirisfal — powerful arcane casters who guarded against demonic invasion. Since that time, human ability with the arcane has continued and evolved; humans established the Kirin Tor, a council of archmagi who ruled Dalaran, an arcane city. Even with the destruction wrought in the Third War, humans remain consummate magi, eager to use flame and ice to scour their enemies. Many human magi are creative, creating spectacular new spells or new ways to use existing spells. The iconic human mage, however, is a powerhouse of arcane energy. She summons creatures to her aid while pounding her foes with blasts of fire or rains of slashing ice.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SENTINEL_WARRIOR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Sentinels  are the primary military arm of the night elf race. Founded in the years following the War of the Ancients and the destruction of the old Kaldorei Empire, the Sentinels serve as Darnassus's army in its engagements throughout Kalimdor and beyond. The organization is composed of devout and well-trained warrior women, with strong ties to the Sisterhood of Elune.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRIESTESS_MOON_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The elite, night elf clergy are made up of these worthy women. The priestesses of the moon epitomize the power and grace of their race's ancient moon goddess, Elune. The priestesses of the moon, equipped with silvery, glowing armor, ride the fearless Winterspring Frostsabers into battle. Charged with the safekeeping of the night elf lands and armed with magical energy bows — the priestesses of the moon will stop at nothing to rid their ancient land of evil.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANCIENT_PROTECTOR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Ancient protectors are green, leafy ancients with a beard of thick leaves and moss. The early purpose of these primeval guardians was to defend the resting places of the druids as they slept. Called into service for the Third War, these wardens dedicate their existence to the defense of their brethren and the forested lands of Ashenvale. These mighty ancients can also hurl enormous boulders at any enemies who threaten the tranquility of the night elves' villages.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHTS_CHOSEN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Light's Chosen are an elite order of draenei paladins commanded by Prophet Velen, the leader of the draenei race. First seen some time after the arrival of the draenei on Azeroth, the Light's Chosen have since played a role in resisting the third invasion of the Burning Legion. During the war, the demons attacked the draenei capital of the Exodar. During the ensuing battle, the Light's Chosen fought by Velen's side, ultimately prevailing.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GNOME_MAGE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>In a community as eccentric as mages, for other mages to regard gnomish mages as outlandish is really a statement. Gnome mages are characterized by their bizarre and bold (some would say 'whimsically suicidal') probing into just how many things they can get their spells to do. The insatiable curiosity of gnomes is legendary, and all gnomes, of all walks of life, love to tinker. Gnomes as a race hold no general preference for any particular tree of magic or school of thought, but all are highly individualistic, and their idiosyncratic spells are evidence of this. Gnomes have the most creative spell repertoire of all the practicing races by far, and home-made gnomish spells either end up as fabulous successes or extremely dangerous failures.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARGENT_PRIEST_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The priest is the master of healing and preservation, restoring his wounded allies, shielding them in battle and even resurrecting his fallen comrades from death. While he has a variety of protective and enhancement spells to bolster his allies, the priest can also wreak terrible vengeance on his enemies, using the grand powers of the Holy Light to smite and purge them or the devastating powers of the Void to decimate their minds. The priest is a diverse and powerful class, highly desirable in any group and capable of fulfilling multiple roles.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FELGUARD_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Felguard are demons of the mo'arg race that serve as the Legion's rank and file demonic soldiers and front-line troops. They are fearless and unwaveringly loyal to their master's godlike will. They are almost always seen with heavy, two-handed weaponry. They are slow to strike, but hit quite hard, and are more agile than they look.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INFERNAL_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Infernals are nearly mindless amalgamations of matter and fel energy, created by more powerful and intelligent demons. Acting as living siege weapons, these brutes use blazing fists of fel fire and stone to hammer down the defenses of their enemies. Falling to earth as green, molten meteorites, infernals exist only to destroy every living thing in their path. Though their lifespans are limited, the mighty infernals have been known to destroy entire cities before their energies dissipated back into the Great Dark Beyond.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DOOMGUARD_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The doomguard are a type of demonic warrior of the ered'ruin species that used to work as Archimonde's personal escort, and serve the Burning Legion with great fervor. Powerful and deliberate, these winged aberrations are known across the cosmos for their brutality. The doomguard are utterly devoted to their pit lord masters and revel in the destruction of worlds.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DEMONIC_HOUND_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Fel beasts are rare creatures similar to core hounds, but made of green fel energies instead of lava.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DARK_HOUND_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Darkhounds are a species of magical, demonic dog.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMMAND_SHIP_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Legion ships, also called command ships, are spaceships created by the Burning Legion that can teleport and travel between the Twisting Nether and the Great Dark Beyond. Being dagger-shaped, the tip of the ships forms a portal which can then be used to summon in more demons and bombard enemy troops with infernal-like fireballs. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FELBAT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Felbats are a race of winged, gargoyle-like demons. The Burning Legion breeds them as flying mounts for their soldiers, but many felbats have also been enslaved by the Illidari as mounts.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FEL_CANNON_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Fel cannons are cannons infused with fel energy and used by the Burning Legion to protect territory they have claimed for themselves. They shoot fel cannonballs, but have a boiler grill on the front in the stead of a barrel.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADLORD_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Nathrezim or dreadlords are intelligent and cunning demons who usually act as intelligence agents, interrogators and emissaries for the fiery lords of the Legion, notably Kil'jaeden, as well as tacticians and lieutenants upon the field of battle in times of war. While they are powerful foes on the battlefield, they prefer to turn nations against each other through manipulation and guile. The nathrezim are merciless villains who feed upon the energies of mortal creatures. They utilize terror and subterfuge - often turning brother against brother as whole worlds fall before their dark influence.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_OGRE_MAGE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Ogre magi or mage are two-headed ogre spellcasters who are typically larger and more intelligent than their one-headed brethren. They often enjoy an elevated position among the ogre clans. The early ogres' practice of sorcery and exposure to raw arcane magic had some unexpected side effects. Very rarely, children would be born with two heads. It soon became clear that these two-headed ogres were exceptional spellcasters, and their appearance was seen as a good omen. In time, Goria's arcanists even developed spells to replicate this phenomenon, causing normal ogres to grow a second head and increasing their intelligence and magical aptitude.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TWILIGHT_DRAGONFLIGHT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The twilight dragonflight is a dragonflight created by the results of magical experiments carried out by Sintharia upon dragon eggs. Using ancient dragon artifacts and the powers of the nether dragons, Sintharia created a new breed of dragons that feed vampirically on all forms of mystical energy. The first encounter of these dragons with the outside world was by Krasus, Kalec, and the draenei priestess Iridi. Iridi thought of their appearance not as shadow, but more akin to the day turning to night, like twilight as experienced on Azeroth. She thus dubbed them twilight dragons.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HIGHBORNE_ARCANIST_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Arcane magic is a volatile and inebriating drug, pure power distilled and channeled through the body to create arcane effects. Many races wield arcane power carelessly, disregarding the lessons of the past. The arcanist class encompasses all users of arcane magic — those who seek power without regard for consequences, and those who think arcane can be handled responsibly; each arcane spellcaster chooses a distinct path. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EMPEROR_SHIELD_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Emperor's Shield is an order of elite mogu warriors sworn to Lei Shen, the Thunder King.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SAUROK_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The saurok are a race of lizard-men, created by the mogu from the fauna of the Vale of Eternal Blossoms, choosing several particularly sturdy varieties of local reptiles, designed to be smart enough to use weapons and fight for the mogu, but over the years some escaped.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STONEBORN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The terracotta warriors or Stoneborn are artificial mogu powered by souls. For many ages, the mogu used flesh as a weapon: warped, bent, and twisted to their malevolent will. But after their failures in creating the saurok race, and having exhausted their options for enslaved mortal warriors, the mogu sought to create another weapon, this time forged with total obedience. They turned their attention to creating armies of animated constructs to do their fighting for them.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SPIRITBINDER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Spiritbinders are dark casters, notably found among the mogu For many ages, the mogu used flesh as a weapon: warped, bent, and twisted to their malevolent will. But after their failures in creating the saurok race, the mogu sought to create another weapon... this time forged with total obedience. Their ancient research delivered to them methods of turning flesh to stone, and back again. Lifeless rock could be animated, providing a willing (or unwilling) soul could be captured within. These dark rituals created the Stoneborn, soldiers of jade and dark magic forged from the living essence of conquered victims. These creations were powerful... terrible to behold, and above all else, one hundred percent loyal to their mogu masters..</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENORMOUS_QUILEN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Quilen are canine-leonine creatures that are native to Pandaria. There are three variations of quilen: organic, stone, and adorned stone. Favorite pets of the ancient Mogu princes, Quilen make loyal and fearless companions and mounts.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BRONZE_QUILEN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Quilen are canine-leonine creatures that are native to Pandaria. There are three variations of quilen: organic, stone, and adorned stone. Favorite pets of the ancient Mogu princes, Quilen make loyal and fearless companions and mounts.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FLYING_QUILEN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Quilen are canine-leonine creatures that are native to Pandaria. There are three variations of quilen: organic, stone, and adorned stone. Favorite pets of the ancient Mogu princes, Quilen make loyal and fearless companions and mounts.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WARDANCERS_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Pandaren wardancers are a pandaren warrior variant. Pandaren are by all accounts graceful and skilled warriors. Their wardancers epitomize the pandaren art of warfare — and for the wardancers, battle is indeed an art. Their title does not come coincidentally. Their movements are precise and fluid; they appear to dance through a battlefield, their blades flashing silver, blood spraying into the air, and bodies toppling as they move. While wardancers are deadly, they, like all pandaren, are inherently peaceful. The greatest hope of the wardancer is to not have to use his skills. However, in Azeroth’s current age, the wardancers’ skills are needed more than ever. Wardancers move out to confront demons, undead and other horrid creatures, their hearts lightened by the thought that, through their battles, other creatures will live — perhaps, other creatures will never know battle.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BREWMASTER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Hailing from the secretive Pandaren Empire, the mighty brewmasters travel the world in search of exotic ales and the finest brewed spirits. These affable warriors rarely seek out danger or trouble, preferring instead to spend their time concocting new and tasty beverages for any brave enough to imbibe them. However, if attacked, the laughing brewmasters bring all of their pandaren agility and ferocity to bear! They even bring their beer to war! They are peerless warriors and world class drinkers all in one!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PANDAREN_MONK_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Nearly 12,000 years ago, long before the War of the Ancients, the continent now known as Pandaria was ruled by a monstrous race of warlords known as the mogu. Their reign was incredibly harsh and brutal. Mogu taskmasters forbade their slaves to carry weapons. During these dark times, many pandaren tried to lift the spirits of their beleaguered brothers and sisters. They were the storytellers, the brewmasters, and the healers who helped knit their oppressed society together in the midst of darkness. As the mogu empire began to fray, the pandaren saw an opportunity for a revolution. Because they had no weapons, they trained common people to fight with their unarmed fists and feet. They mastered the use of positive energy - or 'chi' - to empower themselves. These unarmed resistance fighters would become the first monks.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ORC_WARLOCK_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The warlock is a damage-dealing spell-caster class, known for their wide range of debuffs and damage over time effects. Warlocks are also recognisable by their demonic minions, used to deal damage to foes, as well as to provide both offensive and defensive utility. Warlocks are magical practitioners that seek to understand darker magics, among other fel-based and destructive spells.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNAUGHT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Dreadnaughts, also known as juggernauts or drudgeboats, are large armored battleships equipped with heavy cannons in the employ of the Iron Horde.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FEL_ORC_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Fel orcs (or blood orcs) are corrupted orcs created by the continual consumption of pit lord blood, which has caused them to be completely consumed by madness and bloodlust. Most could be found in Outland as members of the Fel Horde, loyal to the Illidari. After the alternate Gul'dan took control of the Iron Horde and bound it to the Burning Legion, many orcs of the alternate Draenor became fel orcs as well.</Text>
+		</Row>
+		<!-- CITY STATES-->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_STORMGARDE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Stromgarde is a human nation located on the site of the original capital of Arathor, Strom, in the Arathi Highlands. Stromgarde is all that remains of the mighty human Arathorian Empire. The national color of Stromgarde is red, and its symbols are a closed fist, which is similar to the symbol of the Knights of the Silver Hand, and a bird with its wings spread. During the Second War, Thoras Trollbane, Lord of Stromgarde, joined his kingdom with the Alliance of Lordaeron. The kingdom declined rapidly following the Third War, losing control of much of its territory.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ALTERAC_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Kingdom of Alterac was one of the seven human nations to join the Alliance of Lordaeron during the Second War. It was situated in the foothills and mountains of the land now known as the Alterac Mountains. Formerly ruled by King Aiden Perenolde, Alterac was the weakest kingdom in the Alliance and a relatively small contributor of soldiers and supplies.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KUL_TIRAS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The kingdom of Kul Tiras is a human nation built on the island of the same name. During the Second War, the maritime nation joined with the other human kingdoms in the Alliance of Lordaeron. Lord Admiral Daelin Proudmoore, ruler of Kul Tiras, was named Grand Admiral of the Alliance. After the Third War, the nation fell silent with Daelin's death in a Horde assault on the city of Theramore.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_THERAMORE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Theramore was a human city and port town located in a rocky island east of Dustwallow Marsh, and was the capital of the kingdom of the same name. Before its destruction, it was considered the Alliance's most martial presence in Kalimdor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DALARAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dalaran is a small, magocratic nation founded originally as a city-state by Arathi magi near the coast of Lordamere Lake in Lordaeron. It is ruled by the Kirin Tor. Its capital, also called Dalaran, was recently moved to Northrend during the War against the Lich King, and then to the Broken Isles during the third invasion of the Burning Legion.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ACHERUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Acherus: The Ebon Hold is a former Scourge necropolis floating above Light's Hope Chapel in the Eastern Plaguelands. It is the headquarters of the Knights of the Ebon Blade and is the starting area for all death knights of the Alliance and the Horde. During the Battle for Light's Hope Chapel, the Lich King revealed that he sent the death knights on a suicide mission in order to lure Tirion Fordring out of hiding. After the Lich King fled back to Northrend when Fordring cleansed the Ashbringer, the death knights who remained on the field formed the Knights of the Ebon Blade under the command of Highlord Darion Mograine, and took control of Acherus from the Scourge to serve as their base.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GADGETZAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Rising out of the northern Tanaris desert, Gadgetzan is the capital city of the Steamwheedle Cartel,  the largest of the goblin cartels. The city was once surrounded by desert, but since the Cataclysm it is now a prime beachfront property. Some of the best goblin engineers, miners and alchemists ply their trade here. The goblins believe in profit above loyalty, thus Gadgetzan is considered neutral territory in any Horde-Alliance conflict. Anyone with a fat wallet or services to offer is welcomed in Gadgetzan. Both governments officially recognize goblin neutrality, and for those who don't, the streets are heavily patrolled by goblin bruisers ready to pound to a pulp anyone disrupting their trade by instigating conflict.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BOOTY_BAY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Booty Bay is a large pirate port city nestled into the cliffs surrounding a beautiful blue lagoon on the southern tip of Stranglethorn Vale. The city is entered by traversing through the bleached-white jaws of a giant shark.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_RATCHET_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ratchet is a major goblin port in Kalimdor, a medium sized harbor city located on the eastern shore of the Northern Barrens directly between Orgrimmar and Theramore. The town does most of its business through Booty Bay and Baron Revilgaz on the other side of the Great Sea.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_EVERLOOK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Everlook is a trading post run by the goblins of the Steamwheedle Cartel. It lies at the crossroads of Winterspring's main trade routes and contains a goblin laboratory. Everlook is the only major goblin outpost in northern Kalimdor, and it serves several purposes. First, it serves as the base of operations for goblin thorium and arcanite miners, since Winterspring has some of the fewest untapped veins of those materials on the continent. Second, it serves as a center of trade between the Alliance and the Horde.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MUDSPROCKET_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Mudsprocket is a goblin town in the south-west of Dustwallow Marsh. It is a quest hub with a flight master, inn, graveyard, anvil, forge and mailbox. This town's faction is tied with Gadgetzan and it contains a goblin laboratory.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_FUSELIGHT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Fuselight is a new town in the Badlands. It is run by the Steamwheedle Cartel goblins, and unlike most of the smaller towns the few quests there will award reputation with them. It contains a goblin laboratory.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_K3_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>K3 is a neutral goblin base camp located on the southern base of Storm Peaks on the continent of Northrend. The goblins are out to loot the titan machines in the peaks but are having problems with the local wildlife.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SCARLET_CRUSADE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Scarlet Crusade is a religious order, that evolved from Knights of the Silver Hand dedicated to the eradication of the undead from Lordaeron. They are a major adversary of the Forsaken and Scourge. Since the fall of the Lich King, the Scarlet Crusade has experienced a downfall, losing many of its holdings in the now-recovering Plaguelands to the Argent Crusade, and many of its surviving members, ironically, to undeath as the Risen.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CENARION_CIRCLE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Cenarion Circle is a harmonious order that guides and keeps watch over the world's druids and their practices.The organization mostly consists of druids, with members of the tauren, troll, night elf, and worgen races. It is named after Cenarius. The Circle has many posts, but their main home is the town of Nighthaven in the Moonglade. The Circle's other major presence is in Silithus, where they combat the Silithid, the Qiraji, and Twilight's Hammer. The Cenarion Circle operates outside of Tyrande Whisperwind's authority.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_RAMKAHEN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Ramkahen tribe is a faction of tol'vir that control the territory of northern Uldum. They have lived in peace with the other tol'vir tribes for a long time, until the Neferset tribe made relations with Deathwing and the elemental lord Al'Akir. The Ramkahen were given the same choice but refused, they however have taken steps to insure their safety after seeing the aftermath of the attack on Orsis.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_FIZZLE_POZZIK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Fizzle and Pozzik's Speedbarge looks like a massive, city-sized ship and an artificial island located on the Shimmering Deep in Thousand Needles.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TUSKARR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The tuskarr are a peaceful humanoid walrus-like people indigenous to the cold shores of Northrend. They make their home along the southern coast of the continent having settlements in Borean Tundra, Dragonblight and Howling Fjord.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_IRON_DWARF_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Iron dwarves, sometimes referred to simply as irons, are a type of dwarf found in Northrend made of iron and etched with runes of power, with lightning pulsing beneath their thick, metallic skin. Keeper Loken, corrupted by the Old God Yogg-Saron who took control of the titan facility of Ulduar, churned out entire armies of iron dwarves through the Forge of Wills. Following Loken's death and Yogg-Saron's defeat, they have then re-entered the service of the Keepers as evidenced in Ulduar during the Burning Legion's third invasion. The Ulduar Keepers then allied with Odyn and his Valarjar to combat the demons.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_FROSTBORN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Frostborn, are a race and a faction of dwarves native to the Storm Peaks. They have recently befriended members of the Explorers' League, and although they have differences with their dwarven brethren, they welcome Alliance members within their settlements. They were led by Yorg Stormheart, "King of the Frostborn", who ruled over them from the mighty Frosthold in the Storm Peaks. This changed when Yorg recovered his memories, which he had lost some years back, and remembered that he was Muradin Bronzebeard, a dwarf from the Bronzebeard clan of Ironforge. After the war against the Lich King, Muradin decided to return home with his brothers so he left Velog Icebellow in charge of the leadership of the frostborn in his absence.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VRYKUL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Vrykul are a race of fearsome half-giant warriors native to the Howling Fjord, located in southeastern Northrend. They are the progenitors of the human race, who were originally vrykul offspring that were born weak and deformed as a result of the Curse of Flesh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SHADOPAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Shado-Pan , also known as the "Sword in the Shadows" and the "Watchers on the Wall", are a secretive, elite order of highly disciplined pandaren fighters with a ninja-like culture dedicated to protecting their empire from any threat. The Shado-Pan are in a timeless struggle with the sha and the mantid. As Pandaria has no standing army, it falls to them to defend the land, so other pandaren can go about their peaceful lives.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PEAK_SERENITY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Peak of Serenity was a hidden monastery and sanctuary located high in the north-central reaches of Pandaria's Kun-Lai Summit. It served primarily as a training ground and place of refuge for monks.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JADE_SERPENT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Order of the Cloud Serpent is an order of serpent riders sworn to defend the Jade Forest. They train at the Arboretum, just to the north of the Temple of the Jade Serpent in the Jade Forest. This order of flying warriors was founded long ago, during the Zandalari wars. Gain their favor, and they'll reveal the secrets of training a cloud serpent to become a loyal mount which the order raises from birth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WHITE_TIGER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>High atop the frigid northern peaks of the Kun-Lai Summit looms the Temple of the White Tiger an ancient training ground protected by an elite force of martial priests, along with the spirit of the White Tiger itself.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JINYU_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The jinyu are a race of humanoid fish-like creatures that live in Pandaria. They are an elder and wise race, looked up to even by the pandaren. Masters of the water, they have been known to stick their staffs in rivers and literally hear what the land is saying. The waterspeakers are an upper caste, spiritual leaders that use the river to listen to the future. The jinyu originated from murlocs who were fortunate enough to live near the enchanted pools of the Vale of Eternal Blossoms. The magic of the pools expanded their minds and grew their bodies, until they became one of the great ancient cultures of Pandaria.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ZULFARRAK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Sand trolls of Zul'Farrak are a subspecies of jungle trolls that dwell in the Tanaris desert. The subspecies arose by adapting to the beating of the hot Tanaris sun after being separated from the Eastern Kingdoms in the Great Sundering. A sand troll empire has never been formed - in fact the only known tribe of sand trolls is the Farraki tribe. Sand trolls mostly keep to themselves and attack all outsiders.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HIGHMOUNTAIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Highmountain tauren are an offshoot of tauren found in the region of Highmountain on the Broken Isles. They are the direct descendants of the tauren led by Huln Highmountain who assisted the Kaldorei Resistance during the War of the Ancients. During the war, Huln received a blessing from Cenarius, so that his people would forever have the demigod's favor, granting them the Horns of Eche'ro: moose-like antlers.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BLOODTOTEM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Bloodtotem tribe, is one of the four Highmountain tauren tribes, led by Torok Bloodtotem. During the course of the Highmountain questline, the Bloodtotem reveal that most of them have allied with the Burning Legion, at which point they consume the blood of demons, become felsworn and known as the Feltotem, while others remained Bloodtotem. Even after Torok's  the corrupted Feltotem continue their operations in Feltotem on the west coast of Highmountain.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TIDESKORN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Tideskorn clan are the united vrykul tribes of Stormheim, led by a God-King. They include the Drekirjar, the Bonespeakers and the Valkyra. Both the leaders of the Drekirjar and the Bonespeakers. Their largest settlement is the city of Hrydshal, home of the dragon-taming Drekirjar. Those among the Tideskorn who accepted the fel gift and turned felsworn became known as Felskorn. They remained the same tribe, and shared the same banner.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SURAMAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Suramar is nestled in the eponymous region on the Broken Isles. It is strewn with lush and colorful flora, covering almost every cliff and crevice. Ancient Highborne towns cover much of the landscape, now inhabited by fouler creatures. Suramar is the realm of the nightborne, currently led by their First Arcanist, Thalyssra, following the fall of the old regime. Its capital is Suramar City, almost all of the roads in Suramar lead here. The War of the Ancients brought with it a great deal of change, both for the night elf race and Elisande's Highborne. Through a desire for greater power, Queen Azshara and the Highborne in the capital of Zin-Azshari allied themselves with the demon lord Sargeras and his Burning Legion. Having aided in the creation of a portal for the Legion to reach Azeroth, the queen and her retainers watched as the demons began spread across the kaldorei nation, destroying all they encountered. Although Elisande and her Highborne associates in Suramar remained loyal to Queen Azshara, they became increasingly troubled as the Legion's invasion continued. Looking to the vast destruction caused by the demons, Elisande grew to deeply distrust them, fearing that their actions were not in the night elves' best interests. Eventually, she discovered that the Legion planned to create a large gateway to the Twisting Nether within Suramar itself. Elisande was horrified at this development; if the portal were opened, innumerable demon reinforcements would spill into Azeroth and quickly overwhelm the Kaldorei Resistance that was attempting to withstand the Legion's onslaught. It was Elisande's belief that the gateway would also destroy the city and its inhabitants in the process, and resolved to act.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BLACK_ROOK_HOLD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Black Rook Hold was carved out of the mountain to be an unassailable fortress. This elven structure served as a bulwark against the Legion during the War of the Ancients, until a shadow fell upon it.  Lord Ravencrest was the head of this monumental structure. The hold itself was carved from the great mountain of black stone. Over the centuries, the Ravencrest bloodline continued to carve out corridors and other areas of the keep. In Lord Ravencrest's generation, the hold was complete. It's shape and color resembles the shape of the rook chess-piece and the famous, but ancient, crest of a black raven soars over the hold itself.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VALARJAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Valarjar ("warriors of the storm")  are an army of ascended vrykul who serve Keeper Odyn in the Halls of Valor. Chosen by Odyn, the strongest vrykul have their spirits lifted to the Halls where they fight eternal, shiny and gold.  A section of the Halls, named Skyhold, served as their order hall. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AZJOL_NERUB_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Azjol-Nerub is the vast underground empire of the arachnid-like nerubians. It stretches beneath much of Northrend. The entrance to the spider kingdom can be found in the Pit of Narjun in the Dragonblight. Before its destruction by the Scourge, Azjol-Nerub contained huge libraries of literature, philosophy, and arcane lore.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AHN_QIRAJ_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ahn'Qiraj is the city-kingdom of the Qiraji found in the southern part of Silithus. It was originally a titan research station which housed the old god C'Thun before being commandeered by the Aqir, who would become the Qiraji led by the Twin Emperors: Vek'nilash and Vek'lor. Following the War of the Shifting Sands, the kingdom was contained from the rest of the world by the Scarab Wall, until it was opened again recently.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MANTI_VESS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Manti'vess was a great colony established by an enclave of aqir in the southern parts of Ancient Kalimdor during the later stages of the war between them and the trolls, roughly 16,000 years BDP. Under the roots of the great kypari trees, these aqir, known thereafter as mantid, established a new empire. They saw no purpose in continuing a battle they knew they were not strong enough to win. They believed that the best way to serve the Old Gods, whom they still fervently worshipped, was to conserve and refine the mantid's strength rather than expending it. While a revered empress ruled over the mantid's day-to-day activities, a council known as the Klaxxi controlled the insectoids' destiny. Rather than seek retribution on the trolls, the Klaxxi turned their gaze eastward to the nearby Vale of Eternal Blossoms and its mogu guardians.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ULDUAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ulduar is the biggest titan-forged complex on Azeroth. Situated in the Storm Peaks, it notably encompasses the Halls of Stone, the Halls of Lightning, and the prison of Yogg-Saron.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ULDUMAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Uldaman is an old, earthen complex buried deep within the Khaz Mountains. Prior to the Third War, it was partially excavated by the dwarves from Ironforge, but has since fallen into the hands of the troggs and Dark Irons, who find the place ideal to dig for earthly riches. It was previously a titan-forged facility.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TAUNKA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The taunka  are an ancient offshoot of the yaungol and relatives to the tauren who have adapted to the harsh environment in Northrend. Unlike their more peaceful tauren relatives, the taunka forcibly bend nature and the elements to their will in order to survive. Although they appear similar to the tauren, they resemble bison more than cattle.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DRAGONMAW_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Dragonmaw clan is an orcish clan dating back to ancient Draenor. Under the command of the shaman Zuluhed the Whacked, the Dragonmaw swore fealty to Warchief Blackhand and accompanied the Old Horde to Azeroth during the First War. After Blackhand's death, the Dragonmaw maintained their fealty to the late Warchief by pledging themselves to Blackhand's two sons and their Black Tooth Grin clan. The Dragonmaw were later empowered by the dreaded Deathwing to enslave the red dragonflight, including the Dragonqueen Alexstrasza herself, forcing the noble dragons to fight for the Horde throughout the Second War. During this time the clan were based out of the ancient stronghold of Grim Batol, which housed the prison of Alexstrasza. The Azerothian Dragonmaw were eventually recruited into the New Horde by Garrosh Hellscream during the invasion of the Twilight Highlands in the wake of the Cataclysm.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WILDHAMMER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Wildhammer clan is a dwarf clan currently centered mainly in the Hinterlands and the Twilight Highlands.  Now a part of the Alliance, the wild dwarves hold the Horde as enemies. The Wildhammer dwarves are hill dwarves or mountain dwarves. Renowned for their close bond with gryphons, they treat these animals as equals in battle instead of pets, leading to numerous successes in the Second and Third Wars. They also value nature and have close ties to shamanism.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DARK_IRON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Dark Iron clan is a clan of Dark Iron dwarves. These dark skinned dwarves were formerly ruled by Sorcerer-thane Thaurissan and vied for control of Ironforge with the Bronzebeard clan and the Wildhammer clan during the War of the Three Hammers. Now ruled by Moira Thaurissan, daughter of Magni Bronzebeard and widow of the late Emperor Dagran Thaurissan, the Dark Iron clan seek to forge a new future for themselves independent of the tyranny of Ragnaros and his minions, which has long been imposed upon them in their home of Blackrock Mountain. Under Moira's guidance, some of the Dark Iron clan have even moved into Ironforge to train the local dwarves in the ways of warlocks and mages.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TIMBERMAW_HOLD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Timbermaw tribe of furbolgs inhabit two areas: Azshara and Felwood. They are presumed to be the only furbolg tribe to escape demonic corruption, though this may not be true due to the existence of Krolg, an uncorrupted furbolg who was once part of the Foulweald tribe, and the Stillpine tribe on Azuremyst Isle. However, many other races kill furbolg blindly now without bothering to see if they are friend or foe. For this reason, the Timbermaw furbolgs trust very few.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GRIZZLEMAW_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Grizzlemaw is a furbolg city located in the center of the Grizzly Hills of Northrend, built within the stump of the failed World Tree Vordrassil, previously called Andrassil. The furbolg of Grizzlemaw are all now hostile. They are part of the Redfang and Frostpaw tribes, which are constantly at war. Killing furbolgs from one side</Text>
+		</Row>
+		<!-- RELIGIONS-->
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_NAARU_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The naaru are a race of living, sentient energy beings made up of shards of fractured Light. They are perhaps the purest expression of the Holy Light that exists in the Great Dark Beyond, and have vowed to bring peace and hope to all mortal civilizations and waylay the forces of the Void. They are known to travel through dimensions, and are the sworn enemies of the Burning Legion.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_HOLY_LIGHT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Light (also known as the Holy Light or Holy Light of Creation) is an endless, shimmering sea of energy situated outside the barriers of reality and one of the two most fundamental forces in the world of Warcraft along with the Void, which was born from the absence of the former. The two cannot exist without the other. The Light is not necessarily "good", it is a primal force with its morality characterized by how it is wielded.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_BLOOD_KNIGHTS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Blood Knights are an order of blood elven paladins formed in Quel'Thalas in Year 25. After the Third War, the vast majority of the high elves took up the name "blood elves" in honor of their slaughtered people, and in the wake of their ancient kingdom's destruction, many of the elves of Quel'Thalas came to view the Holy Light with contempt. This led to a great number of the blood elves losing their faith, and in turn, their Light-given powers, coming to believe that the Light had failed them in their homeland's hour of greatest need. Thus, they needed to find a new way to access the Light. They did this by sapping Light energy from the captive naaru M'uru held beneath the Blood Knight headquarters. In a mad lust for power, Kael'thas Sunstrider sent the felblood to attack Silvermoon City and seize M'uru for his own personal uses. The Blood Knights vowed to aid A'dal and the Shattered Sun Offensive in defeating Kael'thas, Kil'jaeden, and restoring their homeland to its glory.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_FORGOTEN_SHADOW_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Cult of Forgotten Shadows  a group considered heretical by most, believes that dark energy practitioners are just as vital to the survival of life and reality (which they call "the Shadow") as wielders of the Light. The cult preaches balance, mandating that shadow priests must never forget the dangers of falling too deep into the dark energies they manipulate, for it is often too hard to find one's way back to the Shadow from the deep reaches of the darkness.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CULT_DAMMED_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Cult of the Damned is an organization of the living beings who serve the Lich King. Members are mostly human, but all races are represented. The Cult was formed years before the Third War, as the predecessor and creator of the Scourge officially being loyal to the Burning Legion, and establishing its foothold on Lordaeron. The Lich King Ner'zhul, trapped in his prison-throne, reached out telepathically to men, orcs, and elves who lusted for power - most notably the then-Archmage Kel'Thuzad who would become an Archlich and the leader of the Cult of the Damned. While Cultists aspire to become undead, they remain alive because undeath is considered an honor one must earn, and because living beings are useful to the Lich King for their ability to spy in living Horde or Alliance settlements, and recruit powerful individuals from among the living, either into the Cult or the Scourge.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ARCANE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Arcane magic is a cold and intellectual magic that warps time, space, and controls the flow of mana, which is just a measure of a fundamental power—if mana were water, then arcane would be steam pressure.Though extremely volatile, arcane is so similar to an element it might as well be one, for all magical intents and purposes.While arcane represents order, fel is the magic of chaos and disorder, and are considered opposite ends of the same spectrum.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_FEL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Fel magic is a destructive form of magic often used by demons and the members of the Burning Legion. It is demonic, entropic, chaotic and extremely volatile. Its use by the wielder, or its effects on the victim, frequently results in an alteration of the individual, colloquially called corruption. All of the Burning Legion carry the taint of fel magic within their very blood, allowing them to spread greater evil. While fel is the language of chaos and disorder, arcane represents order, and are considered opposite ends of the same spectrum.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_SHAMANISM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Shamanism is a deeply spiritual form of elemental magic that involves a connection with both the natural and the spirit worlds. Shaman do not normally enslave elementals, but honor them, asking the elements to heed their call. Shaman are not inherently imbued with magic - they harness the powers of the elements through ceremonial totems. There is a relation to the spiritual magic of shaman and the natural magic of druids. That is why the shaman were able to hear the spirits of Stonetalon.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_DRUIDISM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Druids come and go as they please, and their goals typically have little to do with the "civilized" world. Unaffiliated with any specific government, the primary druidic organization on Azeroth, the Cenarion Circle, answers to no one save itself. The highest rank that a druid can have is that of 'archdruid', and there are only a few archdruids on Azeroth. At the moment the Cenarion Circle's leader is Archdruid Malfurion Stormrage, also the first mortal druid on Azeroth. Through their deep connection to life and nature, druids are able to take on an unusually large variety of roles. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_GEOMANCY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>A geomancer practices a crude form of shamanism known as geomancy. Geomancy is a practice of divination and elemental combat native to several humanoid races of Azeroth.Many races and factions on Azeroth have geomancers, including ogres, pandaren, kobolds, quilboar (including the Death's Head group), troggs, the Grimtotem clan of tauren, and even the Twilight's Hammer clan. Geomancers are earthcallers.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ELUNE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Elune  is the primary goddess of the night elven pantheon. She is associated with the larger of Azeroth's two moons, the White Lady, and is widely considered to be the mother of Cenarius, the forest lord and patron god of all druids. Elune is one of the few true deities of Azeroth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_EARTHMOTHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Earth Mother is a gentle, seemingly transcendent and immortal being worshiped primarily by tauren as the creator of the land. Her eyes are the sun (An'she) and moon (Mu'sha). Through her, the tauren have deep ties to nature.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_WOW_OLD_GODS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Old Gods (also known as Shath'Yar) are parasitic eldritch horrors who are physical manifestations of the Void. Created by the void lords in order to find and corrupt slumbering titan world-souls, the Old Gods are mountains of flesh who grow like cancers within the worlds of the Great Dark.Four Old Gods — Y'Shaarj, C'Thun, Yogg-Saron and N'Zoth — ruled the planet of Azeroth during its primordial age, forming what would become known as the Black Empire. When the Pantheon arrived, they sent their armies, the titan-forged, to shatter the Old Gods' citadels and crumble their empire. The first Old God, Y'Shaarj, proved much too strong for the titan-forged to defeat, however, which prompted the titan leader Aman'Thul to reach down his arm and tear Y'Shaarj apart.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_VOODO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Voodoo is a dark and powerful form of magic practiced by the shadow hunters, hexxers, and witch doctors. The trolls' use of mojo in their voodoo magic has long been established.Drinking blood provides power, the darkest of voodoo. Loa is the name given by trolls to the beings they worship, such as the Wild Gods.  Countless loa exist, most weak, but some very powerful. Most are shapeless, whereas others have animal or creature forms.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_TITANS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The titans  are a race of colossal, planet-sized cosmic beings, composed of arcane magic and the primordial matter from which the universe was born. They roamed across the cosmos like walking worlds, imbued with the raw power of creation itself. The titans used this incredible force to find and awaken others of their kind. They were described as perfect and majestic beings who are akin to gods.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_MONEY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Money is some amount of copper pieces, silver pieces, gold pieces or a combination of any those types of coins. Macaroons are a form of goblin paper money used by the First Bank of Kezan. Goblins always had a love of money, however. With the loss of their intelligence and slow degradation of their technology, goblins embraced commerce. </Text>
+		</Row>
+	</LocalizedText>
+</GameData>

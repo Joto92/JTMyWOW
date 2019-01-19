@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>JT: World of Warcraft Mod</Name>
+    <Guid>f1c32ba6-b50b-413a-b251-1ac8147f289a</Guid>
+    <ProjectGuid>cc9f916a-e9e1-4348-85f3-43309f14cdd2</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>This mod is based in World of Warcraft</Teaser>
+    <Description>Play the Civilizations from World of Warcraft. Orcs, Trolls, Humans, Draenei,...</Description>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <InGameActionData><![CDATA[
+      <InGameActions>
+        <UpdateDatabase id="Gameplay">
+          <File>MyWOW_Civs.xml</File>
+          <File>MyWOW_Leaders.xml</File>
+          <File>MyWOW_Buildings.xml</File>
+          <File>MyWOW_Units.xml</File>
+          <File>MyWOW_UnitAbilities.xml</File>
+          <File>MyWOW_Colors.xml</File>
+          <File>MyWOW_Improvements.xml</File>
+          <File>MyWOW_Religions.xml</File>
+          <File>MyWOW_CityStates.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="Text">
+          <File>MyWOW_ConfigText.xml</File>
+          <File>MyWOW_Text.xml</File>
+          <File>Translations/MyWOW_ConfigES.xml</File>
+          <File>Translations/MyWOW_TextES.xml</File>
+          <File>MyWOW_Civilopedia.xml</File>
+          <File>Translations/MyWOW_Civilopedia_ES.xml</File>
+          <File>Translations/MyWOW_ConfigHansCN.xml</File>
+        </UpdateText>
+        <UpdateIcons id="Icons">
+          <File>MyWOW_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="Art">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </InGameActions>
+    ]]></InGameActionData>
+    <FrontEndActionData><![CDATA[
+      <FrontEndActions>
+        <UpdateDatabase id="Config">
+          <File>MyWOW_Config.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="ConfigText">
+          <File>MyWOW_ConfigText.xml</File>
+          <File>Translations/MyWOW_ConfigES.xml</File>
+          <File>Translations/MyWOW_ConfigHansCN.xml</File>
+        </UpdateText>
+        <UpdateIcons id="ConfigIcons">
+          <File>MyWOW_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="ConfigArt">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </FrontEndActions>
+    ]]></FrontEndActionData>
+    <AssemblyName>MyWOWv2</AssemblyName>
+    <RootNamespace>MyWOWv2</RootNamespace>
+    <Authors>Jordi Torné</Authors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="ArtDefs\Improvements.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\Units.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_CityStates.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_Civilopedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_Religions.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_UnitAbilities.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_Units.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyWOW_Civilopedia_ES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyWOW_ConfigES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyWOW_ConfigHansCN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyWOW_TextES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\MyIcons.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Folder Include="Artdefs\" />
+    <Folder Include="Translations" />
+    <Folder Include="Textures\" />
+    <Folder Include="XLPs\" />
+    <Content Include="MyWOW_Colors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_Config.xml" />
+    <Content Include="MyWOW_ConfigText.xml" />
+    <Content Include="MyWOW_Civs.xml" />
+    <Content Include="MyWOW_Icons.xml" />
+    <Content Include="MyWOW_Improvements.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_Leaders.xml" />
+    <Content Include="MyWOW_Buildings.xml" />
+    <Content Include="MyWOW_Text.xml" />
+    <None Include="ArtDefs\FallbackLeaders.artdef" />
+    <None Include="XLPs\LeaderFallbacks.xlp" />
+    <None Include="XLPs\UILeaders.xlp" />
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

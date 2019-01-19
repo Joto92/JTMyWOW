@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="BUILDING_VOODOO_HUT" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_TAUREN_LONGHOUSE" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_APOTHECARIUM" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_GOBLIN_BANK" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_GOBLIN_WORKSHOP" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_ALTAR_OF_KINGS" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_DWARF_BUNKER" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_TEMPLE_OF_MOON" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_GNOME_WORKSHOP" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_TOURNAMENT_GROUND" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_GURUBASHI_ARENA" Kind="KIND_BUILDING"/>
+		
+		<Row Type="BUILDING_WYVERNS_NEST" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_BATS_NEST" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_DRAGONHAWK_NEST" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_GRYPHON_NEST" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_NETHER_RAY_NEST" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_GARGOYLE_NEST" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_PTERRORWING_NEST" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_DRAGON_NEST" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_DEMONIC_PORTAL" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_KITE_FACTORY" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_SLAVE_STONEWORK" Kind="KIND_BUILDING"/>
+
+
+	</Types>
+
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_VOODOO_HUT" ReplacesBuildingType="BUILDING_TEMPLE"/>
+		<Row CivUniqueBuildingType="BUILDING_TAUREN_LONGHOUSE" ReplacesBuildingType="BUILDING_TEMPLE"/>
+		<Row CivUniqueBuildingType="BUILDING_APOTHECARIUM" ReplacesBuildingType="BUILDING_UNIVERSITY"/>
+		<Row CivUniqueBuildingType="BUILDING_GOBLIN_BANK" ReplacesBuildingType="BUILDING_BANK"/>
+		<Row CivUniqueBuildingType="BUILDING_GOBLIN_WORKSHOP" ReplacesBuildingType="BUILDING_WORKSHOP"/>
+		<Row CivUniqueBuildingType="BUILDING_ALTAR_OF_KINGS" ReplacesBuildingType="BUILDING_MONUMENT"/>
+		<Row CivUniqueBuildingType="BUILDING_DWARF_BUNKER" ReplacesBuildingType="BUILDING_BARRACKS"/>
+		<Row CivUniqueBuildingType="BUILDING_TEMPLE_OF_MOON" ReplacesBuildingType="BUILDING_TEMPLE"/>
+		<Row CivUniqueBuildingType="BUILDING_GNOME_WORKSHOP" ReplacesBuildingType="BUILDING_WORKSHOP"/>
+		<Row CivUniqueBuildingType="BUILDING_TOURNAMENT_GROUND" ReplacesBuildingType="BUILDING_ARENA"/>
+		<Row CivUniqueBuildingType="BUILDING_GURUBASHI_ARENA" ReplacesBuildingType="BUILDING_ARENA"/>
+		<Row CivUniqueBuildingType="BUILDING_DEMONIC_PORTAL" ReplacesBuildingType="BUILDING_BARRACKS"/>
+		<Row CivUniqueBuildingType="BUILDING_SLAVE_STONEWORK" ReplacesBuildingType="BUILDING_WORKSHOP"/>
+
+	</BuildingReplaces>
+
+	<Buildings>
+		<Row BuildingType="BUILDING_VOODOO_HUT" Name="LOC_BUILDING_VOODOO_HUT_NAME" Description="LOC_BUILDING_VOODOO_HUT_DESCRIPTION" PrereqCivic="CIVIC_THEOLOGY" PrereqDistrict="DISTRICT_HOLY_SITE" PurchaseYield="YIELD_GOLD" Cost="105" AdvisorType="ADVISOR_RELIGIOUS" Maintenance="2" CitizenSlots="1" Housing="1" TraitType="TRAIT_CIVILIZATION_BUILDING_VOODOO_HUT"/>
+		<Row BuildingType="BUILDING_TAUREN_LONGHOUSE" Name="LOC_BUILDING_TAUREN_LONGHOUSE_NAME" Description="LOC_BUILDING_TAUREN_LONGHOUSE_DESCRIPTION" PrereqCivic="CIVIC_THEOLOGY" PrereqDistrict="DISTRICT_HOLY_SITE" PurchaseYield="YIELD_GOLD" Cost="105" AdvisorType="ADVISOR_RELIGIOUS" Maintenance="2" CitizenSlots="1" Housing="1" TraitType="TRAIT_CIVILIZATION_BUILDING_TAUREN_LONGHOUSE"/>
+		<Row BuildingType="BUILDING_APOTHECARIUM" Name="LOC_BUILDING_APOTHECARIUM_NAME" Description="LOC_BUILDING_APOTHECARIUM_DESCRIPTION"  PrereqTech="TECH_EDUCATION" PrereqDistrict="DISTRICT_CAMPUS" PurchaseYield="YIELD_GOLD" Cost="225" AdvisorType="ADVISOR_TECHNOLOGY" Maintenance="2" Housing="1" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_APOTHECARIUM"/>
+		<Row BuildingType="BUILDING_GOBLIN_BANK" Name="LOC_BUILDING_GOBLIN_BANK_NAME" Description="LOC_BUILDING_GOBLIN_BANK_DESCRIPTION" PrereqTech="TECH_APPRENTICESHIP" PrereqDistrict="DISTRICT_COMMERCIAL_HUB" PurchaseYield="YIELD_GOLD" Cost="265" AdvisorType="ADVISOR_GENERIC" TraitType="TRAIT_CIVILIZATION_BUILDING_GOBLIN_BANK" CitizenSlots="1"  />
+		<Row BuildingType="BUILDING_GOBLIN_WORKSHOP" Name="LOC_BUILDING_GOBLIN_WORKSHOP_NAME" Description="LOC_BUILDING_GOBLIN_WORKSHOP_DESCRIPTION" PrereqTech="TECH_APPRENTICESHIP" PrereqDistrict="DISTRICT_INDUSTRIAL_ZONE" PurchaseYield="YIELD_GOLD" Cost="175" AdvisorType="ADVISOR_GENERIC" Maintenance="2" TraitType="TRAIT_CIVILIZATION_BUILDING_GOBLIN_WORKSHOP" CitizenSlots="1"/>
+		<Row BuildingType="BUILDING_ALTAR_OF_KINGS" Name="LOC_BUILDING_ALTAR_OF_KINGS_NAME" Description="LOC_BUILDING_ALTAR_OF_KINGS_DESCRIPTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="60" AdvisorType="ADVISOR_CULTURE" TraitType="TRAIT_CIVILIZATION_BUILDING_ALTAR_OF_KINGS"/>
+		<Row BuildingType="BUILDING_DWARF_BUNKER" Name="LOC_BUILDING_DWARF_BUNKER_NAME" Description="LOC_BUILDING_DWARF_BUNKER_DESCRIPTION" PrereqTech="TECH_BRONZE_WORKING" PrereqDistrict="DISTRICT_ENCAMPMENT" PurchaseYield="YIELD_GOLD" Cost="80" AdvisorType="ADVISOR_CONQUEST" Maintenance="1" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_DWARF_BUNKER" Housing="1" DefenseModifier="2" GrantFortification="2"/>
+		<Row BuildingType="BUILDING_TEMPLE_OF_MOON" Name="LOC_BUILDING_TEMPLE_OF_MOON_NAME" Description="LOC_BUILDING_TEMPLE_OF_MOON_DESCRIPTION" PrereqCivic="CIVIC_THEOLOGY" PrereqDistrict="DISTRICT_HOLY_SITE" PurchaseYield="YIELD_GOLD" Cost="105" AdvisorType="ADVISOR_RELIGIOUS" Maintenance="2" CitizenSlots="1" Housing="1" TraitType="TRAIT_CIVILIZATION_BUILDING_TEMPLE_OF_MOON"/>
+		<Row BuildingType="BUILDING_GNOME_WORKSHOP" Name="LOC_BUILDING_GNOME_WORKSHOP_NAME" Description="LOC_BUILDING_GNOME_WORKSHOP_DESCRIPTION" PrereqTech="TECH_APPRENTICESHIP" PrereqDistrict="DISTRICT_INDUSTRIAL_ZONE" PurchaseYield="YIELD_GOLD" Cost="175" AdvisorType="ADVISOR_GENERIC" Maintenance="2" TraitType="TRAIT_CIVILIZATION_BUILDING_GNOME_WORKSHOP" CitizenSlots="1"/>
+		<Row BuildingType="BUILDING_TOURNAMENT_GROUND" Name="LOC_BUILDING_TOURNAMENT_GROUND_NAME" Description="LOC_BUILDING_TOURNAMENT_GROUND_DESCRIPTION" PrereqCivic="CIVIC_GAMES_RECREATION" PrereqDistrict="DISTRICT_ENTERTAINMENT_COMPLEX" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_GENERIC" Maintenance="1" Entertainment="3" TraitType="TRAIT_CIVILIZATION_BUILDING_TOURNAMENT_GROUND"/>
+		<Row BuildingType="BUILDING_GURUBASHI_ARENA" Name="LOC_BUILDING_GURUBASHI_ARENA_NAME" Description="LOC_BUILDING_GURUBASHI_ARENA_DESCRIPTION" PrereqCivic="CIVIC_GAMES_RECREATION" PrereqDistrict="DISTRICT_ENTERTAINMENT_COMPLEX" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_GENERIC" Maintenance="1" Entertainment="3" TraitType="TRAIT_CIVILIZATION_BUILDING_GURUBASHI_ARENA"/>
+		<Row BuildingType="BUILDING_DEMONIC_PORTAL" Name="LOC_BUILDING_DEMONIC_PORTAL_NAME" Description="LOC_BUILDING_DEMONIC_PORTAL_DESCRIPTION" PrereqTech="TECH_BRONZE_WORKING" PrereqDistrict="DISTRICT_ENCAMPMENT" PurchaseYield="YIELD_GOLD" Cost="80" AdvisorType="ADVISOR_CONQUEST" Maintenance="1" CitizenSlots="1" Housing="1" TraitType="TRAIT_CIVILIZATION_BUILDING_DEMONIC_PORTAL"/>
+
+
+		<Row BuildingType="BUILDING_WYVERNS_NEST" Name="LOC_BUILDING_WYVERNS_NEST_NAME" Description="LOC_BUILDING_WYVERNS_NEST_DESCRIPTION" PrereqTech="TECH_MASS_PRODUCTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_GENERIC" Maintenance="1"  TraitType="TRAIT_CIVILIZATION_BUILDING_WYVERNS_NEST"/>
+		<Row BuildingType="BUILDING_BATS_NEST" Name="LOC_BUILDING_BATS_NEST_NAME" Description="LOC_BUILDING_BATS_NEST_DESCRIPTION" PrereqTech="TECH_MASS_PRODUCTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_GENERIC" Maintenance="1"  TraitType="TRAIT_CIVILIZATION_BUILDING_BATS_NEST"/>
+		<Row BuildingType="BUILDING_DRAGONHAWK_NEST" Name="LOC_BUILDING_DRAGONHAWK_NEST_NAME" Description="LOC_BUILDING_DRAGONHAWK_NEST_DESCRIPTION" PrereqTech="TECH_MASS_PRODUCTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_GENERIC" Maintenance="1"  TraitType="TRAIT_CIVILIZATION_BUILDING_DRAGONHAWK_NEST"/>
+		<Row BuildingType="BUILDING_GRYPHON_NEST" Name="LOC_BUILDING_GRYPHON_NEST_NAME" Description="LOC_BUILDING_GRYPHON_NEST_DESCRIPTION" PrereqTech="TECH_MASS_PRODUCTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_GENERIC" Maintenance="1"  TraitType="TRAIT_CIVILIZATION_BUILDING_GRYPHON_NEST"/>
+		<Row BuildingType="BUILDING_NETHER_RAY_NEST" Name="LOC_BUILDING_NETHER_RAY_NEST_NAME" Description="LOC_BUILDING_NETHER_RAY_NEST_DESCRIPTION" PrereqTech="TECH_MASS_PRODUCTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_GENERIC" Maintenance="1"  TraitType="TRAIT_CIVILIZATION_BUILDING_NETHER_RAY_NEST"/>
+		<Row BuildingType="BUILDING_GARGOYLE_NEST" Name="LOC_BUILDING_GARGOYLE_NEST_NAME" Description="LOC_BUILDING_GARGOYLE_NEST_DESCRIPTION" PrereqTech="TECH_MASS_PRODUCTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_GENERIC" Maintenance="1"  TraitType="TRAIT_CIVILIZATION_BUILDING_GARGOYLE_NEST"/>
+		<Row BuildingType="BUILDING_PTERRORWING_NEST" Name="LOC_BUILDING_PTERRORWING_NEST_NAME" Description="LOC_BUILDING_PTERRORWING_NEST_DESCRIPTION" PrereqTech="TECH_MASS_PRODUCTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_GENERIC" Maintenance="1"  TraitType="TRAIT_CIVILIZATION_BUILDING_PTERRORWING_NEST"/>
+		<Row BuildingType="BUILDING_DRAGON_NEST" Name="LOC_BUILDING_DRAGON_NEST_NAME" Description="LOC_BUILDING_DRAGON_NEST_DESCRIPTION" PrereqTech="TECH_MASS_PRODUCTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_GENERIC" Maintenance="1"  TraitType="TRAIT_CIVILIZATION_BUILDING_DRAGON_NEST"/>
+		<Row BuildingType="BUILDING_KITE_FACTORY" Name="LOC_BUILDING_KITE_FACTORY_NAME" Description="LOC_BUILDING_KITE_FACTORY_DESCRIPTION" PrereqTech="TECH_MASS_PRODUCTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_GENERIC" Maintenance="1"  TraitType="TRAIT_CIVILIZATION_BUILDING_KITE_FACTORY"/>
+		<Row BuildingType="BUILDING_SLAVE_STONEWORK" Name="LOC_BUILDING_SLAVE_STONEWORK_NAME" Description="LOC_BUILDING_SLAVE_STONEWORK_DESCRIPTION" PrereqTech="TECH_APPRENTICESHIP" PrereqDistrict="DISTRICT_INDUSTRIAL_ZONE" PurchaseYield="YIELD_GOLD" Cost="175" AdvisorType="ADVISOR_GENERIC" Maintenance="2" TraitType="TRAIT_CIVILIZATION_BUILDING_SLAVE_STONEWORK" CitizenSlots="1"/>
+
+
+	</Buildings>
+
+	<BuildingPrereqs>
+		<Row Building="BUILDING_VOODOO_HUT" PrereqBuilding="BUILDING_SHRINE"/>
+		<Row Building="BUILDING_TAUREN_LONGHOUSE" PrereqBuilding="BUILDING_SHRINE"/>
+		<Row Building="BUILDING_APOTHECARIUM" PrereqBuilding="BUILDING_LIBRARY"/>
+		<Row Building="BUILDING_GOBLIN_BANK" PrereqBuilding="BUILDING_MARKET"/>
+		<Row Building="BUILDING_TEMPLE_OF_MOON" PrereqBuilding="BUILDING_SHRINE"/>
+	</BuildingPrereqs>
+
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_VOODOO_HUT" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row BuildingType="BUILDING_VOODOO_HUT" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row BuildingType="BUILDING_TAUREN_LONGHOUSE" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row BuildingType="BUILDING_APOTHECARIUM" YieldType="YIELD_SCIENCE" YieldChange="4"/>
+		<Row BuildingType="BUILDING_GOBLIN_BANK" YieldType="YIELD_GOLD" YieldChange="6"/>
+		<Row BuildingType="BUILDING_GOBLIN_BANK" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row BuildingType="BUILDING_GOBLIN_WORKSHOP" YieldType="YIELD_PRODUCTION" YieldChange="3"/>
+		<Row BuildingType="BUILDING_GOBLIN_WORKSHOP" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_ALTAR_OF_KINGS" YieldType="YIELD_CULTURE" YieldChange="3"/>
+		<Row BuildingType="BUILDING_ALTAR_OF_KINGS" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row BuildingType="BUILDING_ALTAR_OF_KINGS" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row BuildingType="BUILDING_DWARF_BUNKER" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row BuildingType="BUILDING_TEMPLE_OF_MOON" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row BuildingType="BUILDING_TEMPLE_OF_MOON" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row BuildingType="BUILDING_GNOME_WORKSHOP" YieldType="YIELD_PRODUCTION" YieldChange="3"/>
+		<Row BuildingType="BUILDING_GNOME_WORKSHOP" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_GNOME_WORKSHOP" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_TOURNAMENT_GROUND" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_TOURNAMENT_GROUND" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row BuildingType="BUILDING_GURUBASHI_ARENA" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row BuildingType="BUILDING_GURUBASHI_ARENA" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row BuildingType="BUILDING_DRAGON_NEST" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row BuildingType="BUILDING_DEMONIC_PORTAL" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row BuildingType="BUILDING_KITE_FACTORY" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_SLAVE_STONEWORK" YieldType="YIELD_PRODUCTION" YieldChange="3"/>
+
+
+	</Building_YieldChanges>
+
+	<Building_GreatPersonPoints>
+		<Row BuildingType="BUILDING_VOODOO_HUT" GreatPersonClassType="GREAT_PERSON_CLASS_PROPHET" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_VOODOO_HUT" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_TAUREN_LONGHOUSE" GreatPersonClassType="GREAT_PERSON_CLASS_PROPHET" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_TAUREN_LONGHOUSE" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_APOTHECARIUM" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_GOBLIN_BANK" GreatPersonClassType="GREAT_PERSON_CLASS_MERCHANT" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_GOBLIN_WORKSHOP" GreatPersonClassType="GREAT_PERSON_CLASS_ENGINEER" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_GOBLIN_WORKSHOP" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_DWARF_BUNKER" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_TEMPLE_OF_MOON" GreatPersonClassType="GREAT_PERSON_CLASS_PROPHET" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_GNOME_WORKSHOP" GreatPersonClassType="GREAT_PERSON_CLASS_ENGINEER" PointsPerTurn="3"/>
+		<Row BuildingType="BUILDING_GNOME_WORKSHOP" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_TOURNAMENT_GROUND" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_DEMONIC_PORTAL" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_SLAVE_STONEWORK" GreatPersonClassType="GREAT_PERSON_CLASS_ENGINEER" PointsPerTurn="2"/>
+
+	</Building_GreatPersonPoints>
+
+	<MutuallyExclusiveBuildings>
+		<Row Building="BUILDING_DWARF_BUNKER" MutuallyExclusiveBuilding="BUILDING_STABLE"/>
+		<Row Building="BUILDING_STABLE" MutuallyExclusiveBuilding="BUILDING_DWARF_BUNKER"/>
+		<Row Building="BUILDING_DEMONIC_PORTAL" MutuallyExclusiveBuilding="BUILDING_STABLE"/>
+		<Row Building="BUILDING_STABLE" MutuallyExclusiveBuilding="BUILDING_DEMONIC_PORTAL"/>
+	</MutuallyExclusiveBuildings>
+	
+	<Building_GreatWorks>
+		<Row BuildingType="BUILDING_VOODOO_HUT" GreatWorkSlotType="GREATWORKSLOT_RELIC" NumSlots="1"/>
+		<Row BuildingType="BUILDING_TAUREN_LONGHOUSE" GreatWorkSlotType="GREATWORKSLOT_RELIC" NumSlots="1"/>
+		<Row BuildingType="BUILDING_TEMPLE_OF_MOON" GreatWorkSlotType="GREATWORKSLOT_RELIC" NumSlots="1"/>
+	</Building_GreatWorks>
+
+	<BuildingModifiers>
+		<Row>
+			<BuildingType>BUILDING_TAUREN_LONGHOUSE</BuildingType>
+			<ModifierId>TAUREN_LONGHOUSE_FURS_FOOD_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TAUREN_LONGHOUSE</BuildingType>
+			<ModifierId>TAUREN_LONGHOUSE_FURS_GOLD_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TAUREN_LONGHOUSE</BuildingType>
+			<ModifierId>TAUREN_LONGHOUSE_DEER_FOOD_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TAUREN_LONGHOUSE</BuildingType>
+			<ModifierId>TAUREN_LONGHOUSE_DEER_GOLD_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_APOTHECARIUM</BuildingType>
+			<ModifierId>APOTHECARIUM_INCENSE_GOLD_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_APOTHECARIUM</BuildingType>
+			<ModifierId>APOTHECARIUM_MERCURY_GOLD_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_APOTHECARIUM</BuildingType>
+			<ModifierId>APOTHECARIUM_SPICES_GOLD_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_APOTHECARIUM</BuildingType>
+			<ModifierId>APOTHECARIUM_INCENSE_CULTURE_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_APOTHECARIUM</BuildingType>
+			<ModifierId>APOTHECARIUM_MERCURY_CULTURE_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_APOTHECARIUM</BuildingType>
+			<ModifierId>APOTHECARIUM_SPICES_CULTURE_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GOBLIN_WORKSHOP</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DWARF_BUNKER</BuildingType>
+			<ModifierId>MYWOW_DWARF_BUNKER_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DWARF_BUNKER</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GNOME_WORKSHOP</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+
+
+
+		<Row>
+			<BuildingType>BUILDING_WYVERNS_NEST</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BATS_NEST</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DRAGONHAWK_NEST</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GRYPHON_NEST</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TEMPLE_OF_MOON</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NETHER_RAY_NEST</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GARGOYLE_NEST</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PTERRORWING_NEST</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DRAGON_NEST</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DEMONIC_PORTAL</BuildingType>
+			<ModifierId>MYWOW_DWARF_BUNKER_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DEMONIC_PORTAL</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KITE_FACTORY</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SLAVE_STONEWORK</BuildingType>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+		</Row>
+	</BuildingModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>TAUREN_LONGHOUSE_FURS_FOOD_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWOW_RESOURCE_IS_FURS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TAUREN_LONGHOUSE_FURS_GOLD_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWOW_RESOURCE_IS_FURS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TAUREN_LONGHOUSE_DEER_FOOD_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWOW_RESOURCE_IS_DEER</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TAUREN_LONGHOUSE_DEER_GOLD_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWOW_RESOURCE_IS_DEER</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_INCENSE_GOLD_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWOW_RESOURCE_IS_INCENSE</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_MERCURY_GOLD_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWOW_RESOURCE_IS_MERCURY</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_SPICES_GOLD_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWOW_RESOURCE_IS_SPICES</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_INCENSE_CULTURE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWOW_RESOURCE_IS_INCENSE</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_MERCURY_CULTURE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWOW_RESOURCE_IS_MERCURY</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_SPICES_CULTURE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWOW_RESOURCE_IS_SPICES</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DISTRICT_GRANT_AIR_SLOTS</ModifierType>
+			<Permanent>true</Permanent>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_DWARF_BUNKER_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_CITY_TRAINED_UNITS_ADJUST_XP_BONUS</ModifierType>
+			<Permanent>true</Permanent>
+			<SubjectRequirementSetId>BARRACKS_UNIT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>TAUREN_LONGHOUSE_FURS_FOOD_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TAUREN_LONGHOUSE_FURS_FOOD_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TAUREN_LONGHOUSE_FURS_GOLD_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TAUREN_LONGHOUSE_FURS_GOLD_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TAUREN_LONGHOUSE_DEER_FOOD_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TAUREN_LONGHOUSE_DEER_FOOD_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TAUREN_LONGHOUSE_DEER_GOLD_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TAUREN_LONGHOUSE_DEER_GOLD_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_INCENSE_GOLD_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_INCENSE_GOLD_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_MERCURY_GOLD_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_MERCURY_GOLD_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_SPICES_GOLD_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_SPICES_GOLD_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_INCENSE_CULTURE_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_INCENSE_CULTURE_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_MERCURY_CULTURE_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_MERCURY_CULTURE_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_SPICES_CULTURE_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>APOTHECARIUM_SPICES_CULTURE_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_GOBLIN_WORKSHOP_BONUS_AIR_SLOTS</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWOW_DWARF_BUNKER_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>40</Value>
+		</Row>
+	</ModifierArguments>
+
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>MYWOW_RESOURCE_IS_FURS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_RESOURCE_IS_DEER</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_RESOURCE_IS_INCENSE</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_RESOURCE_IS_MERCURY</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_RESOURCE_IS_SPICES</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>MYWOW_RESOURCE_IS_FURS</RequirementSetId>
+			<RequirementId>MYWOW_REQUIRES_FURS_IN_PLOT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_RESOURCE_IS_DEER</RequirementSetId>
+			<RequirementId>MYWOW_REQUIRES_DEER_IN_PLOT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_RESOURCE_IS_INCENSE</RequirementSetId>
+			<RequirementId>MYWOW_REQUIRES_INCENSE_IN_PLOT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_RESOURCE_IS_MERCURY</RequirementSetId>
+			<RequirementId>MYWOW_REQUIRES_MERCURY_IN_PLOT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWOW_RESOURCE_IS_SPICES</RequirementSetId>
+			<RequirementId>MYWOW_REQUIRES_SPICES_IN_PLOT</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_FURS_IN_PLOT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_RESOURCE_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_DEER_IN_PLOT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_RESOURCE_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_INCENSE_IN_PLOT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_RESOURCE_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_MERCURY_IN_PLOT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_RESOURCE_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_SPICES_IN_PLOT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_RESOURCE_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+
+	<RequirementArguments>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_FURS_IN_PLOT</RequirementId>
+			<Name>ResourceType</Name>
+			<Value>RESOURCE_FURS</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_DEER_IN_PLOT</RequirementId>
+			<Name>ResourceType</Name>
+			<Value>RESOURCE_DEER</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_INCENSE_IN_PLOT</RequirementId>
+			<Name>ResourceType</Name>
+			<Value>RESOURCE_INCENSE</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_MERCURY_IN_PLOT</RequirementId>
+			<Name>ResourceType</Name>
+			<Value>RESOURCE_MERCURY</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYWOW_REQUIRES_SPICES_IN_PLOT</RequirementId>
+			<Name>ResourceType</Name>
+			<Value>RESOURCE_SPICES</Value>
+		</Row>
+	</RequirementArguments>
+</GameData>

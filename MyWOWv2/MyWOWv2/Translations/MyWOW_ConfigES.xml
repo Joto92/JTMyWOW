@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- ORCS | GARROSH -->
+		<Replace Tag="LOC_CIVILIZATION_ORCS_DUROTAR_NAME" Language="es_ES">
+			<Text>Orcos de Durotar</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ORCS_DUROTAR_DESCRIPTION" Language="es_ES">
+			<Text>Orcos de Durotar</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ORCS_DUROTAR_ADJECTIVE" Language="es_ES">
+			<Text>Orco</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_GARROSH_HELLSCREAM_NAME" Language="es_ES">
+			<Text>Garrosh Grito Infernal</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_BLOODY_FURY_NAME" Language="es_ES">
+			<Text>Furia sangrienta</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_BLOODY_FURY_DESCRIPTION" Language="es_ES">
+			<Text>+10 a la Fuerza de combate [ICON_Strength] de las todas las unidades cuerpo a cuerpo. Acumula un 25% menos de hastío bélico.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SON_OF_HELLSCREAM_NAME" Language="es_ES">
+			<Text>Hijo de Grito Infernal</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SON_OF_HELLSCREAM_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_Strength] al luchar en un continente diferente al de tu capital [ICON_Capital].</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_KOR_KRON_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única Medieval cuerpo a cuerpo de los Orcos, remplaza el Soldado con Espada. Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como cultura [ICON_Culture].</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WOLF_RIDER_LIGHT_NAME" Language="es_ES">
+			<Text>Jinete Lobo Ligero</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WOLF_RIDER_LIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad Medieval de caballeria ligera de los Orcos, remplaza los Jinetes. Más rapido en los Bosques y Junglas, lugares que no le blocan la vista.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WOLF_RIDER_HEAVY_NAME" Language="es_ES">
+			<Text>Jinete Lobo Pesado</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WOLF_RIDER_HEAVY_DESCRIPTION" Language="es_ES">
+			<Text>Unidad Medieval de caballeria pesada de los Orcos, remplaza los Caballeros. Más rapido en los Bosques y Junglas, lugares que no le blocan la vista.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORDE_GUNSHIP_NAME" Language="es_ES">
+			<Text>Nave de Guerra de la Horda</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORDE_GUNSHIP_DESCRIPTION" Language="es_ES">
+			<Text>Unidad fuerte unica pero es cara.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WYVERN_RIDER_NAME" Language="es_ES">
+			<Text>Jinete de Guiverno</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WYVERN_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad aerea de los Orcos y Tauren, esta disponible mucho antes en el juego.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_WATCH_TOWER_NAME" Language="es_ES">
+			<Text>Torre de Guardia</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_WATCH_TOWER_DESCRIPTION" Language="es_ES">
+			<Text>Mejora única de los Orcos que puede ser construida en cualquier sitio su territorio. La unidad ocupante recibe +6 a la Fuerza de defensa [ICON_Strength] y obtiene automáticamente 2 turnos de fortificación. Da 1 de Alojamiento [ICON_Housing] y +1 de Producción [ICON_Production] y +1 de Producción extra si esta al lado de un Campamento.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_WYVERNS_NEST_NAME" Language="es_ES">
+			<Text>Nido de Guivernos</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_WYVERNS_NEST_DESCRIPTION" Language="es_ES">
+			<Text>Edifico unico que añade 2 huecos aereos a la ciudad.</Text>
+		</Replace>
+		<!-- END OF ORCS | GARROSH -->
+		<!-- TROLLS | VOL'JIN -->
+		<Replace Tag="LOC_CIVILIZATION_DARKSPEAR_TROLLS_NAME" Language="es_ES">
+			<Text>Trols Lanza Negra</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_DARKSPEAR_TROLLS_DESCRIPTION" Language="es_ES">
+			<Text>Trols Lanza Negra</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_JUNGLE_TROLLS_NAME" Language="es_ES">
+			<Text>Trols de la Jungla</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_JUNGLE_TROLLS_DESCRIPTION" Language="es_ES">
+			<Text>Las casillas de Selva tropical proporcionan +1 de bonificación por adyacencia por los distritos de Campus, Centro comercial, Lugar sagrado y Teatro. Las casillas de Selva tropical proporcionan +1 a Alojamiento [ICON_Housing] en todos los Barrios residenciales adyacentes. +100% Bonus por adyacencia a Distrito Portuario. Todas las unidades se curan despues de cada turno.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_MASTER_OF_THE_SHADOWS_NAME" Language="es_ES">
+			<Text>Maestro de las Sombras</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_MASTER_OF_THE_SHADOWS_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades obtienen +5 [ICON_Strength] cuando luchan en Bosques o Junglas. Un espacio de política comodín adicional en cualquier gobierno.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHADOW_HUNTER_NAME" Language="es_ES">
+			<Text>Cazador de Sombras</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHADOW_HUNTER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única cuerpo a cuerpo de los Trols, remplaza el Soldado con Espada. Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como Fe [ICON_Faith]. Puede moverse más rapido y ver atraves de los Bosques y Junglas.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AXETHROWER_NAME" Language="es_ES">
+			<Text>Lanzador de Hachas</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AXETHROWER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única a distancia de los Trols, remplaza al Arquero. Con menos ataque que el Arquero pero puede atacar dos veces por turno. Puede moverse más rapido y ver atraves de los Bosques y Junglas.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEADHUNTER_NAME" Language="es_ES">
+			<Text>Arrancacabezas</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEADHUNTER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única a distancia de los Trols, remplaza al Ballestero. +5 [ICON_Strength] Fuerza de combate contra las unidades de caballeria y más defensa. Puede moverse más rapido y ver atraves de los Bosques y Junglas.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAPTOR_RIDER_LIGHT_NAME" Language="es_ES">
+			<Text>Jinete Raptor Ligero</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAPTOR_RIDER_LIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad Medieval de caballeria ligera de los Trols, remplaza los Jinetes. Más rapido en los Bosques y Junglas, -3 [ICON_Strength] Fuerza de Combate de los enemigos a su lado.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAPTOR_RIDER_HEAVY_NAME" Language="es_ES">
+			<Text>Jinete Raptor Pesado</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAPTOR_RIDER_HEAVY_DESCRIPTION" Language="es_ES">
+			<Text>Unidad Medieval de caballeria pesada de los Trols, remplaza los Caballeros. Más rapido en los Bosques y Junglas, -3 [ICON_Strength] Fuerza de Combate de los enemigos a su lado.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BAT_RIDER_NAME" Language="es_ES">
+			<Text>Jinete Murcielago</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BAT_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad aerea de los Trols y Renegados, esta disponible mucho antes en el juego.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_VOODOO_HUT_NAME" Language="es_ES">
+			<Text>Cabaña de Voodoo</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_VOODOO_HUT_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de los Trols que remplaza el Templo. Da 1 de Alojamiento , +4 de Fe [ICON_Faith], +2 de Cultura [ICON_Culture] y +1 Puntos para Grandes Profetas y Generales.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_BATS_NEST_NAME" Language="es_ES">
+			<Text>Nido de Murcielagos</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_BATS_NEST_DESCRIPTION" Language="es_ES">
+			<Text>Edifico unico que añade 2 huecos aereos a la ciudad.</Text>
+		</Replace>
+		<!-- END OF TROLLS | VOL'JIN -->
+		<!-- TAUREN | BAINE_BLOODHOOF -->
+		<Replace Tag="LOC_CIVILIZATION_TAUREN_DESCRIPTION" Language="es_ES">
+			<Text>Confederación de Tribus Tauren</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_BAINE_BLOODHOOF_NAME" Language="es_ES">
+			<Text>Baine Pezuña de Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CHILDS_OF_THE_EARTHMOTHER_NAME" Language="es_ES">
+			<Text>Hijo de la Madre Tierra</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CHILDS_OF_THE_EARTHMOTHER_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Granjas dan +1 extra de Alimentos [ICON_Food], Cultura [ICON_Culture] y Fe [ICON_Faith]. +1 de Atractivo a todas las casillas de la ciudad con un Parque nacional.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_PLAINS_OF_MULGORE_NAME" Language="es_ES">
+			<Text>Llanuras de Mulgore</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_PLAINS_OF_MULGORE_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades ganan +5 Fuerza de Combate [ICON_Strength] en las Llanuras y +1 a los PM cuando se comienza en terreno abierto. Las Rutas comerciales [ICON_TradeRoute] de otras civilizaciones con los Tauren les proporcionan +2 a Alimentos [ICON_Food] a dichas civilizaciones y +2 de Oro [ICON_Gold] a los Tauren.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TAUREN_BRAVE_NAME" Language="es_ES">
+			<Text>Valiente</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TAUREN_BRAVE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad anticaballeria única de los Tauren, remplaza el Piquero. Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_KODO_RIDER_NAME" Language="es_ES">
+			<Text>Jinete Kodo Pesado</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_KODO_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria pesada de los Tauren, remplaza los Caballeros y no requiere Hierro. Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_KODO_RIDER_LIGHT_NAME" Language="es_ES">
+			<Text>Jinete Kodo Ligero </Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_KODO_RIDER_LIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria ligera de los Tauren, remplaza los  Jinetes. Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TAUREN_LONGHOUSE_NAME" Language="es_ES">
+			<Text>Tauren Casa Grande</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TAUREN_LONGHOUSE_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de los Tauren que remplaza el Templo. Da 1 de Alojamiento , 4 [ICON_Faith] Fe y +1 Punto para Grandes Profetas y Generales. Si la ciudad tiene Ciervos o Pieles da +1 extra de Alimentos [ICON_Food] y de Cultura [ICON_Culture].</Text>
+		</Replace>
+		<!-- END OF TAUREN | BAINE_BLOODHOOF -->
+		<!-- FORSAKEN | SYLVANAS -->
+		<Replace Tag="LOC_CIVILIZATION_FORSAKEN_NAME" Language="es_ES">
+			<Text>Renegados</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_FORSAKEN_DESCRIPTION" Language="es_ES">
+			<Text>Los Renegados, liberados del Rey Exánime</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_FORSAKEN_ADJECTIVE" Language="es_ES">
+			<Text>Renegado</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SYLVANAS_WINDRUNNER_NAME" Language="es_ES">
+			<Text>Sylvanas Brisaveloz</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_UNDEAD_CANNIBALISM_NAME" Language="es_ES">
+			<Text>Canibalismo No-Muerto</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_UNDEAD_CANNIBALISM_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades al eliminar a una unidad, recuperan hasta 50 puntos de golpe y no sufren penalizaciones al combate cuando recibe daños.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_BANSHEE_QUEEN_NAME" Language="es_ES">
+			<Text>Reina alma en pena</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_BANSHEE_QUEEN_DESCRIPTION" Language="es_ES">
+			<Text>Espacio adicional para política militar. Puede capturar unidades enemigas derrotadas como Constructores.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ABOMINATION_NAME" Language="es_ES">
+			<Text>Abominación</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ABOMINATION_DESCRIPTION" Language="es_ES">
+			<Text>Unidad No-Muerta única cuerpo a cuerpo. -5 a la Fuerza de combate [ICON_Strength] a unidades enemigas adyacentes.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FORSAKEN_CATAPULT_NAME" Language="es_ES">
+			<Text>Catapulta Renegada</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FORSAKEN_CATAPULT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de Asedio de los Renegados, remplaza la Catapulta. Tiene menos ataque que la catapulta normal pero es mucho mas rapida.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DARK_RANGER_NAME" Language="es_ES">
+			<Text>Forestal Oscura</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DARK_RANGER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de reconocimiento de los renegados remplaza el Batidor. Es una unidad a distancia mas fuerte que los Batidores y los Arqueros pero require la tecnologia de Arqueria.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_APOTHECARIUM_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de los Renegados que remplaza la Universidad. Da 1 de Alojamiento , 4 de Ciencia [ICON_Science] y +2 Puntos para Grandes Cientificos. Si la ciudad dispone de Incenso, Mercurio o Especies, da +1 extra de Oro [ICON_Gold] y de Cultura [ICON_Culture].</Text>
+		</Replace>
+		<!-- END OF FORSAKEN | SYLVANAS -->
+		<!-- BLOOD ELVES | LOR_THEMAR_THERON -->
+		<Replace Tag="LOC_CIVILIZATION_BLOOD_ELVES_NAME" Language="es_ES">
+			<Text>Elfos de Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLOOD_ELVES_DESCRIPTION" Language="es_ES">
+			<Text>Elfos de Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLOOD_ELVES_ADJECTIVE" Language="es_ES">
+			<Text>Elfo de Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CHILDREN_OF_THE_BLOOD_NAME" Language="es_ES">
+			<Text>Hijos de la Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CHILDREN_OF_THE_BLOOD_DESCRIPTION" Language="es_ES">
+			<Text>Las victorias en combate proporcionan Cultura [ICON_Culture] equivalente al 50% de la Fuerza de combate [ICON_Strength] de la unidad derrotada. Los recursos de lujo de su territorio otorgan Servicios [ICON_Amenities] a 2 ciudades extra.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DEFENSOR_OF_QUEL_THALAS_NAME" Language="es_ES">
+			<Text>Defensor de Quel'Thalas</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DEFENSOR_OF_QUEL_THALAS_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades reciben +5 a la Fuerza de combate [ICON_Strength] en su territorio o adyacente.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SPELL_BREAKER_NAME" Language="es_ES">
+			<Text>Deshacedor de hechizos</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SPELL_BREAKER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo única de los Elfos, remplaza el Soldado con Espada. +5 de Fuerza de Combate [ICON_Strength] contra unidades a distancia y +7 Fuerza de Combate [ICON_Strength] defensandose de ataques a distancia.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELF_MAGE_NAME" Language="es_ES">
+			<Text>Elfo Mago</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELF_MAGE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia única de los Elfos, remplaza el Ballestero. Tiene más ataque que el Ballestero y se cura en cada turno, incluso despues de moverse o luchar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELVEN_RANGER_NAME" Language="es_ES">
+			<Text>Forestal Elfico</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELVEN_RANGER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de reconocimiento de los Elfos que remplaza el Batidor. Es una unidad a distancia mas fuerte que los Batidores y los Arqueros pero require la tecnologia de Arqueria.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DRAGONHAWK_RIDER_NAME" Language="es_ES">
+			<Text>Jinete Dracohalcón</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DRAGONHAWK_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad aerea elfos, esta disponible mucho antes en el juego</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_ARCANE_SANCTUM_NAME" Language="es_ES">
+			<Text>Santuario Arcano</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_ARCANE_SANCTUM_DESCRIPTION" Language="es_ES">
+			<Text>Mejora única de los Elfos de Sangre. +1 de Fe [ICON_Faith] y +1 de Cultura [ICON_Culture]. +1 de Fe [ICON_Faith] si se encuentra al lado de una maravilla. No puede construirse al lado de otro Santuario Arcano y solo en Praderas o Llanuras.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DRAGONHAWK_NEST_NAME" Language="es_ES">
+			<Text>Nido de Dracohalcónes</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DRAGONHAWK_NEST_DESCRIPTION" Language="es_ES">
+			<Text>Edifico unico que añade 2 huecos aereos a la ciudad.</Text>
+		</Replace>
+		<!-- END OF BLOOD ELVES | LOR_THEMAR_THERON -->
+		<!-- GOBLINS | GALLYWIX -->
+		<Replace Tag="LOC_CIVILIZATION_GOBLINS_BILGEWATER_NAME" Language="es_ES">
+			<Text>Goblins Pantoque</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GOBLINS_BILGEWATER_DESCRIPTION" Language="es_ES">
+			<Text>Goblins Cartel Pantoque</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_BEST_DEALS_ANYWHERE_NAME" Language="es_ES">
+			<Text>Los Mejores Precios del Mercado</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_BEST_DEALS_ANYWHERE_DESCRIPTION" Language="es_ES">
+			<Text>+4 puntos de Influencia por turno para conseguir enviados [ICON_Envoy] a la ciudad-estado. +4 [ICON_Gold] Oro por cada ciudad estado de la que seas suzerano. +1 de Produción [ICON_Production] en todos las Minas y Asseraderos.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_TRADE_PRINCE_NAME" Language="es_ES">
+			<Text>Príncipe Mercante</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_TRADE_PRINCE_DESCRIPTION" Language="es_ES">
+			<Text>Tus Rutas comerciales [ICON_TradeRoute] con otras civilizaciones proporcionan +4 de Oro [ICON_Gold] para los Goblins. Las Rutas comerciales [ICON_TradeRoute] de otras civilizaciones con los Goblins le proporciona +2 de Oro [ICON_Gold] a los Goblins. Tus Rutas comerciales [ICON_TradeRoute] ganan +1 de Oro [ICON_Gold] por pasar por los Puestos comerciales que hay en tus ciudades.Espacio adicional para política económica.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GOBLIN_FLYING_MACHINE_NAME" Language="es_ES">
+			<Text>Máquina Goblin Voladora</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GOBLIN_FLYING_MACHINE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única aerea de los Goblins, remplaza el Biplanos y esta disponible mucho antes en el juego. Requiere Hierro.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHREDDER_NAME" Language="es_ES">
+			<Text>Machacador</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHREDDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de los Goblins, remplaza el Caballero. Es más fuerte pero más lento y costoso que los Caballeros.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TURTLE_RIDER_NAME" Language="es_ES">
+			<Text>Jinete Tortuga</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TURTLE_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de Caballeria ligera unica de los Goblins, remplaza el Jinete. Más lento pero no sufre penalización de Fuerza de Combate ni de movimiento cuando atacan desde el mar o el rio.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GOBLIN_BANK_NAME" Language="es_ES">
+			<Text>Banco Goblin</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GOBLIN_BANK_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de los Goblins que remplaza el Banco y puede construise antes. Da +6 de Oro [ICON_Gold], +1 de Producción [ICON_Production] y +2 Puntos para Grandes Mercaderes.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GOBLIN_WORKSHOP_NAME" Language="es_ES">
+			<Text>Taller Goblin</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GOBLIN_WORKSHOP_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de los Goblins que remplaza el Taller. Da +3 Producción [ICON_Production], +1 de Ciencia [ICON_Science] y +2 Puntos para Grandes Ingenieros y +1 Puntos para Grandes Cientificos. Proporciona dos casillas para Unidades Aereas.</Text>
+		</Replace>
+		<!-- END OF GOBLINS | GALLYWIX -->
+		<!-- STORMWIND | VARIAN -->
+		<Replace Tag="LOC_CIVILIZATION_KINGDOM_STORMWIND_NAME" Language="es_ES">
+			<Text>Reino de Ventormenta</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KINGDOM_STORMWIND_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Ventormenta</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KINGDOM_STORMWIND_ADJECTIVE" Language="es_ES">
+			<Text>Humano</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GRAND_ALLIANCE_NAME" Language="es_ES">
+			<Text>La Alianza de Razas</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GRAND_ALLIANCE_DESCRIPTION" Language="es_ES">
+			<Text>Todas las ciudades empiezan con un Centro urbano adicional. (En la Antigüedad se empieza con un Monumento). Las Rutas comerciales [ICON_TradeRoute] entre varios continentes reciben una bonificación de Oro [ICON_Gold] si son con otras civilizaciones; y bonificación a Alimentos [ICON_Food] y Producción [ICON_Production] si son entre tus ciudades. Todas las ciudades descubiertas o conquistadas en un continente distinto a tu continente de origen recibirán una unidad de cuerpo a cuerpo gratis. Tus Rutas comerciales [ICON_TradeRoute] hacia la ciudad de un aliado dan +2 a Alimentos [ICON_Food] y +2 a Producción [ICON_Production] a ambas ciudades.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GHOST_WOLF_NAME" Language="es_ES">
+			<Text>El Lobo Fantasma</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GHOST_WOLF_DESCRIPTION" Language="es_ES">
+			<Text>Las unidades reciben +5 a la Fuerza de combate [ICON_Strength] en su continente de origen. Un espacio de política comodín adicional en cualquier gobierno.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_7HLEGION_NAME" Language="es_ES">
+			<Text>7a Legion</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_7HLEGION_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de Ventormenta, remplaza el Soldado con Espada. +5 a la Fuerza de combate [ICON_Strength] en el mismo continente de su  Capital [ICON_Capital].</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ALIANCE_GUNSHIP_NAME" Language="es_ES">
+			<Text>Nave de Guerra de la Alianza</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ALIANCE_GUNSHIP_DESCRIPTION" Language="es_ES">
+			<Text>Unidad fuerte unica pero es cara.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GRYPHON_RIDER_NAME" Language="es_ES">
+			<Text>Jinete de Grifo</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GRYPHON_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad aerea de los Humanos y los Enanos, remplaza el Biplanos y esta disponible mucho antes en el juego.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ALTAR_OF_KINGS_NAME" Language="es_ES">
+			<Text>Altar de Reyes</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ALTAR_OF_KINGS_DESCRIPTION" Language="es_ES">
+			<Text>Edifició único de Ventormenta que remplaza el Monumento. Da 3 de Cultura [ICON_Culture], 1 Fe [ICON_Faith] y 1 Producción [ICON_Production].</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GRYPHON_NEST_NAME" Language="es_ES">
+			<Text>Nido de Grifos</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GRYPHON_NEST_DESCRIPTION" Language="es_ES">
+			<Text>Edifico unico que añade 2 huecos aereos a la ciudad.</Text>
+		</Replace>
+		<!-- END OF STORMWIND | VARIAN -->
+		<!-- IRONFORGE | MURADIN_BRONZEBEARD -->
+		<Replace Tag="LOC_CIVILIZATION_KINGDOM_IRONFORGE_NAME" Language="es_ES">
+			<Text>Reino de Forjaz</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KINGDOM_IRONFORGE_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Forjaz</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KINGDOM_IRONFORGE_ADJECTIVE" Language="es_ES">
+			<Text>Enano</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MURADIN_BRONZEBEARD_NAME" Language="es_ES">
+			<Text>Muradin Barbabronce</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_MASTERS_OF_BLACKSMITHING_NAME" Language="es_ES">
+			<Text>Maestros de Herreria</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_MASTERS_OF_BLACKSMITHING_DESCRIPTION" Language="es_ES">
+			<Text>Las Zonas Industriales ganan 1 de Producción [ICON_Production] si estan al lado de una Montaña. Todas la minas dan 1 de Oro [ICON_Gold] y 1 de Producción [ICON_Production].</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CLAN_BRONZEBEARD_NAME" Language="es_ES">
+			<Text>Clan Barbabronce</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CLAN_BRONZEBEARD_DESCRIPTION" Language="es_ES">
+			<Text>Los terrenos de Nieve proporcionan Alimentos como las Praderas para las otras Civilizaciones. Cada Museo arqueológico contiene 6 artefactos [ICON_GreatWork_Artifact] en lugar de 3, y puede tener 2 Arqueólogos a la vez. Los Museos arqueológicos pasan a tener un tema automáticamente cuando contienen 6 artefactos [ICON_GreatWork_Artifact]..</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DWARF_RIFLEMAN_NAME" Language="es_ES">
+			<Text>Fusilero Enano</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DWARF_RIFLEMAN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia de los Enanos, remplaza los Ballesteros. Más fuerte que los Ballesteros normales.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEAM_TANK_NAME" Language="es_ES">
+			<Text>Tanque de Vapor</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEAM_TANK_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de Asedio única de los Enanos, remplaza la Catapulta. +7 a la Fuerza a distancia [ICON_Ranged] contra defensas del distrito.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GYROCOPTER_NAME" Language="es_ES">
+			<Text>Girocóptero</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GYROCOPTER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad aerea de los Enanos y Gnomos, esta disponible mucho antes en el juego. Requiere Hierro.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAM_RIDER_LIGHT_NAME" Language="es_ES">
+			<Text>Jinete Carnero Ligero</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAM_RIDER_LIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad Medieval de caballeria ligera de los Enanos, remplaza los Jinetes. +4 [ICON_Strength] Fuerza de Combate en colinas y más rapido en colinas.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAM_RIDER_HEAVY_NAME" Language="es_ES">
+			<Text>Jinete Carnero Pesado</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAM_RIDER_HEAVY_DESCRIPTION" Language="es_ES">
+			<Text>Unidad Medieval de caballeria pesada de los Enanos, remplaza los Caballeros. +4 [ICON_Strength] Fuerza de Combate en colinas y más rapido en colinas.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DWARF_BUNKER_NAME" Language="es_ES">
+			<Text>Bunker Enano</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DWARF_BUNKER_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de los Enanos remplaza los Barracones. +40% de experiencia de combate para todas las unidades terrestres entrenadas en esta ciudad. Da 2 de Producción [ICON_Production], 2 Puntos para Grandes Generales y 1 de Alojamiento. La unidad ocupante recibe +2 a la Fuerza de defensa [ICON_Strength] y obtiene automáticamente 2 turnos de fortificación. Añade dos huecos aereos.</Text>
+		</Replace>
+		<!-- IRONFORGE | MURADIN_BRONZEBEARD -->
+		<!-- NIGHT ELVES | TYRANDE_WHISPERWIND -->
+		<Replace Tag="LOC_CIVILIZATION_NIGHT_ELVES_NAME" Language="es_ES">
+			<Text>Elfos de la Noche</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NIGHT_ELVES_DESCRIPTION" Language="es_ES">
+			<Text>Elfos de la Noche</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NIGHT_ELVES_ADJECTIVE" Language="es_ES">
+			<Text>Elfo de la Noche</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TYRANDE_WHISPERWIND_NAME" Language="es_ES">
+			<Text>Tyrande Susurravientos</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CHILDREN_OF_STARS_NAME" Language="es_ES">
+			<Text>Hijos de las Estrellas</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CHILDREN_OF_STARS_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades ganan +5 de Fuerza de Combate [ICON_Strength] cuando luchan en los Bosques y no pueden ser vistos en los Bosques por otras unidades si no estan a su lado. Pueden moverse por los Bosques y Junglas [ICON_Movement] sin penalidades.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SISTER_HOOD_ELUNE_NAME" Language="es_ES">
+			<Text>Hermanas de Elune</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SISTER_HOOD_ELUNE_DESCRIPTION" Language="es_ES">
+			<Text>Los Bosques dan +1 bonus de adyacencia para los Sitios Sagrados y los Teatros.Al construir maravillas antiguas y clásicas puedes gastar cargas de Constructor para completar el 15% del coste original de la maravilla. +1 de Atractivo a todas las casillas de la ciudad con un Parque nacional.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SENTINEL_NAME" Language="es_ES">
+			<Text>Centinela</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SENTINEL_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única a distancia de los Elfos de la Noche que remplaza al Ballestero. Más visibilidad y combate a distancia que los Ballesteros y un 150% Bonus de Flanqueo.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NELF_WARDEN_NAME" Language="es_ES">
+			<Text>Guardián</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NELF_WARDEN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única cuerpo a cuerpo de los Elfos de la Noche, remplaza el Soldado con Espada. +5 Fuerza de Combate [ICON_Strength] cuando luchan en su territorio o adyacente.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SABER_RIDER_LIGHT_NAME" Language="es_ES">
+			<Text>Jinete Sable Ligero</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SABER_RIDER_LIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad Medieval de caballeria ligera de los Elfos de la Noche, remplaza los Jinetes. Pueden moverse despues de atacar. </Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SABER_RIDER_HEAVY_NAME" Language="es_ES">
+			<Text>Jinete Sable Pesado</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SABER_RIDER_HEAVY_DESCRIPTION" Language="es_ES">
+			<Text>Unidad Medieval de caballeria pesada de los Elfos de la Noche, remplaza los Caballeros. Pueden moverse despues de atacar. </Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HIPPOGRYPH_RIDER_NAME" Language="es_ES">
+			<Text>Jinete Hipogrifo</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HIPPOGRYPH_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad aerea de los Elfos de la Noche, esta disponible mucho antes en el juego.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TEMPLE_OF_MOON_NAME" Language="es_ES">
+			<Text>Templo de la Luna</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TEMPLE_OF_MOON_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de los Elfos de la Noche que remplaza el Templo. Da 1 de Alojamiento , +4 de Fe [ICON_Faith], +2 de Cultura [ICON_Culture] y +2 Puntos para Grandes Profetas. Añade dos huecos aereos al distrito Sagrado.</Text>
+		</Replace>
+		<!-- NIGHT ELVES | TYRANDE_WHISPERWIND -->
+		<!-- DRAENEI | VELEN -->
+		<Replace Tag="LOC_CIVILIZATION_DRAENEI_DESCRIPTION" Language="es_ES">
+			<Text>Draenei</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_PROPHET_VELEN_NAME" Language="es_ES">
+			<Text>Profeta Velen</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GIFT_OFTHE_NAARU_NAME" Language="es_ES">
+			<Text>Ofrenda de los Naaru</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GIFT_OFTHE_NAARU_DESCRIPTION" Language="es_ES">
+			<Text>+4 a la Fuerza de combate [ICON_Strength] contra jugadores de otras religiones. Duplica el rendimiento de la Fe [ICON_Faith] del Santuario. </Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_PROPHET_OFTHE_NAARU_NAME" Language="es_ES">
+			<Text>Profeta de los Naaru</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_PROPHET_OFTHE_NAARU_DESCRIPTION" Language="es_ES">
+			<Text>+5 a Fe [ICON_Faith] para cada civilización (incluida la India) con la que se hayan encontrado y que, además de haber fundado una religión, no esté en guerra actualmente. Recibe automáticamente al Gran profeta final cuando se reclame el penúltimo (si no has conseguido ya al Gran profeta).</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_VINDICATOR_NAME" Language="es_ES">
+			<Text>Vindicador</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_VINDICATOR_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única cuerpo a cuerpo de los Draenei, remplaza el Soldado con Espada. Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como Fe [ICON_Faith] y se cura en cada turno, incluso despues de moverse o luchar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELEKK_RIDER_NAME" Language="es_ES">
+			<Text>Jinete Elekk Pesado</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELEKK_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria pesada de los Draenei, remplaza los Caballeros. Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELEKK_RIDER_LIGHT_NAME" Language="es_ES">
+			<Text>Jinete Elekk Ligero</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELEKK_RIDER_LIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad Medieval de caballeria ligera de los Draenei, remplaza los Jinetes. Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DRAENEI_PRIEST_NAME" Language="es_ES">
+			<Text>Sacerdote Draenei</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DRAENEI_PRIEST_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de soporte única de los Draenei, remplaza el Médico y puede obtenerse antes en el juego. Puede curar unidades adyacentes.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NETHER_RAY_RIDER_NAME" Language="es_ES">
+			<Text>Jinete Raya Abismal</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NETHER_RAY_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad aerea de los Draenei, esta disponible mucho antes en el juego.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_CRYSTAL_MINE_NAME" Language="es_ES">
+			<Text>Mina de Cristales</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_CRYSTAL_MINE_DESCRIPTION" Language="es_ES">
+			<Text>Mejora única de los Draenei que solo puede colocarse si hay Diamantes o unique improvement that only can be place if there is Diamonds o Yeso. Da +2 de Oro [ICON_Gold] , +2 de Producción [ICON_Production] y +1 de Cultura[ICON_Culture].</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NETHER_RAY_NEST_NAME" Language="es_ES">
+			<Text>Nido de Rayas Abismales</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_WYVERNS_NEST_DESCRIPTION" Language="es_ES">
+			<Text>Edifico unico que añade 2 huecos aereos a la ciudad.</Text>
+		</Replace>
+		<!-- DRAENEI | VELEN -->
+		<!-- KINGDOM_GILNEAS | GENN_GREYMANE -->
+		<Replace Tag="LOC_CIVILIZATION_KINGDOM_GILNEAS_NAME" Language="es_ES">
+			<Text>Reino de Gilneas</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KINGDOM_GILNEAS_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Gilneas</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KINGDOM_GILNEAS_ADJECTIVE" Language="es_ES">
+			<Text>Gilneniano</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_GENN_GREYMANE_NAME" Language="es_ES">
+			<Text>Genn Cringris</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CURSE_OFTHE_WORGEN_NAME" Language="es_ES">
+			<Text>Maldición de los Huargen</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CURSE_OFTHE_WORGEN_DESCRIPTION" Language="es_ES">
+			<Text>Todas la unidades tienen 1 Movimiento adiccional y las unidades cuerpo a cuerpo pueden moverse después de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GILNEAS_ISOLATION_NAME" Language="es_ES">
+			<Text>Aislamiento de Gilneas</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GILNEAS_ISOLATION_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades reciben +5 a la Fuerza de combate [ICON_Strength] en su territorio o adyacente. Todas la rutas entre tus ciudades dan 2 de Alimentos [ICON_Food] y 2 de Oro [ICON_Gold].</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GLF_INFANTRY_NAME" Language="es_ES">
+			<Text>G.L.F Infanteria</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GLF_INFANTRY_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única cuerpo a cuerpo de Gilneas, remplaza el Soldado con Espada. +5 de Fuerza de Combate [ICON_Strength] cuando atacan.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_GREYMANE_WALL_NAME" Language="es_ES">
+			<Text>Muralla Cringris</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_GREYMANE_WALL_DESCRIPTION" Language="es_ES">
+			<Text> Mejora única de Gilneas. Aumenta la Defensa [ICON_Strength] y proporciona 1 de Cultura [ICON_Culture].Además proporciona una bonificación de 1 de Cultura [ICON_Culture] si está adyacente a otros segmentos cuando descubre la tecnologia de Castillos. Debe construirse en una línea, a lo largo de las fronteras del imperio.</Text>
+		</Replace>
+		<!-- END OF KINGDOM_GILNEAS | GENN_GREYMANE -->
+		<!-- GNOMES | GELBIN_MEKKATORQUE -->
+		<Replace Tag="LOC_CIVILIZATION_GNOMES_NAME" Language="es_ES">
+			<Text>Gnomos</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GNOMES_DESCRIPTION" Language="es_ES">
+			<Text>Gnomos</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GNOMES_ADJECTIVE" Language="es_ES">
+			<Text>Gnomo</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_GELBIN_MEKKATORQUE_NAME" Language="es_ES">
+			<Text>Gelbin Mekkatorque</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_UNDERGROUND_TINKERS_NAME" Language="es_ES">
+			<Text>Manitas Subterraneos</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_UNDERGROUND_TINKERS_DESCRIPTION" Language="es_ES">
+			<Text>Las Zonas Industriales ganan 1 de Producción [ICON_Production] si estan al lado de una Montaña. Todas la minas dan 1 de Alimentos [ICON_Food]. Los Constructores reciben una carga adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_HIGH_TINKER_NAME" Language="es_ES">
+			<Text>Manitas Mayor</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_HIGH_TINKER_DESCRIPTION" Language="es_ES">
+			<Text>+100% de bonificaciones por adyacencia de los distritos de Campus y Zona industrial. Las Rutas comerciales [ICON_TradeRoute] de otras civilizaciones con los Gnomos les proporcionan +2 de producción [ICON_Production] a dichas civilizaciones y +2 de Oro [ICON_Gold] a los Gnomos.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GNOMISH_MECH_NAME" Language="es_ES">
+			<Text>Mech Gnomico</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MECHANOSTRIDER_RIDER_NAME" Language="es_ES">
+			<Text>Jinete Mecazancudo</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MECHANOSTRIDER_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad Medieval de caballeria ligera de los Gnomos, remplaza los Jinetes. Más rapido que los Jinetes e incluso más si empiezan el turno en campo abierto.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GNOMISH_MECH_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de los Gnomos, remplaza el Caballero. Es más fuerte pero más lento y costoso que los Caballeros.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GNOME_WORKSHOP_NAME" Language="es_ES">
+			<Text>Taller Gnomico</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GNOME_WORKSHOP_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de los Gnomos que remplaza el taller. Da +3 de producción [ICON_Production], +1 de Ciencia [ICON_Science], +1 de Cultura [ICON_Culture] y +3 Puntos para Grandes Ingenieros y +1 Puntos para Grandes Cientificos. Proporciona dos huecos para unidades aereas.</Text>
+		</Replace>
+		<!-- END OF GNOMES | GELBIN_MEKKATORQUE -->
+		<!-- ARGENT CRUSADE | TIRION -->
+		<Replace Tag="LOC_CIVILIZATION_ARGENT_CRUSADE_NAME" Language="es_ES">
+			<Text>Cruzada Argenta</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ARGENT_CRUSADE_DESCRIPTION" Language="es_ES">
+			<Text>Cruzada Argenta</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ARGENT_CRUSADE_ADJECTIVE" Language="es_ES">
+			<Text>Cruzado Argenta</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TIRION_FORDRING_NAME" Language="es_ES">
+			<Text>Tirion Vadín</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DEFENDERS_OF_THE_LIGHT_NAME" Language="es_ES">
+			<Text>Defensores de la Luz</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DEFENDERS_OF_THE_LIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Construye Sitios Sagrados en mitad de tiempo. Todas las ciudades descubiertas o conquistadas en un continente distinto a tu continente de origen recibirán una unidad de cuerpo a cuerpo gratis. Las civilizaciones opuestas reciben el doble de hastío bélico por luchar contra la Cruzada Argenta.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_ASHBRINGER_NAME" Language="es_ES">
+			<Text>Crematoria</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_ASHBRINGER_DESCRIPTION" Language="es_ES">
+			<Text>+4 a la Fuerza de combate [ICON_Strength] contra jugadores de otras religiones. Las victorias en combate proporcionan Fe [ICON_Faith] equivalente al 50% de la Fuerza de combate [ICON_Strength] de la unidad derrotada.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PALADIN_NAME" Language="es_ES">
+			<Text>Paladin</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PALADIN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de la Cruzada Argenta, remplaza el Soldado con Espada. Esta unidad no sufre penalizaciones al combate cuando recibe daños y se cura al derrotar enemigos.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TOURNAMENT_GROUND_NAME" Language="es_ES">
+			<Text>Arena de Torneos</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TOURNAMENT_GROUND_DESCRIPTION" Language="es_ES">
+			<Text>Edifició único de la Cruzada Argenta que remplaza la Arena. Da 3 de Entretenimiento , 1 de Cultura [ICON_Culture], 1 de Fe [ICON_Faith] y 2 Puntos para Grandes Generales.</Text>
+		</Replace>
+		<!-- END OF ARGENT CRUSADE | TIRION -->
+		<!-- THE_SCOURGE| lich king -->
+		<Replace Tag="LOC_CIVILIZATION_THE_SCOURGE_NAME" Language="es_ES">
+			<Text>La Plaga</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_THE_SCOURGE_DESCRIPTION" Language="es_ES">
+			<Text>La Plaga</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_THE_SCOURGE_ADJECTIVE" Language="es_ES">
+			<Text>No Muerto</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_LICH_KING_NAME" Language="es_ES">
+			<Text>Rey Exánime</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_UNDEAD_EMPIRE_NAME" Language="es_ES">
+			<Text>Imperio No Muerto</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_UNDEAD_EMPIRE_DESCRIPTION" Language="es_ES">
+			<Text>Los terrenos de Tundra y Nieve proporcionan Alimentos como las Praderas para las otras Civilizaciones.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DEATH_GOD_NAME" Language="es_ES">
+			<Text>Death God</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DEATH_GOD_DESCRIPTION" Language="es_ES">
+			<Text>Puede capturar unidades enemigas derrotadas como Ghouls. Acumula un 60% menos de hastío bélico. Todas las unidades  no sufre penalizaciones al combate cuando recibe daños.  </Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GHOUL_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de la Plaga que remplaza el Guerrero. Se cura despues de derrotar un enemigo.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_YMIRJAR_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de la Plaga que remplaza el Soldado con Espada. Más fuerte que el soldado con espada.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LICH_NAME" Language="es_ES">
+			<Text>Exánime</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LICH_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única a distancia de la Plaga que remplaza Ballestero .+5 [ICON_Strength] Fuerza de Combate en la Tundra o Nieve.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PLAGUE_DOG_NAME" Language="es_ES">
+			<Text>Perro de la Plaga</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PLAGUE_DOG_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de caballeria ligera de la Plaga que remplaza el Jinete. Puede moverse despues de atacar. </Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CRYPT_LORD_NAME" Language="es_ES">
+			<Text>Señor de la Cripta</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CRYPT_LORD_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de caballeria pesada de la Plaga que remplaza el Caballero. Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional. </Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GARGOYLE_NAME" Language="es_ES">
+			<Text>Gargola</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GARGOYLE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad aerea de la Plaga, esta disponible mucho antes en el juego.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FROST_WYRM_NAME" Language="es_ES">
+			<Text>Vermis de Escarcha</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FROST_WYRM_DESCRIPTION" Language="es_ES">
+			<Text>Unidad que remplaza la Caballeria. Puede ser obtenida antes en el juego pero es más cara.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_NECROPOLIS_DESCRIPTION" Language="es_ES">
+			<Text>Mejora única de la Plaga que puede ser construida en cualquier sitio su territorio. La unidad ocupante recibe +6 a la Fuerza de defensa [ICON_Strength] y obtiene automáticamente 2 turnos de fortificación. Da 1 de Alojamiento [ICON_Housing] y +1 de Producción [ICON_Production] y +2 de Producción extra si esta al lado de un Asserradero.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GARGOYLE_NEST_NAME" Language="es_ES">
+			<Text>Nido de Gargolas</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GARGOYLE_NEST_DESCRIPTION" Language="es_ES">
+			<Text>Edifico unico que añade 2 huecos aereos a la ciudad.</Text>
+		</Replace>
+		<!-- END OF THE_SCOURGE| lich king -->
+		<!-- AMANI | ZUL'JIN -->
+		<Replace Tag="LOC_CIVILIZATION_AMANI_EMPIRE_NAME" Language="es_ES">
+			<Text>Imperio Amani</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AMANI_EMPIRE_DESCRIPTION" Language="es_ES">
+			<Text>Imperio Amani</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_FOREST_TROLLS_NAME" Language="es_ES">
+			<Text>Trolls de los Bosques</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_FOREST_TROLLS_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades se curan despues de cada turno. Los Bosques dan +1 bonus de adyacencia para los Sitios Sagrados y los Teatros.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_WARLORD_OF_ZULAMAN_NAME" Language="es_ES">
+			<Text>Señor de la Guerra de Zulaman</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_WARLORD_OF_ZULAMAN_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades ganan +5 de Fuerza de Combate [ICON_Strength] cuando luchan en los Bosques y no pueden ser vistos en los Bosques por otras unidades si no estan a su lado. Pueden moverse por los Bosques y Junglas [ICON_Movement] sin penalidades. Acumula un 60% menos de hastío bélico.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TROLL_BERSERKER_NAME" Language="es_ES">
+			<Text>Berserker Troll</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TROLL_BERSERKER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única cuerpo a cuerpo de los Trolls, que remplaza el Soldado con Espada. +7 [ICON_Strength] Fuerza de Combate cuando atacan. </Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BEAR_RIDER_LIGHT_NAME" Language="es_ES">
+			<Text>Jinete Oso Ligero</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BEAR_RIDER_LIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de caballeria ligera de los Trolls Amani que remplaza el Jinete. Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional. </Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BEAR_RIDER_HEAVY_NAME" Language="es_ES">
+			<Text>Jinete Oso Pesado</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BEAR_RIDER_HEAVY_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de caballeria pesada de los Trolls Amani que remplaza el Caballero.  Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional. </Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_TROLL_ZIGGURAT_NAME" Language="es_ES">
+			<Text>Ziggurat Troll</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_TROLL_ZIGGURAT_DESCRIPTION" Language="es_ES">
+			<Text>Mejora única de los Trolls que se puede construir en cualquier lugar en su territorio. La unidad ocupante recibe +4 a la Fuerza de defensa [ICON_Strength] y obtiene automáticamente 2 turnos de fortificación. Da 1 de Alojamiento and +1[ICON_Culture] Cultura y otro +1 [ICON_Culture] si se encuentra al lado de un Lago. +1[ICON_Faith] Fe por adyacencia a Bosques o Junglas.</Text>
+		</Replace>
+		<!-- END OF AMANI | ZUL'JIN -->
+		<!-- GURUBASHI | JIN'DO -->
+		<Replace Tag="LOC_CIVILIZATION_GURUBASHI_EMPIRE_NAME" Language="es_ES">
+			<Text>Imperio Gurubashi</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GURUBASHI_EMPIRE_DESCRIPTION" Language="es_ES">
+			<Text>Imperio Gurubashi</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_JUNGLE_TROLLS_EMPIRE_NAME" Language="es_ES">
+			<Text>Imperio Trols de la Jungla</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_JUNGLE_TROLLS_EMPIRE_DESCRIPTION" Language="es_ES">
+			<Text>Las casillas de Selva tropical proporcionan +1 de bonificación por adyacencia por los distritos de Campus, Centro comercial, Lugar sagrado y Teatro. Las casillas de Selva tropical proporcionan +1 a Alojamiento [ICON_Housing] en todos los Barrios residenciales adyacentes. +100% Bonus por adyacencia a Distrito Portuario. Todas las unidades se curan despues de cada turno.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_HEXXER_NAME" Language="es_ES">
+			<Text>El Aojador</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_HEXXER_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades obtienen +5 [ICON_Strength] cuando luchan en Bosques o Junglas. Cualquier jugador puede comprar el edificio de culto de su religión por una décima parte del coste de Fe [ICON_Faith] habitual. Todas las reliquias confieren una bonificación de Fe (+1).</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GURUBASHI_ARENA_NAME" Language="es_ES">
+			<Text>Arena Gurubashi</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GURUBASHI_ARENA_DESCRIPTION" Language="es_ES">
+			<Text>Edifició único de los Trolls Gurubashi que remplaza la Arena. Da 3 de Entretenimiento , 2 [ICON_Gold] Oro y 1 [ICON_Production] Producción.</Text>
+		</Replace>
+		<!-- END OF GURUBASHI | JIN'DO -->
+		<!-- DRAKKARI | MALAKK -->
+		<Replace Tag="LOC_CIVILIZATION_DRAKKARI_EMPIRE_NAME" Language="es_ES">
+			<Text>Imperio Drakkari</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_DRAKKARI_EMPIRE_DESCRIPTION" Language="es_ES">
+			<Text>Imperio Drakkari</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ICE_TROLLS_NAME" Language="es_ES">
+			<Text>Trolls de Hielo</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ICE_TROLLS_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades se curan despues de cada turno. +1 [ICON_FAITH] Fe y +1 [ICON_PRODUCTION] Producción en Tundras.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_FROST_KING_NAME" Language="es_ES">
+			<Text>Rey Helado</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_FROST_KING_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades ganan +5 [ICON_Strength] Fuerza de Combate cuando luchan en Tundra o Nieve. Los campamentos de caza dan 1+ [ICON_FOOD] Alimento y +1 [ICON_FAITH] Fe. </Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RHINO_RIDER_NAME" Language="es_ES">
+			<Text>Jineto Rino</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RHINO_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de caballeria pesada de los Trolls Drakkari que remplaza el Caballero.  Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_DRAKKARI_FARM_NAME" Language="es_ES">
+			<Text>Granja Drakkari</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_DRAKKARI_FARM_DESCRIPTION" Language="es_ES">
+			<Text>Mejora única de los Drakkari. +1 [ICON_FOOD] Alimento +1 [ICON_PRODUCTION] Producción y +2 [ICON_FOOD] Alimentos si se encuentra al lado de un Lago.</Text>
+		</Replace>
+		<!-- END OF DRAKKARI | MALAKK-->
+		<!-- RASTAKHAN | ZANDALARI -->
+		<Replace Tag="LOC_CIVILIZATION_ZANDALARI_EMPIRE_NAME" Language="es_ES">
+			<Text>Imperio Zandalari</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ZANDALARI_EMPIRE_DESCRIPTION" Language="es_ES">
+			<Text>Imperio Zandalari</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ANCIENT_TROLLS_NAME" Language="es_ES">
+			<Text>Antiguos Trolls</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ANCIENT_TROLLS_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades se curan despues de cada turno. Las casillas de Selva tropical proporcionan +1 de bonificación por adyacencia por los distritos de Campus, Lugar sagrado y Teatro. +100% Bonus por adyacencia a Distrito Portuario. Las Montañas Praderas y Llanuras proporcionan +1 de bonificación por adyacencia por los distritos de Lugar sagrado y Teatro.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GOD_KING_OF_TROLLS_NAME" Language="es_ES">
+			<Text>Rey Dios de los Trolls</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GOD_KING_OF_TROLLS_DESCRIPTION" Language="es_ES">
+			<Text>+10 a la Fuerza de combate [ICON_Strength] de las todas las unidades cuerpo a cuerpo. +1 [ICON_Food] Alimentos en todos los Barcos de Pesca.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DIREHORN_RIDER_NAME" Language="es_ES">
+			<Text>Jinete de Cuernoatroz</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DIREHORN_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de caballeria pesada de los Trolls Zandalari que remplaza el Caballero. Más fuerte que los Caballeros pero mas lento. Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TROLL_PRELATE_NAME" Language="es_ES">
+			<Text>Troll Prelado</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TROLL_PRELATE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única cuerpo a cuerpo de los Zandalari, remplaza el Soldado con Espada. Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como Fe [ICON_Faith].</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PTERRORWING_RIDER_NAME" Language="es_ES">
+			<Text>Pterrorala</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PTERRORWING_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad aerea de los Zandalari, esta disponible mucho antes en el juego.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ZANDALARI_WARSHIP_NAME" Language="es_ES">
+			<Text>Zandalari Barco de Guerra</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ZANDALARI_WARSHIP_DESCRIPTION" Language="es_ES">
+			<Text>Unidad naval única de los Zandalari que remplaza la Galera. Puede saquear tierras costeras enemigas y capturar a civiles, si están adyacentes, con su capacidad para realizar incursiones costeras.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_PTERRORWING_NEST_NAME" Language="es_ES">
+			<Text>Nido de Pterrorala</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_PTERRORWING_NEST_DESCRIPTION" Language="es_ES">
+			<Text>Edifico unico que añade 2 huecos aereos a la ciudad.</Text>
+		</Replace>
+		<!-- END OF RASTAKHAN | ZANDALARI-->
+		<!-- MORE UNITS-->
+		<Replace Tag="LOC_UNIT_GRUNT_NAME" Language="es_ES">
+			<Text>Bruto</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GRUNT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única cuerpo a cuerpo, que remplaza a los Guerreros pero más fuertes. Puede constuir Torres de Guardia.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_OGRE_NAME" Language="es_ES">
+			<Text>Ogro</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_OGRE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad anticaballeria única de los Orcos, remplaza el Piquero. Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ORC_DESTROYER_NAME" Language="es_ES">
+			<Text>Destructor Orco</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ORC_DESTROYER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia naval de los Orcos.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DEMOLISHER_NAME" Language="es_ES">
+			<Text>Demoledor</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DEMOLISHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de asedio única de los Orcos.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHAMAN_NAME" Language="es_ES">
+			<Text>Chamán</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHAMAN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de soporte medico de los Orcos.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TROLL_CANOE_NAME" Language="es_ES">
+			<Text>Troll Canoe</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TROLL_CANOE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad naval exclusiva de los Trolls de la Antigüedad que sustituye a la Galera. Puede saquear tierras costeras enemigas y capturar a civiles, si están adyacentes, con su capacidad para realizar incursiones costeras. 4 de Movimiento [ICON_Movement] mientras esté en aguas costeras.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WITCH_DOCTOR_NAME" Language="es_ES">
+			<Text>Medico Brujo</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WITCH_DOCTOR_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de soporte medico de los Trols.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SUNWALKER_NAME" Language="es_ES">
+			<Text>Caminasol</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SUNWALKER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única cuerpo a cuerpo de los Tauren, remplaza el Soldado con Espada. Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como Fe [ICON_Faith].</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SPIRIT_WALKER_NAME" Language="es_ES">
+			<Text>Camina Espiritus</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SPIRIT_WALKER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de soporte medico de los Tauren.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DEATH_GUARD_NAME" Language="es_ES">
+			<Text>Guardian de la Muerte</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DEATH_GUARD_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo única de los Renegados. -3 [ICON_Strength] Fuerza de Combate de los enemigos a su lado.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FORSAKEN_BATTLESHIP_NAME" Language="es_ES">
+			<Text>Barco de Guerra Renegado</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FORSAKEN_BATTLESHIP_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia naval de los Renegados.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_APOTHECARY_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de soporte medico de los Renegados.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BLOOD_KNIGHT_NAME" Language="es_ES">
+			<Text>Caballeros de Sangre</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BLOOD_KNIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de caballeria pesada de los Elfos de Sangre, remplaza el Caballero. Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como Fe [ICON_Faith].</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELVEN_DESTROYER_NAME" Language="es_ES">
+			<Text>Destructor Elfo</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELVEN_DESTROYER_DESCRIPTION" Language="es_ES">
+			<Text>Elven unique ranged naval unit.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GLAIVE_THROWER_NAME" Language="es_ES">
+			<Text>Lanza Agujas</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GLAIVE_THROWER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de asedio única de los Elfos. +5 a la Fuerza a distancia [ICON_Ranged] contra unidades terrestres.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARCANE_GOLEM_NAME" Language="es_ES">
+			<Text>Golem Arcano</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARCANE_GOLEM_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de los Altos Elfos. Cuando derrota un enemigo da un 15% de la Fuerza de Combate [ICON_Strength] del enemigo como Ciencia [ICON_Science].</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BRUISER_NAME" Language="es_ES">
+			<Text>Matón</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BRUISER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo única de los Goblin, remplaza los Soldados con Espada. Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como Oro [ICON_Gold].</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GOBLIN_SNIPER_NAME" Language="es_ES">
+			<Text>Francotirador Goblin</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GOBLIN_SNIPER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única a distancia de los Goblin, remplaza el Ballestero. Más fuerte y con mayor alcanze.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MINI_SUBMARINE_NAME" Language="es_ES">
+			<Text>Mini Submarino</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MINI_SUBMARINE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de los Goblins. Invisible si no estas a su lado.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_CANNON_NAME" Language="es_ES">
+			<Text>Cañon Movil</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_CANNON_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de Asedio de los Goblin, remplaza la Catapulta. Tiene menos ataque que la catapulta normal pero es mucho mas rapida.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HUMAN_GUNMAN_NAME" Language="es_ES">
+			<Text>Trabuquero Humano</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HUMAN_GUNMAN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de combate a distancia de los Humanos, remplaza los Ballesteros y tiene más ataque a distancia que ellos.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BROTHERHOOD_HORSE_NAME" Language="es_ES">
+			<Text>Hermandad del Caballo</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BROTHERHOOD_HORSE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de Ventormenta de caballeria pesada, remplaza al Caballero. +5 Fuerza de Combate contra unidad de anti-caballeria.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ALLIANCE_ICEBREAKER_NAME" Language="es_ES">
+			<Text>Alianza Rompehielos</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ALLIANCE_ICEBREAKER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad naval a distancia única de la Alianza .</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HUMAN_MAGE_NAME" Language="es_ES">
+			<Text>Mago Humano</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HUMAN_MAGE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia única de los Humanos. Se cura en cada turno, incluso despues de moverse o luchar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SENTINEL_WARRIOR_NAME" Language="es_ES">
+			<Text>Guerrera Centinela</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SENTINEL_WARRIOR_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única cuerpo a cuerpo de los Elfos de Noche. Cuando derrotan un enemigo, difunden su religion a las ciudades cercanas.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PRIESTESS_MOON_NAME" Language="es_ES">
+			<Text>Sacerdotisa de la Luna</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PRIESTESS_MOON_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de soporte medico de los Elfos de la Noche.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANCIENT_PROTECTOR_NAME" Language="es_ES">
+			<Text>Anciano Protector</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANCIENT_PROTECTOR_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de los Elfos de la Noche. +10 a la Fuerza de combate [ICON_Strength] cuando hay un Apóstol, Inquisidor o Misionero en el mismo hexágono.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHTS_CHOSEN_NAME" Language="es_ES">
+			<Text>Elegidos de la Luz</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHTS_CHOSEN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad anti-cabelleria de los Draenei. Se cura al final de cada turno, incluso después de moverse o atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WORGEN_STALKER_NAME" Language="es_ES">
+			<Text>Acechador Huargen</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WORGEN_STALKER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de reconicimiento Huargen, remplaza los Exploradores. Invisible si no estas a su lado.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GNOME_SNIPER_NAME" Language="es_ES">
+			<Text>Francotirador Gnomo</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GNOME_SNIPER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única a distancia de los Gnomos, remplaza el Ballestero. Más fuerte y con mayor alcanze.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GNOME_MAGE_NAME" Language="es_ES">
+			<Text>Mago Gnomo</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GNOME_MAGE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia única de los Gnomos. Se cura en cada turno, incluso despues de moverse o luchar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARGENT_PRIEST_NAME" Language="es_ES">
+			<Text>Sacerdote Argenta</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARGENT_PRIEST_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de soporte medico de la Cruzada Argenta.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FELGUARD_NAME" Language="es_ES">
+			<Text>Guardia Vil</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FELGUARD_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo única de la Legión Ardiente. +5 a la Fuerza a distancia [ICON_Ranged] contra unidades terrestres.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INFERNAL_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de anticaballeria única de la Legión Ardiente. -5 [ICON_Strength] Fuerza de Combate de los enemigos a su lado.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DOOMGUARD_NAME" Language="es_ES">
+			<Text>Guardia Apocalíptico</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DOOMGUARD_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia única de la Legión Ardiente. Con menos ataque pero con más movimiento y puede moverse despues de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DEMONIC_HOUND_NAME" Language="es_ES">
+			<Text>Sabueso Demoniaco</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DEMONIC_HOUND_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria pesada única de la Legión Ardiente. -5 [ICON_Strength] Fuerza de Combate de los enemigos a su lado.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DARK_HOUND_NAME" Language="es_ES">
+			<Text>Can manáfago</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DARK_HOUND_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria ligera única de la Legión Ardiente. Se cura al derrotar enemigos</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COMMAND_SHIP_NAME" Language="es_ES">
+			<Text>Nave de Comando</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COMMAND_SHIP_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de la Legión Ardiente.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FELBAT_NAME" Language="es_ES">
+			<Text>Felbat</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FELBAT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad aerea de la Legión Ardiente, esta disponible mucho antes en el juego.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FEL_CANNON_NAME" Language="es_ES">
+			<Text>Cañon de Fel</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FEL_CANNON_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de asedio única de la Legión Ardiente. +5 a la Fuerza a distancia [ICON_Ranged] contra unidades terrestres.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DREADLORD_NAME" Language="es_ES">
+			<Text>Señor del Terror</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DREADLORDT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de soporte de la Legión Ardiente con ataque a distancia.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_OGRE_MAGE_NAME" Language="es_ES">
+			<Text>Mago Ogro</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_OGRE_MAGE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia única del Martillo Crepuscular. Se cura en cada turno, incluso despues de moverse o luchar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TWILIGHT_DRAGONFLIGHT_NAME" Language="es_ES">
+			<Text>Vuelo Crepuscular</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TWILIGHT_DRAGONFLIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad aerea del Martillo Crepuscular, esta disponible mucho antes en el juego.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HIGHBORNE_ARCANIST_NAME" Language="es_ES">
+			<Text>Arcanista Highborne</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HIGHBORNE_ARCANIST_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia única de los Kaldorei. Se cura en cada turno, incluso despues de moverse o luchar. Cuando derrota un enemigo da un 15% de la Fuerza de Combate [ICON_Strength] del enemigo como Ciencia [ICON_Science].</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HAMMER_KNIGHT_NAME" Language="es_ES">
+			<Text>Caballero del Martillo</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HAMMER_KNIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria pesada de Lordaeron. +10 a la Fuerza de combate [ICON_Strength] cuando lucha en el continente de su capital. Puntos de Gran general [ICON_GreatGeneral] por matar unidades.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_IRON_GUARDIAN_NAME" Language="es_ES">
+			<Text>Guardian de Hierro</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_IRON_GUARDIAN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad exclusiva cuerpo a cuerpo de los Enanos de la Época Medieval. No sufre penalizaciones al combate cuando recibe daños.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EMPEROR_SHIELD_NAME" Language="es_ES">
+			<Text>Escudo del Emperador</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EMPEROR_SHIELD_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única Medieval cuerpo a cuerpo de los Mogu, remplaza el Soldado con Espada. Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como cultura [ICON_Culture].</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SAUROK_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo única de los Mogu. Coste de pillaje reducido.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STONEBORN_NAME" Language="es_ES">
+			<Text>Nacidos de Piedra</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STONEBORN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad exclusiva de anticaballeria de los Mogu de la Época Medieval. No sufre penalizaciones al combate cuando recibe daños.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SPIRITBINDER_NAME" Language="es_ES">
+			<Text>Spiritbinder</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SPIRITBINDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única Medieval a distancia de los Mogu, remplaza el Ballestero. Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como cultura [ICON_Culture].</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ENORMOUS_QUILEN_NAME" Language="es_ES">
+			<Text>Quilen Enorme</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ENORMOUS_QUILEN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria pesada de los Mogu, remplaza los Caballeros. Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BRONZE_QUILEN_NAME" Language="es_ES">
+			<Text>Quilen de Bronze</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BRONZE_QUILEN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria ligera de los Mogu, remplaza los Jinetes. Más barata y no requiere Caballos.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FLYING_QUILEN_NAME" Language="es_ES">
+			<Text>Quilen Voladora</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FLYING_QUILEN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad aerea de los Mogu, esta disponible mucho antes en el juego.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WARDANCERS_NAME" Language="es_ES">
+			<Text>Wardancers</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WARDANCERS_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única cuerpo a cuerpo de los Pandaren. Puede moverse despues de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BREWMASTER_NAME" Language="es_ES">
+			<Text>Maestro Cervecero</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BREWMASTER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de anticaballeria de los Pandaren. Se cura cada turno.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TIGER_RIDER_NAME" Language="es_ES">
+			<Text>Jinete de Tigre</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TIGER_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad exclusiva de caballeria pesada de los Pandaren de la Época Medieval. No sufre penalizaciones al combate cuando recibe daños.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CRANE_RIDER_NAME" Language="es_ES">
+			<Text>Jinete de Grua</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CRANE_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria ligera de los Pandaren, remplaza los Jinetes. Más rapida y no requiere Caballos.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_KITE_NAME" Language="es_ES">
+			<Text>Cometa</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_KITE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad aerea de los Pandaren, esta disponible mucho antes en el juego.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PANDAREN_MONK_NAME" Language="es_ES">
+			<Text>Monje</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PANDAREN_MONK_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única cuerpo a cuerpo de los Pandaren, remplaza el Guerrero. Cuando derrota un enemigo da un 50% de la Fuerza de Combate [ICON_Strength] del enemigo como Fe [ICON_Faith].</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ORC_WARLOCK_NAME" Language="es_ES">
+			<Text>Brujo Orco</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ORC_WARLOCK_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia única de los Orcos. Se cura en cada turno, incluso despues de moverse o luchar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DREADNAUGHT_NAME" Language="es_ES">
+			<Text>Dreadnaught</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DREADNAUGHT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad naval a distancia única de los Orcos.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FEL_ORC_NAME" Language="es_ES">
+			<Text>Fel Orc</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FEL_ORC_DESCRIPTION" Language="es_ES">
+			<Text>Unidad exclusiva de los Orcos de la Época Medieval. 4 de Movimiento [ICON_Movement] si esta unidad empieza en territorio enemigo. +7 a la Fuerza de combate [ICON_Strength] al atacar y -7 a la Fuerza de combate [ICON_Strength] al defender.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NAGA_MYRMIDON_NAME" Language="es_ES">
+			<Text>Naga Mirmidón</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NAGA_MYRMIDON_DESCRIPTION" Language="es_ES">
+			<Text>Unidad anticaballeria de la era Medieval. +7 [ICON_Strength] Fuerza de Combate en casillas costeras.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NAGA_SIREN_NAME" Language="es_ES">
+			<Text>Sirena Naga</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NAGA_SIREN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia única que remplaza los Arqueros pero es más fuerte y se obtiene más tarde en la Era Clásica. +7 [ICON_Strength] Fuerza de Combate en casillas costeras.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DEMON_HUNTER_NAME" Language="es_ES">
+			<Text>Cazador de Demonios</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DEMON_HUNTER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única cuerpo a cuerpo. Puede moverse despues de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NETHERWING_DRAGONFLIGHT_NAME" Language="es_ES">
+			<Text>Vuelo Abisal</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NETHERWING_DRAGONFLIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad aerea de los Illidari, esta disponible mucho antes en el juego.</Text>
+		</Replace>
+		<!-- END MORE UNITS-->
+		<Replace Tag="LOC_IMPROVEMENT_GOBLIN_RESORT_NAME" Language="es_ES">
+			<Text>Centro turístico Goblin</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_GOBLIN_RESORT_DESCRIPTION" Language="es_ES">
+			<Text>Da el doble de Turismo [ICON_Tourism] por Atractivo de la casilla. Solo puede construirse en casillas de Desierto costero, Llanuras costeras o Praderas costeras. Atractivo mínimo: Impresionante. Da +1 Oro y +1 de Culture.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SERPENTS_SPINE_NAME" Language="es_ES">
+			<Text>Espinazo del Dragón</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SERPENTS_SPINE_DESCRIPTION"  Language="es_ES">
+			<Text>Aumenta la Defensa [ICON_Strength] y proporciona una bonificación al Oro [ICON_Gold] si está adyacente a otros segmentos. Más Cultura [ICON_Culture] y Turismo [ICON_Tourism] según avances en el árbol tecnológico por segmentos adyacentes. Debe construirse en una línea, a lo largo de las fronteras del imperio.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MOGU_STATUES_NAME" Language="es_ES">
+			<Text>Estatua Mogu</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MOGU_STATUES_DESCRIPTION"  Language="es_ES">
+			<Text>+1 [ICON_Faith] Fe y +1 [ICON_Culture] Cultura. No se puede construir sobre Nieve ni Colinas nevadas.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_PANDAREN_BREWERY_NAME" Language="es_ES">
+			<Text>Cerveceria Pandaren</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_PANDAREN_BREWERY_DESCRIPTION"  Language="es_ES">
+			<Text>+2 [ICON_Food] Alimentos. +1 [ICON_Gold] Oro por cada Granja a su lado. Solo se puede construir en Llanuras y Praderas al lado de un rio.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_STEAM_PUMP_NAME" Language="es_ES">
+			<Text>Bomba de Vapor</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_STEAM_PUMP_DESCRIPTION"  Language="es_ES">
+			<Text>+2 [ICON_Production] Producción. +1 [ICON_Gold] de Oro por Barcos Pesqueros a su lado. Solo puede ser construido en la costa y tiene que estar a más 3 casillas de distancia de otra Bomba de Vapor.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MANAFORGE_NAME" Language="es_ES">
+			<Text>Forja de Mana</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MANAFORGE_DESCRIPTION"  Language="es_ES">
+			<Text>+2 [ICON_Production] Producción. +1 [ICON_Science] Ciencia por cada Mina a su lado. Tiene que estar a más 3 casillas de distancia de otra Forja de Mana.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DRAGON_NEST_NAME" Language="es_ES">
+			<Text>Nido de Dragones</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DRAGON_NEST_DESCRIPTION" Language="es_ES">
+			<Text>Edifico unico que añade 2 huecos aereos a la ciudad. +1 [ICON_Faith] Fe.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DEMONIC_PORTAL_NAME" Language="es_ES">
+			<Text>Portal Demoniaco</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DEMONIC_PORTAL_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de la Legion Ardiente remplaza los Barracones. +40% de experiencia de combate para todas las unidades terrestres entrenadas en esta ciudad. Da 2 de Producción [ICON_Production], 2 Puntos para Grandes Generales y 1 de Alojamiento. Añade dos huecos aereos.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_KITE_FACTORY_NAME" Language="es_ES">
+			<Text>Fabrica de Cometas</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_KITE_FACTORY_DESCRIPTION" Language="es_ES">
+			<Text>Edifico unico que añade 2 huecos aereos a la ciudad. +1 [ICON_Culture] Culture.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SLAVE_STONEWORK_NAME" Language="es_ES">
+			<Text>Esclavos Canteria</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SLAVE_STONEWORK_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de los Mogu que remplaza el Taller. Da +3 Producción [ICON_Production] y +2 Puntos para Grandes Ingenieros. Proporciona dos casillas para Unidades Aereas.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

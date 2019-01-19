@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="RELIGION_NAARU" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_HOLY_LIGHT" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_BLOOD_KNIGHTS" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_FORGOTEN_SHADOW" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_CULT_DAMMED" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_ARCANE" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_FEL" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_SHAMANISM" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_DRUIDISM" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_GEOMANCY" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_ELUNE" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_EARTHMOTHER" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_WOW_OLD_GODS" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_VOODO" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_TITANS" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_MONEY" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_FOREST_LOA" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_TUNDRA_LOA" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_ZANDALAR_LOA" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_JUNGLE_LOA" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_ISLAND_LOA" Kind="KIND_RELIGION" />
+
+	</Types>
+
+	<Religions>
+		<Row ReligionType="RELIGION_NAARU" Name="LOC_RELIGION_NAARU" Iconstring="Na" RequiresCustomName="0" Color="COLOR_RELIGION_NAARU"/>
+		<Row ReligionType="RELIGION_HOLY_LIGHT" Name="LOC_RELIGION_HOLY_LIGHT" Iconstring="HL" RequiresCustomName="0" Color="COLOR_RELIGION_HOLY_LIGHT"/>
+		<Row ReligionType="RELIGION_BLOOD_KNIGHTS" Name="LOC_RELIGION_BLOOD_KNIGHTS" Iconstring="BK" RequiresCustomName="0" Color="COLOR_RELIGION_BLOOD_KNIGHTS"/>
+		<Row ReligionType="RELIGION_FORGOTEN_SHADOW" Name="LOC_RELIGION_FORGOTEN_SHADOW" Iconstring="FS" RequiresCustomName="0" Color="COLOR_RELIGION_FORGOTEN_SHADOW"/>
+		<Row ReligionType="RELIGION_CULT_DAMMED" Name="LOC_RELIGION_CULT_DAMMED" Iconstring="CD" RequiresCustomName="0" Color="COLOR_RELIGION_CULT_DAMMED"/>
+		<Row ReligionType="RELIGION_ARCANE" Name="LOC_RELIGION_ARCANE" Iconstring="Ac" RequiresCustomName="0" Color="COLOR_RELIGION_ARCANE"/>
+		<Row ReligionType="RELIGION_FEL" Name="LOC_RELIGION_FEL" Iconstring="Fl" RequiresCustomName="0" Color="COLOR_RELIGION_FEL"/>
+		<Row ReligionType="RELIGION_SHAMANISM" Name="LOC_RELIGION_SHAMANISM" Iconstring="Sh" RequiresCustomName="0" Color="COLOR_RELIGION_SHAMANISM"/>
+		<Row ReligionType="RELIGION_DRUIDISM" Name="LOC_RELIGION_DRUIDISM" Iconstring="Dr" RequiresCustomName="0" Color="COLOR_RELIGION_DRUIDISM"/>
+		<Row ReligionType="RELIGION_GEOMANCY" Name="LOC_RELIGION_GEOMANCY" Iconstring="Gy" RequiresCustomName="0" Color="COLOR_RELIGION_GEOMANCY"/>
+		<Row ReligionType="RELIGION_ELUNE" Name="LOC_RELIGION_ELUNE" Iconstring="El" RequiresCustomName="0" Color="COLOR_RELIGION_ELUNE"/>
+		<Row ReligionType="RELIGION_EARTHMOTHER" Name="LOC_RELIGION_EARTHMOTHER" Iconstring="et" RequiresCustomName="0" Color="COLOR_RELIGION_EARTHMOTHER"/>
+		<Row ReligionType="RELIGION_WOW_OLD_GODS" Name="LOC_RELIGION_WOW_OLD_GODS" Iconstring="og" RequiresCustomName="0" Color="COLOR_RELIGION_WOW_OLD_GODS"/>
+		<Row ReligionType="RELIGION_VOODO" Name="LOC_RELIGION_VOODO" Iconstring="vd" RequiresCustomName="0" Color="COLOR_RELIGION_VOODO"/>
+		<Row ReligionType="RELIGION_TITANS" Name="LOC_RELIGION_TITANS" Iconstring="TT" RequiresCustomName="0" Color="COLOR_RELIGION_TITANS"/>
+		<Row ReligionType="RELIGION_MONEY" Name="LOC_RELIGION_MONEY" Iconstring="My" RequiresCustomName="0" Color="COLOR_RELIGION_MONEY"/>
+		<Row ReligionType="RELIGION_FOREST_LOA" Name="LOC_RELIGION_FOREST_LOA" Iconstring="fl" RequiresCustomName="0" Color="COLOR_RELIGION_FOREST_LOA"/>
+		<Row ReligionType="RELIGION_TUNDRA_LOA" Name="LOC_RELIGION_TUNDRA_LOA" Iconstring="tl" RequiresCustomName="0" Color="COLOR_RELIGION_TUNDRA_LOA"/>
+		<Row ReligionType="RELIGION_ZANDALAR_LOA" Name="LOC_RELIGION_ZANDALAR_LOA" Iconstring="Zl" RequiresCustomName="0" Color="COLOR_RELIGION_ZANDALAR_LOA"/>
+		<Row ReligionType="RELIGION_JUNGLE_LOA" Name="LOC_RELIGION_JUNGLE_LOA" Iconstring="jl" RequiresCustomName="0" Color="COLOR_RELIGION_JUNGLE_LOA"/>
+		<Row ReligionType="RELIGION_ISLAND_LOA" Name="LOC_RELIGION_ISLAND_LOA" Iconstring="il" RequiresCustomName="0" Color="COLOR_RELIGION_ISLAND_LOA"/>
+
+	</Religions>
+
+	<FavoredReligions>
+		<Row LeaderType="LEADER_GARROSH_HELLSCREAM" ReligionType="RELIGION_SHAMANISM" />
+		<Row LeaderType="LEADER_VOL_JIN" ReligionType="RELIGION_ISLAND_LOA" />
+		<Row LeaderType="LEADER_BAINE_BLOODHOOF" ReligionType="RELIGION_EARTHMOTHER" />
+		<Row LeaderType="LEADER_SYLVANAS_WINDRUNNER" ReligionType="RELIGION_FORGOTEN_SHADOW" />
+		<Row LeaderType="LEADER_LOR_THEMAR_THERON" ReligionType="RELIGION_BLOOD_KNIGHTS" />
+		<Row LeaderType="LEADER_JASTOR_GALLYWIX" ReligionType="RELIGION_MONEY" />
+		<Row LeaderType="LEADER_VARIAN_WRYNN" ReligionType="RELIGION_HOLY_LIGHT" />
+		<Row LeaderType="LEADER_MURADIN_BRONZEBEARD" ReligionType="RELIGION_TITANS" />
+		<Row LeaderType="LEADER_TYRANDE_WHISPERWIND" ReligionType="RELIGION_ELUNE" />
+		<Row LeaderType="LEADER_PROPHET_VELEN" ReligionType="RELIGION_NAARU" />
+		<Row LeaderType="LEADER_GENN_GREYMANE" ReligionType="RELIGION_HOLY_LIGHT" />
+		<Row LeaderType="LEADER_GELBIN_MEKKATORQUE" ReligionType="RELIGION_ARCANE" />
+		<Row LeaderType="LEADER_TIRION_FORDRING" ReligionType="RELIGION_HOLY_LIGHT" />
+		<Row LeaderType="LEADER_LICH_KING" ReligionType="RELIGION_CULT_DAMMED" />
+		<Row LeaderType="LEADER_ZULJIN" ReligionType="RELIGION_FOREST_LOA" />
+		<Row LeaderType="LEADER_JINDO" ReligionType="RELIGION_JUNGLE_LOA" />
+		<Row LeaderType="LEADER_MALAKK" ReligionType="RELIGION_TUNDRA_LOA" />
+		<Row LeaderType="LEADER_RASTAKHAN" ReligionType="RELIGION_ZANDALAR_LOA" />
+
+	</FavoredReligions>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_RELIGION_NAARU</Type>
+			<Red>0.843</Red>
+			<Green>0.376</Green>
+			<Blue>1</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_HOLY_LIGHT</Type>
+			<Red>1</Red>
+			<Green>1</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_BLOOD_KNIGHTS</Type>
+			<Red>1</Red>
+			<Green>0</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FORGOTEN_SHADOW</Type>
+			<Red>0.501</Red>
+			<Green>0.501</Green>
+			<Blue>0.501</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_CULT_DAMMED</Type>
+			<Red>0.125</Red>
+			<Green>0.011</Green>
+			<Blue>0.498</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_ARCANE</Type>
+			<Red>0.176</Red>
+			<Green>0.894</Green>
+			<Blue>0.776</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FEL</Type>
+			<Red>0.058</Red>
+			<Green>0.886</Green>
+			<Blue>0.239</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_SHAMANISM</Type>
+			<Red>0.058</Red>
+			<Green>0.349</Green>
+			<Blue>0.239</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_DRUIDISM</Type>
+			<Red>0.219</Red>
+			<Green>0.337</Green>
+			<Blue>0.219</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_GEOMANCY</Type>
+			<Red>0.474</Red>
+			<Green>0.619</Green>
+			<Blue>0.619</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_ELUNE</Type>
+			<Red>0.800</Red>
+			<Green>0.800</Green>
+			<Blue>0.800</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_EARTHMOTHER</Type>
+			<Red>0.286</Red>
+			<Green>0.125</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_WOW_OLD_GODS</Type>
+			<Red>0.152</Red>
+			<Green>0.027</Green>
+			<Blue>0.286</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_VOODO</Type>
+			<Red>0.254</Red>
+			<Green>0.607</Green>
+			<Blue>0.917</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_TITANS</Type>
+			<Red>0.501</Red>
+			<Green>0.501</Green>
+			<Blue>0.501</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_MONEY</Type>
+			<Red>0.768</Red>
+			<Green>0.466</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FOREST_LOA</Type>
+			<Red>1</Red>
+			<Green>0.415</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_TUNDRA_LOA</Type>
+			<Red>0</Red>
+			<Green>0.074</Green>
+			<Blue>0.498</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_ZANDALAR_LOA</Type>
+			<Red>1</Red>
+			<Green>0.847</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_JUNGLE_LOA</Type>
+			<Red>0</Red>
+			<Green>0.498</Green>
+			<Blue>0.498</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_ISLAND_LOA</Type>
+			<Red>0.498</Red>
+			<Green>0</Green>
+			<Blue>0.431</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>

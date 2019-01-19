@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="MyIcons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="MyWOWPotraits38"/>
+			<m_ObjectName text="MyWOWPotraits38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWPotraits50"/>
+			<m_ObjectName text="MyWOWPotraits50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWPotraits70"/>
+			<m_ObjectName text="MyWOWPotraits70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWPotraits95"/>
+			<m_ObjectName text="MyWOWPotraits95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWPotraits200"/>
+			<m_ObjectName text="MyWOWPotraits200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWPotraits256"/>
+			<m_ObjectName text="MyWOWPotraits256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOWReligionIcon_270"/>
+			<m_ObjectName text="WOWReligionIcon_270"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOWReligionIcon_100"/>
+			<m_ObjectName text="WOWReligionIcon_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOWReligionIcon_50"/>
+			<m_ObjectName text="WOWReligionIcon_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOWReligionIcon_22"/>
+			<m_ObjectName text="WOWReligionIcon_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWLeaders256"/>
+			<m_ObjectName text="MyWOWLeaders256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWLeaders80"/>
+			<m_ObjectName text="MyWOWLeaders80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWLeaders64"/>
+			<m_ObjectName text="MyWOWLeaders64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWLeaders55"/>
+			<m_ObjectName text="MyWOWLeaders55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWLeaders50"/>
+			<m_ObjectName text="MyWOWLeaders50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWLeaders48"/>
+			<m_ObjectName text="MyWOWLeaders48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWLeaders45"/>
+			<m_ObjectName text="MyWOWLeaders45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWLeaders32"/>
+			<m_ObjectName text="MyWOWLeaders32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWFlags256"/>
+			<m_ObjectName text="MyWOWFlags256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWFlags80"/>
+			<m_ObjectName text="MyWOWFlags80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWFlags64"/>
+			<m_ObjectName text="MyWOWFlags64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWFlags50"/>
+			<m_ObjectName text="MyWOWFlags50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWFlags48"/>
+			<m_ObjectName text="MyWOWFlags48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWFlags45"/>
+			<m_ObjectName text="MyWOWFlags45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWFlags44"/>
+			<m_ObjectName text="MyWOWFlags44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWFlags36"/>
+			<m_ObjectName text="MyWOWFlags36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWFlags32"/>
+			<m_ObjectName text="MyWOWFlags32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWFlags30"/>
+			<m_ObjectName text="MyWOWFlags30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOWFlags22"/>
+			<m_ObjectName text="MyWOWFlags22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="P2MyWOWPotraits256"/>
+			<m_ObjectName text="P2MyWOWPotraits256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="P2MyWOWPotraits200"/>
+			<m_ObjectName text="P2MyWOWPotraits200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="P2MyWOWPotraits95"/>
+			<m_ObjectName text="P2MyWOWPotraits95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="P2MyWOWPotraits70"/>
+			<m_ObjectName text="P2MyWOWPotraits70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="P2MyWOWPotraits50"/>
+			<m_ObjectName text="P2MyWOWPotraits50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="P2MyWOWPotraits38"/>
+			<m_ObjectName text="P2MyWOWPotraits38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOW_Units256"/>
+			<m_ObjectName text="WOW_Units256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOW_Units80"/>
+			<m_ObjectName text="WOW_Units80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOW_Units50"/>
+			<m_ObjectName text="WOW_Units50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOW_Units38"/>
+			<m_ObjectName text="WOW_Units38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOW_Units32"/>
+			<m_ObjectName text="WOW_Units32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOW_Units22"/>
+			<m_ObjectName text="WOW_Units22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOW_Units256_FOW"/>
+			<m_ObjectName text="WOW_Units256_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOW_Units80_FOW"/>
+			<m_ObjectName text="WOW_Units80_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOW_Units50_FOW"/>
+			<m_ObjectName text="WOW_Units50_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOW_Units38_FOW"/>
+			<m_ObjectName text="WOW_Units38_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOW_Units32_FOW"/>
+			<m_ObjectName text="WOW_Units32_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOW_Units22_FOW"/>
+			<m_ObjectName text="WOW_Units22_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOWBuildings256"/>
+			<m_ObjectName text="WOWBuildings256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOWBuildings128"/>
+			<m_ObjectName text="WOWBuildings128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOWBuildings80"/>
+			<m_ObjectName text="WOWBuildings80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOWBuildings50"/>
+			<m_ObjectName text="WOWBuildings50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOWBuildings38"/>
+			<m_ObjectName text="WOWBuildings38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOWBuildings32"/>
+			<m_ObjectName text="WOWBuildings32"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

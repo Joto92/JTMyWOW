@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_GARROSH_HELLSCREAM_NEUTRAL"/>
+			<m_ObjectName text="LEADER_GARROSH_HELLSCREAM_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GARROSH_HELLSCREAM_BACKGROUND"/>
+			<m_ObjectName text="LEADER_GARROSH_HELLSCREAM_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VOL_JIN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_VOL_JIN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VOL_JIN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_VOL_JIN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_BAINE_BLOODHOOF_NEUTRAL"/>
+			<m_ObjectName text="LEADER_BAINE_BLOODHOOF_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_BAINE_BLOODHOOF_BACKGROUND"/>
+			<m_ObjectName text="LEADER_BAINE_BLOODHOOF_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SYLVANAS_WINDRUNNER_BACKGROUND"/>
+			<m_ObjectName text="LEADER_SYLVANAS_WINDRUNNER_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LOR_THEMAR_THERON_BACKGROUND"/>
+			<m_ObjectName text="LEADER_LOR_THEMAR_THERON_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JASTOR_GALLYWIX_NEUTRAL"/>
+			<m_ObjectName text="LEADER_JASTOR_GALLYWIX_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JASTOR_GALLYWIX_BACKGROUND"/>
+			<m_ObjectName text="LEADER_JASTOR_GALLYWIX_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VARIAN_WRYNN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_VARIAN_WRYNN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VARIAN_WRYNN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_VARIAN_WRYNN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MURADIN_BRONZEBEARD_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MURADIN_BRONZEBEARD_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MURADIN_BRONZEBEARD_BACKGROUND"/>
+			<m_ObjectName text="LEADER_MURADIN_BRONZEBEARD_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TYRANDE_WHISPERWIND_BACKGROUND"/>
+			<m_ObjectName text="LEADER_TYRANDE_WHISPERWIND_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_PROPHET_VELEN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_PROPHET_VELEN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_PROPHET_VELEN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_PROPHET_VELEN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GENN_GREYMANE_NEUTRAL"/>
+			<m_ObjectName text="LEADER_GENN_GREYMANE_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GENN_GREYMANE_BACKGROUND"/>
+			<m_ObjectName text="LEADER_GENN_GREYMANE_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GELBIN_MEKKATORQUE_NEUTRAL"/>
+			<m_ObjectName text="LEADER_GELBIN_MEKKATORQUE_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GELBIN_MEKKATORQUE_BACKGROUND"/>
+			<m_ObjectName text="LEADER_GELBIN_MEKKATORQUE_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TIRION_FORDRING_NEUTRAL"/>
+			<m_ObjectName text="LEADER_TIRION_FORDRING_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TIRION_FORDRING_BACKGROUND"/>
+			<m_ObjectName text="LEADER_TIRION_FORDRING_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LICH_KING_NEUTRAL"/>
+			<m_ObjectName text="LEADER_LICH_KING_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LICH_KING_BACKGROUND"/>
+			<m_ObjectName text="LEADER_LICH_KING_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ZULJIN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ZULJIN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ZULJIN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ZULJIN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JINDO_NEUTRAL"/>
+			<m_ObjectName text="LEADER_JINDO_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JINDO_BACKGROUND"/>
+			<m_ObjectName text="LEADER_JINDO_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MALAKK_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MALAKK_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MALAKK_BACKGROUND"/>
+			<m_ObjectName text="LEADER_MALAKK_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RASTAKHAN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_RASTAKHAN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RASTAKHAN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_RASTAKHAN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WOW_LOADING_BACKGROUND"/>
+			<m_ObjectName text="WOW_LOADING_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SYLVANAS_WINDRUNNER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_SYLVANAS_WINDRUNNER_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TYRANDE_WHISPERWIND_NEUTRAL"/>
+			<m_ObjectName text="LEADER_TYRANDE_WHISPERWIND_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LOR_THEMAR_THERON_NEUTRAL"/>
+			<m_ObjectName text="LEADER_LOR_THEMAR_THERON_NEUTRAL"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+
