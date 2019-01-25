@@ -1338,7 +1338,7 @@
 			<Text>Dreadlord</Text>
 			<Gender>Masculine:a</Gender>
 		</Row>
-		<Row Tag="LOC_UNIT_DREADLORDT_DESCRIPTION" Language="en_US">
+		<Row Tag="LOC_UNIT_DREADLORD_DESCRIPTION" Language="en_US">
 			<Text>Burning Legion unique suport unit with ranged attack.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_OGRE_MAGE_NAME" Language="en_US">
