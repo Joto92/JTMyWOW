@@ -1,5 +1,12 @@
 # Civ VI World Of Warcraft Mod
 - - - -
+# INDEX 
+1. [To Do](#1-to-do)
+2. [Leader & Civs](#2-leader--civs)
+3. [City States](#3-city-states)
+4. [Natural Wonders](#4-natural-wonders)
+5. [Building Wonders](#5-building-wonders)
+- - - -
 # 1. To Do
 Things to Do:
 * World wonders using existing models or new
@@ -580,3 +587,11 @@ Armies of Legionfall: Combat victories provide [ICON_Culture] Culture equal to 5
 
 HISTORIC MOD:
 * SCIENTIFIC: Stormspire
+- - - -
+# 4. Natural Wonders
+Possible wonders:
+Blackrock Mountain, Un'Goro Crater, Vashj'ir, Black Morass, Krag'wa's Burrow, Storm Peaks, Exclamation Point, Grim Batol, Highmountain Peak, Hyjal Summit, Ironforge Mountain, Lost Peak, Mount Kajaro, Mount Mugamba, Mount Neverest, Swarming Pillar, Thunder Peak, Twin Colossals, Maelstrom, Thousand Needles, Onyxia's Lair, Razorfen Kraul, The Wailing Caverns, Maraudon, Sulfuron Spire, Teldrassil, Lake Elune'ara, Pools of Purity, Geyser Fields, River's Heart, Grizzlemaw, Vile Reef, Dalaran Crater, Deadmines, Caverns of Time
+- - - -
+# 5. Building Wonders
+Possible wonders:
+Grommash Hold, Cleft of Shadow, Ring of Valor, Gallywix's Pride, Seat of the Naaru, Temple of Elune, Gurubashi Arena, Wizard's Sanctum, Cathedral of Light, Great Forge, Light's Dawn Cathedral, Court of the Sun, Sunwell, Karazhan , Atal'Dazar
