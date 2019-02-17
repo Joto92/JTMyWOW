@@ -215,19 +215,19 @@
 		</Update>
 	</Units>
 	<UnitUpgrades>
-		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_WOLF_RIDER_LIGHT</UpgradeUnit></Set></Update>
-		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_RAPTOR_RIDER_LIGHT</UpgradeUnit></Set></Update>
-		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_KODO_RIDER_LIGHT</UpgradeUnit></Set></Update>
-		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_TURTLE_RIDER</UpgradeUnit></Set></Update>
-		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_RAM_RIDER_LIGHT</UpgradeUnit></Set></Update>
-		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_SABER_RIDER_LIGHT</UpgradeUnit></Set></Update>
-		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_ELEKK_RIDER_LIGHT</UpgradeUnit></Set></Update>
-		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_MECHANOSTRIDER_RIDER</UpgradeUnit></Set></Update>
-		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_PLAGUE_DOG</UpgradeUnit></Set></Update>
-		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_BEAR_RIDER_LIGHT</UpgradeUnit></Set></Update>
-		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_DARK_HOUND</UpgradeUnit></Set></Update>
-		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_BRONZE_QUILEN</UpgradeUnit></Set></Update>
-		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_CRANE_RIDER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_WOLF_RIDER_LIGHT"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_RAPTOR_RIDER_LIGHT"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_KODO_RIDER_LIGHT"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_TURTLE_RIDER"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_RAM_RIDER_LIGHT"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_SABER_RIDER_LIGHT"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_ELEKK_RIDER_LIGHT"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_MECHANOSTRIDER_RIDER"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_PLAGUE_DOG"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_BEAR_RIDER_LIGHT"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_DARK_HOUND"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_BRONZE_QUILEN"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_CRANE_RIDER"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
 	</UnitUpgrades>
 	<Units_XP2>
 		<Row UnitType="UNIT_DRAENEI_PRIEST" CanEarnExperience="false" CanFormMilitaryFormation="false"/>
