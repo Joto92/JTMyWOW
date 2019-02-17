@@ -3716,5 +3716,287 @@
 			<Text>Khal'ak</Text>
 		</Row>
 		<!-- End of Citizens-->
+		<!-- Rivers: -->
+		<Row Tag="LOC_NAMED_RIVER_SOUTHFURY_NAME" Language="en_US">
+			<Text>Southfury River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WINDFURY_NAME" Language="en_US">
+			<Text>Windfury River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BLACKWOLF_NAME" Language="en_US">
+			<Text>Blackwolf River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_FALFARREN_NAME" Language="en_US">
+			<Text>Falfarren River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WILDBEND_NAME" Language="en_US">
+			<Text>Wildbend River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CLIFFSPRING_NAME" Language="en_US">
+			<Text>Cliffspring River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NORTSHIRE_NAME" Language="en_US">
+			<Text>Northshire River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_STONEWATCH_NAME" Language="en_US">
+			<Text>Stonewatch River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NAZFERITI_NAME" Language="en_US">
+			<Text>Nazferiti River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WELLSPRING_NAME" Language="en_US">
+			<Text>Wellspring River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_VERDANTIS_NAME" Language="en_US">
+			<Text>Verdantis River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BLOODVENOM_NAME" Language="en_US">
+			<Text>Bloodvenom River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_THONDRORIL_NAME" Language="en_US">
+			<Text>Thondroril River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DARROWMERE_NAME" Language="en_US">
+			<Text>Darrowmere River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TRANQUIL_PATHS_NAME" Language="en_US">
+			<Text>Tranquil Paths</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_AVALON_NAME" Language="en_US">
+			<Text>Avalon River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RAINSPEAKER_RAPIDS_NAME" Language="en_US">
+			<Text>Rainspeaker Rapids</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_FRENZYHEART_NAME" Language="en_US">
+			<Text>Frenzyheart River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SEABREACH_FLOW_NAME" Language="en_US">
+			<Text>Seabreach Flow</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WINTERGRASP_NAME" Language="en_US">
+			<Text>Wintergrasp River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DRAGONSPINE_NAME" Language="en_US">
+			<Text>Dragonspine River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BOREA_NAME" Language="en_US">
+			<Text>Borea River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ICECROWN_NAME" Language="en_US">
+			<Text>Icecrown River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TWILIGHT_RIVULET_NAME" Language="en_US">
+			<Text>Twilight Rivulet</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BORS_BREATH_NAME" Language="en_US">
+			<Text>Bor's Breath</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_THREE_MOONS_NAME" Language="en_US">
+			<Text>River of the Three Moons</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ELRENDAR_NAME" Language="en_US">
+			<Text>Elrendar River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GREENRUSH_NAME" Language="en_US">
+			<Text>Greenrush River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_STORMFEATHER_NAME" Language="en_US">
+			<Text>Stormfeather River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NORTHGATE_NAME" Language="en_US">
+			<Text>Northgate River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_AREVASS_NAME" Language="en_US">
+			<Text>Arevass River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CHILLWIND_NAME" Language="en_US">
+			<Text>Chillwind River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BULLWARK_NAME" Language="en_US">
+			<Text>Bullwark River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RONAL_NAME" Language="en_US">
+			<Text>Ronal River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_VERRALL_NAME" Language="en_US">
+			<Text>Verrall River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CRYSTALBROOK_NAME" Language="en_US">
+			<Text>Crystalbrook River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KINGSMOUTH_NAME" Language="en_US">
+			<Text>Kingsmouth River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SHATTERED_NAME" Language="en_US">
+			<Text>Shattered River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_VIRNAAL_NAME" Language="en_US">
+			<Text>Vir'naal River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_UNGORO_NAME" Language="en_US">
+			<Text>Un'goro River</Text>
+		</Row>
+		<!--
+		Pandaria:Dojani River, Gilding Stream, Krasarang River, Slicky Stream, Spiritsong River, Yan-Zhe River
+		Draenor: The Felblight
+		Broken Isles: Whitewater Wash
+		-->
+		<!--- Deserts-->
+		<Row Tag="LOC_NAMED_DESERT_DUROTAR_NAME" Language="en_US">
+			<Text>Durotar Desert</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_THOUSAND_NEEDLES_NAME" Language="en_US">
+			<Text>Thousand Needles</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_DESOLACE_NAME" Language="en_US">
+			<Text>Desolace Desert</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_TANARIS_NAME" Language="en_US">
+			<Text>Tanaris Desert</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_ABYSSAL_SANDS_NAME" Language="en_US">
+			<Text>Abyssal Sands</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_ULDUM_NAME" Language="en_US">
+			<Text>Uldum Desert</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_SILITHUS_NAME" Language="en_US">
+			<Text>Silithus Desert</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_AHN_QIRAJ_NAME" Language="en_US">
+			<Text>Ahn'Qiraj Desert</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_BLASTED_LANDS_NAME" Language="en_US">
+			<Text>Blasted Lands</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_BURNING_STEPPES_NAME" Language="en_US">
+			<Text>Burning Steppes</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_SEARING_GORGE_NAME" Language="en_US">
+			<Text>Searing Gorge</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_BADLANDS_NAME" Language="en_US">
+			<Text>Badlands Desert</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_DEADWIND_PASS_NAME" Language="en_US">
+			<Text>Deadwind Pass</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_VOLDUN_NAME" Language="en_US">
+			<Text>Vol'dun Desert</Text>
+		</Row>
+		<!-- Range Mountains-->
+		<Row Tag="LOC_NAMED_MOUNTAIN_AMANI_NAME" Language="en_US">
+			<Text>Amani Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MAISARA_NAME" Language="en_US">
+			<Text>Maisara Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ARATHI_NAME" Language="en_US">
+			<Text>Arathi Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_THALASSIAN_NAME" Language="en_US">
+			<Text>Thalassian Range</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_GREENWOOD_NAME" Language="en_US">
+			<Text>Greenwood Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DARROWMERE_NAME" Language="en_US">
+			<Text>Darrowmere Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_LORADEON_NAME" Language="en_US">
+			<Text>Loradeon Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TIRISFAL_NAME" Language="en_US">
+			<Text>Tirisfal Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ALTERAC_NAME" Language="en_US">
+			<Text>Alterac Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_AERIE_PEAKS_NAME" Language="en_US">
+			<Text>Aerie Peaks</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DUN_MOROGH_NAME" Language="en_US">
+			<Text>Dun Morogh</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KHAZ_NAME" Language="en_US">
+			<Text>Khaz Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_LETHLOR_RIDGE_NAME" Language="en_US">
+			<Text>Lethlor Ridge</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_AZEROTH_NAME" Language="en_US">
+			<Text>Azeroth Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_REDRIDGE_NAME" Language="en_US">
+			<Text>Redridge Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SCULLSPLITTER_NAME" Language="en_US">
+			<Text>Scullsplitter Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_STRANGLETHORN_NAME" Language="en_US">
+			<Text>Stranglethorn Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BLADESCAR_NAME" Language="en_US">
+			<Text>The Bladescar</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MULGORE_NAME" Language="en_US">
+			<Text>Mulgore Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_STONETALON_NAME" Language="en_US">
+			<Text>Stonetalon Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ZULDRAK_NAME" Language="en_US">
+			<Text>Zul'Drak Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_STORM_PEAKS_NAME" Language="en_US">
+			<Text>Storm Peaks</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DRAGONSPINE_PEAKS_NAME" Language="en_US">
+			<Text>Dragonspine Peaks</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_FROSTBLADE_PEAKS_NAME" Language="en_US">
+			<Text>Frostblade Peaks</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_WINTERGRASP_NAME" Language="en_US">
+			<Text>Wintergrasp Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ICECROWN_NAME" Language="en_US">
+			<Text>Icecrown Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TELDRASSIL_NAME" Language="en_US">
+			<Text>Teldrassil</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HYJAL_NAME" Language="en_US">
+			<Text>Hyjal Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_WINTERSPRING_NAME" Language="en_US">
+			<Text>Winterspring Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DREADMIST_PEAKS_NAME" Language="en_US">
+			<Text>Dreadmist Peaks</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_GREAT_BULWARKS_NAME" Language="en_US">
+			<Text>Great Bulwarks</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ELWYNN_NAME" Language="en_US">
+			<Text>Elwynn Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SUNGRAZE_PEAKS_NAME" Language="en_US">
+			<Text>Sungraze Peaks</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_WILDWIND_PEAKS_NAME" Language="en_US">
+			<Text>Wildwind Peaks</Text>
+		</Row>
+
+		<!-- Volcanos  -->
+		<Row Tag="LOC_NAMED_VOLCANO_FORLORN_NAME" Language="en_US">
+			<Text>Forlorn</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SEARING_PEAK_NAME" Language="en_US">
+			<Text>Searing Peak</Text>
+		</Row>
+		<!--¿Future Natural Wonders? Blackrock , Mount Kajaro, Un'Goro, Thunder Peak-->
+		
 	</LocalizedText>
 </GameData>

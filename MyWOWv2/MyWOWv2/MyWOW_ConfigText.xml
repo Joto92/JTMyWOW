@@ -20,7 +20,9 @@
 		<Row Tag="LOC_TRAIT_BLOODY_FURY_DESCRIPTION" Language="en_US">
 			<Text>+10 [ICON_Strength] Combat Strength for all melee units. Accumulate 25% less war weariness than usual.</Text>
 		</Row>
-
+		<Row Tag="LOC_TRAIT_BLOODY_FURY_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength for all melee units. Accumulate 25% less war weariness than usual. Units do not receive damage from Dust Storms.</Text>
+		</Row>
 		<Row Tag="LOC_TRAIT_SON_OF_HELLSCREAM_NAME" Language="en_US">
 			<Text>Son of Hellscream</Text>
 		</Row>
@@ -473,6 +475,9 @@
 		<Row Tag="LOC_TRAIT_CLAN_BRONZEBEARD_DESCRIPTION" Language="en_US">
 			<Text>Snow terrain gives food as Grasslands to other Civilizations. Each Archaeological Museum holds 6 [ICON_GreatWork_Artifact] Artifacts instead of 3 and can support 2 Archaeologists at once. Archaeological Museums are automatically themed when they have 6 [ICON_GreatWork_Artifact] Artifacts.</Text>
 		</Row>
+		<Row Tag="LOC_TRAIT_CLAN_BRONZEBEARD_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>Snow terrain gives food as Grasslands to other Civilizations. Each Archaeological Museum holds 6 [ICON_GreatWork_Artifact] Artifacts instead of 3 and can support 2 Archaeologists at once. Archaeological Museums are automatically themed when they have 6 [ICON_GreatWork_Artifact] Artifacts. Units do not receive damage from Blizzards.</Text>
+		</Row>
 		<Row Tag="LOC_UNIT_DWARF_RIFLEMAN_NAME" Language="en_US">
 			<Text>Dwarf Rifleman</Text>
 			<Gender>Masculine:a</Gender>
@@ -802,6 +807,9 @@
 		<Row Tag="LOC_TRAIT_UNDEAD_EMPIRE_DESCRIPTION" Language="en_US">
 			<Text>Tundra and Snow terrain gives food as Grasslands to other Civilizations.</Text>
 		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNDEAD_EMPIRE_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>Tundra and Snow terrain gives food as Grasslands to other Civilizations. Units do not receive damage from Blizzards. Civilizations that are at war with you receive +100% unit damage from Blizzards in your territory.</Text>
+		</Row>
 		<Row Tag="LOC_TRAIT_DEATH_GOD_NAME" Language="en_US">
 			<Text>Death God</Text>
 		</Row>
@@ -973,6 +981,9 @@
 		</Row>
 		<Row Tag="LOC_TRAIT_ICE_TROLLS_DESCRIPTION" Language="en_US">
 			<Text>All units heal every turn, even after moving or combat. +1 [ICON_FAITH] Faith and +1 [ICON_PRODUCTION] Production in Tundra tiles.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ICE_TROLLS_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>All units heal every turn, even after moving or combat. +1 [ICON_FAITH] Faith and +1 [ICON_PRODUCTION] Production in Tundra tiles. Units do not receive damage from Blizzards.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_FROST_KING_NAME" Language="en_US">
 			<Text>Frost King</Text>
@@ -1338,7 +1349,7 @@
 			<Text>Dreadlord</Text>
 			<Gender>Masculine:a</Gender>
 		</Row>
-		<Row Tag="LOC_UNIT_DREADLORD_DESCRIPTION" Language="en_US">
+		<Row Tag="LOC_UNIT_DREADLORDT_DESCRIPTION" Language="en_US">
 			<Text>Burning Legion unique suport unit with ranged attack.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_OGRE_MAGE_NAME" Language="en_US">

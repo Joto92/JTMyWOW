@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<!--
+-->
+	<UnitReplaces>
+		<Update><Set ReplacesUnitType="UNIT_SKIRMISHER"/><Where CivUniqueUnitType="UNIT_DARK_RANGER"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_SKIRMISHER"/><Where CivUniqueUnitType="UNIT_ELVEN_RANGER"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_SKIRMISHER"/><Where CivUniqueUnitType="UNIT_WORGEN_STALKER"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_WOLF_RIDER_LIGHT"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_RAPTOR_RIDER_LIGHT"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_KODO_RIDER_LIGHT"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_TURTLE_RIDER"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_RAM_RIDER_LIGHT"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_SABER_RIDER_LIGHT"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_ELEKK_RIDER_LIGHT"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_MECHANOSTRIDER_RIDER"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_PLAGUE_DOG"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_BEAR_RIDER_LIGHT"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_DARK_HOUND"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_BRONZE_QUILEN"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_CRANE_RIDER"/></Update>
+	</UnitReplaces>
+	<TypeTags>
+		<Update><Set Tag="CLASS_MOBILE_RANGED"/><Where><Type>UNIT_DARK_RANGER</Type><Tag>CLASS_RANGED</Tag></Where> </Update>
+		<Update><Set Tag="CLASS_MOBILE_RANGED"/><Where><Type>UNIT_ELVEN_RANGER</Type><Tag>CLASS_RANGED</Tag></Where> </Update>
+	</TypeTags>
+	<Units>
+		<Update>
+			<Set>
+				<Cost>160</Cost>
+				<Maintenance>2</Maintenance>
+				<Combat>25</Combat>
+				<RangedCombat>40</RangedCombat>
+				<PrereqTech>TECH_MACHINERY</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_DARK_RANGER</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>160</Cost>
+				<Maintenance>2</Maintenance>
+				<Combat>25</Combat>
+				<RangedCombat>40</RangedCombat>
+				<PrereqTech>TECH_MACHINERY</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_ELVEN_RANGER</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>160</Cost>
+				<Maintenance>2</Maintenance>
+				<Combat>40</Combat>
+				<PrereqTech>TECH_MILITARY_TACTICS</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_WORGEN_STALKER</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where><UnitType>UNIT_WOLF_RIDER_LIGHT</UnitType></Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_RAPTOR_RIDER_LIGHT</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_KODO_RIDER_LIGHT</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_TURTLE_RIDER</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_RAM_RIDER_LIGHT</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_SABER_RIDER_LIGHT</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_ELEKK_RIDER_LIGHT</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>6</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_MECHANOSTRIDER_RIDER</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_PLAGUE_DOG</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_BEAR_RIDER_LIGHT</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_DARK_HOUND</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>190</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_BRONZE_QUILEN</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>6</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_CRANE_RIDER</UnitType>
+			</Where>
+		</Update>
+	</Units>
+	<UnitUpgrades>
+		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_WOLF_RIDER_LIGHT</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_RAPTOR_RIDER_LIGHT</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_KODO_RIDER_LIGHT</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_TURTLE_RIDER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_RAM_RIDER_LIGHT</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_SABER_RIDER_LIGHT</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_ELEKK_RIDER_LIGHT</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_MECHANOSTRIDER_RIDER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_PLAGUE_DOG</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_BEAR_RIDER_LIGHT</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_DARK_HOUND</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_BRONZE_QUILEN</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_HORSEMAN"/><Set><UpgradeUnit>UNIT_CRANE_RIDER</UpgradeUnit></Set></Update>
+	</UnitUpgrades>
+	<Units_XP2>
+		<Row UnitType="UNIT_DRAENEI_PRIEST" CanEarnExperience="false" CanFormMilitaryFormation="false"/>
+		<Row UnitType="UNIT_SPIRIT_WALKER" CanEarnExperience="false" CanFormMilitaryFormation="false"/>
+		<Row UnitType="UNIT_APOTHECARY" CanEarnExperience="false" CanFormMilitaryFormation="false"/>
+		<Row UnitType="UNIT_PRIESTESS_MOON" CanEarnExperience="false" CanFormMilitaryFormation="false"/>
+		<Row UnitType="UNIT_ARGENT_PRIEST" CanEarnExperience="false" CanFormMilitaryFormation="false"/>
+		<Row UnitType="UNIT_KOR_KRON" ResourceCost="20"/>
+		<Row UnitType="UNIT_WOLF_RIDER_HEAVY" ResourceCost="20"/>
+		<Row UnitType="UNIT_HORDE_GUNSHIP" ResourceCost="20"/>
+		<Row UnitType="UNIT_RAPTOR_RIDER_HEAVY" ResourceCost="20"/>
+		<Row UnitType="UNIT_SPELL_BREAKER" ResourceCost="20"/>
+		<Row UnitType="UNIT_GOBLIN_FLYING_MACHINE" ResourceCost="20"/>
+		<Row UnitType="UNIT_SHREDDER" ResourceCost="20"/>
+		<Row UnitType="UNIT_7HLEGION" ResourceCost="20"/>
+		<Row UnitType="UNIT_ALIANCE_GUNSHIP" ResourceCost="20"/>
+		<Row UnitType="UNIT_GYROCOPTER" ResourceCost="20"/>
+		<Row UnitType="UNIT_RAM_RIDER_HEAVY" ResourceCost="20"/>
+		<Row UnitType="UNIT_NELF_WARDEN" ResourceCost="20"/>
+		<Row UnitType="UNIT_SABER_RIDER_HEAVY" ResourceCost="20"/>
+		<Row UnitType="UNIT_VINDICATOR" ResourceCost="20"/>
+		<Row UnitType="UNIT_ELEKK_RIDER" ResourceCost="20"/>
+		<Row UnitType="UNIT_GLF_INFANTRY" ResourceCost="20"/>
+		<Row UnitType="UNIT_GNOMISH_MECH" ResourceCost="20"/>
+		<Row UnitType="UNIT_PALADIN" ResourceCost="20"/>
+		<Row UnitType="UNIT_YMIRJAR" ResourceCost="20"/>
+		<Row UnitType="UNIT_FROST_WYRM" ResourceCost="20"/>
+		<Row UnitType="UNIT_BEAR_RIDER_HEAVY" ResourceCost="20"/>
+		<Row UnitType="UNIT_TROLL_BERSERKER" ResourceCost="5"/>
+		<Row UnitType="UNIT_SUNWALKER" ResourceCost="20"/>
+		<Row UnitType="UNIT_DEATH_GUARD" ResourceCost="20"/>
+		<Row UnitType="UNIT_BLOOD_KNIGHT" ResourceCost="20"/>
+		<Row UnitType="UNIT_BRUISER" ResourceCost="20"/>
+		<Row UnitType="UNIT_BROTHERHOOD_HORSE" ResourceCost="20"/>
+		<Row UnitType="UNIT_SENTINEL_WARRIOR" ResourceCost="20"/>
+		<Row UnitType="UNIT_FELGUARD" ResourceCost="20"/>
+		<Row UnitType="UNIT_DEMONIC_HOUND" ResourceCost="20"/>
+		<Row UnitType="UNIT_COMMAND_SHIP" ResourceCost="20"/>
+		<Row UnitType="UNIT_HAMMER_KNIGHT" ResourceCost="20"/>
+		<Row UnitType="UNIT_IRON_GUARDIAN" ResourceCost="20"/>
+		<Row UnitType="UNIT_EMPEROR_SHIELD" ResourceCost="20"/>
+		<Row UnitType="UNIT_ENORMOUS_QUILEN" ResourceCost="20"/>
+		<Row UnitType="UNIT_WARDANCERS" ResourceCost="20"/>
+		<Row UnitType="UNIT_TIGER_RIDER" ResourceCost="20"/>
+	</Units_XP2>
+	<Traits>
+		<Update>
+			<Set Description="LOC_TRAIT_CIVILIZATION_UNDEAD_EMPIRE_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_CIVILIZATION_UNDEAD_EMPIRE"/>
+		</Update>
+		<Update>
+			<Set Description="LOC_TRAIT_ICE_TROLLS_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_CIVILIZATION_ICE_TROLLS"/>
+		</Update>
+		<Update>
+			<Set Description="LOC_TRAIT_CLAN_BRONZEBEARD_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_LEADER_CLAN_BRONZEBEARD"/>
+		</Update>
+		<Update>
+			<Set Description="LOC_TRAIT_BLOODY_FURY_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_CIVILIZATION_BLOODY_FURY"/>
+		</Update>
+	</Traits>
+	<TraitModifiers>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_UNDEAD_EMPIRE</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_SIGNIFICANT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_UNDEAD_EMPIRE</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_CRIPPLING</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_UNDEAD_EMPIRE</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_DOUBLE_DAMAGE_SIGNIFICANT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_UNDEAD_EMPIRE</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_DOUBLE_DAMAGE_CRIPPLING</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_ICE_TROLLS</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_SIGNIFICANT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_ICE_TROLLS</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_CRIPPLING</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_CLAN_BRONZEBEARD</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_SIGNIFICANT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_CLAN_BRONZEBEARD</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_CRIPPLING</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_BLOODY_FURY</TraitType>
+			<ModifierId>TRAIT_MYWOW_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_BLOODY_FURY</TraitType>
+			<ModifierId>TRAIT_MYWOW_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+		</Row>
+	</TraitModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_RANDOM_EVENT_NO_UNIT_DAMAGE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_RANDOM_EVENT_NO_UNIT_DAMAGE</ModifierType>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+			<Name>RandomEventType</Name>
+			<Value>RANDOM_EVENT_DUST_STORM_GRADIENT</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+			<Name>NoDamage</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+			<Name>RandomEventType</Name>
+			<Value>RANDOM_EVENT_DUST_STORM_HABOOB</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+			<Name>NoDamage</Name>
+			<Value>true</Value>
+		</Row>
+	</ModifierArguments>
+	<Types>
+		<Row Type="NAMED_RIVER_SOUTHFURY" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_WINDFURY" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_BLACKWOLF" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_FALFARREN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_WILDBEND" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_CLIFFSPRING" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_NORTSHIRE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_STONEWATCH" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_NAZFERITI" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_WELLSPRING" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_VERDANTIS" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_BLOODVENOM" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_THONDRORIL" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_DARROWMERE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_TRANQUIL_PATHS" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_AVALON" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_WINTERGRASP" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_RAINSPEAKER_RAPIDS" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_FRENZYHEART" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_SEABREACH_FLOW" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_DRAGONSPINE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_BOREA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ICECROWN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_TWILIGHT_RIVULET" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_BORS_BREATH" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_THREE_MOONS" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ELRENDAR" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_GREENRUSH" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_STORMFEATHER" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_NORTHGATE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_AREVASS" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_CHILLWIND" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_BULLWARK" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_RONAL" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_VERRALL" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_CRYSTALBROOK" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_KINGSMOUTH" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_SHATTERED" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_VIRNAAL" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_UNGORO" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_DESERT_DUROTAR" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_THOUSAND_NEEDLES" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_DESOLACE" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_TANARIS" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_ABYSSAL_SANDS" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_ULDUM" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_SILITHUS" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_AHN_QIRAJ" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_BLASTED_LANDS" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_BURNING_STEPPES" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_SEARING_GORGE" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_BADLANDS" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_DEADWIND_PASS" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_VOLDUN" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_MOUNTAIN_AMANI" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_MAISARA" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_ARATHI" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_THALASSIAN" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_GREENWOOD" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_DARROWMERE" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_LORADEON" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_TIRISFAL" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_ALTERAC" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_AERIE_PEAKS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_DUN_MOROGH" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_KHAZ" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_LETHLOR_RIDGE" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_AZEROTH" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_REDRIDGE" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_SCULLSPLITTER" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_STRANGLETHORN" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_BLADESCAR" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_MULGORE" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_STONETALON" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_ZULDRAK" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_STORM_PEAKS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_DRAGONSPINE_PEAKS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_FROSTBLADE_PEAKS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_WINTERGRASP" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_ICECROWN" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_TELDRASSIL" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_HYJAL" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_WINTERSPRING" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_DREADMIST_PEAKS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_GREAT_BULWARKS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_ELWYNN" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_SUNGRAZE_PEAKS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_WILDWIND_PEAKS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_VOLCANO_FORLORN" Kind="KIND_NAMED_VOLCANO"/>
+		<Row Type="NAMED_VOLCANO_SEARING_PEAK" Kind="KIND_NAMED_VOLCANO"/>
+	</Types>
+	<NamedMountains>
+		<Row NamedMountainType="NAMED_MOUNTAIN_AMANI" Name="LOC_NAMED_MOUNTAIN_AMANI_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MAISARA" Name="LOC_NAMED_MOUNTAIN_MAISARA_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ARATHI" Name="LOC_NAMED_MOUNTAIN_ARATHI_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_THALASSIAN" Name="LOC_NAMED_MOUNTAIN_THALASSIAN_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_GREENWOOD" Name="LOC_NAMED_MOUNTAIN_GREENWOOD_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DARROWMERE" Name="LOC_NAMED_MOUNTAIN_DARROWMERE_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_LORADEON" Name="LOC_NAMED_MOUNTAIN_LORADEON_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_TIRISFAL" Name="LOC_NAMED_MOUNTAIN_TIRISFAL_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ALTERAC" Name="LOC_NAMED_MOUNTAIN_ALTERAC_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_AERIE_PEAKS" Name="LOC_NAMED_MOUNTAIN_AERIE_PEAKS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DUN_MOROGH" Name="LOC_NAMED_MOUNTAIN_DUN_MOROGH_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_KHAZ" Name="LOC_NAMED_MOUNTAIN_KHAZ_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_LETHLOR_RIDGE" Name="LOC_NAMED_MOUNTAIN_LETHLOR_RIDGE_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_AZEROTH" Name="LOC_NAMED_MOUNTAIN_AZEROTH_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_REDRIDGE" Name="LOC_NAMED_MOUNTAIN_REDRIDGE_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_SCULLSPLITTER" Name="LOC_NAMED_MOUNTAIN_SCULLSPLITTER_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_STRANGLETHORN" Name="LOC_NAMED_MOUNTAIN_STRANGLETHORN_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_BLADESCAR" Name="LOC_NAMED_MOUNTAIN_BLADESCAR_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MULGORE" Name="LOC_NAMED_MOUNTAIN_MULGORE_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_STONETALON" Name="LOC_NAMED_MOUNTAIN_STONETALON_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ZULDRAK" Name="LOC_NAMED_MOUNTAIN_ZULDRAK_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_STORM_PEAKS" Name="LOC_NAMED_MOUNTAIN_STORM_PEAKS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRAGONSPINE_PEAKS" Name="LOC_NAMED_MOUNTAIN_DRAGONSPINE_PEAKS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_FROSTBLADE_PEAKS" Name="LOC_NAMED_MOUNTAIN_FROSTBLADE_PEAKS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_WINTERGRASP" Name="LOC_NAMED_MOUNTAIN_WINTERGRASP_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ICECROWN" Name="LOC_NAMED_MOUNTAIN_ICECROWN_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_TELDRASSIL" Name="LOC_NAMED_MOUNTAIN_TELDRASSIL_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_HYJAL" Name="LOC_NAMED_MOUNTAIN_HYJAL_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_WINTERSPRING" Name="LOC_NAMED_MOUNTAIN_WINTERSPRING_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DREADMIST_PEAKS" Name="LOC_NAMED_MOUNTAIN_DREADMIST_PEAKS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_GREAT_BULWARKS" Name="LOC_NAMED_MOUNTAIN_GREAT_BULWARKS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ELWYNN" Name="LOC_NAMED_MOUNTAIN_ELWYNN_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_SUNGRAZE_PEAKS" Name="LOC_NAMED_MOUNTAIN_SUNGRAZE_PEAKS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_WILDWIND_PEAKS" Name="LOC_NAMED_MOUNTAIN_WILDWIND_PEAKS_NAME"/>
+	</NamedMountains>
+	<NamedMountainCivilizations>
+		<Row NamedMountainType="NAMED_MOUNTAIN_BLADESCAR" CivilizationType="CIVILIZATION_ORCS_DUROTAR"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DREADMIST_PEAKS" CivilizationType="CIVILIZATION_ORCS_DUROTAR"/>
+		
+		<Row NamedMountainType="NAMED_MOUNTAIN_MULGORE" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DREADMIST_PEAKS" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_STONETALON" CivilizationType="CIVILIZATION_TAUREN"/>
+
+		<Row NamedMountainType="NAMED_MOUNTAIN_LORADEON" CivilizationType="CIVILIZATION_FORSAKEN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_TIRISFAL" CivilizationType="CIVILIZATION_FORSAKEN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ALTERAC" CivilizationType="CIVILIZATION_FORSAKEN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ARATHI" CivilizationType="CIVILIZATION_FORSAKEN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_AERIE_PEAKS" CivilizationType="CIVILIZATION_FORSAKEN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DARROWMERE" CivilizationType="CIVILIZATION_FORSAKEN"/>
+		
+		<Row NamedMountainType="NAMED_MOUNTAIN_THALASSIAN" CivilizationType="CIVILIZATION_BLOOD_ELVES"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_SUNGRAZE_PEAKS" CivilizationType="CIVILIZATION_BLOOD_ELVES"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_GREENWOOD" CivilizationType="CIVILIZATION_BLOOD_ELVES"/>
+
+		<Row NamedMountainType="NAMED_MOUNTAIN_DARROWMERE" CivilizationType="CIVILIZATION_ARGENT_CRUSADE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_GREENWOOD" CivilizationType="CIVILIZATION_ARGENT_CRUSADE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ARATHI" CivilizationType="CIVILIZATION_ARGENT_CRUSADE"/>
+
+		<Row NamedMountainType="NAMED_MOUNTAIN_ELWYNN" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_AZEROTH" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_REDRIDGE" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND"/>
+
+		<Row NamedMountainType="NAMED_MOUNTAIN_DUN_MOROGH" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_KHAZ" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_GREAT_BULWARKS" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_LETHLOR_RIDGE" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ARATHI" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_AERIE_PEAKS" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE"/>
+
+		<Row NamedMountainType="NAMED_MOUNTAIN_TELDRASSIL" CivilizationType="CIVILIZATION_NIGHT_ELVES"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_HYJAL" CivilizationType="CIVILIZATION_NIGHT_ELVES"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_WINTERSPRING" CivilizationType="CIVILIZATION_NIGHT_ELVES"/>
+
+		<Row NamedMountainType="NAMED_MOUNTAIN_WILDWIND_PEAKS" CivilizationType="CIVILIZATION_DRAENEI"/>
+
+		<Row NamedMountainType="NAMED_MOUNTAIN_AMANI" CivilizationType="CIVILIZATION_AMANI_EMPIRE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MAISARA" CivilizationType="CIVILIZATION_AMANI_EMPIRE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ARATHI" CivilizationType="CIVILIZATION_AMANI_EMPIRE"/>
+
+		<Row NamedMountainType="NAMED_MOUNTAIN_SCULLSPLITTER" CivilizationType="CIVILIZATION_GURUBASHI_EMPIRE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_STRANGLETHORN" CivilizationType="CIVILIZATION_GURUBASHI_EMPIRE"/>
+
+		<Row NamedMountainType="NAMED_MOUNTAIN_ZULDRAK" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_STORM_PEAKS" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRAGONSPINE_PEAKS" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_FROSTBLADE_PEAKS" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_WINTERGRASP" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ICECROWN" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+
+		<Row NamedMountainType="NAMED_MOUNTAIN_ICECROWN" CivilizationType="CIVILIZATION_THE_SCOURGE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_WINTERGRASP" CivilizationType="CIVILIZATION_THE_SCOURGE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_STORM_PEAKS" CivilizationType="CIVILIZATION_THE_SCOURGE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRAGONSPINE_PEAKS" CivilizationType="CIVILIZATION_THE_SCOURGE"/>
+		
+	</NamedMountainCivilizations>
+	
+	<NamedDeserts>
+		<Row NamedDesertType="NAMED_DESERT_DUROTAR" Name="LOC_NAMED_DESERT_DUROTAR_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_THOUSAND_NEEDLES" Name="LOC_NAMED_DESERT_THOUSAND_NEEDLES_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_DESOLACE" Name="LOC_NAMED_DESERT_DESOLACE_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_TANARIS" Name="LOC_NAMED_DESERT_TANARIS_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_ABYSSAL_SANDS" Name="LOC_NAMED_DESERT_ABYSSAL_SANDS_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_ULDUM" Name="LOC_NAMED_DESERT_ULDUM_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_SILITHUS" Name="LOC_NAMED_DESERT_SILITHUS_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_AHN_QIRAJ" Name="LOC_NAMED_DESERT_AHN_QIRAJ_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_BLASTED_LANDS" Name="LOC_NAMED_DESERT_BLASTED_LANDS_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_BURNING_STEPPES" Name="LOC_NAMED_DESERT_BURNING_STEPPES_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_SEARING_GORGE" Name="LOC_NAMED_DESERT_SEARING_GORGE_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_BADLANDS" Name="LOC_NAMED_DESERT_BADLANDS_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_DEADWIND_PASS" Name="LOC_NAMED_DESERT_DEADWIND_PASS_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_VOLDUN" Name="LOC_NAMED_DESERT_VOLDUN_NAME"/>
+	</NamedDeserts>
+	<NamedDesertCivilizations>
+		<Row NamedDesertType="NAMED_DESERT_DUROTAR" CivilizationType="CIVILIZATION_ORCS_DUROTAR"/>
+		<Row NamedDesertType="NAMED_DESERT_TANARIS" CivilizationType="CIVILIZATION_ORCS_DUROTAR"/>
+		<Row NamedDesertType="NAMED_DESERT_DUROTAR" CivilizationType="CIVILIZATION_DARKSPEAR_TROLLS"/>
+		<Row NamedDesertType="NAMED_DESERT_THOUSAND_NEEDLES" CivilizationType="CIVILIZATION_DARKSPEAR_TROLLS"/>
+		<Row NamedDesertType="NAMED_DESERT_TANARIS" CivilizationType="CIVILIZATION_DARKSPEAR_TROLLS"/>
+		<Row NamedDesertType="NAMED_DESERT_ABYSSAL_SANDS" CivilizationType="CIVILIZATION_DARKSPEAR_TROLLS"/>
+		<Row NamedDesertType="NAMED_DESERT_ULDUM" CivilizationType="CIVILIZATION_DARKSPEAR_TROLLS"/>
+		<Row NamedDesertType="NAMED_DESERT_DESOLACE" CivilizationType="CIVILIZATION_DARKSPEAR_TROLLS"/>
+		<Row NamedDesertType="NAMED_DESERT_THOUSAND_NEEDLES" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedDesertType="NAMED_DESERT_DESOLACE" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedDesertType="NAMED_DESERT_TANARIS" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedDesertType="NAMED_DESERT_ABYSSAL_SANDS" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedDesertType="NAMED_DESERT_ULDUM" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedDesertType="NAMED_DESERT_SILITHUS" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedDesertType="NAMED_DESERT_AHN_QIRAJ" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedDesertType="NAMED_DESERT_DUROTAR" CivilizationType="CIVILIZATION_GOBLINS_BILGEWATER"/>
+		<Row NamedDesertType="NAMED_DESERT_THOUSAND_NEEDLES" CivilizationType="CIVILIZATION_GOBLINS_BILGEWATER"/>
+		<Row NamedDesertType="NAMED_DESERT_TANARIS" CivilizationType="CIVILIZATION_GOBLINS_BILGEWATER"/>
+		<Row NamedDesertType="NAMED_DESERT_ABYSSAL_SANDS" CivilizationType="CIVILIZATION_GOBLINS_BILGEWATER"/>
+		<Row NamedDesertType="NAMED_DESERT_DESOLACE" CivilizationType="CIVILIZATION_NIGHT_ELVES"/>
+		<Row NamedDesertType="NAMED_DESERT_THOUSAND_NEEDLES" CivilizationType="CIVILIZATION_NIGHT_ELVES"/>
+		<Row NamedDesertType="NAMED_DESERT_TANARIS" CivilizationType="CIVILIZATION_NIGHT_ELVES"/>
+		<Row NamedDesertType="NAMED_DESERT_SILITHUS" CivilizationType="CIVILIZATION_NIGHT_ELVES"/>
+		<Row NamedDesertType="NAMED_DESERT_AHN_QIRAJ" CivilizationType="CIVILIZATION_NIGHT_ELVES"/>
+		<Row NamedDesertType="NAMED_DESERT_BADLANDS" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE"/>
+		<Row NamedDesertType="NAMED_DESERT_SEARING_GORGE" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE"/>
+		<Row NamedDesertType="NAMED_DESERT_BURNING_STEPPES" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE"/>
+		<Row NamedDesertType="NAMED_DESERT_BLASTED_LANDS" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE"/>
+		<Row NamedDesertType="NAMED_DESERT_DEADWIND_PASS" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE"/>
+		<Row NamedDesertType="NAMED_DESERT_DEADWIND_PASS" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND"/>
+		<Row NamedDesertType="NAMED_DESERT_BLASTED_LANDS" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND"/>
+		<Row NamedDesertType="NAMED_DESERT_BURNING_STEPPES" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND"/>
+		<Row NamedDesertType="NAMED_DESERT_SEARING_GORGE" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND"/>
+		<Row NamedDesertType="NAMED_DESERT_BADLANDS" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND"/>
+		<Row NamedDesertType="NAMED_DESERT_BLASTED_LANDS" CivilizationType="CIVILIZATION_GURUBASHI_EMPIRE"/>
+		<Row NamedDesertType="NAMED_DESERT_DEADWIND_PASS" CivilizationType="CIVILIZATION_GURUBASHI_EMPIRE"/>
+		<Row NamedDesertType="NAMED_DESERT_VOLDUN" CivilizationType="CIVILIZATION_ZANDALARI_EMPIRE"/>
+	</NamedDesertCivilizations>
+
+	<NamedRivers>
+		<Row NamedRiverType="NAMED_RIVER_SOUTHFURY" Name="LOC_NAMED_RIVER_SOUTHFURY_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_WINDFURY" Name="LOC_NAMED_RIVER_WINDFURY_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_BLACKWOLF" Name="LOC_NAMED_RIVER_BLACKWOLF_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_FALFARREN" Name="LOC_NAMED_RIVER_FALFARREN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_WILDBEND" Name="LOC_NAMED_RIVER_WILDBEND_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_CLIFFSPRING" Name="LOC_NAMED_RIVER_CLIFFSPRING_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_NORTSHIRE" Name="LOC_NAMED_RIVER_NORTSHIRE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_STONEWATCH" Name="LOC_NAMED_RIVER_STONEWATCH_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_NAZFERITI" Name="LOC_NAMED_RIVER_NAZFERITI_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_WELLSPRING" Name="LOC_NAMED_RIVER_WELLSPRING_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_VERDANTIS" Name="LOC_NAMED_RIVER_VERDANTIS_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_BLOODVENOM" Name="LOC_NAMED_RIVER_BLOODVENOM_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_THONDRORIL" Name="LOC_NAMED_RIVER_THONDRORIL_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_DARROWMERE" Name="LOC_NAMED_RIVER_DARROWMERE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_TRANQUIL_PATHS" Name="LOC_NAMED_RIVER_TRANQUIL_PATHS_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_AVALON" Name="LOC_NAMED_RIVER_AVALON_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_WINTERGRASP" Name="LOC_NAMED_RIVER_WINTERGRASP_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_RAINSPEAKER_RAPIDS" Name="LOC_NAMED_RIVER_RAINSPEAKER_RAPIDS_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_FRENZYHEART" Name="LOC_NAMED_RIVER_FRENZYHEART_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_SEABREACH_FLOW" Name="LOC_NAMED_RIVER_SEABREACH_FLOW_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_DRAGONSPINE" Name="LOC_NAMED_RIVER_DRAGONSPINE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_BOREA" Name="LOC_NAMED_RIVER_BOREA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ICECROWN" Name="LOC_NAMED_RIVER_ICECROWN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_TWILIGHT_RIVULET" Name="LOC_NAMED_RIVER_TWILIGHT_RIVULET_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_BORS_BREATH" Name="LOC_NAMED_RIVER_BORS_BREATH_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_THREE_MOONS" Name="LOC_NAMED_RIVER_THREE_MOONS_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ELRENDAR" Name="LOC_NAMED_RIVER_ELRENDAR_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_GREENRUSH" Name="LOC_NAMED_RIVER_GREENRUSH_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_STORMFEATHER" Name="LOC_NAMED_RIVER_STORMFEATHER_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_NORTHGATE" Name="LOC_NAMED_RIVER_NORTHGATE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_AREVASS" Name="LOC_NAMED_RIVER_AREVASS_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_CHILLWIND" Name="LOC_NAMED_RIVER_CHILLWIND_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_BULLWARK" Name="LOC_NAMED_RIVER_BULLWARK_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_RONAL" Name="LOC_NAMED_RIVER_RONAL_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_VERRALL" Name="LOC_NAMED_RIVER_VERRALL_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_CRYSTALBROOK" Name="LOC_NAMED_RIVER_CRYSTALBROOK_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_KINGSMOUTH" Name="LOC_NAMED_RIVER_KINGSMOUTH_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_SHATTERED" Name="LOC_NAMED_RIVER_SHATTERED_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_VIRNAAL" Name="LOC_NAMED_RIVER_VIRNAAL_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_UNGORO" Name="LOC_NAMED_RIVER_UNGORO_NAME"/>
+	</NamedRivers>
+	<NamedRiverCivilizations>
+		<Row NamedRiverType="NAMED_RIVER_SOUTHFURY" CivilizationType="CIVILIZATION_ORCS_DUROTAR"/>
+		<Row NamedRiverType="NAMED_RIVER_BLACKWOLF" CivilizationType="CIVILIZATION_ORCS_DUROTAR"/>
+		<Row NamedRiverType="NAMED_RIVER_WINDFURY" CivilizationType="CIVILIZATION_ORCS_DUROTAR"/>
+		<Row NamedRiverType="NAMED_RIVER_FALFARREN" CivilizationType="CIVILIZATION_ORCS_DUROTAR"/>
+		<Row NamedRiverType="NAMED_RIVER_SOUTHFURY" CivilizationType="CIVILIZATION_DARKSPEAR_TROLLS"/>
+		<Row NamedRiverType="NAMED_RIVER_WINDFURY" CivilizationType="CIVILIZATION_DARKSPEAR_TROLLS"/>
+		<Row NamedRiverType="NAMED_RIVER_BLOODVENOM" CivilizationType="CIVILIZATION_DARKSPEAR_TROLLS"/>
+		<Row NamedRiverType="NAMED_RIVER_FALFARREN" CivilizationType="CIVILIZATION_DARKSPEAR_TROLLS"/>
+		<Row NamedRiverType="NAMED_RIVER_SOUTHFURY" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedRiverType="NAMED_RIVER_WINDFURY" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedRiverType="NAMED_RIVER_FALFARREN" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedRiverType="NAMED_RIVER_VERDANTIS" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedRiverType="NAMED_RIVER_VIRNAAL" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedRiverType="NAMED_RIVER_UNGORO" CivilizationType="CIVILIZATION_TAUREN"/>
+		<Row NamedRiverType="NAMED_RIVER_AREVASS" CivilizationType="CIVILIZATION_FORSAKEN"/>
+		<Row NamedRiverType="NAMED_RIVER_BULLWARK" CivilizationType="CIVILIZATION_FORSAKEN"/>
+		<Row NamedRiverType="NAMED_RIVER_DARROWMERE" CivilizationType="CIVILIZATION_FORSAKEN"/>
+		<Row NamedRiverType="NAMED_RIVER_CHILLWIND" CivilizationType="CIVILIZATION_FORSAKEN"/>
+		<Row NamedRiverType="NAMED_RIVER_THREE_MOONS" CivilizationType="CIVILIZATION_BLOOD_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_ELRENDAR" CivilizationType="CIVILIZATION_BLOOD_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_GREENRUSH" CivilizationType="CIVILIZATION_BLOOD_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_STORMFEATHER" CivilizationType="CIVILIZATION_BLOOD_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_WINDFURY" CivilizationType="CIVILIZATION_GOBLINS_BILGEWATER"/>
+		<Row NamedRiverType="NAMED_RIVER_SOUTHFURY" CivilizationType="CIVILIZATION_GOBLINS_BILGEWATER"/>
+		<Row NamedRiverType="NAMED_RIVER_FALFARREN" CivilizationType="CIVILIZATION_GOBLINS_BILGEWATER"/>
+		<Row NamedRiverType="NAMED_RIVER_WELLSPRING" CivilizationType="CIVILIZATION_NIGHT_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_WILDBEND" CivilizationType="CIVILIZATION_NIGHT_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_CLIFFSPRING" CivilizationType="CIVILIZATION_NIGHT_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_FALFARREN" CivilizationType="CIVILIZATION_NIGHT_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_VERDANTIS" CivilizationType="CIVILIZATION_NIGHT_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_NORTSHIRE" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND"/>
+		<Row NamedRiverType="NAMED_RIVER_STONEWATCH" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND"/>
+		<Row NamedRiverType="NAMED_RIVER_NAZFERITI" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND"/>
+		<Row NamedRiverType="NAMED_RIVER_RONAL" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE"/>
+		<Row NamedRiverType="NAMED_RIVER_VERRALL" CivilizationType="CIVILIZATION_KINGDOM_IRONFORGE"/>
+		<Row NamedRiverType="NAMED_RIVER_RONAL" CivilizationType="CIVILIZATION_GNOMES"/>
+		<Row NamedRiverType="NAMED_RIVER_VERRALL" CivilizationType="CIVILIZATION_GNOMES"/>
+		<Row NamedRiverType="NAMED_RIVER_CRYSTALBROOK" CivilizationType="CIVILIZATION_DRAENEI"/>
+		<Row NamedRiverType="NAMED_RIVER_NORTHGATE" CivilizationType="CIVILIZATION_KINGDOM_GILNEAS"/>
+		<Row NamedRiverType="NAMED_RIVER_AREVASS" CivilizationType="CIVILIZATION_KINGDOM_GILNEAS"/>
+		<Row NamedRiverType="NAMED_RIVER_CHILLWIND" CivilizationType="CIVILIZATION_KINGDOM_GILNEAS"/>
+		<Row NamedRiverType="NAMED_RIVER_THONDRORIL" CivilizationType="CIVILIZATION_ARGENT_CRUSADE"/>
+		<Row NamedRiverType="NAMED_RIVER_DARROWMERE" CivilizationType="CIVILIZATION_ARGENT_CRUSADE"/>
+		<Row NamedRiverType="NAMED_RIVER_TRANQUIL_PATHS" CivilizationType="CIVILIZATION_ARGENT_CRUSADE"/>
+		<Row NamedRiverType="NAMED_RIVER_AVALON" CivilizationType="CIVILIZATION_ARGENT_CRUSADE"/>
+		<Row NamedRiverType="NAMED_RIVER_WINTERGRASP" CivilizationType="CIVILIZATION_THE_SCOURGE"/>
+		<Row NamedRiverType="NAMED_RIVER_RAINSPEAKER_RAPIDS" CivilizationType="CIVILIZATION_THE_SCOURGE"/>
+		<Row NamedRiverType="NAMED_RIVER_FRENZYHEART" CivilizationType="CIVILIZATION_THE_SCOURGE"/>
+		<Row NamedRiverType="NAMED_RIVER_SEABREACH_FLOW" CivilizationType="CIVILIZATION_THE_SCOURGE"/>
+		<Row NamedRiverType="NAMED_RIVER_ICECROWN" CivilizationType="CIVILIZATION_THE_SCOURGE"/>
+		<Row NamedRiverType="NAMED_RIVER_DRAGONSPINE" CivilizationType="CIVILIZATION_THE_SCOURGE"/>
+		<Row NamedRiverType="NAMED_RIVER_BOREA" CivilizationType="CIVILIZATION_THE_SCOURGE"/>
+		<Row NamedRiverType="NAMED_RIVER_TWILIGHT_RIVULET" CivilizationType="CIVILIZATION_THE_SCOURGE"/>
+		<Row NamedRiverType="NAMED_RIVER_BORS_BREATH" CivilizationType="CIVILIZATION_THE_SCOURGE"/>
+		<Row NamedRiverType="NAMED_RIVER_DRAGONSPINE" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_TWILIGHT_RIVULET" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_BORS_BREATH" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_BOREA" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_RAINSPEAKER_RAPIDS" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_FRENZYHEART" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_SEABREACH_FLOW" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_WINTERGRASP" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_ICECROWN" CivilizationType="CIVILIZATION_DRAKKARI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_GREENRUSH" CivilizationType="CIVILIZATION_AMANI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_ELRENDAR" CivilizationType="CIVILIZATION_AMANI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_STORMFEATHER" CivilizationType="CIVILIZATION_AMANI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_CHILLWIND" CivilizationType="CIVILIZATION_AMANI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_AREVASS" CivilizationType="CIVILIZATION_AMANI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_NAZFERITI" CivilizationType="CIVILIZATION_GURUBASHI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_KINGSMOUTH" CivilizationType="CIVILIZATION_ZANDALARI_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_SHATTERED" CivilizationType="CIVILIZATION_ZANDALARI_EMPIRE"/>
+	</NamedRiverCivilizations>
+
+	<NamedVolcanoes>
+		<Row NamedVolcanoType="NAMED_VOLCANO_FORLORN" Name="LOC_NAMED_VOLCANO_FORLORN_NAME"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_SEARING_PEAK" Name="LOC_NAMED_VOLCANO_SEARING_PEAK_NAME"/>
+	</NamedVolcanoes>
+	<NamedVolcanoCivilizations>
+		<Row NamedVolcanoType="NAMED_VOLCANO_FORLORN" CivilizationType="CIVILIZATION_ORCS_DUROTAR"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_SEARING_PEAK" CivilizationType="CIVILIZATION_KINGDOM_STORMWIND"/>
+	</NamedVolcanoCivilizations>
+
+	<!--
+	Update?: 
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_ELEANOR_ENGLAND</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_STANDARD_RED_LT</PrimaryColor>
+			<SecondaryColor>COLOR_STANDARD_WHITE_LT</SecondaryColor>
+			<Alt1PrimaryColor>COLOR_STANDARD_RED_LT</Alt1PrimaryColor>
+			<Alt1SecondaryColor>COLOR_STANDARD_YELLOW_MD</Alt1SecondaryColor>
+			<Alt2PrimaryColor>COLOR_STANDARD_WHITE_LT</Alt2PrimaryColor>
+			<Alt2SecondaryColor>COLOR_STANDARD_RED_MD</Alt2SecondaryColor>
+			<Alt3PrimaryColor>COLOR_STANDARD_RED_LT</Alt3PrimaryColor>
+			<Alt3SecondaryColor>COLOR_STANDARD_BLUE_DK</Alt3SecondaryColor>
+		</Row>
+	-->
+</GameData>

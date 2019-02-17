@@ -828,7 +828,7 @@
 		</Row>
 		<Row>
 			<TraitType>TRAIT_CIVILIZATION_GRAND_ALLIANCE</TraitType>
-			<ModifierId>TRAIT_FREE_MELEE_UNIT_NON_HOME_CONTINENT</ModifierId>	<!-- Implemented In Vanilla-->
+			<ModifierId>TRAIT_MYWOW_FREE_MELEE_UNIT_NON_HOME_CONTINENT</ModifierId>	<!-- Implemented In Vanilla-->
 		</Row>
 		<Row>
 			<TraitType>TRAIT_CIVILIZATION_GRAND_ALLIANCE</TraitType>
@@ -927,7 +927,7 @@
 		<Row TraitType="TRAIT_CIVILIZATION_UNDERGROUND_TINKERS" ModifierId="TRAIT_ADJUST_BUILDER_CHARGES"/>	<!-- Implemented In Vanilla-->
 		<Row TraitType="TRAIT_CIVILIZATION_DEFENDERS_OF_THE_LIGHT" ModifierId="TRAIT_INCREASE_ENEMY_WAR_WEARINESS"/>
 		<!-- Implemented In Vanilla-->
-		<Row TraitType="TRAIT_CIVILIZATION_DEFENDERS_OF_THE_LIGHT" ModifierId="TRAIT_FREE_MELEE_UNIT_NON_HOME_CONTINENT"/>
+		<Row TraitType="TRAIT_CIVILIZATION_DEFENDERS_OF_THE_LIGHT" ModifierId="TRAIT_MYWOW_FREE_MELEE_UNIT_NON_HOME_CONTINENT"/>
 		<!-- Implemented In Vanilla-->
 		<Row TraitType="TRAIT_CIVILIZATION_DEFENDERS_OF_THE_LIGHT" ModifierId="TRAIT_BOOST_HOLY_SITE_PRODUCTION"/>
 		<!-- Implemented In Vanilla-->
@@ -1231,6 +1231,12 @@
 		<Row>
 			<ModifierId>MYWOW_DOUBLEWAT</ModifierId>
 			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_FREE_MELEE_UNIT_NON_HOME_CONTINENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_GRANT_UNIT_BY_CLASS</ModifierType>
+			<Permanent>true</Permanent>
+			<SubjectRequirementSetId>CITY_NOT_OWNER_CAPITAL_CONTINENT_REQUIREMENTS</SubjectRequirementSetId>
 		</Row>
 	</Modifiers>
 
@@ -1785,6 +1791,11 @@
 			<ModifierId>MYWOW_DOUBLEWAT</ModifierId>
 			<Name>Amount</Name>
 			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWOW_FREE_MELEE_UNIT_NON_HOME_CONTINENT</ModifierId>
+			<Name>UnitPromotionClassType</Name>
+			<Value>PROMOTION_CLASS_MELEE</Value>
 		</Row>
 	</ModifierArguments>
 

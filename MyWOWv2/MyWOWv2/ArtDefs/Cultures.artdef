@@ -122,14 +122,6 @@
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations013"/>
 								</Element>
-								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_K3"/>
-									<m_RootCollectionName text="Civilization"/>
-									<m_ArtDefPath text="Civilizations.artdef"/>
-									<m_CollectionIsLocked>true</m_CollectionIsLocked>
-									<m_TemplateName text="Civilizations"/>
-									<m_ParamName text="Civilizations014"/>
-								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
 						</Element>
@@ -233,14 +225,6 @@
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations011"/>
-								</Element>
-								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_K3"/>
-									<m_RootCollectionName text="Civilization"/>
-									<m_ArtDefPath text="Civilizations.artdef"/>
-									<m_CollectionIsLocked>true</m_CollectionIsLocked>
-									<m_TemplateName text="Civilizations"/>
-									<m_ParamName text="Civilizations012"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -609,7 +593,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="NorthAfrican"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
 				<m_Fields>
@@ -665,7 +649,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="SoutheastAsian"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 		</Element>
 		<Element>
@@ -765,14 +749,6 @@
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations011"/>
-								</Element>
-								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CIVILIZATION_K3"/>
-									<m_RootCollectionName text="Civilization"/>
-									<m_ArtDefPath text="Civilizations.artdef"/>
-									<m_CollectionIsLocked>true</m_CollectionIsLocked>
-									<m_TemplateName text="Civilizations"/>
-									<m_ParamName text="Civilizations012"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -1029,7 +1005,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="NorthAfrican"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
 				<m_Fields>
@@ -1085,7 +1061,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="EastAsian"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 		</Element>
 	</m_RootCollections>

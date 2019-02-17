@@ -20,7 +20,9 @@
 		<Replace Tag="LOC_TRAIT_BLOODY_FURY_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>所有近战单位+10 [ICON_Strength] 战斗力。 积累厌战情绪比平时减少25%。</Text>
 		</Replace>
-
+		<Replace Tag="LOC_TRAIT_BLOODY_FURY_EXPANSION2_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有近战单位+10 [ICON_Strength] 战斗力。 积累厌战情绪比平时减少25%。Units do not receive damage from Dust Storms.</Text>
+		</Replace>
 		<Replace Tag="LOC_TRAIT_SON_OF_HELLSCREAM_NAME" Language="zh_Hans_CN">
 			<Text>地狱咆哮之子</Text>
 		</Replace>
@@ -473,6 +475,9 @@
 		<Replace Tag="LOC_TRAIT_CLAN_BRONZEBEARD_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>雪原像草原一样提供食物。每个考古博物馆可以保存6个 [ICON_GreatWork_Artifact] 文物，并且可以同时派出两个考古学家。考古博物馆拥有6 个 [ICON_GreatWork_Artifact] 文物时自动形成主题。</Text>
 		</Replace>
+		<Replace Tag="LOC_TRAIT_CLAN_BRONZEBEARD_EXPANSION2_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>雪原像草原一样提供食物。每个考古博物馆可以保存6个 [ICON_GreatWork_Artifact] 文物，并且可以同时派出两个考古学家。考古博物馆拥有6 个 [ICON_GreatWork_Artifact] 文物时自动形成主题。Units do not receive damage from Blizzards.</Text>
+		</Replace>
 		<Replace Tag="LOC_UNIT_DWARF_RIFLEMAN_NAME" Language="zh_Hans_CN">
 			<Text>矮人步兵</Text>
 			<Gender>Masculine:a</Gender>
@@ -800,7 +805,7 @@
 			<Text>亡灵军队</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_UNDEAD_EMPIRE_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>雪地和冻土提供等同草原的食物。</Text>
+			<Text>雪地和冻土提供等同草原的食物。Units do not receive damage from Blizzards. Civilizations that are at war with you receive +100% unit damage from Blizzards in your territory.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_DEATH_GOD_NAME" Language="zh_Hans_CN">
 			<Text>死亡之神</Text>
@@ -991,7 +996,7 @@
 			<Text>达卡莱农场</Text>
 		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_DRAKKARI_FARM_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>达卡莱特色改良设施。提供+1 [ICON_FOOD] 食物 +1 [ICON_PRODUCTION] 生产力以及湖泊相邻单元格 +2 [ICON_FOOD] 食物。</Text>
+			<Text>达卡莱特色改良设施。提供+1 [ICON_FOOD] 食物 +1 [ICON_PRODUCTION] 生产力以及湖泊相邻单元格 +2 [ICON_FOOD] 食物。Units do not receive damage from Blizzards.</Text>
 		</Replace>
 		<!-- END OF DRAKKARI | MALAKK-->
 		<!-- RASTAKHAN | ZANDALARI -->

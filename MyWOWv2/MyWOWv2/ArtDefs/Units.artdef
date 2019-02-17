@@ -16978,7 +16978,7 @@
 																	<m_Values/>
 																</m_Fields>
 																<m_ChildCollections/>
-																<m_Name text="Weapons/Warrior/Any/Warrior_WeaponC"/>
+																<m_Name text="Weapons/Warrior/Any"/>
 																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 															</Element>
 														</Element>
@@ -17318,7 +17318,7 @@
 																	<m_Values/>
 																</m_Fields>
 																<m_ChildCollections/>
-																<m_Name text="Armor/Swordsman/SouthAmerican/Swordsman_Armor_C"/>
+																<m_Name text="Armor/Swordsman/SouthAmerican"/>
 																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 															</Element>
 														</Element>
@@ -19079,7 +19079,7 @@
 																	<m_Values/>
 																</m_Fields>
 																<m_ChildCollections/>
-																<m_Name text="Heads/FemaleB/Any/Female_Caucasian_HeadB"/>
+																<m_Name text="Heads/FemaleB/Any"/>
 																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 															</Element>
 														</Element>
@@ -19402,7 +19402,7 @@
 																	<m_Values/>
 																</m_Fields>
 																<m_ChildCollections/>
-																<m_Name text="Heads/FemaleB/Any/Female_Caucasian_HeadB"/>
+																<m_Name text="Heads/FemaleB"/>
 																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 															</Element>
 														</Element>
@@ -19657,7 +19657,7 @@
 																	<m_Values/>
 																</m_Fields>
 																<m_ChildCollections/>
-																<m_Name text="Heads/FemaleB/Any/Female_Caucasian_HeadB"/>
+																<m_Name text="Heads/FemaleB"/>
 																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 															</Element>
 														</Element>
@@ -19759,7 +19759,7 @@
 																	<m_Values/>
 																</m_Fields>
 																<m_ChildCollections/>
-																<m_Name text="Hair/Male/Any/Male_Caucasian_HairD"/>
+																<m_Name text="Hair/Male"/>
 																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 															</Element>
 														</Element>
@@ -21277,7 +21277,7 @@
 																	<m_Values/>
 																</m_Fields>
 																<m_ChildCollections/>
-																<m_Name text="Hair/Male/Any/Male_Caucasian_HairD"/>
+																<m_Name text="Hair/Male"/>
 																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 															</Element>
 														</Element>
@@ -21311,7 +21311,7 @@
 																	<m_Values/>
 																</m_Fields>
 																<m_ChildCollections/>
-																<m_Name text="Heads/FemaleB/Any/Female_Caucasian_HeadB"/>
+																<m_Name text="Heads/FemaleB"/>
 																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 															</Element>
 														</Element>
@@ -22909,7 +22909,7 @@
 																	<m_Values/>
 																</m_Fields>
 																<m_ChildCollections/>
-																<m_Name text="Hair/Male/Any/Male_Caucasian_HairD"/>
+																<m_Name text="Hair/Male"/>
 																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 															</Element>
 														</Element>
@@ -22943,7 +22943,7 @@
 																	<m_Values/>
 																</m_Fields>
 																<m_ChildCollections/>
-																<m_Name text="Heads/FemaleB/Any/Female_Caucasian_HeadB"/>
+																<m_Name text="Heads/FemaleB"/>
 																<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 															</Element>
 														</Element>

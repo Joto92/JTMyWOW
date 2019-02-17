@@ -25,6 +25,10 @@
           <File>MyWOW_Religions.xml</File>
           <File>MyWOW_CityStates.xml</File>
         </UpdateDatabase>
+        <UpdateDatabase id="UsingExpansion2">
+          <Criteria>Expansion2</Criteria>
+          <File>MyWOW_Expansion2_New.xml</File>
+        </UpdateDatabase>
         <UpdateText id="Text">
           <File>MyWOW_ConfigText.xml</File>
           <File>MyWOW_Text.xml</File>
@@ -40,8 +44,8 @@
         <UpdateArt id="Art">
           <File>(Mod Art Dependency File)</File>
         </UpdateArt>
-      </InGameActions>
-    ]]></InGameActionData>
+      </InGameActions>]]>
+    </InGameActionData>
     <FrontEndActionData><![CDATA[
       <FrontEndActions>
         <UpdateDatabase id="Config">
@@ -62,7 +66,14 @@
     ]]></FrontEndActionData>
     <AssemblyName>MyWOWv2</AssemblyName>
     <RootNamespace>MyWOWv2</RootNamespace>
-    <Authors>Jordi Torné</Authors>
+    <Authors>Joto92</Authors>
+    <ActionCriteriaData><![CDATA[
+      <ActionCriteria>
+        <Criteria id="Expansion2">
+          <GameCoreInUse>Expansion2</GameCoreInUse>
+        </Criteria>
+      </ActionCriteria>
+    ]]></ActionCriteriaData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -78,6 +89,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="MyWOW_Civilopedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_Expansion2_New.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="MyWOW_Religions.xml">

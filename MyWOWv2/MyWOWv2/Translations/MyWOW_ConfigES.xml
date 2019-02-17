@@ -20,6 +20,9 @@
 		<Replace Tag="LOC_TRAIT_BLOODY_FURY_DESCRIPTION" Language="es_ES">
 			<Text>+10 a la Fuerza de combate [ICON_Strength] de las todas las unidades cuerpo a cuerpo. Acumula un 25% menos de hastío bélico.</Text>
 		</Replace>
+		<Replace Tag="LOC_TRAIT_BLOODY_FURY_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>+10 a la Fuerza de combate [ICON_Strength] de las todas las unidades cuerpo a cuerpo. Acumula un 25% menos de hastío bélico. Las unidades no reciben daño por Tormentas de Arena.</Text>
+		</Replace>
 		<Replace Tag="LOC_TRAIT_SON_OF_HELLSCREAM_NAME" Language="es_ES">
 			<Text>Hijo de Grito Infernal</Text>
 		</Replace>
@@ -434,7 +437,10 @@
 			<Text>Clan Barbabronce</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_CLAN_BRONZEBEARD_DESCRIPTION" Language="es_ES">
-			<Text>Los terrenos de Nieve proporcionan Alimentos como las Praderas para las otras Civilizaciones. Cada Museo arqueológico contiene 6 artefactos [ICON_GreatWork_Artifact] en lugar de 3, y puede tener 2 Arqueólogos a la vez. Los Museos arqueológicos pasan a tener un tema automáticamente cuando contienen 6 artefactos [ICON_GreatWork_Artifact]..</Text>
+			<Text>Los terrenos de Nieve proporcionan Alimentos como las Praderas para las otras Civilizaciones. Cada Museo arqueológico contiene 6 artefactos [ICON_GreatWork_Artifact] en lugar de 3, y puede tener 2 Arqueólogos a la vez. Los Museos arqueológicos pasan a tener un tema automáticamente cuando contienen 6 artefactos [ICON_GreatWork_Artifact].</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CLAN_BRONZEBEARD_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>Los terrenos de Nieve proporcionan Alimentos como las Praderas para las otras Civilizaciones. Cada Museo arqueológico contiene 6 artefactos [ICON_GreatWork_Artifact] en lugar de 3, y puede tener 2 Arqueólogos a la vez. Los Museos arqueológicos pasan a tener un tema automáticamente cuando contienen 6 artefactos [ICON_GreatWork_Artifact]. Las unidades no reciben daño por Ventiscas.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_DWARF_RIFLEMAN_NAME" Language="es_ES">
 			<Text>Fusilero Enano</Text>
@@ -755,6 +761,9 @@
 		<Replace Tag="LOC_TRAIT_UNDEAD_EMPIRE_DESCRIPTION" Language="es_ES">
 			<Text>Los terrenos de Tundra y Nieve proporcionan Alimentos como las Praderas para las otras Civilizaciones.</Text>
 		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_UNDEAD_EMPIRE_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>Los terrenos de Tundra y Nieve proporcionan Alimentos como las Praderas para las otras Civilizaciones. Las unidades no reciben daño por Ventiscas. Las civilizaciones que estén en guerra contigo recibirán +100% al daño de unidades por Ventiscas en tu territorio.</Text>
+		</Replace>
 		<Replace Tag="LOC_TRAIT_DEATH_GOD_NAME" Language="es_ES">
 			<Text>Death God</Text>
 		</Replace>
@@ -897,6 +906,9 @@
 		</Replace>
 		<Replace Tag="LOC_TRAIT_ICE_TROLLS_DESCRIPTION" Language="es_ES">
 			<Text>Todas las unidades se curan despues de cada turno. +1 [ICON_FAITH] Fe y +1 [ICON_PRODUCTION] Producción en Tundras.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ICE_TROLLS_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades se curan despues de cada turno. +1 [ICON_FAITH] Fe y +1 [ICON_PRODUCTION] Producción en Tundras. Las unidades no reciben daño por Ventiscas.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_FROST_KING_NAME" Language="es_ES">
 			<Text>Rey Helado</Text>
