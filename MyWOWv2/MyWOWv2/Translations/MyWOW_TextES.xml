@@ -1359,7 +1359,7 @@
 			<Text>Cruzada Escarlata</Text>
 		</Replace>
 		<Replace Tag="LOC_MINOR_CIV_SCARLET_CRUSADE_TRAIT_DESCRIPTION" Language="es_ES">
-			<Text>+4 [ICON_Strength] Fuerza de Combate contra otras religiones.</Text>
+			<Text>Recibe una reliquia [ICON_GreatWork_Relic] cada vez que descubras una maravilla de la naturaleza, y gana un +50% de Fe [ICON_Faith] de todas las reliquias [ICON_GreatWork_Relic].</Text>
 		</Replace>
 		<Replace Tag="LOC_SCARLET_CRUSADE_NAME" Language="es_ES">
 			<Text>Cruzada Escarlata</Text>

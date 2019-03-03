@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<!--
+	18 Natural Wonders: Blackrock Mountain, Un'Goro Crater, Lost Peak, Mount Kajaro, Vashj'ir, Highmountain Peak, Hyjal Summit, Mount Mugamba, Mount Neverest, Maelstrom, Well of Eternity, Onyxia's Lair
+	Razorfen Kraul, The Wailing Caverns, Maraudon, Deadmines, Caverns of Time, Grizzlemaw
+
+	Gathering Storm:
+	Exclamation Point(Mato Tipila)
+	Swarming Pillar(Mato Tipila)
+	Twin Colossals (Mato Tipila)
+	Pools of Purity
+	
+	Not added:
+	??Ironforge Mountain (Mount Everest)
+	??Vile Reef (Great Barrier Reef) The Vile Reef is a colorful reef portion of the Great Sea near the southwestern tip of the Eastern Kingdoms, mostly noted by travelers on the west coast of Stranglethorn Vale.
+
+	-->
+	<Types>
+		<Row Type="FEATURE_BLACKROCK_MOUNTAIN" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_UNGORO_CRATER" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_LOST_PEAK" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MOUNT_KAJARO" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_VASHJIR" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MAELSTROM" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_WELL_OF_ETERNITY" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_HIGHMOUNTAIN_PEAK" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_HYJAL_SUMMIT" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MOUNT_MUGAMBA" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MOUNT_NEVEREST" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_ONYXIAS_LAIR" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_RAZORFEN_KRAUL" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_THE_WAILING_CAVERNS" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MARAUDON" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_DEADMINES" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_CAVERNS_OF_TIME" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_GRIZZLEMAW" Kind="KIND_FEATURE" />
+	</Types>
+
+	<Features>
+		<Row FeatureType="FEATURE_BLACKROCK_MOUNTAIN" Name="LOC_FEATURE_BLACKROCK_MOUNTAIN_NAME" Description="LOC_FEATURE_BLACKROCK_MOUNTAIN_DESCRIPTION" Quote="LOC_FEATURE_BLACKROCK_MOUNTAIN_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_UNGORO_CRATER" Name="LOC_FEATURE_UNGORO_CRATER_NAME" Description="LOC_FEATURE_UNGORO_CRATER_DESCRIPTION" Quote="LOC_FEATURE_UNGORO_CRATER_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_LOST_PEAK" Name="LOC_FEATURE_LOST_PEAK_NAME" Description="LOC_FEATURE_LOST_PEAK_DESCRIPTION" Quote="LOC_FEATURE_LOST_PEAK_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_MOUNT_KAJARO" Name="LOC_FEATURE_MOUNT_KAJARO_NAME" Description="LOC_FEATURE_MOUNT_KAJARO_DESCRIPTION" Quote="LOC_FEATURE_MOUNT_KAJARO_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_VASHJIR" Name="LOC_FEATURE_VASHJIR_NAME" Description="LOC_FEATURE_VASHJIR_DESCRIPTION" Quote="LOC_FEATURE_VASHJIR_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" MinDistanceLand="1" MaxDistanceLand="2" Tiles="2" NoRiver="true" Settlement="false" FollowRulesInWB="false" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_MAELSTROM" Name="LOC_FEATURE_MAELSTROM_NAME" Description="LOC_FEATURE_MAELSTROM_DESCRIPTION" Quote="LOC_FEATURE_MAELSTROM_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" MinDistanceLand="1" MaxDistanceLand="3" Tiles="2" NoRiver="true" Settlement="false" FollowRulesInWB="false" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_WELL_OF_ETERNITY" Name="LOC_FEATURE_WELL_OF_ETERNITY_NAME" Description="LOC_FEATURE_WELL_OF_ETERNITY_DESCRIPTION" Quote="LOC_FEATURE_WELL_OF_ETERNITY_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" MinDistanceLand="1" MaxDistanceLand="3" Tiles="2" NoRiver="true" Settlement="false" FollowRulesInWB="false" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_HIGHMOUNTAIN_PEAK" Name="LOC_FEATURE_HIGHMOUNTAIN_PEAK_NAME" Description="LOC_FEATURE_HIGHMOUNTAIN_PEAK_DESCRIPTION" Quote="LOC_FEATURE_HIGHMOUNTAIN_PEAK_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_HYJAL_SUMMIT" Name="LOC_FEATURE_HYJAL_SUMMIT_NAME" Description="LOC_FEATURE_HYJAL_SUMMIT_DESCRIPTION" Quote="LOC_FEATURE_HYJAL_SUMMIT_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_MOUNT_MUGAMBA" Name="LOC_FEATURE_MOUNT_MUGAMBA_NAME" Description="LOC_FEATURE_MOUNT_MUGAMBA_DESCRIPTION" Quote="LOC_FEATURE_MOUNT_MUGAMBA_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_MOUNT_NEVEREST" Name="LOC_FEATURE_MOUNT_NEVEREST_NAME" Description="LOC_FEATURE_MOUNT_NEVEREST_DESCRIPTION" Quote="LOC_FEATURE_MOUNT_NEVEREST_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_ONYXIAS_LAIR" Name="LOC_FEATURE_ONYXIAS_LAIR_NAME" Description="LOC_FEATURE_ONYXIAS_LAIR_DESCRIPTION" Quote="LOC_FEATURE_ONYXIAS_LAIR_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="1" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_RAZORFEN_KRAUL" Name="LOC_FEATURE_RAZORFEN_KRAUL_NAME" Description="LOC_FEATURE_RAZORFEN_KRAUL_DESCRIPTION" Quote="LOC_FEATURE_RAZORFEN_KRAUL_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="1" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_THE_WAILING_CAVERNS" Name="LOC_FEATURE_THE_WAILING_CAVERNS_NAME" Description="LOC_FEATURE_THE_WAILING_CAVERNS_DESCRIPTION" Quote="LOC_FEATURE_THE_WAILING_CAVERNS_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="1" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_MARAUDON" Name="LOC_FEATURE_MARAUDON_NAME" Description="LOC_FEATURE_MARAUDON_KRAUL_DESCRIPTION" Quote="LOC_FEATURE_MARAUDON_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="1" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_DEADMINES" Name="LOC_FEATURE_DEADMINES_NAME" Description="LOC_FEATURE_DEADMINES_DESCRIPTION" Quote="LOC_FEATURE_DEADMINES_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="1" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_CAVERNS_OF_TIME" Name="LOC_FEATURE_CAVERNS_OF_TIME_NAME" Description="LOC_FEATURE_CAVERNS_OF_TIME_DESCRIPTION" Quote="LOC_FEATURE_CAVERNS_OF_TIME_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="1" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_GRIZZLEMAW" Name="LOC_FEATURE_GRIZZLEMAW_NAME" Description="LOC_FEATURE_GRIZZLEMAW_DESCRIPTION" Quote="LOC_FEATURE_GRIZZLEMAW_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+
+	</Features>
+
+	<Feature_ValidTerrains>
+		<Row FeatureType="FEATURE_BLACKROCK_MOUNTAIN" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_BLACKROCK_MOUNTAIN" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_UNGORO_CRATER" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_LOST_PEAK" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_LOST_PEAK" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_KAJARO" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_KAJARO" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_VASHJIR" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_MAELSTROM" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_WELL_OF_ETERNITY" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_HIGHMOUNTAIN_PEAK" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_HIGHMOUNTAIN_PEAK" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_HIGHMOUNTAIN_PEAK" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_HYJAL_SUMMIT" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_HYJAL_SUMMIT" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_HYJAL_SUMMIT" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_MUGAMBA" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_MUGAMBA" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_NEVEREST" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_NEVEREST" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_NEVEREST" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_ONYXIAS_LAIR" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_ONYXIAS_LAIR" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_ONYXIAS_LAIR" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_ONYXIAS_LAIR" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_RAZORFEN_KRAUL" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_RAZORFEN_KRAUL" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_RAZORFEN_KRAUL" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_RAZORFEN_KRAUL" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_THE_WAILING_CAVERNS" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_THE_WAILING_CAVERNS" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_THE_WAILING_CAVERNS" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_THE_WAILING_CAVERNS" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_MARAUDON" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MARAUDON" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_MARAUDON" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MARAUDON" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_MARAUDON" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_MARAUDON" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_DEADMINES" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_DEADMINES" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_DEADMINES" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_DEADMINES" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_CAVERNS_OF_TIME" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_CAVERNS_OF_TIME" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_GRIZZLEMAW" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_GRIZZLEMAW" TerrainType="TERRAIN_TUNDRA"/>
+	</Feature_ValidTerrains>
+	<Feature_AdjacentTerrains>
+		<Row FeatureType="FEATURE_HIGHMOUNTAIN_PEAK" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_HIGHMOUNTAIN_PEAK" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_HIGHMOUNTAIN_PEAK" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_HIGHMOUNTAIN_PEAK" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_HIGHMOUNTAIN_PEAK" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_HIGHMOUNTAIN_PEAK" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_HYJAL_SUMMIT" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_HYJAL_SUMMIT" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_HYJAL_SUMMIT" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_HYJAL_SUMMIT" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_HYJAL_SUMMIT" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_HYJAL_SUMMIT" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_MUGAMBA" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MOUNT_MUGAMBA" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_MUGAMBA" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_MOUNT_MUGAMBA" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_NEVEREST" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MOUNT_NEVEREST" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_NEVEREST" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_MOUNT_NEVEREST" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_NEVEREST" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_MOUNT_NEVEREST" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+	</Feature_AdjacentTerrains>
+	<Feature_NotAdjacentTerrains>
+		<Row FeatureType="FEATURE_UNGORO_CRATER" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_UNGORO_CRATER" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_UNGORO_CRATER" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_UNGORO_CRATER" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_UNGORO_CRATER" TerrainType="TERRAIN_SNOW_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_ONYXIAS_LAIR" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_ONYXIAS_LAIR" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_ONYXIAS_LAIR" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_ONYXIAS_LAIR" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_ONYXIAS_LAIR" TerrainType="TERRAIN_SNOW_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_GRIZZLEMAW" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_GRIZZLEMAW" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_GRIZZLEMAW" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_GRIZZLEMAW" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_GRIZZLEMAW" TerrainType="TERRAIN_SNOW_MOUNTAIN"/>
+	</Feature_NotAdjacentTerrains>
+	<Feature_AdjacentFeatures>
+		<Row FeatureType="FEATURE_GRIZZLEMAW" FeatureTypeAdjacent="FEATURE_FOREST"/>
+	</Feature_AdjacentFeatures>
+	<Feature_NotNearFeatures>
+		<Row FeatureType="FEATURE_VASHJIR" FeatureTypeAvoid="FEATURE_ICE"/>
+	</Feature_NotNearFeatures>
+	<Feature_YieldChanges>
+		<Row FeatureType="FEATURE_VASHJIR" YieldType="YIELD_FOOD" YieldChange="3"/>
+		<Row FeatureType="FEATURE_VASHJIR" YieldType="YIELD_SCIENCE" YieldChange="2"/>
+		<Row FeatureType="FEATURE_ONYXIAS_LAIR" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row FeatureType="FEATURE_THE_WAILING_CAVERNS" YieldType="YIELD_SCIENCE" YieldChange="2"/>
+		<Row FeatureType="FEATURE_MARAUDON" YieldType="YIELD_FAITH" YieldChange="5"/>
+		<Row FeatureType="FEATURE_DEADMINES" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row FeatureType="FEATURE_DEADMINES" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row FeatureType="FEATURE_CAVERNS_OF_TIME" YieldType="YIELD_SCIENCE" YieldChange="4"/>
+		<Row FeatureType="FEATURE_GRIZZLEMAW" YieldType="YIELD_FAITH" YieldChange="2"/>
+	</Feature_YieldChanges>
+
+	<Feature_AdjacentYields>
+			<Row FeatureType="FEATURE_BLACKROCK_MOUNTAIN" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+			<Row FeatureType="FEATURE_UNGORO_CRATER" YieldType="YIELD_FOOD" YieldChange="2"/>
+			<Row FeatureType="FEATURE_LOST_PEAK" YieldType="YIELD_GOLD" YieldChange="1"/>
+			<Row FeatureType="FEATURE_MOUNT_KAJARO" YieldType="YIELD_GOLD" YieldChange="1"/>
+			<Row FeatureType="FEATURE_MOUNT_KAJARO" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+			<Row FeatureType="FEATURE_HIGHMOUNTAIN_PEAK" YieldType="YIELD_FOOD" YieldChange="1"/>
+			<Row FeatureType="FEATURE_HIGHMOUNTAIN_PEAK" YieldType="YIELD_CULTURE" YieldChange="1"/>
+			<Row FeatureType="FEATURE_HYJAL_SUMMIT" YieldType="YIELD_FAITH" YieldChange="2"/>
+			<Row FeatureType="FEATURE_MOUNT_MUGAMBA" YieldType="YIELD_FAITH" YieldChange="1"/>
+			<Row FeatureType="FEATURE_MOUNT_MUGAMBA" YieldType="YIELD_FOOD" YieldChange="1"/>
+			<Row FeatureType="FEATURE_MOUNT_NEVEREST" YieldType="YIELD_CULTURE" YieldChange="1"/>
+			<Row FeatureType="FEATURE_MAELSTROM" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+			<Row FeatureType="FEATURE_WELL_OF_ETERNITY" YieldType="YIELD_SCIENCE" YieldChange="2"/>
+			<Row FeatureType="FEATURE_RAZORFEN_KRAUL" YieldType="YIELD_FAITH" YieldChange="1"/>
+	</Feature_AdjacentYields>
+	
+</GameData>

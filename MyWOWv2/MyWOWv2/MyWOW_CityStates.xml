@@ -369,7 +369,7 @@
 		<Row TraitType="MINOR_CIV_FUSELIGHT_TRAIT" ModifierId="MINOR_CIV_FUSELIGHT_UNIQUE_INFLUENCE_BONUS_TWO"/>
 		<Row TraitType="MINOR_CIV_K3_TRAIT" ModifierId="MINOR_CIV_K3_UNIQUE_INFLUENCE_BONUS"/>
 		<Row TraitType="MINOR_CIV_K3_TRAIT" ModifierId="MINOR_CIV_K3_UNIQUE_INFLUENCE_BONUS_TWO"/>
-		<Row TraitType="MINOR_CIV_SCARLET_CRUSADE_TRAIT" ModifierId="MINOR_CIV_SCARLET_CRUSADE_UNIQUE_INFLUENCE_BONUS"/>
+		<Row TraitType="MINOR_CIV_SCARLET_CRUSADE_TRAIT" ModifierId="MINOR_CIV_CENARION_CIRCLE_UNIQUE_INFLUENCE_BONUS"/>
 		<Row TraitType="MINOR_CIV_CENARION_CIRCLE_TRAIT" ModifierId="MINOR_CIV_CENARION_CIRCLE_UNIQUE_INFLUENCE_BONUS"/>
 		<Row TraitType="MINOR_CIV_RAMKAHEN_TRAIT" ModifierId="MINOR_CIV_RAMKAHEN_UNIQUE_INFLUENCE_BONUS"/>
 		<Row TraitType="MINOR_CIV_RAMKAHEN_TRAIT" ModifierId="MINOR_CIV_RAMKAHEN_UNIQUE_INFLUENCE_BONUS_TWO"/>
@@ -659,14 +659,17 @@
 			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
 		</Row>
 		<Row>
-			<ModifierId>MYWOW_RELIGION_COMBAT</ModifierId>
-			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
-			<SubjectRequirementSetId>WARS_OF_RELIGION_REQUIREMENTS</SubjectRequirementSetId>
+			<ModifierId>MINOR_CIV_SCARLET_CRUSADE_GRANT_RELIC_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_NATURAL_WONDER_RELIC</ModifierType>
 		</Row>
 		<Row>
-			<ModifierId>MYWOW_RELIGION_COMBAT_MODIFIER</ModifierId>
-			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
-			<SubjectRequirementSetId>REQUIREMENTS_OPPONENT_IS_OTHER_RELIGION</SubjectRequirementSetId>
+			<ModifierId>MINOR_CIV_SCARLET_CRUSADE_UNIQUE_INFLUENCE_BONUS_TWO</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SCARLET_CRUSADE_BETTER_RELIC_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_GREATWORK_YIELD</ModifierType>
 		</Row>
 		<Row>
 			<ModifierId>MINOR_CIV_CENARION_CIRCLE_UNIQUE_INFLUENCE_BONUS</ModifierId>
@@ -1561,17 +1564,32 @@
 		<Row>
 			<ModifierId>MINOR_CIV_SCARLET_CRUSADE_UNIQUE_INFLUENCE_BONUS</ModifierId>
 			<Name>ModifierId</Name>
-			<Value>MYWOW_RELIGION_COMBAT</Value>
+			<Value>MINOR_CIV_SCARLET_CRUSADE_GRANT_RELIC_BONUS</Value>
 		</Row>
 		<Row>
-			<ModifierId>MYWOW_RELIGION_COMBAT</ModifierId>
-			<Name>ModifierId</Name>
-			<Value>MYWOW_RELIGION_COMBAT_MODIFIER</Value>
-		</Row>
-		<Row>
-			<ModifierId>MYWOW_RELIGION_COMBAT_MODIFIER</ModifierId>
+			<ModifierId>MINOR_CIV_SCARLET_CRUSADE_GRANT_RELIC_BONUS</ModifierId>
 			<Name>Amount</Name>
-			<Value>4</Value>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SCARLET_CRUSADE_UNIQUE_INFLUENCE_BONUS_TWO</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_SCARLET_CRUSADE_BETTER_RELIC_BONUS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SCARLET_CRUSADE_BETTER_RELIC_BONUS</ModifierId>
+			<Name>GreatWorkObjectType</Name>
+			<Value>GREATWORKOBJECT_RELIC</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SCARLET_CRUSADE_BETTER_RELIC_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SCARLET_CRUSADE_BETTER_RELIC_BONUS</ModifierId>
+			<Name>ScalingFactor</Name>
+			<Value>150</Value>
 		</Row>
 		<Row>
 			<ModifierId>MINOR_CIV_CENARION_CIRCLE_UNIQUE_INFLUENCE_BONUS</ModifierId>
@@ -2606,11 +2624,7 @@
 			<Value>150</Value>
 		</Row>
 	</ModifierArguments>
-	
-	<ModifierStrings>
-		<Row ModifierId="MYWOW_RELIGION_COMBAT_MODIFIER" Context="Preview" Text="LOC_PROMOTION_COMBAT_WARS_OF_RELIGION"/>
-	</ModifierStrings>
-	
+
 	<TypeProperties>
 		<Row Type="CIVILIZATION_STORMGARDE" Name="CityStateCategory" Value="MILITARISTIC"/>
 		<Row Type="CIVILIZATION_ALTERAC" Name="CityStateCategory" Value="CULTURAL"/>

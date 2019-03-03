@@ -24,6 +24,7 @@
           <File>MyWOW_Improvements.xml</File>
           <File>MyWOW_Religions.xml</File>
           <File>MyWOW_CityStates.xml</File>
+          <File>MyWOW_Wonders.xml</File>
         </UpdateDatabase>
         <UpdateDatabase id="UsingExpansion2">
           <Criteria>Expansion2</Criteria>
@@ -44,8 +45,7 @@
         <UpdateArt id="Art">
           <File>(Mod Art Dependency File)</File>
         </UpdateArt>
-      </InGameActions>]]>
-    </InGameActionData>
+      </InGameActions>]]></InGameActionData>
     <FrontEndActionData><![CDATA[
       <FrontEndActions>
         <UpdateDatabase id="Config">
@@ -101,6 +101,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="MyWOW_Units.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOW_Wonders.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Translations\MyWOW_Civilopedia_ES.xml">

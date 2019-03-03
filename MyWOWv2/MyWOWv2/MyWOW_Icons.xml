@@ -624,6 +624,25 @@
 
 
 		<!-- End of City States-->
+
+		<Row Name="ICON_FEATURE_BLACKROCK_MOUNTAIN"         Atlas="ICON_ATLAS_FEATURES" Index="12"/>
+		<Row Name="ICON_FEATURE_UNGORO_CRATER"         Atlas="ICON_ATLAS_FEATURES" Index="12"/>
+		<Row Name="ICON_FEATURE_LOST_PEAK"         Atlas="ICON_ATLAS_FEATURES" Index="12"/>
+		<Row Name="ICON_FEATURE_MOUNT_KAJARO"         Atlas="ICON_ATLAS_FEATURES" Index="12"/>
+		<Row Name="ICON_FEATURE_VASHJIR"        Atlas="ICON_ATLAS_FEATURES" Index="6"/>
+		<Row Name="ICON_FEATURE_MAELSTROM"        Atlas="ICON_ATLAS_FEATURES" Index="6"/>
+		<Row Name="ICON_FEATURE_WELL_OF_ETERNITY"        Atlas="ICON_ATLAS_FEATURES" Index="6"/>
+		<Row Name="ICON_FEATURE_HIGHMOUNTAIN_PEAK"	Atlas="ICON_ATLAS_FEATURES" Index="10"/>
+		<Row Name="ICON_FEATURE_HYJAL_SUMMIT"	Atlas="ICON_ATLAS_FEATURES" Index="10"/>
+		<Row Name="ICON_FEATURE_MOUNT_MUGAMBA"	Atlas="ICON_ATLAS_FEATURES" Index="10"/>
+		<Row Name="ICON_FEATURE_MOUNT_NEVEREST"	Atlas="ICON_ATLAS_FEATURES" Index="10"/>
+		<Row Name="ICON_FEATURE_ONYXIAS_LAIR"              Atlas="ICON_ATLAS_FEATURES" Index="16"/>
+		<Row Name="ICON_FEATURE_RAZORFEN_KRAUL"              Atlas="ICON_ATLAS_FEATURES" Index="16"/>
+		<Row Name="ICON_FEATURE_THE_WAILING_CAVERNS"              Atlas="ICON_ATLAS_FEATURES" Index="16"/>
+		<Row Name="ICON_FEATURE_MARAUDON"              Atlas="ICON_ATLAS_FEATURES" Index="16"/>
+		<Row Name="ICON_FEATURE_DEADMINES"              Atlas="ICON_ATLAS_FEATURES" Index="16"/>
+		<Row Name="ICON_FEATURE_CAVERNS_OF_TIME"              Atlas="ICON_ATLAS_FEATURES" Index="16"/>
+		<Row Name="ICON_FEATURE_GRIZZLEMAW"            Atlas="ICON_ATLAS_FEATURES" Index="17"/>
 	</IconDefinitions>
 	
 </GameData>

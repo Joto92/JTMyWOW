@@ -2150,7 +2150,7 @@
 			<Text>Scarlet Crusade</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCARLET_CRUSADE_TRAIT_DESCRIPTION" Language="en_US">
-			<Text>+4 [ICON_Strength] Combat Strength against other religions.</Text>
+			<Text>Receive a [ICON_GreatWork_Relic] Relic every time you discover a new natural wonder, and earn +50% [ICON_Faith] Faith from all [ICON_GreatWork_Relic] Relics.</Text>
 		</Row>
 		<Row Tag="LOC_SCARLET_CRUSADE_NAME" Language="en_US">
 			<Text>Scarlet Crusade</Text>
@@ -2546,6 +2546,22 @@
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HRYDSHAL" Language="en_US">
 			<Text>Hrydshal</Text>
+		</Row>
+		<!-- TIDESKORN-->
+		<Row Tag="LOC_MINOR_CIV_SURAMAR_TRAIT_NAME" Language="en_US">
+			<Text>Suramar</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SURAMAR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts adyacent to a lake get +1 [ICON_Science] Science</Text>
+		</Row>
+		<Row Tag="LOC_SURAMAR_NAME" Language="en_US">
+			<Text>Suramar</Text>
+		</Row>
+		<Row Tag="LOC_SURAMAR_DESCRIPTION" Language="en_US">
+			<Text>City State of Suramar</Text>
+		</Row>
+		<Row Tag="LOC_SURAMAR_ADJECTIVE" Language="en_US">
+			<Text>Suramar</Text>
 		</Row>
 		<!-- BLACK_ROOK_HOLD-->
 		<Row Tag="LOC_MINOR_CIV_BLACK_ROOK_HOLD_TRAIT_NAME" Language="en_US">
@@ -3996,7 +4012,169 @@
 		<Row Tag="LOC_NAMED_VOLCANO_SEARING_PEAK_NAME" Language="en_US">
 			<Text>Searing Peak</Text>
 		</Row>
-		<!--¿Future Natural Wonders? Blackrock , Mount Kajaro, Un'Goro, Thunder Peak-->
-		
+		<!-- Thunder Peak-->
+		<!-- Natural Wonders-->
+		<Row Tag="LOC_FEATURE_BLACKROCK_MOUNTAIN_NAME" Language="en_US" >
+			<Text>Blackrock Mountain</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BLACKROCK_MOUNTAIN_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Production] Production to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_BLACKROCK_MOUNTAIN_QUOTE" Language="en_US">
+			<Text>“Have you heard the rumblings? The Mountain stirs once more, beneath its crags cliffs and rocks. There's evil in its core, fire made flesh.”</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_UNGORO_CRATER_NAME" Language="en_US" >
+			<Text>Un'Goro Crater</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_UNGORO_CRATER_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Food] Food to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_UNGORO_CRATER_QUOTE" Language="en_US">
+			<Text>“The night elf army was pushed back through Un'Goro Crater, to the borders of the Tanaris desert. Something in Un'Goro prevented the Qiraji from being able to take the land. I do not quite understand this word but I believe it to mean 'God Lands'. It is stated that they could not 'take the God Lands'.”[NEWLINE]– Geologist Larksbane</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LOST_PEAK_NAME" Language="en_US" >
+			<Text>Lost Peak</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LOST_PEAK_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_Gold] Gold to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_LOST_PEAK_QUOTE" Language="en_US">
+			<Text>Lost Peak is the gigantic volcano at the center of the Lost Isles. After Volcanoth! the Lost Peak is turned into a fiery, lava-drenched wasteland.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_KAJARO_NAME" Language="en_US" >
+			<Text>Mount Kajaro</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_KAJARO_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_Gold] Gold and +1 [ICON_Production] Production to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_KAJARO_QUOTE" Language="en_US">
+			<Text>Mount Kajaro is a mountain volcano on the Isle of Kezan. It is a still-active volcano, and kaja'mite was mined underneath it. According to Al'tabim the All-Seeing, Kajaro is an area plagued by volatility, marked by violent and oftentimes magical volcanic eruptions.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_VASHJIR_NAME" Language="en_US" >
+			<Text>Vashj'ir</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_VASHJIR_DESCRIPTION" Language="en_US" >
+			<Text>Two tile natural wonder that can be found on coastal terrain and provides +3 [ICON_Food] Food and +2 [ICON_Science] Science.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_VASHJIR_QUOTE" Language="en_US">
+			<Text>Once a great Highborne city housing some of the most revered night elves of Kalimdor, Vashj'ir was swallowed by the Great Sea in the Sundering and thought to be lost forever.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MAELSTROM_NAME" Language="en_US" >
+			<Text>The Maelstrom</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MAELSTROM_DESCRIPTION" Language="en_US" >
+			<Text>Two tile natural wonder that can be found on coastal terrain and provides +1 [ICON_Science] Science to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MAELSTROM_QUOTE" Language="en_US">
+			<Text>The Maelstrom is a massive, fierce vortex of water that was created when the Well of Eternity collapsed into itself during the Great Sundering. It is located in the middle of the Great Sea which subsequently filled the void. The water churns constantly in a dizzying storm of tidal and arcane energy that seems to have no end.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_WELL_OF_ETERNITY_NAME" Language="en_US" >
+			<Text>Well of Eternity</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_WELL_OF_ETERNITY_DESCRIPTION" Language="en_US" >
+			<Text>Two tile natural wonder that can be found on coastal terrain and provides +2 [ICON_Science] Science to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_WELL_OF_ETERNITY_QUOTE" Language="en_US">
+			<Text>The original Well of Eternity was formed from a great wound in Azeroth's surface, created when Aman'Thul, the Highfather of the titan Pantheon, ripped the Old God Y'Shaarj from the world's crust and tore it apart. The volatile arcane lifeblood of Azeroth's world-soul rushed to the surface and roiled over the world. It was through this event that the Pantheon realized that the Old Gods had embedded themselves too deep in Azeroth's surface to remove without severely harming the world-soul, and so they instead resolved to imprison the vile entities below the surface of the world.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_HIGHMOUNTAIN_PEAK_NAME" Language="en_US" >
+			<Text>Highmountain Peak</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_HIGHMOUNTAIN_PEAK_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_Food] Food and +1 [ICON_Culture] Culture to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_HIGHMOUNTAIN_PEAK_QUOTE" Language="en_US">
+			<Text>Few places in Azeroth are as beautiful, or as perilous, as Highmountain. Its rugged slopes teem with wild beasts, roaring waterfalls, and breathtaking views. A vast network of caverns winds through the mountain's heart, holding legendary treasures and secrets from Azeroth's distant past.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_HYJAL_SUMMIT_NAME" Language="en_US" >
+			<Text>Hyjal Summit</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_HYJAL_SUMMIT_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Faith] Faith to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_HYJAL_SUMMIT_QUOTE" Language="en_US">
+			<Text>The Kaldorei have long held this great mountain sacred. When the first Well of Eternity was destroyed in the first demonic invasion, the resulting implosion triggered a cataclysm that made the world shudder. Mount Hyjal endured, however, and the night elves emerged to rebuild their society — though without arcane magic this time.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_MUGAMBA_NAME" Language="en_US" >
+			<Text>Mount Mugamba</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_MUGAMBA_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_Faith] Faith and +1 [ICON_Food] Food to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_MUGAMBA_QUOTE" Language="en_US">
+			<Text>Mount Mugamba is the sacred mountain of Zandalar. The tombs of Atal'Dazar are secluded high atop Mugamba.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_NEVEREST_NAME" Language="en_US" >
+			<Text>Mount Neverest</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_NEVEREST_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_Culture] Culture to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_NEVEREST_QUOTE" Language="en_US">
+			<Text>Mount Neverest is the highest mountain in Kun-Lai Summit and all of Azeroth.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ONYXIAS_LAIR_NAME" Language="en_US" >
+			<Text>Onyxia's Lair</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ONYXIAS_LAIR_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. Provides +2 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ONYXIAS_LAIR_QUOTE" Language="en_US">
+			<Text>“How fortuitous. Usually, I must leave my lair in order to feed.”[NEWLINE]– Onyxia</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_RAZORFEN_KRAUL_NAME" Language="en_US" >
+			<Text>Razorfen Kraul</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_RAZORFEN_KRAUL_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. Provides +1 [ICON_Faith] Faith to adjacent tiles.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_RAZORFEN_KRAUL_QUOTE" Language="en_US">
+			<Text>Ten thousand years ago - during the War of the Ancients, the mighty demigod, Agamaggan, came forth to battle the Burning Legion. Though the colossal boar fell in combat, his actions helped save Azeroth from ruin. Yet over time, in the areas where his blood fell, massive thorn-ridden vines sprouted from the earth. The quilboar - believed to be the mortal offspring of the mighty god, came to occupy these regions and hold them sacred.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_THE_WAILING_CAVERNS_NAME" Language="en_US" >
+			<Text>The Wailing Caverns</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_THE_WAILING_CAVERNS_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. Provides +2 [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_THE_WAILING_CAVERNS_QUOTE" Language="en_US">
+			<Text>In years past, a night elf druid named Naralex discovered a network of underground caverns within the heart of the Barrens. Naralex believed he could use the caverns' underground springs to restore lushness and fertility to the Barrens - but to do so would require siphoning the energies of the fabled Emerald Dream. Once connected to the Dream however, the druid's vision somehow became a nightmare. Soon the Wailing Caverns began to change - the waters turned foul and the once-docile creatures inside metamorphosed into vicious, deadly predators.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MARAUDON_NAME" Language="en_US" >
+			<Text>Maraudon</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MARAUDON_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. Provides +5 [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MARAUDON_QUOTE" Language="en_US">
+			<Text>Protected by the fierce Maraudine centaur, Maraudon is one of the most sacred sites within Desolace. The great temple/cavern is the burial place of Zaetar, one of two immortal sons born to the demigod, Cenarius. Legend holds that Zaetar and the earth elemental princess, Theradras, sired the misbegotten centaur race. It is said that upon their emergence, the barbaric centaur turned on their father and killed him. Some believe that Theradras, in her grief, trapped Zaetar's spirit within the winding cavern - used its energies for some malign purpose. The subterranean tunnels are populated by the vicious, long-dead ghosts of the Centaur Khans, as well as Theradras' own raging, elemental minions.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DEADMINES_NAME" Language="en_US" >
+			<Text>Deadmines</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DEADMINES_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. Provides +2 [ICON_Gold] Gold and +2 [ICON_Production].</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DEADMINES_QUOTE" Language="en_US">
+			<Text>It is said the Deadmines' gold deposits once accounted for a third of Stormwind's treasure reserves. Amid the chaos of the First War, the mines were abandoned and later thought to be haunted, leaving them relatively untouched until the Defias Brotherhood, a group of former laborers turned brigands, claimed the labyrinth as a base of operations for its subversive activities against Stormwind.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CAVERNS_OF_TIME_NAME" Language="en_US" >
+			<Text>Caverns of Time</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CAVERNS_OF_TIME_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. Provides +4 [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CAVERNS_OF_TIME_QUOTE" Language="en_US">
+			<Text>The Caverns of Time are home to Nozdormu and the bronze dragonflight. It is their sacred mission, one which was charged to them by the titans, to guard the caverns against the intrusion of mortals, whose interference would assuredly disrupt the flow of time. Recently, a mysterious force called the infinite dragonflight has begun to meddle with time.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GRIZZLEMAW_NAME" Language="en_US" >
+			<Text>Grizzlemaw</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GRIZZLEMAW_DESCRIPTION" Language="en_US" >
+			<Text>Two tile impassable natural wonder. Provides +2 [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GRIZZLEMAW_QUOTE" Language="en_US">
+			<Text>Grizzlemaw, formerly known as Vordrassil, was a failed attempt at a World Tree, located in the Grizzly Hills of southern Northrend. The Old God Yogg-Saron sleeps beneath its roots, and appears to have been responsible for the corruption of the furbolg. Yogg-Saron's corruption was also the motivation for the destruction of Vordrassil.</Text>
+		</Row>
 	</LocalizedText>
 </GameData>
