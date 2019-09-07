@@ -442,6 +442,9 @@
 		<Row Tag="LOC_BUILDING_ALTAR_OF_KINGS_DESCRIPTION" Language="en_US">
 			<Text>Stormwind unique building that replace the Monument. Gives 3 [ICON_Culture] Culture, 1 [ICON_Faith] Faith and 1 [ICON_Production] Production.</Text>
 		</Row>
+		<Row Tag="LOC_BUILDING_ALTAR_OF_KINGS_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>Stormwind unique building that replace the Monument. Gives 3 [ICON_Culture] Culture, 1 [ICON_Faith] Faith and 1 [ICON_Production] Production. Provides +1 Loyalty per turn in this city. If the city already has maximum Loyalty, also provides an additional +1 [ICON_Culture] Culture.</Text>
+		</Row>
 		<Row Tag="LOC_BUILDING_GRYPHON_NEST_NAME" Language="en_US">
 			<Text>Gryphon Nest</Text>
 		</Row>
@@ -518,6 +521,9 @@
 		</Row>
 		<Row Tag="LOC_BUILDING_DWARF_BUNKER_DESCRIPTION" Language="en_US">
 			<Text>Dwarf unique building that replace the Barracks. +40% combat experience for all melee and ranged land units trained in this city. Gives 2 [ICON_Production] Production, 2 Points for Great Generals and 1 Housing. Occupying unit receives +2 [ICON_Strength] Defense Strength, and automatically gains 2 turns of fortification. Adds to air slots.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DWARF_BUNKER_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>Dwarf unique building that replace the Barracks. +40% combat experience for all melee and ranged land units trained in this city. Gives 2 [ICON_Production] Production, 2 Points for Great Generals and 1 Housing. Occupying unit receives +2 [ICON_Strength] Defense Strength, and automatically gains 2 turns of fortification. Adds to air slots. [NEWLINE]Strategic Resource Stockpiles increased +10 (on Standard Speed).[NEWLINE][NEWLINE]May not be built in an Encampment district that already has a Stable.</Text>
 		</Row>
 		<!-- END OF IRONFORGE | MURADIN_BRONZEBEARD -->
 		<!-- NIGHT ELVES | TYRANDE_WHISPERWIND -->
@@ -960,7 +966,7 @@
 			<Text>Gurubashi Arena</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_GURUBASHI_ARENA_DESCRIPTION" Language="en_US">
-			<Text>Unique Gurubashi Troll building that replace the Arena. Gives 3 Entretainment ,2 [ICON_Gold] Gold, 1 [ICON_Production] Production.</Text>
+			<Text>Unique Gurubashi Troll building that replace the Arena. Gives 3 Entretainment ,2 [ICON_Gold] Gold, 1 [ICON_Culture] Culture and 1 [ICON_Production] Production.</Text>
 		</Row>
 		<!-- END OF GURUBASHI | JIN'DO -->
 		<!-- DRAKKARI | MALAKK -->
@@ -1575,6 +1581,9 @@
 		</Row>
 		<Row Tag="LOC_BUILDING_DEMONIC_PORTAL_DESCRIPTION" Language="en_US">
 			<Text>Burning Legion unique building that replace the Barracks. +40% combat experience for all melee and ranged land units trained in this city. Gives 2 [ICON_Production] Production, 2 Points for Great Generals and 1 Housing. Adds to air slots.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DEMONIC_PORTAL_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>Burning Legion unique building that replace the Barracks. +40% combat experience for all melee and ranged land units trained in this city. Gives 2 [ICON_Production] Production, 2 Points for Great Generals and 1 Housing. Adds to air slots. [NEWLINE]Strategic Resource Stockpiles increased +10 (on Standard Speed).[NEWLINE][NEWLINE]May not be built in an Encampment district that already has a Stable.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_KITE_FACTORY_NAME" Language="en_US">
 			<Text>Kite Factory</Text>

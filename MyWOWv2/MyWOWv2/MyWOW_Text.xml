@@ -4012,6 +4012,222 @@
 		<Row Tag="LOC_NAMED_VOLCANO_SEARING_PEAK_NAME" Language="en_US">
 			<Text>Searing Peak</Text>
 		</Row>
+		<!-- Oceans-->
+		<Row Tag="LOC_NAMED_OCEAN_GREAT_SEA_NAME" Language="en_US">
+			<Text>The Great Sea</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_OCEAN_FORBIDDING_SEA_NAME" Language="en_US">
+			<Text>The Forbidding Sea</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_OCEAN_NORTH_SEA_NAME" Language="en_US">
+			<Text>The North Sea</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_OCEAN_VEILED_SEA_NAME" Language="en_US">
+			<Text>Veiled Sea</Text>
+		</Row>
+		<!-- Seas-->
+		<Row Tag="LOC_NAMED_SEA_BARADIN_BAY_NAME" Language="en_US">
+			<Text>Baradin Bay</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SOUTH_SEAS_NAME" Language="en_US">
+			<Text>The South Seas</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_FROZEN_SEA_NAME" Language="en_US">
+			<Text>Frozen Sea</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BLADEFIST_BAY_NAME" Language="en_US">
+			<Text>Bladefist Bay</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_STORMS_NAME" Language="en_US">
+			<Text>Bay of Storms</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_KINGS_NAME" Language="en_US">
+			<Text>Bay of Kings</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BOOTY_BAY_NAME" Language="en_US">
+			<Text>Booty Bay</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_DUSTWALLOW_BAY_NAME" Language="en_US">
+			<Text>Dustwallow Bay</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TYRS_BAY_NAME" Language="en_US">
+			<Text>Tyr's Bay</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_MENETHIL_BAY_NAME" Language="en_US">
+			<Text>Menethil Bay</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_VENTURE_BAY_NAME" Language="en_US">
+			<Text>Venture Bay</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_GILNEAS_NAME" Language="en_US">
+			<Text>Bay of Gilneas</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_DAGGERCAP_BAY_NAME" Language="en_US">
+			<Text>Daggercap Bay</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_NJORDS_BREATH_BAY_NAME" Language="en_US">
+			<Text>Njord's Breath Bay</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GLIMMER_BAY_BAY_NAME" Language="en_US">
+			<Text>Glimmer Bay</Text>
+		</Row>
+		<!-- Lakes-->
+		<Row Tag="LOC_NAMED_LAKE_LORDAMERE_LAKE_NAME" Language="en_US">
+			<Text>Lordamere Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_BRIGHTWATER_LAKE_NAME" Language="en_US">
+			<Text>Brightwater Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_BLACKWOOD_LAKE_NAME" Language="en_US">
+			<Text>Blackwood Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_DARROWMERE_LAKE_NAME" Language="en_US">
+			<Text>Darrowmere Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MERELDAR_NAME" Language="en_US">
+			<Text>Lake Mereldar</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_PESTILENT_SCAR_NAME" Language="en_US">
+			<Text>Pestilent Scar</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_WELLSPRING_LAKE_NAME" Language="en_US">
+			<Text>Wellspring Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ALAMETH_NAME" Language="en_US">
+			<Text>Lake Al'Ameth</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_FALLENSKY_NAME" Language="en_US">
+			<Text>Fallen Sky Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_FALATHIM_NAME" Language="en_US">
+			<Text>Lake Falathim</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MYSTRAL_LAKE_NAME" Language="en_US">
+			<Text>Mystral Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_ELUNEARA_NAME" Language="en_US">
+			<Text>Lake Elune'ara</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_ASHEN_LAKE_NAME" Language="en_US">
+			<Text>Ashen Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_EDUNEL_NAME" Language="en_US">
+			<Text>Lake Edunel</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_IRIS_LAKE_NAME" Language="en_US">
+			<Text>Iris Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_KELTHERIL_LAKE_NAME" Language="en_US">
+			<Text>Lake Kel'Theril</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_INDULE_NAME" Language="en_US">
+			<Text>Lake Indu'le</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_SILVERLINE_LAKE_NAME" Language="en_US">
+			<Text>Silverline Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_HELMS_BED_NAME" Language="en_US">
+			<Text>Helm's Bed</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_ICEFLOW_LAKE_NAME" Language="en_US">
+			<Text>Iceflow Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_THE_LOCH_NAME" Language="en_US">
+			<Text>The Loch</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LOCH_VERRALL_NAME" Language="en_US">
+			<Text>Loch Verrall</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ABASI_NAME" Language="en_US">
+			<Text>Lake Abasi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_VALORWIND_LAKE_NAME" Language="en_US">
+			<Text>Valorwind Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_STORMWIND_LAKE_NAME" Language="en_US">
+			<Text>Stormwind Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_CRYSTAL_LAKE_NAME" Language="en_US">
+			<Text>Crystal Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MIRROR_LAKE_NAME" Language="en_US">
+			<Text>Mirror Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_STONE_CAIRN_LAKE_NAME" Language="en_US">
+			<Text>Stone Cairn Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_EVERSTILL_NAME" Language="en_US">
+			<Text>Lake Everstill</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_ELRENDAR_NAME" Language="en_US">
+			<Text>Lake Elrendar</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_STONEBULL_LAKE_NAME" Language="en_US">
+			<Text>Stonebull Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_SHIMMERING_DEEP_NAME" Language="en_US">
+			<Text>Shimmering Deep</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_CRAGPOOL_LAKE_NAME" Language="en_US">
+			<Text>Cragpool Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MIRKFALLON_LAKE_NAME" Language="en_US">
+			<Text>Mirkfallon Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_JADEMIR_LAKE_NAME" Language="en_US">
+			<Text>Jademir Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_DUMONT_NAME" Language="en_US">
+			<Text>Lake Dumont</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_WILDWIND_LAKE_NAME" Language="en_US">
+			<Text>Wildwind Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MENNAR_NAME" Language="en_US">
+			<Text>Lake Mennar</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_NAZFERITI_NAME" Language="en_US">
+			<Text>Lake Nazferiti</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_RAGECLAW_LAKE_NAME" Language="en_US">
+			<Text>Rageclaw Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_DRAKMAR_LAKE_NAME" Language="en_US">
+			<Text>Drak'Mar Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_ASHWOOD_LAKE_NAME" Language="en_US">
+			<Text>Ashwood Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_CALDEMERE_LAKE_NAME" Language="en_US">
+			<Text>Caldemere Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_CAULDROS_NAME" Language="en_US">
+			<Text>Lake Cauldros</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_WINTERS_BREATH_LAKE_NAME" Language="en_US">
+			<Text>Winter's Breath Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_BITTERTIDE_LAKE_NAME" Language="en_US">
+			<Text>Bittertide Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_DECREPIT_FLOW_NAME" Language="en_US">
+			<Text>Decrepit Flow</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_FROSTFIELD_LAKE_NAME" Language="en_US">
+			<Text>Frostfield Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MIRROR_OF_DAWN_NAME" Language="en_US">
+			<Text>Mirror of Dawn</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_WINTERGRASP_NAME" Language="en_US">
+			<Text>Lake Wintergrasp</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MIRROR_OF_TWILIGHT_NAME" Language="en_US">
+			<Text>Mirror of Twilight</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_KUMUYA_NAME" Language="en_US">
+			<Text>Lake Kum'uya</Text>
+		</Row>
 		<!-- Thunder Peak-->
 		<!-- Natural Wonders-->
 		<Row Tag="LOC_FEATURE_BLACKROCK_MOUNTAIN_NAME" Language="en_US" >

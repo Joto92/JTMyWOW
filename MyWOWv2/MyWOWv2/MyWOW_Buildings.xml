@@ -104,6 +104,7 @@
 		<Row BuildingType="BUILDING_TOURNAMENT_GROUND" YieldType="YIELD_FAITH" YieldChange="1"/>
 		<Row BuildingType="BUILDING_GURUBASHI_ARENA" YieldType="YIELD_GOLD" YieldChange="2"/>
 		<Row BuildingType="BUILDING_GURUBASHI_ARENA" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row BuildingType="BUILDING_GURUBASHI_ARENA" YieldType="YIELD_CULTURE" YieldChange="1"/>
 		<Row BuildingType="BUILDING_DRAGON_NEST" YieldType="YIELD_FAITH" YieldChange="1"/>
 		<Row BuildingType="BUILDING_DEMONIC_PORTAL" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
 		<Row BuildingType="BUILDING_KITE_FACTORY" YieldType="YIELD_CULTURE" YieldChange="1"/>

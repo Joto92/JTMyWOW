@@ -407,6 +407,9 @@
 		<Replace Tag="LOC_BUILDING_ALTAR_OF_KINGS_DESCRIPTION" Language="es_ES">
 			<Text>Edifició único de Ventormenta que remplaza el Monumento. Da 3 de Cultura [ICON_Culture], 1 Fe [ICON_Faith] y 1 Producción [ICON_Production].</Text>
 		</Replace>
+		<Replace Tag="LOC_BUILDING_ALTAR_OF_KINGS_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>Edifició único de Ventormenta que remplaza el Monumento. Da 3 de Cultura [ICON_Culture], 1 Fe [ICON_Faith] y 1 Producción [ICON_Production]. Proporciona +1 de Lealtad por turno en esta ciudad. Si la ciudad ya tiene la Lealtad al máximo, también proporciona +1 de Cultura [ICON_Culture] adicional.</Text>
+		</Replace>
 		<Replace Tag="LOC_BUILDING_GRYPHON_NEST_NAME" Language="es_ES">
 			<Text>Nido de Grifos</Text>
 		</Replace>
@@ -482,6 +485,9 @@
 		</Replace>
 		<Replace Tag="LOC_BUILDING_DWARF_BUNKER_DESCRIPTION" Language="es_ES">
 			<Text>Edificio único de los Enanos remplaza los Barracones. +40% de experiencia de combate para todas las unidades terrestres entrenadas en esta ciudad. Da 2 de Producción [ICON_Production], 2 Puntos para Grandes Generales y 1 de Alojamiento. La unidad ocupante recibe +2 a la Fuerza de defensa [ICON_Strength] y obtiene automáticamente 2 turnos de fortificación. Añade dos huecos aereos.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DWARF_BUNKER_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de los Enanos remplaza los Barracones. +40% de experiencia de combate para todas las unidades terrestres entrenadas en esta ciudad. Da 2 de Producción [ICON_Production], 2 Puntos para Grandes Generales y 1 de Alojamiento. La unidad ocupante recibe +2 a la Fuerza de defensa [ICON_Strength] y obtiene automáticamente 2 turnos de fortificación. Añade dos huecos aereos. [NEWLINE]Las reservas de recursos estratégicos aumentan en +10 (a velocidad normal).[NEWLINE][NEWLINE]No se puede construir en un distrito de Campamento que ya tenga un Establo.</Text>
 		</Replace>
 		<!-- IRONFORGE | MURADIN_BRONZEBEARD -->
 		<!-- NIGHT ELVES | TYRANDE_WHISPERWIND -->
@@ -891,7 +897,7 @@
 			<Text>Arena Gurubashi</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_GURUBASHI_ARENA_DESCRIPTION" Language="es_ES">
-			<Text>Edifició único de los Trolls Gurubashi que remplaza la Arena. Da 3 de Entretenimiento , 2 [ICON_Gold] Oro y 1 [ICON_Production] Producción.</Text>
+			<Text>Edifició único de los Trolls Gurubashi que remplaza la Arena. Da 3 de Entretenimiento , 2 [ICON_Gold] Oro, 1 [ICON_Culture] Cultura y 1 [ICON_Production] Producción.</Text>
 		</Replace>
 		<!-- END OF GURUBASHI | JIN'DO -->
 		<!-- DRAKKARI | MALAKK -->
@@ -1482,6 +1488,9 @@
 		</Replace>
 		<Replace Tag="LOC_BUILDING_DEMONIC_PORTAL_DESCRIPTION" Language="es_ES">
 			<Text>Edificio único de la Legion Ardiente remplaza los Barracones. +40% de experiencia de combate para todas las unidades terrestres entrenadas en esta ciudad. Da 2 de Producción [ICON_Production], 2 Puntos para Grandes Generales y 1 de Alojamiento. Añade dos huecos aereos.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DEMONIC_PORTAL_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de la Legion Ardiente remplaza los Barracones. +40% de experiencia de combate para todas las unidades terrestres entrenadas en esta ciudad. Da 2 de Producción [ICON_Production], 2 Puntos para Grandes Generales y 1 de Alojamiento. Añade dos huecos aereos. [NEWLINE]Las reservas de recursos estratégicos aumentan en +10 (a velocidad normal).[NEWLINE][NEWLINE]No se puede construir en un distrito de Campamento que ya tenga un Establo.</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_KITE_FACTORY_NAME" Language="es_ES">
 			<Text>Fabrica de Cometas</Text>
