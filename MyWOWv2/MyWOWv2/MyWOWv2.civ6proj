@@ -20,13 +20,18 @@
           <File>MyWOW_Buildings.xml</File>
           <File>MyWOW_Units.xml</File>
           <File>MyWOW_UnitAbilities.xml</File>
-          <File>MyWOW_Colors.xml</File>
           <File>MyWOW_Improvements.xml</File>
           <File>MyWOW_Religions.xml</File>
           <File>MyWOW_CityStates.xml</File>
           <File>MyWOW_Wonders.xml</File>
         </UpdateDatabase>
+        <UpdateColors id="PlayerColors">
+          <File>MyWOW_Colors.xml</File>
+        </UpdateColors>
         <UpdateDatabase id="UsingExpansion2">
+          <Properties>
+            <LoadOrder>401</LoadOrder>
+          </Properties>
           <Criteria>Expansion2</Criteria>
           <File>MyWOW_Expansion2_New.xml</File>
         </UpdateDatabase>
@@ -46,6 +51,12 @@
         <UpdateIcons id="Icons">
           <File>MyWOW_Icons.xml</File>
         </UpdateIcons>
+        <UpdateIcons id="IconsExpansion2">
+          <Criteria>Expansion2</Criteria>
+          <Properties>
+            <LoadOrder>401</LoadOrder>
+          </Properties>
+        </UpdateIcons>
         <UpdateArt id="Art">
           <File>(Mod Art Dependency File)</File>
         </UpdateArt>
@@ -60,8 +71,17 @@
           <File>Translations/MyWOW_ConfigES.xml</File>
           <File>Translations/MyWOW_ConfigHansCN.xml</File>
         </UpdateText>
+        <UpdateColors id="PlayerColors">
+          <File>MyWOW_Colors.xml</File>
+        </UpdateColors>
         <UpdateIcons id="ConfigIcons">
           <File>MyWOW_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateIcons id="IconsExpansion2">
+          <Criteria>Expansion2</Criteria>
+          <Properties>
+            <LoadOrder>401</LoadOrder>
+          </Properties>
         </UpdateIcons>
         <UpdateArt id="ConfigArt">
           <File>(Mod Art Dependency File)</File>
